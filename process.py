@@ -3,6 +3,7 @@ import csv
 import json
 import requests
 import xml.etree.ElementTree as ET
+from xml.dom import minidom
 from io import StringIO
 
 with open("mapping.json", encoding="utf-8") as f:
@@ -39,6 +40,7 @@ def parse_akord(url):
         raw_cats = row.get("Categories", "")
         cats = [c.strip() for c in raw_cats.split(";") if c.strip()]
         mapped = map_category("akord", cats[0]) if cats else "Без категорії"
+        images = [i.strip() for i in row.get("Images", "").split(",") if i.strip()]
         products.append({
             "source": "akord",
             "id": row.get("ID", ""),
@@ -47,9 +49,9 @@ def parse_akord(url):
             "price": row.get("Price", ""),
             "currency": "UAH",
             "category": mapped,
-            "images": row.get("Images", ""),
+            "images": images,
             "description": row.get("ShortDescription", ""),
-            "available": row.get("IsAvailable", ""),
+            "available": row.get("IsAvailable", "") == "Available",
             "vendor": row.get("Vendor", ""),
         })
     return products
@@ -62,6 +64,8 @@ def parse_woodman(url):
     for row in reader:
         cat_raw = row.get("categories", "").strip().lower()
         mapped = map_category("woodman", cat_raw)
+        photo = row.get("photo", "").strip()
+        images = [photo] if photo else []
         products.append({
             "source": "woodman",
             "id": row.get("sku", ""),
@@ -70,9 +74,9 @@ def parse_woodman(url):
             "price": row.get("rrp_price", "").replace(",", ""),
             "currency": "UAH",
             "category": mapped,
-            "images": row.get("photo", ""),
+            "images": images,
             "description": row.get("description", ""),
-            "available": "Available",
+            "available": True,
             "vendor": "Woodman",
         })
     return products
@@ -86,21 +90,19 @@ def parse_vetro(url):
     for offer in offers:
         cat_id = offer.findtext("categoryId", "").strip()
         mapped = map_category("vetro", cat_id)
-        name_el = offer.find("name")
-        price_el = offer.find("price")
         pics = [p.text for p in offer.findall("picture") if p.text]
         desc_el = offer.find("description")
         products.append({
             "source": "vetro",
             "id": offer.get("id", ""),
             "sku": offer.findtext("vendorCode", offer.get("id", "")),
-            "name": name_el.text if name_el is not None else "",
-            "price": price_el.text if price_el is not None else "",
+            "name": offer.findtext("name", ""),
+            "price": offer.findtext("price", ""),
             "currency": "UAH",
             "category": mapped,
-            "images": "; ".join(pics),
+            "images": pics,
             "description": desc_el.text if desc_el is not None else "",
-            "available": "Available" if offer.get("available") == "true" else "Unavailable",
+            "available": offer.get("available") == "true",
             "vendor": offer.findtext("vendor", "Vetro"),
         })
     return products
@@ -113,22 +115,43 @@ def parse_comefor(url):
     for item in items:
         cat_id = item.findtext("categoryId", "").strip()
         mapped = map_category("comefor", cat_id)
-        price_text = item.findtext("priceuah", "0")
         pics = [p.text for p in item.findall("picture") if p.text]
         products.append({
             "source": "comefor",
             "id": item.findtext("id", ""),
             "sku": item.findtext("sku", ""),
             "name": item.findtext("name", ""),
-            "price": price_text,
+            "price": item.findtext("priceuah", "0"),
             "currency": "UAH",
             "category": mapped,
-            "images": "; ".join(pics),
+            "images": pics,
             "description": "",
-            "available": "Available" if item.findtext("stock", "") == "В наличии" else "Unavailable",
+            "available": item.findtext("stock", "") == "В наличии",
             "vendor": "Come-For",
         })
     return products
+
+def build_xml(products):
+    catalog = ET.Element("catalog")
+
+    for p in products:
+        item = ET.SubElement(catalog, "item")
+        ET.SubElement(item, "id").text = str(p["id"])
+        ET.SubElement(item, "sku").text = str(p["sku"])
+        ET.SubElement(item, "name").text = str(p["name"])
+        ET.SubElement(item, "price").text = str(p["price"])
+        ET.SubElement(item, "currency").text = p["currency"]
+        ET.SubElement(item, "category").text = p["category"]
+        ET.SubElement(item, "vendor").text = str(p["vendor"])
+        ET.SubElement(item, "available").text = "true" if p["available"] else "false"
+        ET.SubElement(item, "description").text = str(p["description"] or "")
+        images_el = ET.SubElement(item, "images")
+        for img in p["images"]:
+            ET.SubElement(images_el, "image").text = img
+
+    raw = ET.tostring(catalog, encoding="unicode")
+    parsed = minidom.parseString(raw)
+    return parsed.toprettyxml(indent="  ", encoding="utf-8").decode("utf-8")
 
 def main():
     print("Завантажую Акорд...")
@@ -150,14 +173,13 @@ def main():
     all_products = akord + woodman + vetro + comefor
     print(f"\nВсього товарів: {len(all_products)}")
 
-    fields = ["source","id","sku","name","price","currency","category","images","description","available","vendor"]
-    with open("output/feed.csv", "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fields)
-        writer.writeheader()
-        writer.writerows(all_products)
+    os.makedirs("output", exist_ok=True)
 
-    print("Готово → output/feed.csv")
+    xml_content = build_xml(all_products)
+    with open("output/feed.xml", "w", encoding="utf-8") as f:
+        f.write(xml_content)
+
+    print("Готово → output/feed.xml")
 
 if __name__ == "__main__":
-    os.makedirs("output", exist_ok=True)
     main()
