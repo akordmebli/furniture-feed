@@ -24,7 +24,7 @@ def map_category(source, cat):
     if not mapped:
         with open("unmapped.log", "a", encoding="utf-8") as f:
             f.write(f"{source}: {cat}\n")
-        return "Без категорії"
+        return "Р‘РµР· РєР°С‚РµРіРѕСЂС–С—"
     return mapped
 
 def parse_akord(url):
@@ -39,7 +39,7 @@ def parse_akord(url):
         seen.add(sku)
         raw_cats = row.get("Categories", "")
         cats = [c.strip() for c in raw_cats.split(";") if c.strip()]
-        mapped = map_category("akord", cats[0]) if cats else "Без категорії"
+        mapped = map_category("akord", cats[0]) if cats else "Р‘РµР· РєР°С‚РµРіРѕСЂС–С—"
         images = [i.strip() for i in row.get("Images", "").split(",") if i.strip()]
         products.append({
             "source": "akord",
@@ -126,7 +126,7 @@ def parse_comefor(url):
             "category": mapped,
             "images": pics,
             "description": "",
-            "available": item.findtext("stock", "") == "В наличии",
+            "available": item.findtext("stock", "") == "Р’ РЅР°Р»РёС‡РёРё",
             "vendor": "Come-For",
         })
     return products
@@ -154,24 +154,24 @@ def build_xml(products):
     return parsed.toprettyxml(indent="  ", encoding="utf-8").decode("utf-8")
 
 def main():
-    print("Завантажую Акорд...")
+    print("Р—Р°РІР°РЅС‚Р°Р¶СѓСЋ РђРєРѕСЂРґ...")
     akord = parse_akord(AKORD_URL)
-    print(f"  {len(akord)} товарів")
+    print(f"  {len(akord)} С‚РѕРІР°СЂС–РІ")
 
-    print("Завантажую Woodman...")
+    print("Р—Р°РІР°РЅС‚Р°Р¶СѓСЋ Woodman...")
     woodman = parse_woodman(WOODMAN_URL)
-    print(f"  {len(woodman)} товарів")
+    print(f"  {len(woodman)} С‚РѕРІР°СЂС–РІ")
 
-    print("Завантажую Vetro...")
+    print("Р—Р°РІР°РЅС‚Р°Р¶СѓСЋ Vetro...")
     vetro = parse_vetro(VETRO_URL)
-    print(f"  {len(vetro)} товарів")
+    print(f"  {len(vetro)} С‚РѕРІР°СЂС–РІ")
 
-    print("Завантажую Come-For...")
+    print("Р—Р°РІР°РЅС‚Р°Р¶СѓСЋ Come-For...")
     comefor = parse_comefor(COMEFOR_URL)
-    print(f"  {len(comefor)} товарів")
+    print(f"  {len(comefor)} С‚РѕРІР°СЂС–РІ")
 
     all_products = akord + woodman + vetro + comefor
-    print(f"\nВсього товарів: {len(all_products)}")
+    print(f"\nР’СЃСЊРѕРіРѕ С‚РѕРІР°СЂС–РІ: {len(all_products)}")
 
     os.makedirs("output", exist_ok=True)
 
@@ -179,7 +179,7 @@ def main():
     with open("output/feed.xml", "w", encoding="utf-8") as f:
         f.write(xml_content)
 
-    print("Готово → output/feed.xml")
+    print("Р“РѕС‚РѕРІРѕ в†’ output/feed.xml")
 
 if __name__ == "__main__":
     main()
