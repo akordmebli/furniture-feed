@@ -1,0 +1,44 @@
+name: Daily feed update
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        env:
+          AKORD_CSV: ${{ secrets.AKORD_CSV }}
+          WOODMAN_CSV: ${{ secrets.WOODMAN_CSV }}
+          VETRO_XML: ${{ secrets.VETRO_XML }}
+          COMEFOR_XML: ${{ secrets.COMEFOR_XML }}
+        run: python process.py
+
+      - name: Upload feed
+        uses: actions/upload-artifact@v4
+        with:
+          name: feed
+          path: output/feed.csv
+          retention-days: 7
+
+      - name: Commit feed to repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add output/feed.csv
+          git diff --staged --quiet || git commit -m "Feed update $(date +'%Y-%m-%d')"
+          git push
