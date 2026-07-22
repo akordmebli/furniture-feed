@@ -82,12 +82,13 @@ def map_category(source, cat):
     return mapped
 
 def parse_akord(url):
+    """Новий парсер — читає файл з усіма Option колонками як є"""
     products = []
     text = fetch_text(url)
     reader = csv.DictReader(StringIO(text))
     seen = set()
     for row in reader:
-        sku = row.get("Sku", "").strip()
+        sku = str(row.get("Sku", "")).strip()
         if sku in seen:
             continue
         seen.add(sku)
@@ -95,14 +96,33 @@ def parse_akord(url):
         cats = [c.strip() for c in raw_cats.split(";") if c.strip()]
         mapped = map_category("akord", cats[0]) if cats else "Без категорії"
         images = [i.strip() for i in row.get("Images", "").split(",") if i.strip()]
+
+        # Збираємо всі Option поля
+        options = {}
+        for i in range(1, 16):
+            options[f"Option{i} Name"] = row.get(f"Option{i} Name", "")
+        for i in range(1, 16):
+            options[f"Option{i} Value"] = row.get(f"Option{i} Value", "")
+
         products.append({
-            "source": "akord", "id": row.get("ID", ""), "sku": sku,
-            "name": row.get("Name", ""), "price": clean_price(row.get("Price", "")),
-            "currency": "UAH", "category": mapped,
-            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "Furniture"),
-            "images": images, "description": row.get("ShortDescription", ""),
+            "source": "akord",
+            "id": row.get("ID", ""),
+            "sku": sku,
+            "name": row.get("Name", ""),
+            "price": clean_price(row.get("Price", "")),
+            "currency": "UAH",
+            "category": mapped,
+            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
+            "images": images,
+            "description": row.get("ShortDescription", ""),
             "available": row.get("IsAvailable", "") == "Available",
             "vendor": row.get("Vendor", ""),
+            "options": options,
+            # Розмірні поля
+            "vysota": row.get("Висота, см", ""),
+            "dovzhyna": row.get("Довжина, см", ""),
+            "glybyna": row.get("Глибина сидіння, см", ""),
+            "shyryna": row.get("Ширина, см", ""),
         })
     return products
 
@@ -119,9 +139,10 @@ def parse_woodman(url):
             "source": "woodman", "id": row.get("sku", ""), "sku": row.get("sku", ""),
             "name": row.get("name", ""), "price": clean_price(row.get("rrp_price", "")),
             "currency": "UAH", "category": mapped,
-            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "Furniture"),
+            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
             "images": [photo] if photo else [], "description": row.get("description", ""),
-            "available": True, "vendor": "Woodman",
+            "available": True, "vendor": "Woodman", "options": {}, 
+            "vysota": "", "dovzhyna": "", "glybyna": "", "shyryna": "",
         })
     return products
 
@@ -141,10 +162,11 @@ def parse_vetro(url):
             "sku": offer.findtext("vendorCode", offer.get("id", "")),
             "name": offer.findtext("name", ""), "price": clean_price(offer.findtext("price", "")),
             "currency": "UAH", "category": mapped,
-            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "Furniture"),
+            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
             "images": pics, "description": desc_el.text if desc_el is not None else "",
             "available": offer.get("available") == "true",
-            "vendor": offer.findtext("vendor", "Vetro"),
+            "vendor": offer.findtext("vendor", "Vetro"), "options": {},
+            "vysota": "", "dovzhyna": "", "glybyna": "", "shyryna": "",
         })
     return products
 
@@ -162,10 +184,11 @@ def parse_comefor(url):
             "sku": item.findtext("sku", ""), "name": item.findtext("name", ""),
             "price": clean_price(item.findtext("priceuah", "0")),
             "currency": "UAH", "category": mapped,
-            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "Furniture"),
+            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
             "images": pics, "description": "",
             "available": item.findtext("stock", "") == "В наличии",
-            "vendor": "Come-For",
+            "vendor": "Come-For", "options": {},
+            "vysota": "", "dovzhyna": "", "glybyna": "", "shyryna": "",
         })
     return products
 
@@ -183,6 +206,23 @@ def build_xml(products):
         ET.SubElement(item, "vendor").text = str(p["vendor"])
         ET.SubElement(item, "available").text = "true" if p["available"] else "false"
         ET.SubElement(item, "description").text = str(p["description"] or "")
+        # Розміри
+        ET.SubElement(item, "vysota").text = str(p.get("vysota", "") or "")
+        ET.SubElement(item, "dovzhyna").text = str(p.get("dovzhyna", "") or "")
+        ET.SubElement(item, "glybyna").text = str(p.get("glybyna", "") or "")
+        ET.SubElement(item, "shyryna").text = str(p.get("shyryna", "") or "")
+        # Options
+        options = p.get("options", {})
+        if options:
+            opts_el = ET.SubElement(item, "options")
+            for i in range(1, 16):
+                name_val = str(options.get(f"Option{i} Name", "") or "")
+                value_val = str(options.get(f"Option{i} Value", "") or "")
+                if name_val:
+                    opt = ET.SubElement(opts_el, f"option{i}")
+                    ET.SubElement(opt, "name").text = name_val
+                    ET.SubElement(opt, "value").text = value_val
+        # Images
         images_el = ET.SubElement(item, "images")
         for img in p["images"]:
             ET.SubElement(images_el, "image").text = img
