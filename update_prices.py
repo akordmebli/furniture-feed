@@ -1,22 +1,165 @@
-name: Update variant prices
+import os
+import csv
+import requests
+import time
+from io import StringIO
 
-on:
-  workflow_dispatch:
+SHOPIFY_DOMAIN = os.environ["SHOPIFY_DOMAIN"]
+SHOPIFY_TOKEN = os.environ["SHOPIFY_TOKEN"]
+AKORD_CSV = os.environ["AKORD_CSV"]
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Install dependencies
-        run: pip install requests
-      - name: Run price updater
-        env:
-          SHOPIFY_DOMAIN: ${{ secrets.SHOPIFY_DOMAIN }}
-          SHOPIFY_TOKEN: ${{ secrets.SHOPIFY_TOKEN }}
-          AKORD_CSV: ${{ secrets.AKORD_CSV }}
-        run: python update_prices.py
+HEADERS = {
+    "X-Shopify-Access-Token": SHOPIFY_TOKEN,
+    "Content-Type": "application/json",
+}
+API_URL = f"https://{SHOPIFY_DOMAIN}/admin/api/2024-01/graphql.json"
+
+def graphql(query, variables=None):
+    r = requests.post(API_URL, headers=HEADERS, json={"query": query, "variables": variables or {}})
+    r.raise_for_status()
+    return r.json()
+
+def get_all_products():
+    """Завантажуємо всі товари з варіантами"""
+    products = {}
+    cursor = None
+    while True:
+        after = f', after: "{cursor}"' if cursor else ""
+        query = f"""
+        {{
+          products(first: 50{after}, query: "vendor:ВНД") {{
+            edges {{
+              node {{
+                id
+                title
+                variants(first: 100) {{
+                  edges {{
+                    node {{
+                      id
+                      title
+                      price
+                    }}
+                  }}
+                }}
+              }}
+              cursor
+            }}
+            pageInfo {{ hasNextPage }}
+          }}
+        }}
+        """
+        data = graphql(query)
+        edges = data["data"]["products"]["edges"]
+        for edge in edges:
+            product = edge["node"]
+            title = product["title"]
+            products[title] = {}
+            for v in product["variants"]["edges"]:
+                variant = v["node"]
+                products[title][variant["title"]] = {
+                    "id": variant["id"],
+                    "current_price": variant["price"]
+                }
+            cursor = edge["cursor"]
+        if not data["data"]["products"]["pageInfo"]["hasNextPage"]:
+            break
+        time.sleep(0.5)
+    return products
+
+def load_prices():
+    """Завантажуємо ціни з CSV"""
+    r = requests.get(AKORD_CSV, timeout=30)
+    r.encoding = "utf-8"
+    reader = csv.DictReader(StringIO(r.text))
+    prices = {}
+    for row in reader:
+        name = row.get("Name", "").strip()
+        fabric = row.get("fabric", "").strip()
+        leg_color = row.get("leg_color", "").strip()
+        frame_color = row.get("frame_color", "").strip()
+        sleep_size = row.get("sleep_size", "").strip()
+        dimensions = row.get("dimensions", "").strip()
+        tabletop_size = row.get("tabletop_size", "").strip()
+        price = str(row.get("variant_price", "0")).strip().replace(",", "")
+
+        # Будуємо ключ варіанту як в Shopify (через " / ")
+        parts = [p for p in [fabric, leg_color, frame_color, sleep_size, dimensions, tabletop_size] if p]
+        variant_key = " / ".join(parts) if parts else fabric
+
+        if name not in prices:
+            prices[name] = {}
+        if variant_key and price and price != "0":
+            prices[name][variant_key] = price
+
+    return prices
+
+def update_variant_price(variant_id, price):
+    mutation = """
+    mutation productVariantUpdate($input: ProductVariantInput!) {
+      productVariantUpdate(input: $input) {
+        productVariant { id price }
+        userErrors { field message }
+      }
+    }
+    """
+    variables = {"input": {"id": variant_id, "price": price}}
+    result = graphql(mutation, variables)
+    errors = result.get("data", {}).get("productVariantUpdate", {}).get("userErrors", [])
+    if errors:
+        print(f"  Помилка: {errors}")
+        return False
+    return True
+
+def main():
+    print("Завантажую товари з Shopify...")
+    products = get_all_products()
+    print(f"Знайдено товарів: {len(products)}")
+
+    print("Завантажую ціни з CSV...")
+    prices = load_prices()
+    print(f"Товарів з цінами: {len(prices)}")
+
+    updated = 0
+    skipped = 0
+    errors = 0
+
+    for product_title, variants in products.items():
+        if product_title not in prices:
+            print(f"Пропускаємо (немає в CSV): {product_title}")
+            skipped += 1
+            continue
+
+        product_prices = prices[product_title]
+
+        for variant_title, variant_data in variants.items():
+            variant_id = variant_data["id"]
+            current_price = variant_data["current_price"]
+
+            # Шукаємо ціну по першому елементу варіанту (категорія тканини)
+            fabric = variant_title.split(" / ")[0] if " / " in variant_title else variant_title
+
+            # Пробуємо знайти точний збіг спочатку
+            new_price = None
+            for key, p in product_prices.items():
+                key_fabric = key.split(" / ")[0] if " / " in key else key
+                if key_fabric == fabric:
+                    new_price = p
+                    break
+
+            if not new_price:
+                continue
+
+            if current_price == new_price:
+                continue
+
+            print(f"  {product_title} / {variant_title}: {current_price} → {new_price}")
+            if update_variant_price(variant_id, new_price):
+                updated += 1
+            else:
+                errors += 1
+            time.sleep(0.3)  # Rate limiting
+
+    print(f"\nГотово! Оновлено: {updated}, Пропущено: {skipped}, Помилок: {errors}")
+
+if __name__ == "__main__":
+    main()
