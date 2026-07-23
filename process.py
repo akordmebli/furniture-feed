@@ -10,50 +10,50 @@ with open("mapping.json", encoding="utf-8") as f:
     MAPPING = json.load(f)
 
 SHOPIFY_TAXONOMY = {
-    "Дивани / Прямі дивани": "gid://shopify/TaxonomyCategory/fr-22",
-    "Дивани / Кутові дивани": "gid://shopify/TaxonomyCategory/fr-22-3",
-    "Дивани / Модульні дивани": "gid://shopify/TaxonomyCategory/fr-22-6",
-    "Дивани / Розкладні дивани": "gid://shopify/TaxonomyCategory/fr-22-7",
-    "Дивани / Нерозкладні дивани": "gid://shopify/TaxonomyCategory/fr-22",
-    "Дивани / Офісні дивани": "gid://shopify/TaxonomyCategory/fr-22",
-    "Ліжка / Двоспальні ліжка": "gid://shopify/TaxonomyCategory/fr-2-2",
-    "Ліжка / Односпальні ліжка": "gid://shopify/TaxonomyCategory/fr-2-2",
-    "Ліжка / М'які ліжка": "gid://shopify/TaxonomyCategory/fr-2-2",
-    "Ліжка / Дерев'яні ліжка": "gid://shopify/TaxonomyCategory/fr-2-2",
-    "Ліжка / Дитячі ліжка": "gid://shopify/TaxonomyCategory/fr-1-6",
-    "Ліжка / Півтораспальні ліжка": "gid://shopify/TaxonomyCategory/fr-2-2",
-    "Ліжка / Кутові ліжка": "gid://shopify/TaxonomyCategory/fr-2-2",
-    "Матраци та аксесуари для сну / Безпружинні матраци": "gid://shopify/TaxonomyCategory/fr-2-6",
-    "Матраци та аксесуари для сну / Матраци Pocket Spring": "gid://shopify/TaxonomyCategory/fr-2-6-3",
-    "Матраци та аксесуари для сну / Матраци Боннель": "gid://shopify/TaxonomyCategory/fr-2-6-3",
-    "Матраци та аксесуари для сну / Матраци в дитячі ліжка": "gid://shopify/TaxonomyCategory/fr-2-6-8",
-    "Матраци та аксесуари для сну / Матраци на диван": "gid://shopify/TaxonomyCategory/fr-2-6",
-    "Матраци та аксесуари для сну / Наматрасники": "gid://shopify/TaxonomyCategory/hg-15-1-12",
-    "Матраци та аксесуари для сну / Подушки": "gid://shopify/TaxonomyCategory/hg-15-1-9",
-    "Матраци та аксесуари для сну / Ковдри": "gid://shopify/TaxonomyCategory/hg-15-1-4",
-    "Крісла / М'які крісла": "gid://shopify/TaxonomyCategory/fr-7-1",
-    "Крісла / Обідні крісла": "gid://shopify/TaxonomyCategory/fr-7-9",
-    "Столи / Журнальні столики і консолі": "gid://shopify/TaxonomyCategory/fr-24-1",
-    "Столи / Обідні столи": "gid://shopify/TaxonomyCategory/fr-24-4",
-    "Стільці / Обідні стільці": "gid://shopify/TaxonomyCategory/fr-7-9",
-    "Стільці / Барні стільці": "gid://shopify/TaxonomyCategory/fr-7-12",
-    "Стільці / Напівбарні стільці": "gid://shopify/TaxonomyCategory/fr-7-12",
-    "Стільці / Стільці з підлокітниками": "gid://shopify/TaxonomyCategory/fr-7-1",
-    "Пуфи та лавки / Пуфи": "gid://shopify/TaxonomyCategory/fr-14",
-    "Пуфи та лавки / Столики-пуфи": "gid://shopify/TaxonomyCategory/fr-14",
-    "Пуфи та лавки / Лавки": "gid://shopify/TaxonomyCategory/fr-3",
-    "Тумби та зберігання / Тумбочки": "gid://shopify/TaxonomyCategory/fr-24-6",
-    "Тумби та зберігання / Приліжкові тумби": "gid://shopify/TaxonomyCategory/fr-24-6",
-    "Тумби та зберігання / Комоди": "gid://shopify/TaxonomyCategory/fr-4-5",
-    "Садові та вуличні меблі / Садові меблі": "gid://shopify/TaxonomyCategory/fr-15-2",
-    "Садові та вуличні меблі / Шезлонги": "gid://shopify/TaxonomyCategory/fr-15-4-5",
-    "Садові та вуличні меблі / Вуличні дивани": "gid://shopify/TaxonomyCategory/fr-15-4-4",
-    "Садові та вуличні меблі / Крісла на вулицю": "gid://shopify/TaxonomyCategory/fr-15-4-2",
-    "Меблі для закладів / Дивани": "gid://shopify/TaxonomyCategory/fr-22",
-    "Меблі для закладів / Крісла": "gid://shopify/TaxonomyCategory/fr-7-1",
-    "Меблі для закладів / Пуфи": "gid://shopify/TaxonomyCategory/fr-14",
-    "Меблі для закладів / Лавки": "gid://shopify/TaxonomyCategory/fr-3",
-    "Без категорії": "gid://shopify/TaxonomyCategory/fr",
+    "Дивани / Прямі дивани": "fr-22",
+    "Дивани / Кутові дивани": "fr-22-3",
+    "Дивани / Модульні дивани": "fr-22-6",
+    "Дивани / Розкладні дивани": "fr-22-7",
+    "Дивани / Нерозкладні дивани": "fr-22",
+    "Дивани / Офісні дивани": "fr-22",
+    "Ліжка / Двоспальні ліжка": "fr-2-2",
+    "Ліжка / Односпальні ліжка": "fr-2-2",
+    "Ліжка / М'які ліжка": "fr-2-2",
+    "Ліжка / Дерев'яні ліжка": "fr-2-2",
+    "Ліжка / Дитячі ліжка": "fr-1-6",
+    "Ліжка / Півтораспальні ліжка": "fr-2-2",
+    "Ліжка / Кутові ліжка": "fr-2-2",
+    "Матраци та аксесуари для сну / Безпружинні матраци": "fr-2-6",
+    "Матраци та аксесуари для сну / Матраци Pocket Spring": "fr-2-6-3",
+    "Матраци та аксесуари для сну / Матраци Боннель": "fr-2-6-3",
+    "Матраци та аксесуари для сну / Матраци в дитячі ліжка": "fr-2-6-8",
+    "Матраци та аксесуари для сну / Матраци на диван": "fr-2-6",
+    "Матраци та аксесуари для сну / Наматрасники": "hg-15-1-12",
+    "Матраци та аксесуари для сну / Подушки": "hg-15-1-9",
+    "Матраци та аксесуари для сну / Ковдри": "hg-15-1-4",
+    "Крісла / М'які крісла": "fr-7-1",
+    "Крісла / Обідні крісла": "fr-7-9",
+    "Столи / Журнальні столики і консолі": "fr-24-1",
+    "Столи / Обідні столи": "fr-24-4",
+    "Стільці / Обідні стільці": "fr-7-9",
+    "Стільці / Барні стільці": "fr-7-12",
+    "Стільці / Напівбарні стільці": "fr-7-12",
+    "Стільці / Стільці з підлокітниками": "fr-7-1",
+    "Пуфи та лавки / Пуфи": "fr-14",
+    "Пуфи та лавки / Столики-пуфи": "fr-14",
+    "Пуфи та лавки / Лавки": "fr-3",
+    "Тумби та зберігання / Тумбочки": "fr-24-6",
+    "Тумби та зберігання / Приліжкові тумби": "fr-24-6",
+    "Тумби та зберігання / Комоди": "fr-4-5",
+    "Садові та вуличні меблі / Садові меблі": "fr-15-2",
+    "Садові та вуличні меблі / Шезлонги": "fr-15-4-5",
+    "Садові та вуличні меблі / Вуличні дивани": "fr-15-4-4",
+    "Садові та вуличні меблі / Крісла на вулицю": "fr-15-4-2",
+    "Меблі для закладів / Дивани": "fr-22",
+    "Меблі для закладів / Крісла": "fr-7-1",
+    "Меблі для закладів / Пуфи": "fr-14",
+    "Меблі для закладів / Лавки": "fr-3",
+    "Без категорії": "fr",
 }
 
 OPT_TAGS = ['fabric', 'leg_color', 'frame_color', 'sleep_size', 'mechanism',
@@ -99,14 +99,14 @@ def parse_akord(url):
         seen.add(sku)
 
         # Зображення
-        images_raw = row.get("Images", "") or ""
+        images_raw = row.get("variant_image", "") or row.get("Images", "") or ""
         images = [i.strip() for i in images_raw.split(",") if i.strip()]
 
         # Категорія — вже є в файлі
         category = str(row.get("category", "") or "").strip() or "Без категорії"
         shopify_cat = str(row.get("shopify_category", "") or "").strip()
         if not shopify_cat:
-            shopify_cat = SHOPIFY_TAXONOMY.get(category, "gid://shopify/TaxonomyCategory/fr")
+            shopify_cat = SHOPIFY_TAXONOMY.get(category, "fr")
 
         # Плоскі option поля
         opts = {}
@@ -119,7 +119,7 @@ def parse_akord(url):
             "source": "akord",
             "sku": sku,
             "name": row.get("Name", ""),
-            "price": clean_price(row.get("Price", "")),
+            "price": clean_price(row.get("variant_price", "") or row.get("Price", "")),
             "category": category,
             "shopify_category": shopify_cat,
             "images": images,
@@ -149,7 +149,7 @@ def parse_woodman(url):
             "name": row.get("name", ""),
             "price": clean_price(row.get("rrp_price", "")),
             "category": mapped,
-            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
+            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "fr"),
             "images": [photo] if photo else [],
             "description": row.get("description", ""),
             "available": True, "vendor": "Woodman",
@@ -175,7 +175,7 @@ def parse_vetro(url):
             "name": offer.findtext("name", ""),
             "price": clean_price(offer.findtext("price", "")),
             "category": mapped,
-            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
+            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "fr"),
             "images": pics,
             "description": desc_el.text if desc_el is not None else "",
             "available": offer.get("available") == "true",
@@ -200,7 +200,7 @@ def parse_comefor(url):
             "name": item.findtext("name", ""),
             "price": clean_price(item.findtext("priceuah", "0")),
             "category": mapped,
-            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
+            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "fr"),
             "images": pics, "description": "",
             "available": item.findtext("stock", "") == "В наличии",
             "vendor": "Come-For",
@@ -216,10 +216,10 @@ def build_xml(products):
         item = ET.SubElement(catalog, "item")
         ET.SubElement(item, "sku").text = str(p["sku"])
         ET.SubElement(item, "name").text = str(p["name"])
-        ET.SubElement(item, "price").text = str(p["price"])
+        ET.SubElement(item, "variant_price").text = str(p["price"])
         ET.SubElement(item, "vendor").text = str(p["vendor"])
         ET.SubElement(item, "category").text = p["category"]
-        ET.SubElement(item, "shopify_category").text = p["shopify_category"]
+        ET.SubElement(item, "shopify_id").text = p["shopify_category"]
         ET.SubElement(item, "available").text = "true" if p["available"] else "false"
         ET.SubElement(item, "instock").text = str(p.get("instock", "") or "")
         ET.SubElement(item, "barcode").text = str(p.get("barcode", "") or "")
@@ -229,6 +229,8 @@ def build_xml(products):
         ET.SubElement(item, "description").text = str(p["description"] or "")
         for tag in OPT_TAGS:
             ET.SubElement(item, tag).text = str(p["opts"].get(tag, "") or "")
+        first_img = p["images"][0] if p["images"] else ""
+        ET.SubElement(item, "variant_image").text = first_img
         images_el = ET.SubElement(item, "images")
         for img in p["images"]:
             ET.SubElement(images_el, "image").text = img
