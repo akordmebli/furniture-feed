@@ -56,6 +56,25 @@ SHOPIFY_TAXONOMY = {
     "Без категорії": "gid://shopify/TaxonomyCategory/fr",
 }
 
+# Маппінг Option Name → XML тег
+OPTION_MAP = {
+    'Категорія тканини': 'fabric',
+    'Колір ніжок': 'leg_color',
+    'Колір каркаса': 'frame_color',
+    'Спальне місце': 'sleep_size',
+    'Механізм': 'mechanism',
+    'Подушки': 'pillows',
+    'Задня стінка зашита основною тканиною': 'back_fabric',
+    'Матрац у комплекті': 'mattress_included',
+    'Матеріал': 'material',
+    'Модулі': 'modules',
+    'Розміри': 'dimensions',
+    'Розмір стільниці': 'tabletop_size',
+    'Висота, см': 'height_opt',
+    'Довжина, см': 'length_opt',
+    'Ширина, см': 'width_opt',
+}
+
 AKORD_URL = os.environ["AKORD_CSV"]
 WOODMAN_URL = os.environ["WOODMAN_CSV"]
 VETRO_URL = os.environ["VETRO_XML"]
@@ -82,7 +101,6 @@ def map_category(source, cat):
     return mapped
 
 def parse_akord(url):
-    """Новий парсер — читає файл з усіма Option колонками як є"""
     products = []
     text = fetch_text(url)
     reader = csv.DictReader(StringIO(text))
@@ -97,32 +115,31 @@ def parse_akord(url):
         mapped = map_category("akord", cats[0]) if cats else "Без категорії"
         images = [i.strip() for i in row.get("Images", "").split(",") if i.strip()]
 
-        # Збираємо всі Option поля
-        options = {}
+        # Збираємо options як плоский dict
+        opts = {}
         for i in range(1, 16):
-            options[f"Option{i} Name"] = row.get(f"Option{i} Name", "")
-        for i in range(1, 16):
-            options[f"Option{i} Value"] = row.get(f"Option{i} Value", "")
+            name = str(row.get(f"Option{i} Name", "") or "").strip()
+            value = str(row.get(f"Option{i} Value", "") or "").strip()
+            if name in OPTION_MAP and value and value != 'nan':
+                opts[OPTION_MAP[name]] = value
 
         products.append({
             "source": "akord",
-            "id": row.get("ID", ""),
             "sku": sku,
             "name": row.get("Name", ""),
             "price": clean_price(row.get("Price", "")),
-            "currency": "UAH",
             "category": mapped,
             "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
             "images": images,
             "description": row.get("ShortDescription", ""),
             "available": row.get("IsAvailable", "") == "Available",
             "vendor": row.get("Vendor", ""),
-            "options": options,
-            # Розмірні поля
-            "vysota": row.get("Висота, см", ""),
-            "dovzhyna": row.get("Довжина, см", ""),
-            "glybyna": row.get("Глибина сидіння, см", ""),
-            "shyryna": row.get("Ширина, см", ""),
+            "instock": str(row.get("InStock", "") or ""),
+            "barcode": str(row.get("Barcode", "") or ""),
+            "meta_title": str(row.get("MetaTitle", "") or ""),
+            "meta_description": str(row.get("MetaDescription", "") or ""),
+            "meta_keywords": str(row.get("MetaKeywords", "") or ""),
+            "opts": opts,
         })
     return products
 
@@ -136,13 +153,16 @@ def parse_woodman(url):
         mapped = map_category("woodman", cat_raw)
         photo = row.get("photo", "").strip()
         products.append({
-            "source": "woodman", "id": row.get("sku", ""), "sku": row.get("sku", ""),
+            "source": "woodman", "sku": row.get("sku", ""),
             "name": row.get("name", ""), "price": clean_price(row.get("rrp_price", "")),
-            "currency": "UAH", "category": mapped,
+            "category": mapped,
             "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
-            "images": [photo] if photo else [], "description": row.get("description", ""),
-            "available": True, "vendor": "Woodman", "options": {}, 
-            "vysota": "", "dovzhyna": "", "glybyna": "", "shyryna": "",
+            "images": [photo] if photo else [],
+            "description": row.get("description", ""),
+            "available": True, "vendor": "Woodman",
+            "instock": "", "barcode": "",
+            "meta_title": "", "meta_description": "", "meta_keywords": "",
+            "opts": {},
         })
     return products
 
@@ -150,23 +170,26 @@ def parse_vetro(url):
     products = []
     text = fetch_text(url)
     root = ET.fromstring(text.encode("utf-8"))
-    shop = root.find("shop")
-    offers = shop.find("offers")
+    offers = root.find("shop").find("offers")
     for offer in offers:
         cat_id = offer.findtext("categoryId", "").strip()
         mapped = map_category("vetro", cat_id)
         pics = [p.text for p in offer.findall("picture") if p.text]
         desc_el = offer.find("description")
         products.append({
-            "source": "vetro", "id": offer.get("id", ""),
+            "source": "vetro",
             "sku": offer.findtext("vendorCode", offer.get("id", "")),
-            "name": offer.findtext("name", ""), "price": clean_price(offer.findtext("price", "")),
-            "currency": "UAH", "category": mapped,
+            "name": offer.findtext("name", ""),
+            "price": clean_price(offer.findtext("price", "")),
+            "category": mapped,
             "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
-            "images": pics, "description": desc_el.text if desc_el is not None else "",
+            "images": pics,
+            "description": desc_el.text if desc_el is not None else "",
             "available": offer.get("available") == "true",
-            "vendor": offer.findtext("vendor", "Vetro"), "options": {},
-            "vysota": "", "dovzhyna": "", "glybyna": "", "shyryna": "",
+            "vendor": offer.findtext("vendor", "Vetro"),
+            "instock": "", "barcode": "",
+            "meta_title": "", "meta_description": "", "meta_keywords": "",
+            "opts": {},
         })
     return products
 
@@ -174,21 +197,23 @@ def parse_comefor(url):
     products = []
     text = fetch_text(url)
     root = ET.fromstring(text.encode("utf-8"))
-    items = root.find("items")
-    for item in items:
+    for item in root.find("items"):
         cat_id = item.findtext("categoryId", "").strip()
         mapped = map_category("comefor", cat_id)
         pics = [p.text for p in item.findall("picture") if p.text]
         products.append({
-            "source": "comefor", "id": item.findtext("id", ""),
-            "sku": item.findtext("sku", ""), "name": item.findtext("name", ""),
+            "source": "comefor",
+            "sku": item.findtext("sku", ""),
+            "name": item.findtext("name", ""),
             "price": clean_price(item.findtext("priceuah", "0")),
-            "currency": "UAH", "category": mapped,
+            "category": mapped,
             "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
             "images": pics, "description": "",
             "available": item.findtext("stock", "") == "В наличии",
-            "vendor": "Come-For", "options": {},
-            "vysota": "", "dovzhyna": "", "glybyna": "", "shyryna": "",
+            "vendor": "Come-For",
+            "instock": "", "barcode": "",
+            "meta_title": "", "meta_description": "", "meta_keywords": "",
+            "opts": {},
         })
     return products
 
@@ -196,32 +221,25 @@ def build_xml(products):
     catalog = ET.Element("catalog")
     for p in products:
         item = ET.SubElement(catalog, "item")
-        ET.SubElement(item, "id").text = str(p["id"])
         ET.SubElement(item, "sku").text = str(p["sku"])
         ET.SubElement(item, "name").text = str(p["name"])
         ET.SubElement(item, "price").text = str(p["price"])
-        ET.SubElement(item, "currency").text = p["currency"]
+        ET.SubElement(item, "vendor").text = str(p["vendor"])
         ET.SubElement(item, "category").text = p["category"]
         ET.SubElement(item, "shopify_category").text = p["shopify_category"]
-        ET.SubElement(item, "vendor").text = str(p["vendor"])
         ET.SubElement(item, "available").text = "true" if p["available"] else "false"
+        ET.SubElement(item, "instock").text = str(p.get("instock", "") or "")
+        ET.SubElement(item, "barcode").text = str(p.get("barcode", "") or "")
+        ET.SubElement(item, "meta_title").text = str(p.get("meta_title", "") or "")
+        ET.SubElement(item, "meta_description").text = str(p.get("meta_description", "") or "")
+        ET.SubElement(item, "meta_keywords").text = str(p.get("meta_keywords", "") or "")
         ET.SubElement(item, "description").text = str(p["description"] or "")
-        # Розміри
-        ET.SubElement(item, "vysota").text = str(p.get("vysota", "") or "")
-        ET.SubElement(item, "dovzhyna").text = str(p.get("dovzhyna", "") or "")
-        ET.SubElement(item, "glybyna").text = str(p.get("glybyna", "") or "")
-        ET.SubElement(item, "shyryna").text = str(p.get("shyryna", "") or "")
-        # Options
-        options = p.get("options", {})
-        if options:
-            opts_el = ET.SubElement(item, "options")
-            for i in range(1, 16):
-                name_val = str(options.get(f"Option{i} Name", "") or "")
-                value_val = str(options.get(f"Option{i} Value", "") or "")
-                if name_val:
-                    opt = ET.SubElement(opts_el, f"option{i}")
-                    ET.SubElement(opt, "name").text = name_val
-                    ET.SubElement(opt, "value").text = value_val
+        # Плоскі option поля
+        for tag in ['fabric', 'leg_color', 'frame_color', 'sleep_size', 'mechanism',
+                    'pillows', 'back_fabric', 'mattress_included', 'material',
+                    'modules', 'dimensions', 'tabletop_size',
+                    'height_opt', 'length_opt', 'width_opt']:
+            ET.SubElement(item, tag).text = str(p["opts"].get(tag, "") or "")
         # Images
         images_el = ET.SubElement(item, "images")
         for img in p["images"]:
@@ -246,9 +264,8 @@ def main():
     all_products = akord + woodman + vetro + comefor
     print(f"\nВсього товарів: {len(all_products)}")
     os.makedirs("output", exist_ok=True)
-    xml_content = build_xml(all_products)
     with open("output/feed.xml", "w", encoding="utf-8") as f:
-        f.write(xml_content)
+        f.write(build_xml(all_products))
     print("Готово → output/feed.xml")
 
 if __name__ == "__main__":
