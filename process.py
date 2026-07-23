@@ -131,6 +131,7 @@ def parse_akord(url):
             "meta_title": str(row.get("MetaTitle", "") or ""),
             "meta_description": str(row.get("MetaDescription", "") or ""),
             "meta_keywords": str(row.get("MetaKeywords", "") or ""),
+            "alias": str(row.get("Alias", "") or ""),
             "opts": opts,
         })
     return products
@@ -155,6 +156,7 @@ def parse_woodman(url):
             "available": True, "vendor": "Woodman",
             "instock": "", "barcode": "",
             "meta_title": "", "meta_description": "", "meta_keywords": "",
+            "alias": "",
             "opts": {},
         })
     return products
@@ -182,6 +184,7 @@ def parse_vetro(url):
             "vendor": offer.findtext("vendor", "Vetro"),
             "instock": "", "barcode": "",
             "meta_title": "", "meta_description": "", "meta_keywords": "",
+            "alias": "",
             "opts": {},
         })
     return products
@@ -206,6 +209,7 @@ def parse_comefor(url):
             "vendor": "Come-For",
             "instock": "", "barcode": "",
             "meta_title": "", "meta_description": "", "meta_keywords": "",
+            "alias": "",
             "opts": {},
         })
     return products
@@ -226,6 +230,7 @@ def build_xml(products):
         ET.SubElement(item, "meta_title").text = str(p.get("meta_title", "") or "")
         ET.SubElement(item, "meta_description").text = str(p.get("meta_description", "") or "")
         ET.SubElement(item, "meta_keywords").text = str(p.get("meta_keywords", "") or "")
+        ET.SubElement(item, "alias").text = str(p.get("alias", "") or "")
         ET.SubElement(item, "description").text = str(p["description"] or "")
         for tag in OPT_TAGS:
             ET.SubElement(item, tag).text = str(p["opts"].get(tag, "") or "")
