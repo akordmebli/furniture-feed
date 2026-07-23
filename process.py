@@ -56,29 +56,15 @@ SHOPIFY_TAXONOMY = {
     "Без категорії": "gid://shopify/TaxonomyCategory/fr",
 }
 
-# Маппінг Option Name → XML тег
-OPTION_MAP = {
-    'Категорія тканини': 'fabric',
-    'Колір ніжок': 'leg_color',
-    'Колір каркаса': 'frame_color',
-    'Спальне місце': 'sleep_size',
-    'Механізм': 'mechanism',
-    'Подушки': 'pillows',
-    'Задня стінка зашита основною тканиною': 'back_fabric',
-    'Матрац у комплекті': 'mattress_included',
-    'Матеріал': 'material',
-    'Модулі': 'modules',
-    'Розміри': 'dimensions',
-    'Розмір стільниці': 'tabletop_size',
-    'Висота, см': 'height_opt',
-    'Довжина, см': 'length_opt',
-    'Ширина, см': 'width_opt',
-}
-
 AKORD_URL = os.environ["AKORD_CSV"]
 WOODMAN_URL = os.environ["WOODMAN_CSV"]
 VETRO_URL = os.environ["VETRO_XML"]
 COMEFOR_URL = os.environ["COMEFOR_XML"]
+
+OPT_TAGS = ['fabric', 'leg_color', 'frame_color', 'sleep_size', 'mechanism',
+            'pillows', 'back_fabric', 'mattress_included', 'material',
+            'modules', 'dimensions', 'tabletop_size',
+            'height_opt', 'length_opt', 'width_opt']
 
 def fetch_text(url):
     r = requests.get(url, timeout=30)
@@ -110,30 +96,25 @@ def parse_akord(url):
         if sku in seen:
             continue
         seen.add(sku)
-        raw_cats = row.get("Categories", "")
+        images = [i.strip() for i in row.get("Images", "").split(",") if i.strip()]
+        opts = {}
+        for tag in OPT_TAGS:
+            val = str(row.get(tag, "") or "").strip()
+            if val and val != 'nan':
+                opts[tag] = val
+        raw_cats = row.get("Categories", "") or ""
         cats = [c.strip() for c in raw_cats.split(";") if c.strip()]
         mapped = map_category("akord", cats[0]) if cats else "Без категорії"
-        images = [i.strip() for i in row.get("Images", "").split(",") if i.strip()]
-
-        # Збираємо options як плоский dict
-        opts = {}
-        for i in range(1, 16):
-            name = str(row.get(f"Option{i} Name", "") or "").strip()
-            value = str(row.get(f"Option{i} Value", "") or "").strip()
-            if name in OPTION_MAP and value and value != 'nan':
-                opts[OPTION_MAP[name]] = value
-
         products.append({
-            "source": "akord",
-            "sku": sku,
+            "source": "akord", "sku": sku,
             "name": row.get("Name", ""),
             "price": clean_price(row.get("Price", "")),
             "category": mapped,
             "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
             "images": images,
             "description": row.get("ShortDescription", ""),
-            "available": row.get("IsAvailable", "") == "Available",
-            "vendor": row.get("Vendor", ""),
+            "available": str(row.get("IsAvailable", "")).strip() == "Available",
+            "vendor": row.get("Vendor", "ВНД"),
             "instock": str(row.get("InStock", "") or ""),
             "barcode": str(row.get("Barcode", "") or ""),
             "meta_title": str(row.get("MetaTitle", "") or ""),
@@ -154,7 +135,8 @@ def parse_woodman(url):
         photo = row.get("photo", "").strip()
         products.append({
             "source": "woodman", "sku": row.get("sku", ""),
-            "name": row.get("name", ""), "price": clean_price(row.get("rrp_price", "")),
+            "name": row.get("name", ""),
+            "price": clean_price(row.get("rrp_price", "")),
             "category": mapped,
             "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
             "images": [photo] if photo else [],
@@ -234,13 +216,8 @@ def build_xml(products):
         ET.SubElement(item, "meta_description").text = str(p.get("meta_description", "") or "")
         ET.SubElement(item, "meta_keywords").text = str(p.get("meta_keywords", "") or "")
         ET.SubElement(item, "description").text = str(p["description"] or "")
-        # Плоскі option поля
-        for tag in ['fabric', 'leg_color', 'frame_color', 'sleep_size', 'mechanism',
-                    'pillows', 'back_fabric', 'mattress_included', 'material',
-                    'modules', 'dimensions', 'tabletop_size',
-                    'height_opt', 'length_opt', 'width_opt']:
+        for tag in OPT_TAGS:
             ET.SubElement(item, tag).text = str(p["opts"].get(tag, "") or "")
-        # Images
         images_el = ET.SubElement(item, "images")
         for img in p["images"]:
             ET.SubElement(images_el, "image").text = img
