@@ -56,15 +56,15 @@ SHOPIFY_TAXONOMY = {
     "Без категорії": "gid://shopify/TaxonomyCategory/fr",
 }
 
-AKORD_URL = os.environ["AKORD_CSV"]
-WOODMAN_URL = os.environ["WOODMAN_CSV"]
-VETRO_URL = os.environ["VETRO_XML"]
-COMEFOR_URL = os.environ["COMEFOR_XML"]
-
 OPT_TAGS = ['fabric', 'leg_color', 'frame_color', 'sleep_size', 'mechanism',
             'pillows', 'back_fabric', 'mattress_included', 'material',
             'modules', 'dimensions', 'tabletop_size',
             'height_opt', 'length_opt', 'width_opt']
+
+AKORD_URL = os.environ["AKORD_CSV"]
+WOODMAN_URL = os.environ["WOODMAN_CSV"]
+VETRO_URL = os.environ["VETRO_XML"]
+COMEFOR_URL = os.environ["COMEFOR_XML"]
 
 def fetch_text(url):
     r = requests.get(url, timeout=30)
@@ -87,6 +87,7 @@ def map_category(source, cat):
     return mapped
 
 def parse_akord(url):
+    """Читає новий файл з плоскими option полями і колонками category/Images"""
     products = []
     text = fetch_text(url)
     reader = csv.DictReader(StringIO(text))
@@ -96,25 +97,35 @@ def parse_akord(url):
         if sku in seen:
             continue
         seen.add(sku)
-        images = [i.strip() for i in row.get("Images", "").split(",") if i.strip()]
+
+        # Зображення
+        images_raw = row.get("Images", "") or ""
+        images = [i.strip() for i in images_raw.split(",") if i.strip()]
+
+        # Категорія — вже є в файлі
+        category = str(row.get("category", "") or "").strip() or "Без категорії"
+        shopify_cat = str(row.get("shopify_category", "") or "").strip()
+        if not shopify_cat:
+            shopify_cat = SHOPIFY_TAXONOMY.get(category, "gid://shopify/TaxonomyCategory/fr")
+
+        # Плоскі option поля
         opts = {}
         for tag in OPT_TAGS:
             val = str(row.get(tag, "") or "").strip()
-            if val and val != 'nan':
+            if val and val.lower() != 'nan':
                 opts[tag] = val
-        raw_cats = row.get("Categories", "") or ""
-        cats = [c.strip() for c in raw_cats.split(";") if c.strip()]
-        mapped = map_category("akord", cats[0]) if cats else "Без категорії"
+
         products.append({
-            "source": "akord", "sku": sku,
+            "source": "akord",
+            "sku": sku,
             "name": row.get("Name", ""),
             "price": clean_price(row.get("Price", "")),
-            "category": mapped,
-            "shopify_category": SHOPIFY_TAXONOMY.get(mapped, "gid://shopify/TaxonomyCategory/fr"),
+            "category": category,
+            "shopify_category": shopify_cat,
             "images": images,
             "description": row.get("ShortDescription", ""),
             "available": str(row.get("IsAvailable", "")).strip() == "Available",
-            "vendor": row.get("Vendor", "ВНД"),
+            "vendor": "ВНД",
             "instock": str(row.get("InStock", "") or ""),
             "barcode": str(row.get("Barcode", "") or ""),
             "meta_title": str(row.get("MetaTitle", "") or ""),
