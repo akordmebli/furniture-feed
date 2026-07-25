@@ -202361,7 +202361,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -211983,6 +211983,55 @@
       <image>https://vetro.com.ua/storage/27437/68a83d0390e46_68a83ce1ca341_stil-volterra-tml-1305-delikato-bezh-bezheviy2.jpg</image>
       <image>https://vetro.com.ua/storage/27438/68a83d086f9e9_68a83ce1c9f29_stil-volterra-tml-1305-delikato-bezh-bezheviy1.jpg</image>
       <image>https://vetro.com.ua/storage/30266/695f6b8835392_TML-1305.glb</image>
+    </images>
+  </item>
+  <item>
+    <sku>6283</sku>
+    <name>Журнальный стол &quot;Арно&quot; силвер ривер + айвори</name>
+    <variant_price>9054.50</variant_price>
+    <vendor>Vetro Mebel</vendor>
+    <category>Столи / Журнальні столики і консолі</category>
+    <shopify_id>fr-24-1</shopify_id>
+    <available>true</available>
+    <instock/>
+    <barcode/>
+    <meta_title/>
+    <meta_description/>
+    <meta_keywords/>
+    <alias/>
+    <description>&lt;![CDATA[&lt;p&gt;Журнальный стол &lt;strong&gt;&quot;Арно&quot; силвер ривер + айвори&lt;/strong&gt; — это элегантное и современное решение для вашей гостиной. Его столешница выполнена из комбинации матовой керамики и закалённого стекла, что придаёт изделию не только стильный вид, но и высокую практичность. Изысканный оттенок &lt;i&gt;сілвер рівер&lt;/i&gt; напоминает натуральный камень, создавая эффект глубины и природной гармонии, а нежное основание цвета &lt;i&gt;айвори&lt;/i&gt; добавляет лёгкости и визуальной утончённости.&lt;/p&gt;&lt;p&gt;Прямоугольная форма стола делает его универсальным в использовании: он удобно расположится перед диваном, станет идеальным местом для кофе, книг или декоративных элементов. Металлическое основание, окрашенное в светлый тон, обеспечивает прочность и устойчивость конструкции, одновременно подчёркивая современный характер модели.&lt;/p&gt;]]&gt;</description>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <variant_image>https://vetro.com.ua/storage/28833/68f7ccaae2c14_68f7cc7a57cd3_zhurnalniy-stil-arno-silver-river-ayvori1.JPG</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/28833/68f7ccaae2c14_68f7cc7a57cd3_zhurnalniy-stil-arno-silver-river-ayvori1.JPG</image>
+      <image>https://vetro.com.ua/storage/28833/68f7ccaae2c14_68f7cc7a57cd3_zhurnalniy-stil-arno-silver-river-ayvori1.JPG</image>
+      <image>https://vetro.com.ua/storage/28834/68f7ccba61b72_68f7cc7a596b5_zhurnalniy-stil-arno-silver-river-ayvori2.JPG</image>
+      <image>https://vetro.com.ua/storage/28835/68f7ccc6872be_68f7cc7b3a453_zhurnalniy-stil-arno-silver-river-ayvori6.JPG</image>
+      <image>https://vetro.com.ua/storage/28836/68f7ccde070fe_68f7cc7b262db_zhurnalniy-stil-arno-silver-river-ayvori5.JPG</image>
+      <image>https://vetro.com.ua/storage/28829/68f7cc7abf6c6_zhurnalniy-stil-arno-silver-river-ayvori4.JPG</image>
+      <image>https://vetro.com.ua/storage/28830/68f7cc7ac3c4e_zhurnalniy-stil-arno-silver-river-ayvori3.JPG</image>
+      <image>https://vetro.com.ua/storage/29682/690b5e2f8646d_690b5e13b855b_zhurnalniy-stil-arno-silver-river-ayvori9.JPG</image>
+      <image>https://vetro.com.ua/storage/29685/690b5f37cc135_690b5f2a04236_zhurnalniy-stil-arno-silver-river-ayvori8.JPG</image>
+      <image>https://vetro.com.ua/storage/29680/690b5e1428c1d_zhurnalniy-stil-arno-silver-river-ayvori11.JPG</image>
+      <image>https://vetro.com.ua/storage/29679/690b5e140d20f_zhurnalniy-stil-arno-silver-river-ayvori10.JPG</image>
+      <image>https://vetro.com.ua/storage/29681/690b5e148648a_zhurnalniy-stil-arno-silver-river-ayvori12.JPG</image>
+      <image>https://vetro.com.ua/storage/29678/690b5e13c839c_zhurnalniy-stil-arno-silver-river-ayvori7.JPG</image>
+      <image>https://vetro.com.ua/storage/30823/69be7daded058_69b97099a8178_69b9703cba83e_bezkarkasniy-modulniy-divan-oregon-siriy2.jpg</image>
+      <image>https://vetro.com.ua/storage/30824/69be7dbe796c8_69b970af57906_69b9703d7f5cf_bezkarkasniy-modulniy-divan-oregon-siriy3.jpg</image>
     </images>
   </item>
   <item>
