@@ -203648,7 +203648,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -204295,54 +204295,6 @@
     </images>
   </item>
   <item>
-    <sku>6026</sku>
-    <name>Стул M-71 серый  + черный</name>
-    <variant_price>2684.50</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <category>Стільці / Обідні стільці</category>
-    <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
-    <instock/>
-    <barcode/>
-    <meta_title/>
-    <meta_description/>
-    <meta_keywords/>
-    <alias/>
-    <description>&lt;![CDATA[&lt;p&gt;Серый цвет обивки в сочетании с черным основанием создаёт сдержанный и элегантный образ. Такой стул легко впишется в любой интерьер, от минималистичного до классического, благодаря своей нейтральной цветовой гамме.&lt;/p&gt;&lt;p&gt;Основа стула выполнена из крашеного металла, что гарантирует его устойчивость и надёжность. Металлическая основа защищена краской, что повышает её устойчивость к коррозии и повреждениям.&lt;/p&gt;&lt;p&gt;Обивка из ткани не только приятна на ощупь, но и обеспечивает долговечность и лёгкость в уходе. Ткань устойчива к износу, что продлевает срок службы стула.&lt;/p&gt;]]&gt;</description>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <variant_image>https://vetro.com.ua/storage/18856/66e1813dc7507_66e1812015993_DSC02044.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/18856/66e1813dc7507_66e1812015993_DSC02044.jpg</image>
-      <image>https://vetro.com.ua/storage/18856/66e1813dc7507_66e1812015993_DSC02044.jpg</image>
-      <image>https://vetro.com.ua/storage/17346/66b4bb92d041e_654cd4f4641ea_m-71-siriy-chorniy7.jpg</image>
-      <image>https://vetro.com.ua/storage/17347/66b4bb9e2caea_654cd4f442d8b_m-71-siriy-chorniy5.jpg</image>
-      <image>https://vetro.com.ua/storage/17348/66b4bba437f51_654cd4f489833_m-71-siriy-chorniy9.jpg</image>
-      <image>https://vetro.com.ua/storage/17349/66b4bbabf03f4_654cd4f455ff3_m-71-siriy-chorniy6.jpg</image>
-      <image>https://vetro.com.ua/storage/11807/654cd4f42d356_m-71-siriy-chorniy4.jpg</image>
-      <image>https://vetro.com.ua/storage/11804/654cd4f3e2456_m-71-siriy-chorniy1.jpg</image>
-      <image>https://vetro.com.ua/storage/11806/654cd4f41d5fe_m-71-siriy-chorniy3.jpg</image>
-      <image>https://vetro.com.ua/storage/11805/654cd4f3eb1e7_m-71-siriy-chorniy2.jpg</image>
-      <image>https://vetro.com.ua/storage/12553/6581a7397d989_65326b06ce873_tml-819-vayt-klaud-chorniy5.jpg</image>
-      <image>https://vetro.com.ua/storage/12554/6581a7398392b_65326b05bb0c9_tml-819-vayt-klaud-chorniy2.jpg</image>
-      <image>https://vetro.com.ua/storage/14228/666c460a41f5e_tm-100-kalakatta-grey-chorniy2.jpg</image>
-      <image>https://vetro.com.ua/storage/14229/666c460a60748_tm-100-kalakatta-grey-chorniy1.jpg</image>
-    </images>
-  </item>
-  <item>
     <sku>6027</sku>
     <name>Стул поворотный R-69 айвори + черный</name>
     <variant_price>6142.50</variant_price>
@@ -204866,7 +204818,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Журнальні столики і консолі</category>
     <shopify_id>fr-24-1</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -206852,7 +206804,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -208427,7 +208379,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -210257,7 +210209,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / Обідні крісла</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -216302,7 +216254,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
