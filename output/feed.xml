@@ -201356,7 +201356,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -202316,7 +202316,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -202361,7 +202361,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -203106,7 +203106,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -205047,7 +205047,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -205180,7 +205180,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -206515,61 +206515,6 @@
       <image>https://vetro.com.ua/storage/21262/67361573b9562_stilec-n-160-m-yatniy-bukle-biliy3.jpg</image>
       <image>https://vetro.com.ua/storage/21263/67361573f39eb_stilec-n-160-m-yatniy-bukle-biliy4.jpg</image>
       <image>https://vetro.com.ua/storage/21264/6736157682db8_stilec-n-160-m-yatniy-bukle-biliy5.jpg</image>
-    </images>
-  </item>
-  <item>
-    <sku>6147</sku>
-    <name>Стул N-165 капучино велюр + капучино</name>
-    <variant_price>1137.50</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <category>Стільці / Обідні стільці</category>
-    <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
-    <instock/>
-    <barcode/>
-    <meta_title/>
-    <meta_description/>
-    <meta_keywords/>
-    <alias/>
-    <description>&lt;![CDATA[&lt;p&gt;Сиденье и обивка выполнены в тёплом оттенке капучино, который придаёт стулу уютный и элегантный вид. Этот нейтральный цвет легко сочетать с различными интерьерами, будь то современный или классический стиль.&lt;/p&gt;&lt;p&gt;Обивка из велюра не только выглядит роскошно, но и приятна на ощупь. Велюр обладает мягкой текстурой и устойчив к износу, что делает стул не только красивым, но и долговечным. Металлическая основа окрашена в цвет капучино, что завершает стильный образ стула и придаёт ему прочность.&lt;/p&gt;&lt;p&gt;С весом всего 4,35 кг, стул легко перемещать по комнате, при этом он остаётся устойчивым и прочным благодаря металлическому основанию.&lt;/p&gt;&lt;p&gt;Этот стул станет отличным выбором для тех, кто ищет комфортное и стильное решение, которое будет гармонично смотреться в любом интерьере.&lt;/p&gt;]]&gt;</description>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <variant_image>https://vetro.com.ua/storage/20284/670e79e226f07_DSC_1326.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/20284/670e79e226f07_DSC_1326.jpg</image>
-      <image>https://vetro.com.ua/storage/20284/670e79e226f07_DSC_1326.jpg</image>
-      <image>https://vetro.com.ua/storage/20282/670e79e199c5f_DSC_1327.jpg</image>
-      <image>https://vetro.com.ua/storage/20283/670e79e1a07ab_DSC_1328.jpg</image>
-      <image>https://vetro.com.ua/storage/20281/670e79e107d9d_DSC_1329.jpg</image>
-      <image>https://vetro.com.ua/storage/20280/670e79e1064cf_DSC_1330.jpg</image>
-      <image>https://vetro.com.ua/storage/19593/66f2a0a51997d_stilec-n-165-kapuchino-kapuchino6.jpg</image>
-      <image>https://vetro.com.ua/storage/19595/66f2a0a64ce0f_stilec-n-165-kapuchino-kapuchino8.jpg</image>
-      <image>https://vetro.com.ua/storage/19592/66f2a0a4e7087_stilec-n-165-kapuchino-kapuchino7.jpg</image>
-      <image>https://vetro.com.ua/storage/19594/66f2a0a60df9b_stilec-n-165-kapuchino-kapuchino9.jpg</image>
-      <image>https://vetro.com.ua/storage/19598/66f2a11d1c4e7_stilec-n-165-kapuchino-kapuchino10.jpg</image>
-      <image>https://vetro.com.ua/storage/20989/67279305870cf_stilec-n-165-kapuchino-kapuchino15.jpg</image>
-      <image>https://vetro.com.ua/storage/20990/6727930586f25_stilec-n-165-kapuchino-kapuchino16.jpg</image>
-      <image>https://vetro.com.ua/storage/20991/672793075bf00_stilec-n-165-kapuchino-kapuchino17.jpg</image>
-      <image>https://vetro.com.ua/storage/20994/672794898f87a_stilec-n-165-kapuchino-kapuchino19.jpg</image>
-      <image>https://vetro.com.ua/storage/20996/67279519e713c_stilec-n-165-kapuchino-kapuchino20.jpg</image>
-      <image>https://vetro.com.ua/storage/26414/684ac2831432e_stil-tm-85-bardilio-layt-siriy8.jpg</image>
-      <image>https://vetro.com.ua/storage/26415/684ac283075b9_stil-tm-85-bardilio-layt-siriy9.jpg</image>
-      <image>https://vetro.com.ua/storage/26416/684ac284488a3_stil-tm-85-bardilio-layt-siriy10.jpg</image>
-      <image>https://vetro.com.ua/storage/26419/684ac2a52a8e5_684ac2843dac8_stil-tm-85-bardilio-layt-siriy11.jpg</image>
-      <image>https://vetro.com.ua/storage/26420/684ac2ad0b6c2_684ac284d59d5_stil-tm-85-bardilio-layt-siriy12.jpg</image>
     </images>
   </item>
   <item>
@@ -208740,7 +208685,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Журнальні столики і консолі</category>
     <shopify_id>fr-24-1</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -214830,7 +214775,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Дивани / Модульні дивани</category>
     <shopify_id>fr-22-6</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -215330,7 +215275,7 @@
   </item>
   <item>
     <sku>6354</sku>
-    <name>Комплект из 2-х стульев барных садовых &quot;Равелло&quot; ODB-10 айвори + белый дуб</name>
+    <name>Стул барный садовый &quot;Равелло&quot; ODB-10 айвори + белый дуб</name>
     <variant_price>14105.00</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Садові та вуличні меблі / Садові меблі</category>
@@ -215342,7 +215287,7 @@
     <meta_description/>
     <meta_keywords/>
     <alias/>
-    <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Комплект состоит из ДВУХ (2) садовых барных стульев!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Барный садовый стул «Равелло» ODB-10 в оттенках айвори и белый дуб — это изящное сочетание современного дизайна и природной эстетики, созданное для комфортного использования в барных и лаунж-зонах на открытом воздухе. Его лёгкий, сбалансированный силуэт гармонично дополняет террасы, патио или зоны возле барных столов, добавляя пространству стиль и уют.&lt;/p&gt;&lt;p&gt;Каркас стула изготовлен из оцинкованной стали с декоративным покрытием под дерево в сочетании с искусственным ротангом. Такая конструкция обеспечивает высокую прочность, устойчивость к коррозии и долговечность, а также хорошо выдерживает воздействие влаги, солнца и перепадов температур, что делает модель идеальной для использования на открытом воздухе.&lt;/p&gt;&lt;p&gt;Стул не требует сборки, что позволяет использовать его сразу после покупки без дополнительных усилий.&lt;/p&gt;&lt;p&gt;С весом 7,3 кг модель является достаточно лёгкой для перемещения, при этом сохраняя стабильность и надёжность в использовании.&lt;/p&gt;&lt;p&gt;Светлое сочетание айвори и текстуры белого дуба придаёт изделию элегантность и универсальность, позволяя легко интегрировать его в различные стили экстерьера — от современного до более природного.&lt;br&gt;&lt;br&gt;Инструкция по использованию уличной мебели&lt;/p&gt;&lt;p&gt;Лучший способ продлить срок службы вашей уличной мебели — регулярно очищать её и не оставлять на улице без защиты дольше, чем это необходимо.&lt;/p&gt;&lt;p&gt;⚫ По возможности храните мебель в сухом прохладном помещении.&lt;br&gt;⚫ Если мебель хранится на улице, накрывайте её водонепроницаемым чехлом.&lt;br&gt;⚫ После дождя или снегопада удаляйте излишки воды или снега с плоских поверхностей.&lt;br&gt;⚫ Обеспечивайте циркуляцию воздуха, чтобы избежать образования конденсата.&lt;br&gt;⚫ Убедитесь, что подушки полностью сухие перед хранением в чехле или ящике для хранения.&lt;/p&gt;]]&gt;</description>
+    <description>&lt;![CDATA[&lt;p&gt;Барный садовый стул «Равелло» ODB-10 в оттенках айвори и белый дуб — это изящное сочетание современного дизайна и природной эстетики, созданное для комфортного использования в барных и лаунж-зонах на открытом воздухе. Его лёгкий, сбалансированный силуэт гармонично дополняет террасы, патио или зоны возле барных столов, добавляя пространству стиль и уют.&lt;/p&gt;&lt;p&gt;Каркас стула изготовлен из оцинкованной стали с декоративным покрытием под дерево в сочетании с искусственным ротангом. Такая конструкция обеспечивает высокую прочность, устойчивость к коррозии и долговечность, а также хорошо выдерживает воздействие влаги, солнца и перепадов температур, что делает модель идеальной для использования на открытом воздухе.&lt;/p&gt;&lt;p&gt;Стул не требует сборки, что позволяет использовать его сразу после покупки без дополнительных усилий.&lt;/p&gt;&lt;p&gt;С весом 7,3 кг модель является достаточно лёгкой для перемещения, при этом сохраняя стабильность и надёжность в использовании.&lt;/p&gt;&lt;p&gt;Светлое сочетание айвори и текстуры белого дуба придаёт изделию элегантность и универсальность, позволяя легко интегрировать его в различные стили экстерьера — от современного до более природного.&lt;br&gt;&lt;br&gt;Инструкция по использованию уличной мебели&lt;/p&gt;&lt;p&gt;Лучший способ продлить срок службы вашей уличной мебели — регулярно очищать её и не оставлять на улице без защиты дольше, чем это необходимо.&lt;/p&gt;&lt;p&gt;⚫ По возможности храните мебель в сухом прохладном помещении.&lt;br&gt;⚫ Если мебель хранится на улице, накрывайте её водонепроницаемым чехлом.&lt;br&gt;⚫ После дождя или снегопада удаляйте излишки воды или снега с плоских поверхностей.&lt;br&gt;⚫ Обеспечивайте циркуляцию воздуха, чтобы избежать образования конденсата.&lt;br&gt;⚫ Убедитесь, что подушки полностью сухие перед хранением в чехле или ящике для хранения.&lt;/p&gt;]]&gt;</description>
     <fabric/>
     <leg_color/>
     <frame_color/>
