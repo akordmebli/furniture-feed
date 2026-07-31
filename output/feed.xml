@@ -200542,6 +200542,48 @@
     </images>
   </item>
   <item>
+    <sku>5530</sku>
+    <name>Барный стул B-11 гаванна</name>
+    <variant_price>2684.50</variant_price>
+    <vendor>Vetro Mebel</vendor>
+    <category>Стільці / Барні стільці</category>
+    <shopify_id>fr-7-12</shopify_id>
+    <available>true</available>
+    <instock/>
+    <barcode/>
+    <meta_title/>
+    <meta_description/>
+    <meta_keywords/>
+    <alias/>
+    <description>&lt;![CDATA[&lt;p&gt;Барный стул B-11 гавана — современная модель с утончённым дизайном, сочетающая стиль и практичность.&lt;/p&gt;&lt;p&gt;Обивка из искусственного нубука в тёплом оттенке гавана создаёт уютную атмосферу и приятна на ощупь. Хромированная стальная основа обеспечивает прочность конструкции и добавляет современный вид.&lt;/p&gt;&lt;p&gt;Стул оснащён поворотным механизмом и функцией регулировки высоты, что делает его универсальным для разных уровней барных стоек.&lt;/p&gt;]]&gt;</description>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <variant_image>https://vetro.com.ua/storage/15358/66a8dc8a73baa_AAA_2399.jpg</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/15358/66a8dc8a73baa_AAA_2399.jpg</image>
+      <image>https://vetro.com.ua/storage/15358/66a8dc8a73baa_AAA_2399.jpg</image>
+      <image>https://vetro.com.ua/storage/15359/66a8dc965e68e_AAA_2400.jpg</image>
+      <image>https://vetro.com.ua/storage/15360/66a8dca1b1783_AAA_2401.jpg</image>
+      <image>https://vetro.com.ua/storage/15361/66a8dcaf91c8b_AAA_2402.jpg</image>
+      <image>https://vetro.com.ua/storage/15362/66a8dcb94cbfa_AAA_2403.jpg</image>
+      <image>https://vetro.com.ua/storage/15363/66a8dcc365c45_AAA_2404.jpg</image>
+      <image>https://vetro.com.ua/storage/30238/693fe3afc3762_IMG_7637-копія.JPG</image>
+    </images>
+  </item>
+  <item>
     <sku>5556</sku>
     <name>Стул N-66-2 чёрный</name>
     <variant_price>1410.50</variant_price>
@@ -202498,7 +202540,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / Обідні крісла</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -203648,7 +203690,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
