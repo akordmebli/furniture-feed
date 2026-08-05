@@ -200542,48 +200542,6 @@
     </images>
   </item>
   <item>
-    <sku>5530</sku>
-    <name>Барный стул B-11 гаванна</name>
-    <variant_price>2684.50</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <category>Стільці / Барні стільці</category>
-    <shopify_id>fr-7-12</shopify_id>
-    <available>false</available>
-    <instock/>
-    <barcode/>
-    <meta_title/>
-    <meta_description/>
-    <meta_keywords/>
-    <alias/>
-    <description>&lt;![CDATA[&lt;p&gt;Барный стул B-11 гавана — современная модель с утончённым дизайном, сочетающая стиль и практичность.&lt;/p&gt;&lt;p&gt;Обивка из искусственного нубука в тёплом оттенке гавана создаёт уютную атмосферу и приятна на ощупь. Хромированная стальная основа обеспечивает прочность конструкции и добавляет современный вид.&lt;/p&gt;&lt;p&gt;Стул оснащён поворотным механизмом и функцией регулировки высоты, что делает его универсальным для разных уровней барных стоек.&lt;/p&gt;]]&gt;</description>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <variant_image>https://vetro.com.ua/storage/15358/66a8dc8a73baa_AAA_2399.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/15358/66a8dc8a73baa_AAA_2399.jpg</image>
-      <image>https://vetro.com.ua/storage/15358/66a8dc8a73baa_AAA_2399.jpg</image>
-      <image>https://vetro.com.ua/storage/15359/66a8dc965e68e_AAA_2400.jpg</image>
-      <image>https://vetro.com.ua/storage/15360/66a8dca1b1783_AAA_2401.jpg</image>
-      <image>https://vetro.com.ua/storage/15361/66a8dcaf91c8b_AAA_2402.jpg</image>
-      <image>https://vetro.com.ua/storage/15362/66a8dcb94cbfa_AAA_2403.jpg</image>
-      <image>https://vetro.com.ua/storage/15363/66a8dcc365c45_AAA_2404.jpg</image>
-      <image>https://vetro.com.ua/storage/30238/693fe3afc3762_IMG_7637-копія.JPG</image>
-    </images>
-  </item>
-  <item>
     <sku>5556</sku>
     <name>Стул N-66-2 чёрный</name>
     <variant_price>1410.50</variant_price>
@@ -200630,7 +200588,7 @@
   <item>
     <sku>5614</sku>
     <name>Консоль &quot;Бруно&quot; белый мрамор + черный</name>
-    <variant_price>12239.50</variant_price>
+    <variant_price>6142.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Журнальні столики і консолі</category>
     <shopify_id>fr-24-1</shopify_id>
@@ -200988,7 +200946,7 @@
   <item>
     <sku>5779</sku>
     <name>Шезлонг Рим</name>
-    <variant_price>22522.50</variant_price>
+    <variant_price>11329.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Дивани / Модульні дивани</category>
     <shopify_id>fr-22-6</shopify_id>
@@ -202138,7 +202096,7 @@
   <item>
     <sku>5849</sku>
     <name>Керамический стол TM-76 чёрный оникс + чёрный</name>
-    <variant_price>13604.50</variant_price>
+    <variant_price>17244.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -202312,7 +202270,7 @@
   <item>
     <sku>5885</sku>
     <name>Консоль &quot;Бруно&quot; неро маркина + черный</name>
-    <variant_price>12239.50</variant_price>
+    <variant_price>6142.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Журнальні столики і консолі</category>
     <shopify_id>fr-24-1</shopify_id>
@@ -202715,7 +202673,7 @@
   <item>
     <sku>5936</sku>
     <name>Керамический стол TM-87-1 белый мрамор + черный</name>
-    <variant_price>15424.50</variant_price>
+    <variant_price>12057.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -202760,7 +202718,7 @@
   <item>
     <sku>5937</sku>
     <name>Керамический стол TM-87-1 айс грей + черный</name>
-    <variant_price>15424.50</variant_price>
+    <variant_price>12057.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -203004,7 +202962,7 @@
   <item>
     <sku>5954</sku>
     <name>Обеденный керамический стол TM-100 белый мрамор + черный</name>
-    <variant_price>5869.50</variant_price>
+    <variant_price>4777.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -203329,7 +203287,7 @@
   <item>
     <sku>5961</sku>
     <name>Керамический стол TM-84 каса вайт + серый</name>
-    <variant_price>11784.50</variant_price>
+    <variant_price>15424.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -203509,7 +203467,7 @@
   <item>
     <sku>5978</sku>
     <name>Кофейный стол &quot;Тео&quot; бьянко карарра + черный</name>
-    <variant_price>8599.50</variant_price>
+    <variant_price>4322.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Журнальні столики і консолі</category>
     <shopify_id>fr-24-1</shopify_id>
@@ -203548,7 +203506,7 @@
   <item>
     <sku>5980</sku>
     <name>Керамический стол TM-84 калакатта мрамор (серая керамика) + серый</name>
-    <variant_price>11784.50</variant_price>
+    <variant_price>15424.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -203592,7 +203550,7 @@
   <item>
     <sku>5981</sku>
     <name>Консоль &quot;Тео&quot; бьянко карарра + черный</name>
-    <variant_price>11602.50</variant_price>
+    <variant_price>5869.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Журнальні столики і консолі</category>
     <shopify_id>fr-24-1</shopify_id>
@@ -204003,7 +203961,7 @@
   <item>
     <sku>6016</sku>
     <name>Стул M-72 изумрудный  + черный</name>
-    <variant_price>3594.50</variant_price>
+    <variant_price>2229.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -204051,7 +204009,7 @@
   <item>
     <sku>6017</sku>
     <name>Стул M-70 айвори  + черный</name>
-    <variant_price>3594.50</variant_price>
+    <variant_price>2684.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -204095,7 +204053,7 @@
   <item>
     <sku>6018</sku>
     <name>Стул M-70 мокко  + черный</name>
-    <variant_price>3594.50</variant_price>
+    <variant_price>2684.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -204141,7 +204099,7 @@
   <item>
     <sku>6019</sku>
     <name>Стул M-70 серый  + черный</name>
-    <variant_price>3594.50</variant_price>
+    <variant_price>1592.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -204193,7 +204151,7 @@
   <item>
     <sku>6023</sku>
     <name>Стул M-72 натуральный  + черный</name>
-    <variant_price>3594.50</variant_price>
+    <variant_price>2775.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -204243,7 +204201,7 @@
   <item>
     <sku>6024</sku>
     <name>Стул M-71 айвори  + черный</name>
-    <variant_price>2684.50</variant_price>
+    <variant_price>864.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -204485,7 +204443,7 @@
   <item>
     <sku>6030</sku>
     <name>Стул M-75 капучино  + черный</name>
-    <variant_price>3594.50</variant_price>
+    <variant_price>1774.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -205173,7 +205131,7 @@
   <item>
     <sku>6065</sku>
     <name>Стул S-121 капучино велюр + черный</name>
-    <variant_price>2957.50</variant_price>
+    <variant_price>1774.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -205738,7 +205696,7 @@
   <item>
     <sku>6088</sku>
     <name>Керамический стол TM-76 вайт клауд + белый</name>
-    <variant_price>13604.50</variant_price>
+    <variant_price>17244.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -206135,7 +206093,7 @@
   <item>
     <sku>6115</sku>
     <name>Поворотное кресло &quot;Тино&quot; серый</name>
-    <variant_price>11784.50</variant_price>
+    <variant_price>9054.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / М'які крісла</category>
     <shopify_id>fr-7-1</shopify_id>
@@ -206406,7 +206364,7 @@
   <item>
     <sku>6133</sku>
     <name>Керамический стол TM-76 травертин матовый + дуб</name>
-    <variant_price>13604.50</variant_price>
+    <variant_price>17244.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -206458,7 +206416,7 @@
   <item>
     <sku>6134</sku>
     <name>Керамический стол TM-87-1 травертин матовый + дуб</name>
-    <variant_price>15424.50</variant_price>
+    <variant_price>12057.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -206511,7 +206469,7 @@
   <item>
     <sku>6144</sku>
     <name>Стул N-160 мятный букле + белый</name>
-    <variant_price>2229.50</variant_price>
+    <variant_price>1774.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -206562,7 +206520,7 @@
   <item>
     <sku>6151</sku>
     <name>Керамический стол TM-89 травертин + дуб</name>
-    <variant_price>16607.50</variant_price>
+    <variant_price>20884.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -206787,7 +206745,7 @@
   <item>
     <sku>6158</sku>
     <name>Стул M-215 сандал + чёрный</name>
-    <variant_price>4777.50</variant_price>
+    <variant_price>3594.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -207008,7 +206966,7 @@
   <item>
     <sku>6167</sku>
     <name>Керамический стол TM-85 ребекка грей + серый</name>
-    <variant_price>12694.50</variant_price>
+    <variant_price>15879.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -207274,7 +207232,7 @@
   <item>
     <sku>6172</sku>
     <name>Керамический стол Тициано TML-1150 деликато грей + белый</name>
-    <variant_price>25889.50</variant_price>
+    <variant_price>19519.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -208279,7 +208237,7 @@
   <item>
     <sku>6196</sku>
     <name>Стул M-127 макадамия мохер</name>
-    <variant_price>4322.50</variant_price>
+    <variant_price>3412.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -209230,7 +209188,7 @@
   <item>
     <sku>6217</sku>
     <name>Стул M-238 клауд + белый</name>
-    <variant_price>5232.50</variant_price>
+    <variant_price>2684.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -209343,7 +209301,7 @@
   <item>
     <sku>6222</sku>
     <name>Стул поворотный R-160 графитовый твид + чёрный</name>
-    <variant_price>4777.50</variant_price>
+    <variant_price>6779.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / Обідні крісла</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -210409,7 +210367,7 @@
   <item>
     <sku>6247</sku>
     <name>Стул M-230 устричный + белый</name>
-    <variant_price>3867.50</variant_price>
+    <variant_price>2957.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / Обідні крісла</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -210566,7 +210524,7 @@
   <item>
     <sku>6251</sku>
     <name>Стол шпонированное МДФ Амбра TМ-235 ясень + тёплый песок</name>
-    <variant_price>11784.50</variant_price>
+    <variant_price>15424.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -210618,7 +210576,7 @@
   <item>
     <sku>6252</sku>
     <name>Стол шпонированное МДФ Никколо TМ-236 ясень + тёплый песок</name>
-    <variant_price>13877.50</variant_price>
+    <variant_price>17972.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -210673,7 +210631,7 @@
   <item>
     <sku>6253</sku>
     <name>Стол шпонированное МДФ Эстер TМ-230 ясень</name>
-    <variant_price>14059.50</variant_price>
+    <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -210828,7 +210786,7 @@
   <item>
     <sku>6259</sku>
     <name>Журнальный стол Энзо C-320 лагуна</name>
-    <variant_price>8417.50</variant_price>
+    <variant_price>4049.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Журнальні столики і консолі</category>
     <shopify_id>fr-24-1</shopify_id>
@@ -210949,7 +210907,7 @@
   <item>
     <sku>6261</sku>
     <name>Стол полиуретановый МДФ Марчелло TМ-226 теплый песок</name>
-    <variant_price>15879.50</variant_price>
+    <variant_price>20884.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -211002,7 +210960,7 @@
   <item>
     <sku>6262</sku>
     <name>Стул M-125 миндаль + кремовый</name>
-    <variant_price>3594.50</variant_price>
+    <variant_price>2684.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -211054,7 +211012,7 @@
   <item>
     <sku>6263</sku>
     <name>Стул M-125 чили + кремовый</name>
-    <variant_price>3594.50</variant_price>
+    <variant_price>2684.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -211308,7 +211266,7 @@
   <item>
     <sku>6269</sku>
     <name>Керамический стол Арно TML-1310 силвер ривер + айвори</name>
-    <variant_price>36809.50</variant_price>
+    <variant_price>55737.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -211499,7 +211457,7 @@
   <item>
     <sku>6273</sku>
     <name>Поворотное кресло &quot;Верона&quot; снежный графит</name>
-    <variant_price>12057.50</variant_price>
+    <variant_price>9327.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / М'які крісла</category>
     <shopify_id>fr-7-1</shopify_id>
@@ -211546,7 +211504,7 @@
   <item>
     <sku>6274</sku>
     <name>Поворотное кресло &quot;Тиволи&quot; теплый каштан</name>
-    <variant_price>11784.50</variant_price>
+    <variant_price>9054.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / М'які крісла</category>
     <shopify_id>fr-7-1</shopify_id>
@@ -213206,7 +213164,7 @@
   <item>
     <sku>6307</sku>
     <name>Керамический стол TM-125 крема саббия + капучино</name>
-    <variant_price>23432.50</variant_price>
+    <variant_price>20884.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -213259,7 +213217,7 @@
   <item>
     <sku>6308</sku>
     <name>Керамический стол TM-125 мистик грей + капучино</name>
-    <variant_price>23432.50</variant_price>
+    <variant_price>20884.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -213306,7 +213264,7 @@
   <item>
     <sku>6309</sku>
     <name>Керамический стол TM-237 вуд вейн + натуральный каучук</name>
-    <variant_price>12239.50</variant_price>
+    <variant_price>16152.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -213349,7 +213307,7 @@
   <item>
     <sku>6310</sku>
     <name>Стул M-242 кокосовое молоко + чёрный</name>
-    <variant_price>5414.50</variant_price>
+    <variant_price>4322.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / Обідні крісла</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -213400,7 +213358,7 @@
   <item>
     <sku>6311</sku>
     <name>Стул M-242 туманный серый + чёрный</name>
-    <variant_price>5414.50</variant_price>
+    <variant_price>4322.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / Обідні крісла</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -213452,7 +213410,7 @@
   <item>
     <sku>6312</sku>
     <name>Стул M-242 шоколадный + чёрный</name>
-    <variant_price>5414.50</variant_price>
+    <variant_price>4322.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / Обідні крісла</category>
     <shopify_id>fr-7-9</shopify_id>
@@ -213894,7 +213852,7 @@
   <item>
     <sku>6322</sku>
     <name>Керамический стол TM-126-1 крема саббия + капучино</name>
-    <variant_price>15424.50</variant_price>
+    <variant_price>19064.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -213936,7 +213894,7 @@
   <item>
     <sku>6323</sku>
     <name>Керамический стол TM-126-1 калакатта мрамор + серый</name>
-    <variant_price>15424.50</variant_price>
+    <variant_price>16334.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -213977,7 +213935,7 @@
   <item>
     <sku>6324</sku>
     <name>Керамический стол TM-126 калакатта мрамор + серый</name>
-    <variant_price>22249.50</variant_price>
+    <variant_price>19519.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -214018,7 +213976,7 @@
   <item>
     <sku>6325</sku>
     <name>Керамический стол TM-126 белый мрамор + чёрный</name>
-    <variant_price>22249.50</variant_price>
+    <variant_price>19519.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -214099,7 +214057,7 @@
   <item>
     <sku>6327</sku>
     <name>Керамический стол TM-85-1 калакатта мрамор + серый</name>
-    <variant_price>11784.50</variant_price>
+    <variant_price>15242.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -214614,7 +214572,7 @@
   <item>
     <sku>6340</sku>
     <name>Беcкаркасный модульный диван &quot;Дакота&quot; жемчужный беж</name>
-    <variant_price>44544.50</variant_price>
+    <variant_price>33442.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Дивани / Модульні дивани</category>
     <shopify_id>fr-22-6</shopify_id>
@@ -214667,7 +214625,7 @@
   <item>
     <sku>6341</sku>
     <name>Беcкаркасный модульный диван &quot;Орегон&quot; серый</name>
-    <variant_price>31622.50</variant_price>
+    <variant_price>23887.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Дивани / Модульні дивани</category>
     <shopify_id>fr-22-6</shopify_id>
@@ -215704,7 +215662,7 @@
   <item>
     <sku>6362</sku>
     <name>Беcкаркасный модульный диван &quot;Орегон&quot; бежевый</name>
-    <variant_price>31622.50</variant_price>
+    <variant_price>23887.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Дивани / Модульні дивани</category>
     <shopify_id>fr-22-6</shopify_id>
@@ -215746,7 +215704,7 @@
   <item>
     <sku>6363</sku>
     <name>Беcкаркасный модульный диван &quot;Дакота&quot; жемчужный серый</name>
-    <variant_price>44544.50</variant_price>
+    <variant_price>33442.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Дивани / Модульні дивани</category>
     <shopify_id>fr-22-6</shopify_id>
@@ -215989,7 +215947,7 @@
   <item>
     <sku>6378</sku>
     <name>Керамический стол Савона TM-240 белый мрамор + черный</name>
-    <variant_price>16334.50</variant_price>
+    <variant_price>14059.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -216030,7 +215988,7 @@
   <item>
     <sku>6379</sku>
     <name>Керамический стол Савона TM-240 травертин навона + орех</name>
-    <variant_price>16334.50</variant_price>
+    <variant_price>14059.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -216071,7 +216029,7 @@
   <item>
     <sku>6380</sku>
     <name>Керамический стол Савона TM-241 крема саббия + капучино</name>
-    <variant_price>17972.50</variant_price>
+    <variant_price>16152.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
@@ -216112,7 +216070,7 @@
   <item>
     <sku>6381</sku>
     <name>Керамический стол Савона TM-241 травертин навона + орех</name>
-    <variant_price>17972.50</variant_price>
+    <variant_price>16152.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
