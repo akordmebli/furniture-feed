@@ -200768,7 +200768,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -206916,6 +206916,54 @@
     </images>
   </item>
   <item>
+    <sku>6164</sku>
+    <name>Стул N-54 голубой топаз велюр + белый</name>
+    <variant_price>1137.50</variant_price>
+    <vendor>Vetro Mebel</vendor>
+    <category>Стільці / Обідні стільці</category>
+    <shopify_id>fr-7-9</shopify_id>
+    <available>true</available>
+    <instock/>
+    <barcode/>
+    <meta_title/>
+    <meta_description/>
+    <meta_keywords/>
+    <alias/>
+    <description>&lt;![CDATA[&lt;p&gt;Стул в цвете &lt;a href=&quot;https://vetro.com.ua/ru/category/stulya/stiltsi-blakitnij-topaz/&quot;&gt;голубой топаз&lt;/a&gt; с белыми крашеными ножками достаточно универсален и может хорошо сочетаться с различными цветами столов, в зависимости от вашего предпочтения и стиля интерьера.&lt;/p&gt;&lt;p&gt;Материал обивки: &lt;a href=&quot;https://vetro.com.ua/ru/category/stulya-kuhonnye/stulya-velyurovye&quot;&gt;велюр&lt;/a&gt;. Велюр - мягкий и шелковистый материал, который создает ощущение комфорта и роскоши. Он идеально подходит для мебели, на которой вы проводите много времени.&lt;/p&gt;&lt;p&gt;Материал основания: крашеный металл. Металлическое основание обеспечивает стабильность и надежность стула, придавая ему долговечность.&lt;/p&gt;&lt;p&gt;Ширина сидения: 53 см. Широкое сиденье обеспечивает комфортное расположение и подходит для различных пользователей.&lt;/p&gt;]]&gt;</description>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <variant_image>https://vetro.com.ua/storage/22231/679b370065098_66f6be6c9ebea_66f6be3f98938_DSC04018.jpg</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/22231/679b370065098_66f6be6c9ebea_66f6be3f98938_DSC04018.jpg</image>
+      <image>https://vetro.com.ua/storage/22231/679b370065098_66f6be6c9ebea_66f6be3f98938_DSC04018.jpg</image>
+      <image>https://vetro.com.ua/storage/20056/66f6be74abfb7_66f6be3f5ed75_DSC04019.jpg</image>
+      <image>https://vetro.com.ua/storage/20057/66f6be7c05571_66f6be03b8ea0_DSC04020.jpg</image>
+      <image>https://vetro.com.ua/storage/20058/66f6be83eeaaf_66f6be0180421_DSC04021.jpg</image>
+      <image>https://vetro.com.ua/storage/20059/66f6be8b80783_66f6be019dd43_DSC04022.jpg</image>
+      <image>https://vetro.com.ua/storage/19879/6699053428301_n-54-blakitniy-topaz-biliy6.jpg</image>
+      <image>https://vetro.com.ua/storage/19880/66990534965d3_n-54-blakitniy-topaz-biliy10.jpg</image>
+      <image>https://vetro.com.ua/storage/19881/66990534451ef_n-54-blakitniy-topaz-biliy7.jpg</image>
+      <image>https://vetro.com.ua/storage/19882/6699053460185_n-54-blakitniy-topaz-biliy8.jpg</image>
+      <image>https://vetro.com.ua/storage/19883/669905347496a_n-54-blakitniy-topaz-biliy9.jpg</image>
+      <image>https://vetro.com.ua/storage/19884/669ccc6792e11_669cba2d2dcac_tm-110-biliy-marmur-biliy1.jpg</image>
+      <image>https://vetro.com.ua/storage/19885/669ccc67baf5f_669cba2d356a8_tm-110-biliy-marmur-biliy2.jpg</image>
+      <image>https://vetro.com.ua/storage/19886/669ccc6796223_669cba2da9718_tm-110-biliy-marmur-biliy6.jpg</image>
+    </images>
+  </item>
+  <item>
     <sku>6165</sku>
     <name>Стул N-54 капучино велюр + дуб</name>
     <variant_price>2502.50</variant_price>
@@ -209087,6 +209135,54 @@
       <image>https://vetro.com.ua/storage/26592/68511e119aba7_stil-tereza-tml-1260-grey-travertin-chorniy5.jpg</image>
       <image>https://vetro.com.ua/storage/26590/68511e10d306c_stil-tereza-tml-1260-grey-travertin-chorniy3.jpg</image>
       <image>https://vetro.com.ua/storage/27147/6877484eeb6b9_TML-1260-(1).glb</image>
+    </images>
+  </item>
+  <item>
+    <sku>6214</sku>
+    <name>Журнальный стол &quot;Кристиано&quot; аврора голд + бежевый</name>
+    <variant_price>14059.50</variant_price>
+    <vendor>Vetro Mebel</vendor>
+    <category>Столи / Журнальні столики і консолі</category>
+    <shopify_id>fr-24-1</shopify_id>
+    <available>false</available>
+    <instock/>
+    <barcode/>
+    <meta_title/>
+    <meta_description/>
+    <meta_keywords/>
+    <alias/>
+    <description>&lt;![CDATA[&lt;p&gt;Журнальный стол &lt;strong&gt;&quot;Кристиано&quot;&lt;/strong&gt; в цвете &lt;strong&gt;аврора голд + бежевый&lt;/strong&gt; — это сочетание элегантности и современного стиля. Его прямоугольная столешница, выполненная из матовой керамики в сочетании с закалённым стеклом, отличается изысканным внешним видом и практичностью. Благодаря стойкости к царапинам, влаге и высоким температурам поверхность сохраняет безупречный вид даже при ежедневном использовании.&lt;/p&gt;&lt;p&gt;Основание из окрашенного металла придаёт конструкции прочность, гармонично сочетаясь с благородными оттенками столешницы. Лёгкость форм и утончённые детали делают этот стол стильным акцентом в любом интерьере. Идеальные пропорции и приятная цветовая палитра наполняют пространство атмосферой уюта и утончённости.&lt;/p&gt;]]&gt;</description>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <variant_image>https://vetro.com.ua/storage/26855/685544a405a69_68551cf251c1f_zhurnalniy-stil-kristiano-avrora-gold-bezheviy1.jpg</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/26855/685544a405a69_68551cf251c1f_zhurnalniy-stil-kristiano-avrora-gold-bezheviy1.jpg</image>
+      <image>https://vetro.com.ua/storage/26855/685544a405a69_68551cf251c1f_zhurnalniy-stil-kristiano-avrora-gold-bezheviy1.jpg</image>
+      <image>https://vetro.com.ua/storage/25944/683d5e58c598a_zhurnalniy-stil-kristiano-avrora-gold-bezheviy1.jpg</image>
+      <image>https://vetro.com.ua/storage/25945/683d5f50a72ae_kristiano-avrora-gold-bezheviy1.jpg</image>
+      <image>https://vetro.com.ua/storage/26023/684171d39fe98_kristiano-avrora-gold-bezheviy6.jpg</image>
+      <image>https://vetro.com.ua/storage/26024/684171d3b7ca3_kristiano-avrora-gold-bezheviy5.jpg</image>
+      <image>https://vetro.com.ua/storage/26025/684171d45b912_kristiano-avrora-gold-bezheviy7.jpg</image>
+      <image>https://vetro.com.ua/storage/26831/68551361edfaa_6855134d1ac65_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy1.jpg</image>
+      <image>https://vetro.com.ua/storage/26832/6855136b1a033_6855134d1a37d_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy2.jpg</image>
+      <image>https://vetro.com.ua/storage/26829/6855134f2bb53_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy3.jpg</image>
+      <image>https://vetro.com.ua/storage/26833/6855137db2de2_6855134eaf812_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy4.jpg</image>
+      <image>https://vetro.com.ua/storage/26830/685513502c837_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy5.jpg</image>
+      <image>https://vetro.com.ua/storage/26834/6855138c650b1_6855135046fdf_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy6.jpg</image>
+      <image>https://vetro.com.ua/storage/30822/69be7d6eb6b90_69b967907a38b_69b967259f90f_bezkarkasniy-modulniy-divan-dakota-perlinniy-bezh10.jpg</image>
     </images>
   </item>
   <item>
@@ -213736,7 +213832,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -215381,7 +215477,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Садові та вуличні меблі / Садові меблі</category>
     <shopify_id>fr-15-2</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -215751,7 +215847,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
