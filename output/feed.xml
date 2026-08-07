@@ -209138,54 +209138,6 @@
     </images>
   </item>
   <item>
-    <sku>6214</sku>
-    <name>Журнальный стол &quot;Кристиано&quot; аврора голд + бежевый</name>
-    <variant_price>14059.50</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <category>Столи / Журнальні столики і консолі</category>
-    <shopify_id>fr-24-1</shopify_id>
-    <available>false</available>
-    <instock/>
-    <barcode/>
-    <meta_title/>
-    <meta_description/>
-    <meta_keywords/>
-    <alias/>
-    <description>&lt;![CDATA[&lt;p&gt;Журнальный стол &lt;strong&gt;&quot;Кристиано&quot;&lt;/strong&gt; в цвете &lt;strong&gt;аврора голд + бежевый&lt;/strong&gt; — это сочетание элегантности и современного стиля. Его прямоугольная столешница, выполненная из матовой керамики в сочетании с закалённым стеклом, отличается изысканным внешним видом и практичностью. Благодаря стойкости к царапинам, влаге и высоким температурам поверхность сохраняет безупречный вид даже при ежедневном использовании.&lt;/p&gt;&lt;p&gt;Основание из окрашенного металла придаёт конструкции прочность, гармонично сочетаясь с благородными оттенками столешницы. Лёгкость форм и утончённые детали делают этот стол стильным акцентом в любом интерьере. Идеальные пропорции и приятная цветовая палитра наполняют пространство атмосферой уюта и утончённости.&lt;/p&gt;]]&gt;</description>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <variant_image>https://vetro.com.ua/storage/26855/685544a405a69_68551cf251c1f_zhurnalniy-stil-kristiano-avrora-gold-bezheviy1.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/26855/685544a405a69_68551cf251c1f_zhurnalniy-stil-kristiano-avrora-gold-bezheviy1.jpg</image>
-      <image>https://vetro.com.ua/storage/26855/685544a405a69_68551cf251c1f_zhurnalniy-stil-kristiano-avrora-gold-bezheviy1.jpg</image>
-      <image>https://vetro.com.ua/storage/25944/683d5e58c598a_zhurnalniy-stil-kristiano-avrora-gold-bezheviy1.jpg</image>
-      <image>https://vetro.com.ua/storage/25945/683d5f50a72ae_kristiano-avrora-gold-bezheviy1.jpg</image>
-      <image>https://vetro.com.ua/storage/26023/684171d39fe98_kristiano-avrora-gold-bezheviy6.jpg</image>
-      <image>https://vetro.com.ua/storage/26024/684171d3b7ca3_kristiano-avrora-gold-bezheviy5.jpg</image>
-      <image>https://vetro.com.ua/storage/26025/684171d45b912_kristiano-avrora-gold-bezheviy7.jpg</image>
-      <image>https://vetro.com.ua/storage/26831/68551361edfaa_6855134d1ac65_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy1.jpg</image>
-      <image>https://vetro.com.ua/storage/26832/6855136b1a033_6855134d1a37d_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy2.jpg</image>
-      <image>https://vetro.com.ua/storage/26829/6855134f2bb53_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy3.jpg</image>
-      <image>https://vetro.com.ua/storage/26833/6855137db2de2_6855134eaf812_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy4.jpg</image>
-      <image>https://vetro.com.ua/storage/26830/685513502c837_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy5.jpg</image>
-      <image>https://vetro.com.ua/storage/26834/6855138c650b1_6855135046fdf_1zhurnalniy-stil-kristiano-avrora-gold-bezheviy6.jpg</image>
-      <image>https://vetro.com.ua/storage/30822/69be7d6eb6b90_69b967907a38b_69b967259f90f_bezkarkasniy-modulniy-divan-dakota-perlinniy-bezh10.jpg</image>
-    </images>
-  </item>
-  <item>
     <sku>6215</sku>
     <name>Кофейный стол &quot;Кристиано&quot; аврора голд + бежевый</name>
     <variant_price>9782.50</variant_price>
@@ -209335,63 +209287,6 @@
       <image>https://vetro.com.ua/storage/28296/68ed3ca4271ac_stil-lunario-tml-1322-klaudi-grey-ayvori7.JPG</image>
       <image>https://vetro.com.ua/storage/28299/68ed3ca4b4afc_stil-lunario-tml-1322-klaudi-grey-ayvori11.JPG</image>
       <image>https://vetro.com.ua/storage/28298/68ed3ca46f9b4_stil-lunario-tml-1322-klaudi-grey-ayvori10.JPG</image>
-    </images>
-  </item>
-  <item>
-    <sku>6221</sku>
-    <name>Стул поворотный R-170 серебряный + чёрный</name>
-    <variant_price>2184.00</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <category>Крісла / Обідні крісла</category>
-    <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
-    <instock/>
-    <barcode/>
-    <meta_title/>
-    <meta_description/>
-    <meta_keywords/>
-    <alias/>
-    <description>&lt;![CDATA[&lt;p&gt;Современный поворотный стул R-170 в оттенке «серебряный» — стильное и практичное решение для обеденной зоны, рабочего кабинета или креативного пространства. Обивка из твида шамбре имеет приятную текстуру, отличается устойчивостью к износу и элегантным внешним видом. Эргономичное сиденье шириной 49 см обеспечивает комфортную посадку, а поворот на 360° дарит свободу движений без необходимости вставать.&lt;/p&gt;&lt;p&gt;Основание выполнено из прочного металла, окрашенного в чёрный цвет — надёжное и визуально контрастное по отношенню к текстильной части. Благодаря продуманным пропорциям (глубина сиденья 45 см, высота до сиденья — 50,5 см, общая высота — 86 см), стул идеально подойдёт к большинству стандартных столов.&lt;/p&gt;&lt;p&gt;Стул R-170 — удачное сочетание комфорта, современной эстетики и функциональности.&lt;/p&gt;]]&gt;</description>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <variant_image>https://vetro.com.ua/storage/25380/680894bae481e_680894a471540_stilec-povorotniy-r-170-sribniy-chorniy1.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/25380/680894bae481e_680894a471540_stilec-povorotniy-r-170-sribniy-chorniy1.jpg</image>
-      <image>https://vetro.com.ua/storage/25380/680894bae481e_680894a471540_stilec-povorotniy-r-170-sribniy-chorniy1.jpg</image>
-      <image>https://vetro.com.ua/storage/25381/680894dcdd87e_680893962e998_stilec-povorotniy-r-170-sribniy-chorniy2.jpg</image>
-      <image>https://vetro.com.ua/storage/25374/680893963026b_stilec-povorotniy-r-170-sribniy-chorniy3.jpg</image>
-      <image>https://vetro.com.ua/storage/25375/68089396a250e_stilec-povorotniy-r-170-sribniy-chorniy4.jpg</image>
-      <image>https://vetro.com.ua/storage/25376/68089396a5d2a_stilec-povorotniy-r-170-sribniy-chorniy5.jpg</image>
-      <image>https://vetro.com.ua/storage/25383/6808971b05d1d_stilec-povorotniy-r-170-sribniy-chorniy7.jpg</image>
-      <image>https://vetro.com.ua/storage/25382/68089667e6a49_stilec-povorotniy-r-170-sribniy-chorniy6.jpg</image>
-      <image>https://vetro.com.ua/storage/25384/6808971b0d4b4_stilec-povorotniy-r-170-sribniy-chorniy8.jpg</image>
-      <image>https://vetro.com.ua/storage/25391/68089ae8d7980_stilec-povorotniy-r-170-sribniy-chorniy10.jpg</image>
-      <image>https://vetro.com.ua/storage/25390/68089ab084b2f_stilec-povorotniy-r-170-sribniy-chorniy13.jpg</image>
-      <image>https://vetro.com.ua/storage/25387/6808971d3a613_stilec-povorotniy-r-170-sribniy-chorniy11.jpg</image>
-      <image>https://vetro.com.ua/storage/25388/6808971d436b5_stilec-povorotniy-r-170-sribniy-chorniy12.jpg</image>
-      <image>https://vetro.com.ua/storage/23897/67d6b842e99f4_stilec-povorotniy-r-170-sribniy-chorniy1.jpg</image>
-      <image>https://vetro.com.ua/storage/23906/67d6b88617fc7_stilec-povorotniy-r-170-sribniy-chorniy10.jpg</image>
-      <image>https://vetro.com.ua/storage/23905/67d6b8861cb00_stilec-povorotniy-r-170-sribniy-chorniy9.jpg</image>
-      <image>https://vetro.com.ua/storage/23904/67d6b884d6ca4_stilec-povorotniy-r-170-sribniy-chorniy8.jpg</image>
-      <image>https://vetro.com.ua/storage/23903/67d6b884c79e9_stilec-povorotniy-r-170-sribniy-chorniy7.jpg</image>
-      <image>https://vetro.com.ua/storage/26332/684aa112a75f8_nardo-tml-1270-klaudi-grey-chorniy11.jpg</image>
-      <image>https://vetro.com.ua/storage/26333/684aa1132ddba_nardo-tml-1270-klaudi-grey-chorniy12.jpg</image>
-      <image>https://vetro.com.ua/storage/26331/684aa112a760a_nardo-tml-1270-klaudi-grey-chorniy10.jpg</image>
-      <image>https://vetro.com.ua/storage/26335/684aa1137d451_nardo-tml-1270-klaudi-grey-chorniy15.jpg</image>
-      <image>https://vetro.com.ua/storage/26334/684aa1132c392_nardo-tml-1270-klaudi-grey-chorniy14.jpg</image>
     </images>
   </item>
   <item>
@@ -209755,7 +209650,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / Обідні крісла</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -214293,7 +214188,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -215372,7 +215267,7 @@
   <item>
     <sku>6354</sku>
     <name>Стул барный садовый &quot;Равелло&quot; ODB-10 айвори + белый дуб</name>
-    <variant_price>14105.00</variant_price>
+    <variant_price>7052.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <category>Садові та вуличні меблі / Садові меблі</category>
     <shopify_id>fr-15-2</shopify_id>
@@ -215667,7 +215562,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Садові та вуличні меблі / Садові меблі</category>
     <shopify_id>fr-15-2</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
