@@ -203965,7 +203965,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -204205,7 +204205,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -206913,54 +206913,6 @@
       <image>https://vetro.com.ua/storage/23097/67b35a7a1f578_67b35a1d68304_stil-beatriche-tml-995-tayger-travertin-korichneviy1.jpg</image>
       <image>https://vetro.com.ua/storage/23090/67b35a1d6e129_stil-beatriche-tml-995-tayger-travertin-korichneviy2.jpg</image>
       <image>https://vetro.com.ua/storage/30427/6992d7f81362e_M-217_forest-(1).glb</image>
-    </images>
-  </item>
-  <item>
-    <sku>6164</sku>
-    <name>Стул N-54 голубой топаз велюр + белый</name>
-    <variant_price>1137.50</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <category>Стільці / Обідні стільці</category>
-    <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
-    <instock/>
-    <barcode/>
-    <meta_title/>
-    <meta_description/>
-    <meta_keywords/>
-    <alias/>
-    <description>&lt;![CDATA[&lt;p&gt;Стул в цвете &lt;a href=&quot;https://vetro.com.ua/ru/category/stulya/stiltsi-blakitnij-topaz/&quot;&gt;голубой топаз&lt;/a&gt; с белыми крашеными ножками достаточно универсален и может хорошо сочетаться с различными цветами столов, в зависимости от вашего предпочтения и стиля интерьера.&lt;/p&gt;&lt;p&gt;Материал обивки: &lt;a href=&quot;https://vetro.com.ua/ru/category/stulya-kuhonnye/stulya-velyurovye&quot;&gt;велюр&lt;/a&gt;. Велюр - мягкий и шелковистый материал, который создает ощущение комфорта и роскоши. Он идеально подходит для мебели, на которой вы проводите много времени.&lt;/p&gt;&lt;p&gt;Материал основания: крашеный металл. Металлическое основание обеспечивает стабильность и надежность стула, придавая ему долговечность.&lt;/p&gt;&lt;p&gt;Ширина сидения: 53 см. Широкое сиденье обеспечивает комфортное расположение и подходит для различных пользователей.&lt;/p&gt;]]&gt;</description>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <variant_image>https://vetro.com.ua/storage/22231/679b370065098_66f6be6c9ebea_66f6be3f98938_DSC04018.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/22231/679b370065098_66f6be6c9ebea_66f6be3f98938_DSC04018.jpg</image>
-      <image>https://vetro.com.ua/storage/22231/679b370065098_66f6be6c9ebea_66f6be3f98938_DSC04018.jpg</image>
-      <image>https://vetro.com.ua/storage/20056/66f6be74abfb7_66f6be3f5ed75_DSC04019.jpg</image>
-      <image>https://vetro.com.ua/storage/20057/66f6be7c05571_66f6be03b8ea0_DSC04020.jpg</image>
-      <image>https://vetro.com.ua/storage/20058/66f6be83eeaaf_66f6be0180421_DSC04021.jpg</image>
-      <image>https://vetro.com.ua/storage/20059/66f6be8b80783_66f6be019dd43_DSC04022.jpg</image>
-      <image>https://vetro.com.ua/storage/19879/6699053428301_n-54-blakitniy-topaz-biliy6.jpg</image>
-      <image>https://vetro.com.ua/storage/19880/66990534965d3_n-54-blakitniy-topaz-biliy10.jpg</image>
-      <image>https://vetro.com.ua/storage/19881/66990534451ef_n-54-blakitniy-topaz-biliy7.jpg</image>
-      <image>https://vetro.com.ua/storage/19882/6699053460185_n-54-blakitniy-topaz-biliy8.jpg</image>
-      <image>https://vetro.com.ua/storage/19883/669905347496a_n-54-blakitniy-topaz-biliy9.jpg</image>
-      <image>https://vetro.com.ua/storage/19884/669ccc6792e11_669cba2d2dcac_tm-110-biliy-marmur-biliy1.jpg</image>
-      <image>https://vetro.com.ua/storage/19885/669ccc67baf5f_669cba2d356a8_tm-110-biliy-marmur-biliy2.jpg</image>
-      <image>https://vetro.com.ua/storage/19886/669ccc6796223_669cba2da9718_tm-110-biliy-marmur-biliy6.jpg</image>
     </images>
   </item>
   <item>
