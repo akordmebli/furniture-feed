@@ -200813,7 +200813,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Крісла / Обідні крісла</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -202917,7 +202917,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -203965,7 +203965,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>false</available>
+    <available>true</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -204103,7 +204103,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -204146,6 +204146,52 @@
       <image>https://vetro.com.ua/storage/28380/68ef555f135c2_stil-tm-98-biliy-marmur-chorniy2.JPG</image>
       <image>https://vetro.com.ua/storage/12525/658161826cbbf_6548f5e5afd56_tm-87-1-chorniy-oniks-chorniy1.jpg</image>
       <image>https://vetro.com.ua/storage/12526/658161826d921_6548f5e5b797d_tm-87-1-chorniy-oniks-chorniy2.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>6020</sku>
+    <name>Cтул M-70 терракотовый  + черный</name>
+    <variant_price>1592.50</variant_price>
+    <vendor>Vetro Mebel</vendor>
+    <category>Стільці / Обідні стільці</category>
+    <shopify_id>fr-7-9</shopify_id>
+    <available>true</available>
+    <instock/>
+    <barcode/>
+    <meta_title/>
+    <meta_description/>
+    <meta_keywords/>
+    <alias/>
+    <description>&lt;![CDATA[]]&gt;</description>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <variant_image>https://vetro.com.ua/storage/11899/654cefb1591ff_m-70-terakotoviy-chorniy8.jpg</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/11899/654cefb1591ff_m-70-terakotoviy-chorniy8.jpg</image>
+      <image>https://vetro.com.ua/storage/11899/654cefb1591ff_m-70-terakotoviy-chorniy8.jpg</image>
+      <image>https://vetro.com.ua/storage/11900/654cefb15e028_m-70-terakotoviy-chorniy7.jpg</image>
+      <image>https://vetro.com.ua/storage/11898/654cefb134ff1_m-70-terakotoviy-chorniy6.jpg</image>
+      <image>https://vetro.com.ua/storage/11901/654cefb17dee9_m-70-terakotoviy-chorniy9.jpg</image>
+      <image>https://vetro.com.ua/storage/11896/654cefb10cefb_m-70-terakotoviy-chorniy4.jpg</image>
+      <image>https://vetro.com.ua/storage/11897/654cefb132846_m-70-terakotoviy-chorniy5.jpg</image>
+      <image>https://vetro.com.ua/storage/11895/654cefb105f1a_m-70-terakotoviy-chorniy3.jpg</image>
+      <image>https://vetro.com.ua/storage/11894/654cefb0d0e0e_m-70-terakotoviy-chorniy2.jpg</image>
+      <image>https://vetro.com.ua/storage/11893/654cefb0ce9be_m-70-terakotoviy-chorniy1.jpg</image>
+      <image>https://vetro.com.ua/storage/12484/6581586bd237b_6544e9607a040_tm-80-chorniy-oniks-chorniy4.jpg</image>
+      <image>https://vetro.com.ua/storage/12485/6581589a1c942_652fd89a8274a_tm-76-chernyy-oniks4.jpg</image>
     </images>
   </item>
   <item>
@@ -204447,7 +204493,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -208324,7 +208370,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -212948,7 +212994,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Столи / Обідні столи</category>
     <shopify_id>fr-24-4</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
@@ -216100,7 +216146,7 @@
     <vendor>Vetro Mebel</vendor>
     <category>Стільці / Обідні стільці</category>
     <shopify_id>fr-7-9</shopify_id>
-    <available>true</available>
+    <available>false</available>
     <instock/>
     <barcode/>
     <meta_title/>
