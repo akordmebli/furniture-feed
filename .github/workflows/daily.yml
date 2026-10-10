@@ -26,7 +26,16 @@ jobs:
           WOODMAN_CSV: ${{ secrets.WOODMAN_CSV }}
           VETRO_XML: ${{ secrets.VETRO_XML }}
           COMEFOR_XML: ${{ secrets.COMEFOR_XML }}
+          WOODMAN_ENABLED: '0'
         run: python process.py
+
+      - name: Upload unmapped categories log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: unmapped
+          path: unmapped.log
+          if-no-files-found: ignore
 
       - name: Upload feed
         uses: actions/upload-artifact@v4
