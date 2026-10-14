@@ -263,7 +263,9 @@ def parse_comefor(text):
                     x = float(m[1].replace(",", "."))
                     height = str(round(x / 10 if m[2] == "мм" else x))
                     break
-        size = re.search(r"(\d{2,3})\s*[xх×]\s*(\d{3})", name)
+        size = re.search(r"(\d{2,3})\s*[xхX×]\s*(\d{2,3})\b", name)
+        if not size:  # подушки: розмір лише в параметрі «Розмір»
+            size = re.search(r"(\d{2,3})\s*[xхX×]\s*(\d{2,3})", params.get("Розмір", ""))
         imgs = []
         for e in item.findall("image") + item.findall("picture"):
             if e.text and e.text.strip() not in imgs:
@@ -277,7 +279,8 @@ def parse_comefor(text):
             available=item.findtext("stock", "").strip() in ("В наличии", "В наявності"),
             vendor="Come-For",
             sleep=f"{size[1]}×{size[2]}" if size else "",
-            width=size[1] if size else "", length=size[2] if size else "",
+            width=min(size[1], size[2], key=int) if size else "",
+            length=max(size[1], size[2], key=int) if size else "",
             height=height,
         ))
     return products
@@ -314,6 +317,112 @@ def parse_woodman(text):
     return products
 
 
+
+# ---------- групування у варіанти ----------
+
+SIZE_RE = re.compile(r"\s*(\d{2,3})\s*[xхXХ×*]\s*(\d{2,3})(?:\s*(?:см|cm))?(?=\s|,|$)")
+FRAME_RE = re.compile(r"\s*((?:[а-яіїєґ'’]+ кольору)|без покриття|карамель)\s*$", re.I)
+CODE_RE = re.compile(r"^(.*?\b[A-ZА-Я]{1,4}[- ]?\d[\w\-./]*)\s*(.*)$")
+QUOTE_RE = re.compile(r'^(.*?"[^"]+")\s*(.*)$')
+
+
+TRANSLIT = {
+    "а": "a", "б": "b", "в": "v", "г": "h", "ґ": "g", "д": "d", "е": "e", "є": "ie", "ж": "zh",
+    "з": "z", "и": "y", "і": "i", "ї": "i", "й": "i", "к": "k", "л": "l", "м": "m", "н": "n",
+    "о": "o", "п": "p", "р": "r", "с": "s", "т": "t", "у": "u", "ф": "f", "х": "kh", "ц": "ts",
+    "ч": "ch", "ш": "sh", "щ": "shch", "ю": "iu", "я": "ia", "ь": "", "'": "", "’": "",
+}
+
+
+def slug(s):
+    out = "".join(TRANSLIT.get(ch, ch) for ch in s.lower())
+    return re.sub(r"[^a-z0-9]+", "-", out).strip("-")
+
+
+def split_comefor(p):
+    m = re.search(r"\s*(\d{2,3})\s*[xхX×]\s*(\d{2,3})\b", p["name"])
+    if not m:
+        return p["name"], {}
+    base = (p["name"][:m.start()] + p["name"][m.end():]).strip()
+    return base, {"Розмір": f"{m[1]}×{m[2]}"}
+
+
+def split_vetro(p):
+    n = p["name"]
+    m = QUOTE_RE.match(n) or CODE_RE.match(n)
+    if not m or not m[2].strip():
+        return n, {}
+    return m[1].strip(), {"Колір": m[2].strip()}
+
+
+def split_woodman(p):
+    n = p["name"]
+    opts = {}
+    if ", " in n:
+        n, fabric = n.rsplit(", ", 1)
+        opts["Колір тканини"] = fabric.strip()
+    sz = SIZE_RE.search(n)
+    if sz:
+        opts["Розмір"] = f"{sz[1]}×{sz[2]}"
+        n = (n[:sz.start()] + n[sz.end():]).strip()
+    fm = FRAME_RE.search(n)
+    if fm:
+        opts["Колір каркаса"] = fm[1].strip()
+        n = n[:fm.start()].strip()
+    return n, opts
+
+
+SPLITTERS = {"comefor": split_comefor, "vetro": split_vetro, "woodman": split_woodman}
+OPTION_ORDER = ["Розмір", "Колір каркаса", "Колір тканини", "Колір"]
+
+
+def group_variants(products):
+    """Об'єднує постачальницькі позиції в один товар з варіантами.
+    Фід лишається плоским (один <item> = один варіант), спільний handle групує варіанти."""
+    out, groups = [], {}
+    for p in products:
+        sp = SPLITTERS.get(p["source"])
+        if not sp:
+            out.append(p)
+            continue
+        base, opts = sp(p)
+        key = (p["source"], p["product_type"], base)
+        p["group_name"], p["group_opts"] = base, opts
+        groups.setdefault(key, []).append(p)
+    for (src, ptype, base), items in groups.items():
+        # розмір — як опція, якщо габарити відрізняються всередині групи
+        if len(items) > 1 and not all("Розмір" in i["group_opts"] for i in items):
+            dims = {(i["length"], i["width"]) for i in items}
+            if len(dims) > 1 and all(i["length"] and i["width"] for i in items):
+                for i in items:
+                    i["group_opts"] = {"Розмір": f'{i["width"]}×{i["length"]}', **i["group_opts"]}
+        names = [n for n in OPTION_ORDER if any(n in i["group_opts"] for i in items)]
+        names = [n for n in names if len({i["group_opts"].get(n, "—") for i in items}) > 1][:3]
+        # однакові комбінації опцій не можна — тоді не групуємо, щоб нічого не загубити
+        combos = [tuple(i["group_opts"].get(n, "—") for n in names) for i in items]
+        handle = f"{src}-{slug(base)}"[:120]
+        if len(items) == 1 or not names or len(set(combos)) != len(items):
+            for i in items:
+                i["option_names"], i["option_values"] = [], []
+                i["handle"] = handle if len(items) == 1 else i["handle"]
+                if len(items) > 1:
+                    i["group_name"] = i["name"]
+                out.append(i)
+            continue
+        for i, c in zip(items, combos):
+            i["handle"] = handle
+            i["name"] = base
+            i["option_names"], i["option_values"] = names, list(c)
+            out.append(i)
+    seen = set()
+    for p in out:  # SKU у фіді постачальника інколи дублюється — робимо унікальним
+        if p["sku"] in seen:
+            suffix = "-".join(p.get("option_values") or []) or p["handle"]
+            p["sku"] = f'{p["sku"]}-{slug(suffix)}'
+        seen.add(p["sku"])
+    return out
+
+
 # ---------- вивід ----------
 
 def build_xml(products):
@@ -340,6 +449,10 @@ def build_xml(products):
             ET.SubElement(item, tag).text = str(val or "")
         for tag in OPT_TAGS:
             ET.SubElement(item, tag).text = str(p["opts"].get(tag, "") or "")
+        names, vals = p.get("option_names", []), p.get("option_values", [])
+        for n in range(3):
+            ET.SubElement(item, f"option{n + 1}_name").text = names[n] if n < len(names) else ""
+            ET.SubElement(item, f"option{n + 1}_value").text = vals[n] if n < len(vals) else ""
         ET.SubElement(item, "variant_image").text = p["images"][0] if p["images"] else ""
         images_el = ET.SubElement(item, "images")
         for img in p["images"]:
@@ -353,7 +466,7 @@ def main():
         ("Акорд (ВНД)", "AKORD_CSV", parse_akord, True),
         ("Vetro", "VETRO_XML", parse_vetro, True),
         ("Come-For", "COMEFOR_XML", parse_comefor, True),
-        ("Woodman", "WOODMAN_CSV", parse_woodman, os.environ.get("WOODMAN_ENABLED") == "1"),
+        ("Woodman", "WOODMAN_CSV", parse_woodman, os.environ.get("WOODMAN_ENABLED", "1") == "1"),
     ]
     all_products, failed = [], []
     for label, env, parser, enabled in sources:
@@ -385,6 +498,7 @@ def main():
         print(f"\nФід НЕ оновлено: не вдалося завантажити {', '.join(failed)}")
         sys.exit(1)
 
+    all_products = group_variants(all_products)
     os.makedirs("output", exist_ok=True)
     with open("output/feed.xml", "w", encoding="utf-8") as f:
         f.write(build_xml(all_products))

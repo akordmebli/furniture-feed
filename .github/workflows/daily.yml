@@ -26,7 +26,7 @@ jobs:
           WOODMAN_CSV: ${{ secrets.WOODMAN_CSV }}
           VETRO_XML: ${{ secrets.VETRO_XML }}
           COMEFOR_XML: ${{ secrets.COMEFOR_XML }}
-          WOODMAN_ENABLED: '0'
+          WOODMAN_ENABLED: '1'
         run: python process.py
 
       - name: Upload unmapped categories log
