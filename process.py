@@ -510,7 +510,7 @@ def build_xml(products):
             ("tags", ", ".join(p["tags"])),
             ("available", "true" if (p["available"] or p["source"] == "akord") else "false"),
             ("quantity", stock_qty(p)),
-            ("instock", p["instock"]), ("barcode", p["barcode"]),
+            ("instock", stock_qty(p)), ("barcode", p["barcode"]),
             ("meta_title", p["meta_title"]), ("meta_description", p["meta_description"]),
             ("meta_keywords", p["meta_keywords"]), ("alias", p["handle"]),
             ("description", p["description"]),
