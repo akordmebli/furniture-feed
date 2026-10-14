@@ -183,13 +183,13 @@ def parse_akord(text):
         if "нерозкладн" in cat.lower() or "нерозкладн" in (row.get("ShortDescription", "") or "").lower():
             tags.append("нерозкладний")
 
-        images_raw = row.get("variant_image", "") or row.get("Images", "") or ""
+        images_raw = row.get("image", "") or row.get("variant_image", "") or row.get("Images", "") or ""
         images = [i.strip() for i in images_raw.split(",") if i.strip()]
 
         products.append(product(
             source="akord", sku=sku, handle=str(row.get("Alias", "") or ""),
             name=name,
-            price=clean_price(row.get("variant_price", "") or row.get("Price", "")),
+            price=clean_price(row.get("price", "") or row.get("variant_price", "") or row.get("Price", "")),
             product_type=leaf, images=images,
             description=clean_text(row.get("ShortDescription", "")),
             available=str(row.get("IsAvailable", "")).strip() == "Available",
