@@ -390,12 +390,41 @@ SPLITTERS = {"comefor": split_comefor, "vetro": split_vetro, "woodman": split_wo
 OPTION_ORDER = ["Розмір", "Колір каркаса", "Колір тканини", "Колір"]
 
 
+
+AKORD_OPT_LABELS = {
+    "sleep_size": "Спальне місце", "dimensions": "Розміри", "tabletop_size": "Розмір стільниці",
+    "fabric": "Категорія тканини", "leg_color": "Колір ніжок", "frame_color": "Колір каркаса",
+    "mechanism": "Механізм", "mattress_included": "Матрац", "pillows": "Подушки",
+    "back_fabric": "Тканина спинки", "material": "Матеріал", "modules": "Модулі",
+    "length_opt": "Довжина", "width_opt": "Ширина", "height_opt": "Висота",
+}  # порядок = пріоритет; Shopify дозволяє лише 3 опції, решта йде в значення останньої
+
+
+def akord_options(items):
+    """Опції варіантів ВНД: лише ті характеристики, що відрізняються всередині товару (handle)."""
+    vary = [t for t in AKORD_OPT_LABELS if len({i["opts"].get(t, "") for i in items}) > 1]
+    for i in items:
+        i["option_names"], i["option_values"] = [], []
+        if not vary:
+            continue
+        head, tail = vary[:2], vary[2:]
+        cols = [[t] for t in head] + ([tail] if tail else [])
+        for grp in cols:
+            vals = [i["opts"].get(t, "") for t in grp if i["opts"].get(t, "")]
+            i["option_names"].append(" / ".join(AKORD_OPT_LABELS[t] for t in grp) if len(grp) > 1 else AKORD_OPT_LABELS[grp[0]])
+            i["option_values"].append(" / ".join(vals) or "—")
+
+
 def group_variants(products):
     """Об'єднує постачальницькі позиції в один товар з варіантами.
     Фід лишається плоским (один <item> = один варіант), спільний handle групує варіанти."""
-    out, groups = [], {}
+    out, groups, akord = [], {}, {}
     for p in products:
         sp = SPLITTERS.get(p["source"])
+        if p["source"] == "akord":
+            akord.setdefault(p["handle"], []).append(p)
+            out.append(p)
+            continue
         if not sp:
             out.append(p)
             continue
@@ -428,6 +457,8 @@ def group_variants(products):
             i["name"] = base
             i["option_names"], i["option_values"] = names, list(c)
             out.append(i)
+    for items in akord.values():
+        akord_options(items)
     seen = set()
     for p in out:  # SKU у фіді постачальника інколи дублюється — робимо унікальним
         if p["sku"] in seen:
