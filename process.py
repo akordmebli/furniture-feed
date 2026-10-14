@@ -160,6 +160,7 @@ def product(**kw):
 def parse_akord(text):
     products = []
     reader = csv.DictReader(StringIO(text))
+    print('AKORD columns:', reader.fieldnames)
     seen = set()
     for row in reader:
         sku = str(row.get("Sku", "") or "").strip()
