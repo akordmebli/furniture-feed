@@ -290,7 +290,7 @@ def parse_comefor(text):
             name=name, price=clean_price(first_text(item, "priceuah", "priceruah", "price") or "0"),
             product_type=leaf, images=imgs,
             description=clean_text(html.unescape(item.findtext("description", "") or "")),
-            available=item.findtext("stock", "").strip() in ("В наличии", "В наявності"),
+            available=comefor_available(item.findtext("stock", "")),
             vendor="Come-For",
             sleep=f"{size[1]}×{size[2]}" if size else "",
             width=min(size[1], size[2], key=int) if size else "",
@@ -478,17 +478,18 @@ def group_variants(products):
 
 
 def stock_qty(p):
-    """Кількість для Shopify: 0 — немає в наявності (варіант стає недоступним).
-    Є реальна кількість (Vetro, ВНД) — беремо її; є лише ознака «в наявності» — ставимо 100."""
-    if not p["available"]:
-        return 0
-    try:
-        q = int(float(str(p["instock"]).replace(",", ".").strip()))
-        if q > 0:
-            return q
-    except (ValueError, TypeError):
-        pass
-    return 100
+    """Кількість для Shopify за ознакою наявності (кількості в постачальників ненадійні):
+    в наявності — 100, немає — 0 (варіант стає недоступним)."""
+    return 100 if p["available"] else 0
+
+
+def comefor_available(stock):
+    t = (stock or "").strip().lower()
+    if not t:
+        return False
+    if any(w in t for w in ("немає", "нет", "відсутн", "закінч", "закончил", "замовлення", "заказ", "out")):
+        return False
+    return "наявн" in t or "наличи" in t or t in ("true", "1", "yes")
 
 
 # ---------- вивід ----------
