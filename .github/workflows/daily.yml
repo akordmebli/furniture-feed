@@ -25,7 +25,7 @@ jobs:
           AKORD_CSV: ${{ secrets.AKORD_CSV }}
           WOODMAN_CSV: ${{ secrets.WOODMAN_CSV }}
           VETRO_XML: ${{ secrets.VETRO_XML }}
-          COMEFOR_XML: ${{ secrets.COMEFOR_XML }}
+          COMEFOR_XML: https://come-for.com/price/comefor_ua.xml
           WOODMAN_ENABLED: '1'
         run: python -u process.py 2>&1 | tee run.log; exit ${PIPESTATUS[0]}
 
