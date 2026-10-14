@@ -424880,7 +424880,7 @@
   <item>
     <sku>Bruno-console-white-marble</sku>
     <handle>vetro-konsol-bruno</handle>
-    <name>Консоль &quot;Бруно&quot; білий мармур + чорний</name>
+    <name>Консоль &quot;Бруно&quot;</name>
     <variant_price>9509.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -424916,8 +424916,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>білий мармур + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -427143,7 +427143,7 @@
   <item>
     <sku>TM-76-white-marble/ black</sku>
     <handle>vetro-keramichnyi-stil-tm-76</handle>
-    <name>Керамічний стіл TM-76 білий мармур + чорний</name>
+    <name>Керамічний стіл TM-76</name>
     <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -427179,8 +427179,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>білий мармур + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -427204,7 +427204,7 @@
   <item>
     <sku>TM-76-petra-grey/ black</sku>
     <handle>vetro-keramichnyi-stil-tm-76</handle>
-    <name>Керамічний стіл  TM-76</name>
+    <name>Керамічний стіл TM-76</name>
     <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -427266,7 +427266,7 @@
   <item>
     <sku>TM-76-black-onix/black</sku>
     <handle>vetro-keramichnyi-stil-tm-76</handle>
-    <name>Керамічний стіл  TM-76</name>
+    <name>Керамічний стіл TM-76</name>
     <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -427326,7 +427326,7 @@
   <item>
     <sku>TM-76-calacatta-marble/black</sku>
     <handle>vetro-keramichnyi-stil-tm-76</handle>
-    <name>Керамічний стіл  TM-76</name>
+    <name>Керамічний стіл TM-76</name>
     <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -427386,7 +427386,7 @@
   <item>
     <sku>TM-76-white-cloud/white</sku>
     <handle>vetro-keramichnyi-stil-tm-76</handle>
-    <name>Керамічний стіл  TM-76</name>
+    <name>Керамічний стіл TM-76</name>
     <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -427455,7 +427455,7 @@
   <item>
     <sku>TM-76-travertin/oak</sku>
     <handle>vetro-keramichnyi-stil-tm-76</handle>
-    <name>Керамічний стіл  TM-76</name>
+    <name>Керамічний стіл TM-76</name>
     <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -427522,7 +427522,7 @@
   <item>
     <sku>TM-76-golden-sand/putty</sku>
     <handle>vetro-keramichnyi-stil-tm-76</handle>
-    <name>Керамічний стіл  TM-76</name>
+    <name>Керамічний стіл TM-76</name>
     <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -427611,7 +427611,7 @@
   <item>
     <sku>TM-76-crema-sabbia/cappuccino</sku>
     <handle>vetro-keramichnyi-stil-tm-76</handle>
-    <name>Керамічний стіл  TM-76</name>
+    <name>Керамічний стіл TM-76</name>
     <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -429266,7 +429266,7 @@
   <item>
     <sku>Teo-console-bianko-kararra/black</sku>
     <handle>vetro-konsol-teo</handle>
-    <name>Консоль &quot;Тео&quot; б'янко карарра + чорний</name>
+    <name>Консоль &quot;Тео&quot;</name>
     <variant_price>5869.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -429302,8 +429302,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>б'янко карарра + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -429821,7 +429821,7 @@
   <item>
     <sku>M-90-grey/ black</sku>
     <handle>vetro-stilets-m-90</handle>
-    <name>Стілець M-90 сірий + чорний</name>
+    <name>Стілець M-90</name>
     <variant_price>5869.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні стільці</product_type>
@@ -429857,8 +429857,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>сірий + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -429882,7 +429882,7 @@
   <item>
     <sku>M-70-ivory/ black</sku>
     <handle>vetro-stilets-m-70</handle>
-    <name>Стілець M-70 айворі + чорний</name>
+    <name>Стілець M-70</name>
     <variant_price>3594.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні стільці</product_type>
@@ -429918,8 +429918,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>айворі + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -429941,7 +429941,7 @@
   <item>
     <sku>M-72- light-grey-velvet/ black</sku>
     <handle>vetro-stilets-m-72</handle>
-    <name>Стілець M-72 натуральний + чорний</name>
+    <name>Стілець M-72</name>
     <variant_price>3594.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні стільці</product_type>
@@ -429977,8 +429977,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>натуральний + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -430006,7 +430006,7 @@
   <item>
     <sku>M-71-mustard/ black</sku>
     <handle>vetro-stilets-m-71</handle>
-    <name>Стілець M-71 гірчичний + чорний</name>
+    <name>Стілець M-71</name>
     <variant_price>2684.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні стільці</product_type>
@@ -430042,8 +430042,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>гірчичний + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -431303,7 +431303,7 @@
   <item>
     <sku>TM-120-light-grey/oak</sku>
     <handle>vetro-keramichnyi-stil-tm-120</handle>
-    <name>Керамічний стіл TM-120 бардиліо лайт + бук</name>
+    <name>Керамічний стіл TM-120</name>
     <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -431339,8 +431339,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>бардиліо лайт + бук</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -431659,7 +431659,7 @@
   <item>
     <sku>TM-200-putty</sku>
     <handle>vetro-stil-kruhlyi-poliuretanovyi-mdf-tm-200</handle>
-    <name>Стіл круглий поліуретановий МДФ TM-200 теплий пісок</name>
+    <name>Стіл круглий поліуретановий МДФ TM-200</name>
     <variant_price>15879.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -431695,8 +431695,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>теплий пісок</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -431722,7 +431722,7 @@
   <item>
     <sku>TM-200-1-putty</sku>
     <handle>vetro-stil-kruhlyi-poliuretanovyi-mdf-tm-200-1</handle>
-    <name>Стіл круглий поліуретановий МДФ TM-200-1 теплий пісок</name>
+    <name>Стіл круглий поліуретановий МДФ TM-200-1</name>
     <variant_price>14332.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -431758,8 +431758,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>теплий пісок</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -431920,7 +431920,7 @@
   <item>
     <sku>Armchair-swivel-garibaldi-dark-grey</sku>
     <handle>vetro-povorotne-krislo-haribaldi</handle>
-    <name>Поворотне крісло &quot;Гарібальді&quot; графіт</name>
+    <name>Поворотне крісло &quot;Гарібальді&quot;</name>
     <variant_price>12239.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>М'які крісла</product_type>
@@ -431956,8 +431956,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>графіт</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -432107,7 +432107,7 @@
   <item>
     <sku>Armchair-swivel-tino-grey</sku>
     <handle>vetro-povorotne-krislo-tino</handle>
-    <name>Поворотне крісло &quot;Тіно&quot; сірий</name>
+    <name>Поворотне крісло &quot;Тіно&quot;</name>
     <variant_price>9054.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>М'які крісла</product_type>
@@ -432143,8 +432143,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>сірий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -432306,7 +432306,7 @@
   <item>
     <sku>Fausto-powder</sku>
     <handle>vetro-krislo-fausto</handle>
-    <name>Крісло &quot;Фаусто&quot; пудровий</name>
+    <name>Крісло &quot;Фаусто&quot;</name>
     <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>М'які крісла</product_type>
@@ -432342,8 +432342,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>пудровий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -432374,7 +432374,7 @@
   <item>
     <sku>N-160-mint-boucle/white</sku>
     <handle>vetro-stilets-n-160</handle>
-    <name>Стілець N-160 м'ятний букле + білий</name>
+    <name>Стілець N-160</name>
     <variant_price>1774.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні стільці</product_type>
@@ -432410,8 +432410,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>м'ятний букле + білий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -432712,7 +432712,7 @@
   <item>
     <sku>M-215-moss-tweed/black</sku>
     <handle>vetro-stilets-m-215</handle>
-    <name>Стілець M-215 мох + чорний</name>
+    <name>Стілець M-215</name>
     <variant_price>6142.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні стільці</product_type>
@@ -432748,8 +432748,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>мох + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -432926,7 +432926,7 @@
   <item>
     <sku>TML-1100-chezare-patagonia/black</sku>
     <handle>vetro-keramichnyi-stil-chezare-tml-1100</handle>
-    <name>Керамічний стіл Чезаре TML-1100 патагонія + чорний</name>
+    <name>Керамічний стіл Чезаре TML-1100</name>
     <variant_price>30894.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -432962,8 +432962,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>патагонія + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -433001,7 +433001,7 @@
   <item>
     <sku>TML-1200-pino-venecia/cappuccino</sku>
     <handle>vetro-keramichnyi-stil-pino-tml-1200</handle>
-    <name>Керамічний стіл Піно TML-1200 венеція делікато + капучино</name>
+    <name>Керамічний стіл Піно TML-1200</name>
     <variant_price>28437.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -433037,8 +433037,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>венеція делікато + капучино</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -433104,7 +433104,7 @@
     <length_opt/>
     <width_opt/>
     <option1_name>Колір</option1_name>
-    <option1_value>спайдер грей +  чорний</option1_value>
+    <option1_value>спайдер грей + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -433204,7 +433204,7 @@
   <item>
     <sku>TML-1150-ticiano-delicato-grey/white</sku>
     <handle>vetro-keramichnyi-stil-titsiano-tml-1150</handle>
-    <name>Керамічний стіл Тіціано TML-1150 делікато грей + білий</name>
+    <name>Керамічний стіл Тіціано TML-1150</name>
     <variant_price>25889.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -433240,8 +433240,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>делікато грей + білий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -433825,7 +433825,7 @@
   <item>
     <sku>TML-995-beatrice-tiger-travertin/brown</sku>
     <handle>vetro-keramichnyi-stil-beatriche-tml-995</handle>
-    <name>Керамічний стіл Беатріче TML-995 тайгер травертін + коричневий</name>
+    <name>Керамічний стіл Беатріче TML-995</name>
     <variant_price>57557.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -433861,8 +433861,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>тайгер травертін + коричневий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -433892,7 +433892,7 @@
   <item>
     <sku>TML-996-noemi-westwood/black</sku>
     <handle>vetro-keramichnyi-stil-noemi-tml-996</handle>
-    <name>Керамічний стіл Ноемі TML-996 вествуд + чорний</name>
+    <name>Керамічний стіл Ноемі TML-996</name>
     <variant_price>44817.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -433928,8 +433928,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>вествуд + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434084,7 +434084,7 @@
   <item>
     <sku>M-225-sand</sku>
     <handle>vetro-stilets-m-225</handle>
-    <name>Стілець M-225 білий пісок</name>
+    <name>Стілець M-225</name>
     <variant_price>9509.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні стільці</product_type>
@@ -434120,8 +434120,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>білий пісок</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434160,7 +434160,7 @@
   <item>
     <sku>M-127-macadamia-mohair</sku>
     <handle>vetro-stilets-m-127</handle>
-    <name>Стілець M-127 макадамія мохер</name>
+    <name>Стілець M-127</name>
     <variant_price>4322.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні стільці</product_type>
@@ -434196,8 +434196,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>макадамія мохер</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434258,7 +434258,7 @@
   <item>
     <sku>CT-50-utta-oak/white</sku>
     <handle>vetro-komplekt-zhurnalnykh-stoliv-ct-50</handle>
-    <name>Комплект журнальних столів CT-50 Ютта дуб + білий</name>
+    <name>Комплект журнальних столів CT-50</name>
     <variant_price>6779.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -434294,8 +434294,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>Ютта дуб + білий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434319,7 +434319,7 @@
   <item>
     <sku>TM-300-kvinto-golden-send/oak</sku>
     <handle>vetro-keramichnyi-stil-kvinto-tm-300</handle>
-    <name>Керамічний стіл Квінто TM-300 голден сенд + дуб</name>
+    <name>Керамічний стіл Квінто TM-300</name>
     <variant_price>15242.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -434355,8 +434355,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>голден сенд + дуб</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434385,7 +434385,7 @@
   <item>
     <sku>CT-45-benito/white</sku>
     <handle>vetro-komplekt-zhurnalnykh-stoliv-ct-45</handle>
-    <name>Комплект журнальних столів CT-45 Беніто білий + білий</name>
+    <name>Комплект журнальних столів CT-45</name>
     <variant_price>6779.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -434421,8 +434421,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>Беніто білий + білий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434448,7 +434448,7 @@
   <item>
     <sku>CT-42-daddy-mistic-grey/cappuccino</sku>
     <handle>vetro-komplekt-zhurnalnykh-stoliv-ct-42</handle>
-    <name>Комплект журнальних столів CT-42 Дадді містік грей + капучино</name>
+    <name>Комплект журнальних столів CT-42</name>
     <variant_price>8599.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -434484,8 +434484,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>Дадді містік грей + капучино</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434509,7 +434509,7 @@
   <item>
     <sku>kristiano-aurora-gold/biege-sideboard</sku>
     <handle>vetro-bufet-kristiano</handle>
-    <name>Буфет &quot;Крістіано&quot; аврора голд + бежевий</name>
+    <name>Буфет &quot;Крістіано&quot;</name>
     <variant_price>18609.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Буфети і ТВ-тумби</product_type>
@@ -434545,8 +434545,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>аврора голд + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434573,7 +434573,7 @@
   <item>
     <sku>kristiano-aurora-gold/biege-TV</sku>
     <handle>vetro-tv-tumba-kristiano</handle>
-    <name>ТВ-тумба &quot;Крістіано&quot; аврора голд + бежевий</name>
+    <name>ТВ-тумба &quot;Крістіано&quot;</name>
     <variant_price>28437.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Буфети і ТВ-тумби</product_type>
@@ -434609,8 +434609,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>аврора голд + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434632,7 +434632,7 @@
   <item>
     <sku>TML-1300-kristiano-aurora-gold/biege</sku>
     <handle>vetro-keramichnyi-stil-kristiano-tml-1300</handle>
-    <name>Керамічний стіл Крістіано TML-1300 аврора голд + бежевий</name>
+    <name>Керамічний стіл Крістіано TML-1300</name>
     <variant_price>64837.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -434668,8 +434668,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>аврора голд + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434703,7 +434703,7 @@
   <item>
     <sku>TML-1265-paola-sandwave/biege</sku>
     <handle>vetro-keramichnyi-stil-paola-tml-1265</handle>
-    <name>Керамічний стіл Паола TML-1265 сендвейв + бежевий</name>
+    <name>Керамічний стіл Паола TML-1265</name>
     <variant_price>61834.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -434739,8 +434739,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>сендвейв + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434767,7 +434767,7 @@
   <item>
     <sku>TML-1260-teresa-grey-traventin/black</sku>
     <handle>vetro-keramichnyi-stil-tereza-tml-1260</handle>
-    <name>Керамічний стіл Тереза TML-1260 грей травертін + чорний</name>
+    <name>Керамічний стіл Тереза TML-1260</name>
     <variant_price>50732.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -434803,8 +434803,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>грей травертін + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434833,7 +434833,7 @@
   <item>
     <sku>kristiano-aurora-gold/biege-lamp-table</sku>
     <handle>vetro-kavovyi-stil-kristiano</handle>
-    <name>Кавовий стіл &quot;Крістіано&quot; аврора голд + бежевий</name>
+    <name>Кавовий стіл &quot;Крістіано&quot;</name>
     <variant_price>9782.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -434869,8 +434869,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>аврора голд + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434896,7 +434896,7 @@
   <item>
     <sku>kristiano-aurora-gold/biege-concole</sku>
     <handle>vetro-konsol-kristiano</handle>
-    <name>Консоль &quot;Крістіано&quot; аврора голд + бежевий</name>
+    <name>Консоль &quot;Крістіано&quot;</name>
     <variant_price>14787.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -434932,8 +434932,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>аврора голд + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -434959,7 +434959,7 @@
   <item>
     <sku>M-238-cloud boucle/white</sku>
     <handle>vetro-stilets-m-238</handle>
-    <name>Стілець M-238 клауд + білий</name>
+    <name>Стілець M-238</name>
     <variant_price>5232.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні стільці</product_type>
@@ -434995,8 +434995,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>клауд + білий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -436165,7 +436165,7 @@
   <item>
     <sku>TML-997-1-paris-crema-marfile/beige</sku>
     <handle>vetro-keramichnyi-stil-paris-tml-997-1</handle>
-    <name>Керамічний стіл Паріс TML-997-1 крема марфіль + бежевий</name>
+    <name>Керамічний стіл Паріс TML-997-1</name>
     <variant_price>41359.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -436201,8 +436201,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>крема марфіль + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -436231,7 +436231,7 @@
   <item>
     <sku>M-230-oyster-mohair/white</sku>
     <handle>vetro-stilets-m-230</handle>
-    <name>Стілець M-230 устричний + білий</name>
+    <name>Стілець M-230</name>
     <variant_price>2957.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні стільці</product_type>
@@ -436267,8 +436267,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>устричний + білий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -436298,7 +436298,7 @@
   <item>
     <sku>TM-220-concrete</sku>
     <handle>vetro-stil-mdf-z-matovym-mikrotsementnym-pokryttiam-klio-tm-220</handle>
-    <name>Стіл МДФ з матовим мікроцементним покриттям Кліо TM-220 бетон</name>
+    <name>Стіл МДФ з матовим мікроцементним покриттям Кліо TM-220</name>
     <variant_price>26344.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -436334,8 +436334,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>бетон</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -436364,7 +436364,7 @@
   <item>
     <sku>TM-225-bastiano-concrete</sku>
     <handle>vetro-stil-mdf-z-matovym-mikrotsementnym-pokryttiam-bastiano-tm-225</handle>
-    <name>Стіл МДФ з матовим мікроцементним покриттям Бастіано TM-225 бетон</name>
+    <name>Стіл МДФ з матовим мікроцементним покриттям Бастіано TM-225</name>
     <variant_price>24524.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -436400,8 +436400,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>бетон</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -436433,7 +436433,7 @@
   <item>
     <sku>TM-235-ambra-ash-putty</sku>
     <handle>vetro-stil-shponovane-mdf-ambra-tm-235</handle>
-    <name>Стіл шпоноване МДФ Амбра TM-235 ясень + теплий пісок</name>
+    <name>Стіл шпоноване МДФ Амбра TM-235</name>
     <variant_price>15424.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -436469,8 +436469,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ясень + теплий пісок</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -436500,7 +436500,7 @@
   <item>
     <sku>TM-236-nikolo-ash-putty</sku>
     <handle>vetro-stil-shponovane-mdf-nikkolo-tm-236</handle>
-    <name>Стіл шпоноване МДФ Нікколо TM-236 ясень + теплий пісок</name>
+    <name>Стіл шпоноване МДФ Нікколо TM-236</name>
     <variant_price>17972.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -436536,8 +436536,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ясень + теплий пісок</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -436570,7 +436570,7 @@
   <item>
     <sku>TM-230-ester-ash</sku>
     <handle>vetro-stil-shponovane-mdf-ester-tm-230</handle>
-    <name>Стіл шпоноване МДФ Естер TM-230 ясень</name>
+    <name>Стіл шпоноване МДФ Естер TM-230</name>
     <variant_price>18427.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -436606,8 +436606,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ясень</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -436647,7 +436647,7 @@
   <item>
     <sku>C-300-vittorio-ohra</sku>
     <handle>vetro-zhurnalnyi-stil-vittorio-c-300</handle>
-    <name>Журнальний стіл  Вітторіо C-300 охра</name>
+    <name>Журнальний стіл Вітторіо C-300</name>
     <variant_price>7234.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -436683,8 +436683,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>охра</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -436710,7 +436710,7 @@
   <item>
     <sku>C-320-enzo-laguna</sku>
     <handle>vetro-zhurnalnyi-stil-enzo-c-320</handle>
-    <name>Журнальний стіл Ензо C-320 лагуна</name>
+    <name>Журнальний стіл Ензо C-320</name>
     <variant_price>2502.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -436746,8 +436746,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>лагуна</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -436772,7 +436772,7 @@
   <item>
     <sku>TM-226-marchello-putty</sku>
     <handle>vetro-stil-poliuretanovyi-mdf-marchello-tm-226</handle>
-    <name>Стіл поліуретановий МДФ Марчелло TM-226 теплий пісок</name>
+    <name>Стіл поліуретановий МДФ Марчелло TM-226</name>
     <variant_price>20884.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -436808,8 +436808,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>теплий пісок</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -436973,7 +436973,7 @@
   <item>
     <sku>Armchair-romeo-terrakot-bucle</sku>
     <handle>vetro-krislo-romeo</handle>
-    <name>Крісло &quot;Ромео&quot; теракотовий</name>
+    <name>Крісло &quot;Ромео&quot;</name>
     <variant_price>19064.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>М'які крісла</product_type>
@@ -437009,8 +437009,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>теракотовий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -437038,7 +437038,7 @@
   <item>
     <sku>CT-55-livio-oak/black</sku>
     <handle>vetro-komplekt-zhurnalnykh-stoliv-ct-55</handle>
-    <name>Комплект журнальних столів CT-55 Лівіо дуб + чорний</name>
+    <name>Комплект журнальних столів CT-55</name>
     <variant_price>6779.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -437074,8 +437074,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>Лівіо дуб + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -437098,7 +437098,7 @@
   <item>
     <sku>TML-1240-siena-roman-travertine/cappuccino</sku>
     <handle>vetro-keramichnyi-stil-siiena-tml-1240</handle>
-    <name>Керамічний стіл Сієна TML-1240 римський траветрін + капучино</name>
+    <name>Керамічний стіл Сієна TML-1240</name>
     <variant_price>22249.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -437134,8 +437134,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>римський траветрін + капучино</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -437323,7 +437323,7 @@
   <item>
     <sku>Armchair-verona-grey</sku>
     <handle>vetro-povorotne-krislo-verona</handle>
-    <name>Поворотне крісло &quot;Верона&quot; сніжний графіт</name>
+    <name>Поворотне крісло &quot;Верона&quot;</name>
     <variant_price>12057.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>М'які крісла</product_type>
@@ -437359,8 +437359,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>сніжний графіт</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -437385,7 +437385,7 @@
   <item>
     <sku>Armchair-tivoli-warm-chestnut</sku>
     <handle>vetro-povorotne-krislo-tivoli</handle>
-    <name>Поворотне крісло &quot;Тіволі&quot; теплий каштан</name>
+    <name>Поворотне крісло &quot;Тіволі&quot;</name>
     <variant_price>9327.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>М'які крісла</product_type>
@@ -437421,8 +437421,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>теплий каштан</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -437822,7 +437822,7 @@
   <item>
     <sku>TML-1305-volterra-delicato-biege/biege</sku>
     <handle>vetro-keramichnyi-stil-volterra-tml-1305</handle>
-    <name>Керамічний стіл Вольтерра TML-1305 делікато беж + бежевий</name>
+    <name>Керамічний стіл Вольтерра TML-1305</name>
     <variant_price>58649.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -437858,8 +437858,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>делікато беж + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -437892,7 +437892,7 @@
   <item>
     <sku>Arno-silver-river/ivory-lamp-table</sku>
     <handle>vetro-kavovyi-stil-arno</handle>
-    <name>Кавовий стіл &quot;Арно&quot; сілвер рівер + айворі</name>
+    <name>Кавовий стіл &quot;Арно&quot;</name>
     <variant_price>6142.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -437928,8 +437928,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>сілвер рівер + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -437954,7 +437954,7 @@
   <item>
     <sku>Arno-silver-river/ivory-console</sku>
     <handle>vetro-konsol-arno</handle>
-    <name>Консоль &quot;Арно&quot; сілвер рівер + айворі</name>
+    <name>Консоль &quot;Арно&quot;</name>
     <variant_price>9782.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -437990,8 +437990,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>сілвер рівер + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -438019,7 +438019,7 @@
   <item>
     <sku>TML-1320-lunario-ivory-onix/ivory</sku>
     <handle>vetro-keramichnyi-stil-lunario-tml-1320</handle>
-    <name>Керамічний стіл Лунаріо TML-1320 айворі онікс + айворі</name>
+    <name>Керамічний стіл Лунаріо TML-1320</name>
     <variant_price>49367.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -438055,8 +438055,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>айворі онікс + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -438097,7 +438097,7 @@
   <item>
     <sku>TML-1321-lunario-lafayette/ivory</sku>
     <handle>vetro-keramichnyi-stil-lunario-tml-1321</handle>
-    <name>Керамічний стіл Лунаріо TML-1321 лафаєт + айворі</name>
+    <name>Керамічний стіл Лунаріо TML-1321</name>
     <variant_price>40267.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -438133,8 +438133,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>лафаєт + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -438281,7 +438281,7 @@
     <length_opt/>
     <width_opt/>
     <option1_name>Колір</option1_name>
-    <option1_value>крема марфіль +  капучино</option1_value>
+    <option1_value>крема марфіль + капучино</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -438651,7 +438651,7 @@
   <item>
     <sku>Arno-silver-river/ivory-sideboard</sku>
     <handle>vetro-bufet-arno</handle>
-    <name>Буфет &quot;Арно&quot; сілвер рівер + айворі</name>
+    <name>Буфет &quot;Арно&quot;</name>
     <variant_price>18609.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Буфети і ТВ-тумби</product_type>
@@ -438687,8 +438687,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>сілвер рівер + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -438723,7 +438723,7 @@
   <item>
     <sku>Lunario-ivory-onix/ivory-lamp-table</sku>
     <handle>vetro-kavovyi-stil-lunario</handle>
-    <name>Кавовий стіл &quot;Лунаріо&quot; айворі онікс + айворі</name>
+    <name>Кавовий стіл &quot;Лунаріо&quot;</name>
     <variant_price>9782.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -438759,8 +438759,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>айворі онікс + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -438781,7 +438781,7 @@
   <item>
     <sku>Lunario-ivory-onix/ivory-tv-unit</sku>
     <handle>vetro-tv-tumba-lunario</handle>
-    <name>ТВ-тумба &quot;Лунаріо&quot; айворі онікс + айворі</name>
+    <name>ТВ-тумба &quot;Лунаріо&quot;</name>
     <variant_price>30257.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Буфети і ТВ-тумби</product_type>
@@ -438817,8 +438817,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>айворі онікс + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -438853,7 +438853,7 @@
   <item>
     <sku>TML-1306-komo-statuario-ango/biege</sku>
     <handle>vetro-keramichnyi-stil-komo-tml-1306</handle>
-    <name>Керамічний стіл Комо TML-1306 статуаріо анго + бежевий</name>
+    <name>Керамічний стіл Комо TML-1306</name>
     <variant_price>33897.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -438889,8 +438889,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>статуаріо анго + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -439048,7 +439048,7 @@
   <item>
     <sku>TM-92-crema-sabbia/cappuccino</sku>
     <handle>vetro-keramichnyi-stil-tm-92</handle>
-    <name>Керамічний стіл TM-92 крема саббія + капучино</name>
+    <name>Керамічний стіл TM-92</name>
     <variant_price>17972.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -439084,8 +439084,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>крема саббія + капучино</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -439119,7 +439119,7 @@
   <item>
     <sku>TM-93-crema-sabbia/cappuccino</sku>
     <handle>vetro-keramichnyi-stil-tm-93</handle>
-    <name>Керамічний стіл TM-93 крема саббія + капучино</name>
+    <name>Керамічний стіл TM-93</name>
     <variant_price>20247.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -439155,8 +439155,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>крема саббія + капучино</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -439315,7 +439315,7 @@
   <item>
     <sku>TM-237-wood-vein/rubber</sku>
     <handle>vetro-keramichnyi-stil-tm-237</handle>
-    <name>Керамічний стіл TM-237 вуд вейн + натуральний каучук</name>
+    <name>Керамічний стіл TM-237</name>
     <variant_price>12239.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -439351,8 +439351,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>вуд вейн + натуральний каучук</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -439575,10 +439575,10 @@
     <name>Крісло офісне O-10</name>
     <variant_price>7234.50</variant_price>
     <vendor>Vetro Mebel</vendor>
-    <product_type>Обідні стільці</product_type>
-    <category>Обідні стільці</category>
-    <parent_category>Стільці</parent_category>
-    <shopify_id>fr-7-9</shopify_id>
+    <product_type>Меблі для закладів</product_type>
+    <category>Меблі для закладів</category>
+    <parent_category>Меблі для закладів</parent_category>
+    <shopify_id>fr-22</shopify_id>
     <tags/>
     <available>false</available>
     <quantity>0</quantity>
@@ -439639,10 +439639,10 @@
     <name>Крісло офісне O-10</name>
     <variant_price>7234.50</variant_price>
     <vendor>Vetro Mebel</vendor>
-    <product_type>Обідні стільці</product_type>
-    <category>Обідні стільці</category>
-    <parent_category>Стільці</parent_category>
-    <shopify_id>fr-7-9</shopify_id>
+    <product_type>Меблі для закладів</product_type>
+    <category>Меблі для закладів</category>
+    <parent_category>Меблі для закладів</parent_category>
+    <shopify_id>fr-22</shopify_id>
     <tags/>
     <available>true</available>
     <quantity>100</quantity>
@@ -439699,13 +439699,13 @@
   <item>
     <sku>O-15-dark-gray/black</sku>
     <handle>vetro-krislo-ofisne-o-15</handle>
-    <name>Крісло офісне O-15 сірий маренго + чорний</name>
+    <name>Крісло офісне O-15</name>
     <variant_price>7234.50</variant_price>
     <vendor>Vetro Mebel</vendor>
-    <product_type>Обідні стільці</product_type>
-    <category>Обідні стільці</category>
-    <parent_category>Стільці</parent_category>
-    <shopify_id>fr-7-9</shopify_id>
+    <product_type>Меблі для закладів</product_type>
+    <category>Меблі для закладів</category>
+    <parent_category>Меблі для закладів</parent_category>
+    <shopify_id>fr-22</shopify_id>
     <tags/>
     <available>true</available>
     <quantity>100</quantity>
@@ -439735,8 +439735,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>сірий маренго + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -439762,7 +439762,7 @@
   <item>
     <sku>Lunario-ivory-onix/ivory-console</sku>
     <handle>vetro-konsol-lunario</handle>
-    <name>Консоль &quot;Лунаріо&quot; айворі онікс + айворі</name>
+    <name>Консоль &quot;Лунаріо&quot;</name>
     <variant_price>14787.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Журнальні столики і консолі</product_type>
@@ -439798,8 +439798,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>айворі онікс + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -440264,7 +440264,7 @@
   <item>
     <sku>TM-85-1-calacatta-marble/grey</sku>
     <handle>vetro-keramichnyi-stil-tm-85-1</handle>
-    <name>Керамічний стіл TM-85-1 калакатта мармур + сірий</name>
+    <name>Керамічний стіл TM-85-1</name>
     <variant_price>15242.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -440300,8 +440300,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>калакатта мармур + сірий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -440320,7 +440320,7 @@
   <item>
     <sku>TML-1301-sorrento-golden-white/cappuccino</sku>
     <handle>vetro-keramichnyi-stil-sorrento-tml-1301</handle>
-    <name>Керамічний стіл Сорренто TML-1301 голден вайт + капучино</name>
+    <name>Керамічний стіл Сорренто TML-1301</name>
     <variant_price>27527.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -440356,8 +440356,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>голден вайт + капучино</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -440507,7 +440507,7 @@
   <item>
     <sku>TML-1350-treviso-sahara/beige</sku>
     <handle>vetro-keramichnyi-stil-trevizo-tml-1350</handle>
-    <name>Керамічний стіл Тревізо TML-1350 сахара + бежевий</name>
+    <name>Керамічний стіл Тревізо TML-1350</name>
     <variant_price>27072.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -440543,8 +440543,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>сахара + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -440564,7 +440564,7 @@
   <item>
     <sku>TML-1345-belluno-invisible-gray/black</sku>
     <handle>vetro-keramichnyi-stil-belluno-tml-1345</handle>
-    <name>Керамічний стіл Беллуно TML-1345 інвізібл грей + чорний</name>
+    <name>Керамічний стіл Беллуно TML-1345</name>
     <variant_price>22067.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -440600,8 +440600,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>інвізібл грей + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -440618,7 +440618,7 @@
   <item>
     <sku>TML-1400-cortina-superior white/white</sku>
     <handle>vetro-stil-z-hpl-poverkhneiu-kortina-tml-1400</handle>
-    <name>Стіл з HPL поверхнею Кортіна TML-1400 суперіор вайт + білий</name>
+    <name>Стіл з HPL поверхнею Кортіна TML-1400</name>
     <variant_price>30712.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -440654,8 +440654,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>суперіор вайт + білий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -440672,7 +440672,7 @@
   <item>
     <sku>TML-1405-1-latina-grigio-alpa/beige</sku>
     <handle>vetro-stil-z-hpl-poverkhneiu-latina-tml-1405-1</handle>
-    <name>Стіл з HPL поверхнею Латіна TML-1405-1 гріджіо альпа + бежевий</name>
+    <name>Стіл з HPL поверхнею Латіна TML-1405-1</name>
     <variant_price>36809.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -440708,8 +440708,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>гріджіо альпа + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -440726,7 +440726,7 @@
   <item>
     <sku>TML-1405-latina-toronto brown/black</sku>
     <handle>vetro-stil-z-hpl-poverkhneiu-latina-tml-1405</handle>
-    <name>Стіл з HPL поверхнею Латіна TML-1405 торонто браун + чорний</name>
+    <name>Стіл з HPL поверхнею Латіна TML-1405</name>
     <variant_price>40449.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -440762,8 +440762,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>торонто браун + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -440782,7 +440782,7 @@
   <item>
     <sku>TML-1410-rimini-bianco-avorio/beige</sku>
     <handle>vetro-stil-z-hpl-poverkhneiu-rimini-tml-1410</handle>
-    <name>Стіл з HPL поверхнею Ріміні TML-1410 б'янко аворіо + бежевий</name>
+    <name>Стіл з HPL поверхнею Ріміні TML-1410</name>
     <variant_price>32077.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -440818,8 +440818,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>б'янко аворіо + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -440837,7 +440837,7 @@
   <item>
     <sku>TML-1415-bassano-fendi-blue/black</sku>
     <handle>vetro-stil-z-hpl-poverkhneiu-bassano-tml-1415</handle>
-    <name>Стіл з HPL поверхнею Бассано TML-1415 фенді блю + чорний</name>
+    <name>Стіл з HPL поверхнею Бассано TML-1415</name>
     <variant_price>26344.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -440873,8 +440873,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>фенді блю + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441144,7 +441144,7 @@
   <item>
     <sku>Virginia-ivory-sofa</sku>
     <handle>vetro-bezkarkasna-modulna-sofa-virdzhyniia</handle>
-    <name>Безкаркасна модульна софа &quot;Вірджинія&quot; айворі</name>
+    <name>Безкаркасна модульна софа &quot;Вірджинія&quot;</name>
     <variant_price>17699.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Модульні дивани</product_type>
@@ -441180,8 +441180,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441332,7 +441332,7 @@
   <item>
     <sku>Armchair-alaska-polar-night</sku>
     <handle>vetro-bezkarkasne-krislo-aliaska</handle>
-    <name>Безкаркасне крісло &quot;Аляска&quot; полярна ніч</name>
+    <name>Безкаркасне крісло &quot;Аляска&quot;</name>
     <variant_price>7507.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>М'які крісла</product_type>
@@ -441368,8 +441368,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>полярна ніч</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441392,7 +441392,7 @@
   <item>
     <sku>ODS-4-Takho-light-grey/black</sku>
     <handle>vetro-komplekt-sadovykh-mebliv-takho</handle>
-    <name>Комплект садових меблів &quot;Тахо&quot; ODS-4 світло-сірий + чорний</name>
+    <name>Комплект садових меблів &quot;Тахо&quot;</name>
     <variant_price>43452.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -441428,8 +441428,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODS-4 світло-сірий + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441457,7 +441457,7 @@
   <item>
     <sku>ODS-3-Savanna-white-sand/cream</sku>
     <handle>vetro-komplekt-sadovykh-mebliv-savanna</handle>
-    <name>Комплект садових меблів &quot;Саванна&quot; ODS-3 білий пісок + кремовий</name>
+    <name>Комплект садових меблів &quot;Саванна&quot;</name>
     <variant_price>61652.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -441493,8 +441493,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODS-3 білий пісок + кремовий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441523,7 +441523,7 @@
   <item>
     <sku>ODS-5-Soho-white-sand/cream</sku>
     <handle>vetro-komplekt-sadovykh-stiltsiv-4-sht-bez-pidlokitnykiv-2-sht-z-pidlokitnykamy-sokho</handle>
-    <name>Комплект садових стільців (4 шт без підлокітників + 2 шт з підлокітниками) &quot;Сохо&quot; ODS-5 білий пісок + кремовий</name>
+    <name>Комплект садових стільців (4 шт без підлокітників + 2 шт з підлокітниками) &quot;Сохо&quot;</name>
     <variant_price>48002.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -441559,8 +441559,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODS-5 білий пісок + кремовий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441587,7 +441587,7 @@
   <item>
     <sku>ODT-31-Leche-cream</sku>
     <handle>vetro-stil-sadovyi-obidnii-lechche</handle>
-    <name>Стіл садовий обідній &quot;Лечче&quot; ODT-31  кремовий</name>
+    <name>Стіл садовий обідній &quot;Лечче&quot;</name>
     <variant_price>22704.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -441623,8 +441623,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODT-31 кремовий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441649,7 +441649,7 @@
   <item>
     <sku>ODS-1-Kapri-driftwood-gray</sku>
     <handle>vetro-komplekt-sadovykh-mebliv-kapri</handle>
-    <name>Комплект садових меблів &quot;Капрі&quot; ODS-1 дріфтвуд грей + айворі</name>
+    <name>Комплект садових меблів &quot;Капрі&quot;</name>
     <variant_price>37719.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -441685,8 +441685,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODS-1 дріфтвуд грей + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441723,7 +441723,7 @@
   <item>
     <sku>ODC-10-Lukka-ivory/white-oak</sku>
     <handle>vetro-stilets-sadovyi-lukka</handle>
-    <name>Стілець садовий &quot;Лукка&quot; ODC-10 айворі + білий дуб</name>
+    <name>Стілець садовий &quot;Лукка&quot;</name>
     <variant_price>6597.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -441759,8 +441759,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODC-10 айворі + білий дуб</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441794,7 +441794,7 @@
   <item>
     <sku>ODT-25-Portofino-driftwood-biege/ivory</sku>
     <handle>vetro-stil-sadovyi-obidnii-portofino</handle>
-    <name>Стіл садовий обідній &quot;Портофіно&quot; ODT-25 дріфтвуд беж + айворі</name>
+    <name>Стіл садовий обідній &quot;Портофіно&quot;</name>
     <variant_price>16334.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -441830,8 +441830,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODT-25 дріфтвуд беж + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441862,7 +441862,7 @@
   <item>
     <sku>ODBT-20-Izola-driftwood-gray/ivory</sku>
     <handle>vetro-stil-barnyi-sadovyi-izola</handle>
-    <name>Стіл барний садовий &quot;Ізола&quot; ODBT-20  дріфтвуд грей + айворі</name>
+    <name>Стіл барний садовий &quot;Ізола&quot;</name>
     <variant_price>10419.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -441898,8 +441898,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODBT-20 дріфтвуд грей + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441924,7 +441924,7 @@
   <item>
     <sku>ODB-10-Ravello-ivory/white-oak</sku>
     <handle>vetro-stilets-barnyi-sadovyi-ravello</handle>
-    <name>Стілець барний садовий &quot;Равелло&quot; ODB-10 айворі + білий дуб</name>
+    <name>Стілець барний садовий &quot;Равелло&quot;</name>
     <variant_price>7052.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -441960,8 +441960,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODB-10 айворі + білий дуб</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -441990,7 +441990,7 @@
   <item>
     <sku>ODC-15-Etna-ivory/white-oak</sku>
     <handle>vetro-stilets-sadovyi-etna</handle>
-    <name>Стілець садовий &quot;Етна&quot; ODC-15 айворі + білий дуб</name>
+    <name>Стілець садовий &quot;Етна&quot;</name>
     <variant_price>4777.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -442026,8 +442026,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODC-15 айворі + білий дуб</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -442055,7 +442055,7 @@
   <item>
     <sku>ODT-35-Brighton-driftwood-biege/white-oak</sku>
     <handle>vetro-stil-sadovyi-obidnii-braiton</handle>
-    <name>Стіл садовий обідній &quot;Брайтон&quot; ODT-35 дріфтвуд беж + білий дуб</name>
+    <name>Стіл садовий обідній &quot;Брайтон&quot;</name>
     <variant_price>9327.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -442091,8 +442091,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODT-35 дріфтвуд беж + білий дуб</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -442119,7 +442119,7 @@
   <item>
     <sku>ODC-20-Noli-ivory/white-oak</sku>
     <handle>vetro-stilets-sadovyi-noli</handle>
-    <name>Стілець садовий &quot;Нолі&quot; ODC-20 айворі + білий дуб</name>
+    <name>Стілець садовий &quot;Нолі&quot;</name>
     <variant_price>5687.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -442155,8 +442155,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODC-20 айворі + білий дуб</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -442185,7 +442185,7 @@
   <item>
     <sku>ODT-30-Orta-driftwood-gray/white-oak</sku>
     <handle>vetro-stil-sadovyi-obidnii-orta</handle>
-    <name>Стіл садовий обідній &quot;Орта&quot; ODT-30 дріфтвуд грей + білий дуб</name>
+    <name>Стіл садовий обідній &quot;Орта&quot;</name>
     <variant_price>17699.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -442221,8 +442221,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODT-30 дріфтвуд грей + білий дуб</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -442250,7 +442250,7 @@
   <item>
     <sku>TML-1350-1-treviso-calacatta-vintage/beige</sku>
     <handle>vetro-keramichnyi-stil-trevizo-tml-1350-1</handle>
-    <name>Керамічний стіл Тревізо TML-1350-1 калакатта вінтаж + бежевий</name>
+    <name>Керамічний стіл Тревізо TML-1350-1</name>
     <variant_price>27709.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -442286,8 +442286,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>калакатта вінтаж + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -442305,7 +442305,7 @@
   <item>
     <sku>ODS-2-Belladjo-driftwood-gray</sku>
     <handle>vetro-komplekt-sadovykh-mebliv-belladzho</handle>
-    <name>Комплект садових меблів &quot;Белладжо&quot; ODS-2 дріфтвуд грей + айворі</name>
+    <name>Комплект садових меблів &quot;Белладжо&quot;</name>
     <variant_price>24524.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -442341,8 +442341,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODS-2 дріфтвуд грей + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -442375,7 +442375,7 @@
   <item>
     <sku>ODT-20-Parma-driftwood-gray/ivory</sku>
     <handle>vetro-stil-sadovyi-obidnii-parma</handle>
-    <name>Стіл садовий обідній &quot;Парма&quot; ODT-20 дріфтвуд грей + айворі</name>
+    <name>Стіл садовий обідній &quot;Парма&quot;</name>
     <variant_price>13877.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Садові меблі</product_type>
@@ -442411,8 +442411,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>ODT-20 дріфтвуд грей + айворі</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -442467,7 +442467,7 @@
     <length_opt/>
     <width_opt/>
     <option1_name>Колір</option1_name>
-    <option1_value>грей емперадор +  капучино</option1_value>
+    <option1_value>грей емперадор + капучино</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -442577,7 +442577,7 @@
     <length_opt/>
     <width_opt/>
     <option1_name>Колір</option1_name>
-    <option1_value>грей емперадор  + капучино</option1_value>
+    <option1_value>грей емперадор + капучино</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -442650,7 +442650,7 @@
   <item>
     <sku>TML-1341-asti-calacatta-gold/black</sku>
     <handle>vetro-keramichnyi-stil-asti-tml-1341</handle>
-    <name>Керамічний стіл Асті TML-1341 калакатта голд + чорний</name>
+    <name>Керамічний стіл Асті TML-1341</name>
     <variant_price>27527.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -442686,8 +442686,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>калакатта голд + чорний</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -443555,7 +443555,7 @@
   <item>
     <sku>TML-1360-camelio-onyx-vanilla/cream</sku>
     <handle>vetro-keramichnyi-stil-kamelio-tml-1360</handle>
-    <name>Керамічний стіл Камеліо TML-1360 онікс ваніль + кремовий</name>
+    <name>Керамічний стіл Камеліо TML-1360</name>
     <variant_price>61834.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -443591,8 +443591,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>онікс ваніль + кремовий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -443608,7 +443608,7 @@
   <item>
     <sku>TML-1365-montero-arabescato-vintage/bronze</sku>
     <handle>vetro-keramichnyi-stil-montero-tml-1365</handle>
-    <name>Керамічний стіл Монтеро TML-1365 арабескато вінтаж + бронза</name>
+    <name>Керамічний стіл Монтеро TML-1365</name>
     <variant_price>58649.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -443644,8 +443644,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>арабескато вінтаж + бронза</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -443661,7 +443661,7 @@
   <item>
     <sku>TML-1370-elario-quartzite-biege/biege</sku>
     <handle>vetro-keramichnyi-stil-elario-tml-1370</handle>
-    <name>Керамічний стіл Еларіо TML-1370 кварцит беж + бежевий</name>
+    <name>Керамічний стіл Еларіо TML-1370</name>
     <variant_price>44544.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -443697,8 +443697,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>кварцит беж + бежевий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -443713,7 +443713,7 @@
   <item>
     <sku>TML-1351-versano-alivery-gray/brown</sku>
     <handle>vetro-keramichnyi-stil-versano-tml-1351</handle>
-    <name>Керамічний стіл Версано TML-1351 алівері грей + коричневий</name>
+    <name>Керамічний стіл Версано TML-1351</name>
     <variant_price>41359.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -443749,8 +443749,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>алівері грей + коричневий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -443766,7 +443766,7 @@
   <item>
     <sku>TML-1351-1-versano-biege-travertine/cream</sku>
     <handle>vetro-keramichnyi-stil-versano-tml-1351-1</handle>
-    <name>Керамічний стіл Версано TML-1351-1 беж травертін + кремовий</name>
+    <name>Керамічний стіл Версано TML-1351-1</name>
     <variant_price>31622.50</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
@@ -443802,8 +443802,8 @@
     <height_opt/>
     <length_opt/>
     <width_opt/>
-    <option1_name/>
-    <option1_value/>
+    <option1_name>Колір</option1_name>
+    <option1_value>беж травертін + кремовий</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
