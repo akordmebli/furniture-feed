@@ -480,6 +480,8 @@ def group_variants(products):
 def stock_qty(p):
     """Кількість для Shopify за ознакою наявності (кількості в постачальників ненадійні):
     в наявності — 100, немає — 0 (варіант стає недоступним)."""
+    if p["source"] == "akord":  # ВНД / Vinadi самі не знають залишків — завжди в наявності
+        return 100
     return 100 if p["available"] else 0
 
 
@@ -506,7 +508,7 @@ def build_xml(products):
             ("parent_category", p["parent_category"]),
             ("shopify_id", p["shopify_category"]),
             ("tags", ", ".join(p["tags"])),
-            ("available", "true" if p["available"] else "false"),
+            ("available", "true" if (p["available"] or p["source"] == "akord") else "false"),
             ("quantity", stock_qty(p)),
             ("instock", p["instock"]), ("barcode", p["barcode"]),
             ("meta_title", p["meta_title"]), ("meta_description", p["meta_description"]),
@@ -516,7 +518,7 @@ def build_xml(products):
             ("shyryna", p["width"]), ("vysota", p["height"]),
         ]
         for tag, val in fields:
-            ET.SubElement(item, tag).text = str(val or "")
+            ET.SubElement(item, tag).text = "0" if val == 0 else str(val or "")
         for tag in OPT_TAGS:
             ET.SubElement(item, tag).text = str(p["opts"].get(tag, "") or "")
         names, vals = p.get("option_names", []), p.get("option_values", [])
