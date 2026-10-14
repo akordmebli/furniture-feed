@@ -27,7 +27,7 @@ jobs:
           VETRO_XML: ${{ secrets.VETRO_XML }}
           COMEFOR_XML: ${{ secrets.COMEFOR_XML }}
           WOODMAN_ENABLED: '1'
-        run: python process.py
+        run: python -u process.py 2>&1 | tee run.log; exit ${PIPESTATUS[0]}
 
       - name: Upload unmapped categories log
         if: always()
@@ -44,6 +44,18 @@ jobs:
           path: output/feed.xml
           retention-days: 7
 
+      - name: Publish run log
+        if: always()
+        run: |
+          mkdir -p logs
+          cp run.log logs/run.log 2>/dev/null || true
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add -f logs/run.log
+          git diff --staged --quiet || git commit -m "Run log"
+          git pull --rebase origin main || true
+          git push origin HEAD:main || true
+
       - name: Commit feed to repo
         run: |
           git config user.name "github-actions"
@@ -51,3 +63,5 @@ jobs:
           git add -f output/feed.xml
           git diff --staged --quiet || git commit -m "Feed update $(date +'%Y-%m-%d')"
           git push origin HEAD:main --force
+
+  # (лог запуску публікується завжди, щоб було видно причину збою)
