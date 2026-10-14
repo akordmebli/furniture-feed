@@ -392,28 +392,36 @@ OPTION_ORDER = ["Розмір", "Колір каркаса", "Колір тка�
 
 
 AKORD_OPT_LABELS = {
-    "sleep_size": "Спальне місце", "fabric": "Категорія тканини",  # ці дві впливають на ціну — завжди перші
-    "dimensions": "Розміри", "tabletop_size": "Розмір стільниці",
-    "leg_color": "Колір ніжок", "frame_color": "Колір каркаса",
-    "mechanism": "Механізм", "mattress_included": "Матрац", "pillows": "Подушки",
-    "back_fabric": "Тканина спинки", "material": "Матеріал", "modules": "Модулі",
+    "sleep_size": "Спальне місце", "fabric": "Категорія тканини", "tabletop_size": "Розмір стільниці",
+    "mattress_included": "Матрац", "back_fabric": "Тканина спинки", "modules": "Модулі",
+    "dimensions": "Розміри", "leg_color": "Колір ніжок", "frame_color": "Колір каркаса",
+    "mechanism": "Механізм", "pillows": "Подушки", "material": "Матеріал",
     "length_opt": "Довжина", "width_opt": "Ширина", "height_opt": "Висота",
-}  # порядок = пріоритет; Shopify дозволяє лише 3 опції, решта йде в значення останньої
+}
+# Характеристики, що впливають на ціну (за порядком пріоритету). Решта — лише метафілди,
+# і в опції потрапляють тільки якщо інакше варіанти збігаються (щоб не було дублікатів).
+AKORD_PRICE_OPTS = ["sleep_size", "fabric", "tabletop_size", "mattress_included", "back_fabric", "modules"]
+
+
+def _akord_apply(items, tags):
+    head, tail = tags[:2], tags[2:]
+    cols = [[t] for t in head] + ([tail] if tail else [])
+    names = [" / ".join(AKORD_OPT_LABELS[t] for t in g) for g in cols]
+    vals = [[" / ".join(i["opts"].get(t, "") for t in g if i["opts"].get(t, "")) or "—" for g in cols] for i in items]
+    return names, vals
 
 
 def akord_options(items):
-    """Опції варіантів ВНД: лише ті характеристики, що відрізняються всередині товару (handle)."""
-    vary = [t for t in AKORD_OPT_LABELS if len({i["opts"].get(t, "") for i in items}) > 1]
-    for i in items:
-        i["option_names"], i["option_values"] = [], []
-        if not vary:
-            continue
-        head, tail = vary[:2], vary[2:]
-        cols = [[t] for t in head] + ([tail] if tail else [])
-        for grp in cols:
-            vals = [i["opts"].get(t, "") for t in grp if i["opts"].get(t, "")]
-            i["option_names"].append(" / ".join(AKORD_OPT_LABELS[t] for t in grp) if len(grp) > 1 else AKORD_OPT_LABELS[grp[0]])
-            i["option_values"].append(" / ".join(vals) or "—")
+    """Опції варіантів ВНД: цінові характеристики, що відрізняються всередині товару (handle)."""
+    def varies(t):
+        return len({i["opts"].get(t, "") for i in items}) > 1
+    tags = [t for t in AKORD_PRICE_OPTS if varies(t)]
+    names, vals = _akord_apply(items, tags) if tags else ([], [[] for _ in items])
+    if tags and len({tuple(v) for v in vals}) != len(items):  # цінових замало для унікальності
+        tags += [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS and varies(t)]
+        names, vals = _akord_apply(items, tags)
+    for i, v in zip(items, vals):
+        i["option_names"], i["option_values"] = (names if tags else []), v
 
 
 def group_variants(products):
