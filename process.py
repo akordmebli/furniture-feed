@@ -125,7 +125,7 @@ def title_overrides(title, leaf):
     if "шезлонг" in t or "садов" in t:
         return "Садові меблі"
     if "крісло офісне" in t or "офісне крісло" in t:
-        return "Меблі для закладів"
+        return "М'які крісла"
     if "барний стілець" in t or t.startswith("барний"):
         return "Барні стільці"
     if "безкаркасн" in t and ("диван" in t or "софа" in t):
