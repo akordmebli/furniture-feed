@@ -242,6 +242,15 @@ def parse_vetro(text):
     return products
 
 
+def first_text(item, *tags):
+    """Перший непорожній дочірній тег (без урахування регістру) — у фідах бувають опечатки на кшталт priceRUAH."""
+    low = {c.tag.lower(): (c.text or "").strip() for c in item}
+    for t in tags:
+        if low.get(t.lower()):
+            return low[t.lower()]
+    return ""
+
+
 def parse_comefor(text):
     products = []
     root = ET.fromstring(text.encode("utf-8"))
@@ -276,9 +285,9 @@ def parse_comefor(text):
             if e.text and e.text.strip() not in imgs:
                 imgs.append(e.text.strip())
         products.append(product(
-            source="comefor", sku=item.findtext("sku", ""),
-            handle="comefor-" + (item.findtext("id", "") or item.findtext("sku", "")),
-            name=name, price=clean_price(item.findtext("priceuah", "0")),
+            source="comefor", sku=first_text(item, "code", "sku"),
+            handle="comefor-" + (item.findtext("id", "") or first_text(item, "code", "sku")),
+            name=name, price=clean_price(first_text(item, "priceuah", "priceruah", "price") or "0"),
             product_type=leaf, images=imgs,
             description=clean_text(html.unescape(item.findtext("description", "") or "")),
             available=item.findtext("stock", "").strip() in ("В наличии", "В наявності"),
