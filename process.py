@@ -545,6 +545,22 @@ def build_xml(products):
     return minidom.parseString(raw).toprettyxml(indent="  ", encoding="utf-8").decode("utf-8")
 
 
+def parse_manual(_text=None):
+    """Ручні товари ВНД, яких немає у вигрузці постачальника (manual_products.json)."""
+    out = []
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "manual_products.json")
+    if not os.path.exists(path):
+        return out
+    for m in json.load(open(path, encoding="utf-8")):
+        out.append(product(
+            source="akord", sku=m["sku"], handle=m["handle"], name=m["name"], price=m["price"],
+            product_type=m["product_type"], images=m["images"], description=m["description"],
+            available=True, vendor="ВНД", instock="100",
+            meta_title=m["name"] + " — Акорд Меблі",
+        ))
+    return out
+
+
 def main():
     sources = [
         ("Акорд (ВНД)", "AKORD_CSV", parse_akord, True),
@@ -553,6 +569,7 @@ def main():
         ("Woodman", "WOODMAN_CSV", parse_woodman, os.environ.get("WOODMAN_ENABLED", "1") == "1"),
     ]
     all_products, failed = [], []
+    all_products += parse_manual()
     for label, env, parser, enabled in sources:
         if not enabled:
             print(f"{label}: вимкнено")

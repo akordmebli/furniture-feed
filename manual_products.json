@@ -1,0 +1,48 @@
+[
+ {
+  "handle": "крісло-прованс",
+  "sku": "MAN-PROVANS-KRISLO",
+  "name": "Крісло Прованс",
+  "price": "6881.00",
+  "product_type": "М'які крісла",
+  "description": "Крісло Прованс — стильне та функціональне крісло з точеними ніжками. Підходить для дому, лоджії та закладів horeca. Доставка по всій Україні, магазин Акорд Меблі у Рівному.",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/krislo-provans-nu-78130951964638_25d0b41e-d1fd-4b4f-95cb-8b9141addfbc.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/krislo-provans-nu-74022477502900_a96de4c9-4c8f-4c15-a741-5b9e2cade69e.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/krislo-provans-nu-77387309643034_609116c6-0a8b-4c57-8c34-bb63028fc1af.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/krislo-provans-nu-66358416913611_a8876ad7-8bbb-4795-9cdb-b433dccade50.jpg"
+  ]
+ },
+ {
+  "handle": "тумбочка-лора",
+  "sku": "MAN-LORA",
+  "name": "Тумбочка Лора",
+  "price": "5178.80",
+  "product_type": "Тумбочки",
+  "description": "Тумбочка Лора від Акорд Меблі. Практична та елегантна, ідеально доповнить спальню. Доставка по Україні.",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/tumba-flora-89184840224300_a2e1a50f-b679-4868-8ba2-30213fc8aa0a.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/tumba-flora-50030247217398_05928559-da38-496a-9975-053a6afa3556.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/tumba-flora-50550046971421_d45a1834-bc8e-4323-bb9c-5b99796605f5.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/tumba-flora-91046606172608_8ebbc6c4-2b80-485b-bb46-bf81addb8a92.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/tumba-flora-14558291931856_6b8b057e-9a5f-4747-8b27-5eed2beef7f8.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/tumba-flora-86489631158875_1fbbdc02-5508-42fa-8c0b-3bc21599f226.jpg"
+  ]
+ },
+ {
+  "handle": "мяке-ліжко-дрім-лайт",
+  "sku": "MAN-DREAM-LIGHT",
+  "name": "М'яке ліжко Дрім Лайт",
+  "price": "14121.00",
+  "product_type": "М'які ліжка",
+  "description": "Ліжко Дрім Лайт — м'яке узголів'я, вбудований матрац та ніша для зберігання з газовим підйомним механізмом. Розміри спального місця від 80x200 до 180x200. Доставка по Україні, безкоштовно до під'їзду в Рівному.",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/Bed-Dream_20_281_29_7676e7cf-6268-4b4d-8cc1-0c45202c00d0.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/Bed-Dream_20_284_29_82b559b1-dfa1-4ad4-9b4c-59e0b05674f5.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/Bed-Dream_20_285_29_337c106d-5ce8-4bbb-a709-0147775135bb.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/Bed-Dream_20_286_29_37de109e-6d37-4057-80ad-a8d7279665f0.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/Bed-Dream_20_282_29_3a73c713-6613-477e-bbce-4e969c51cc81.jpg",
+   "https://cdn.shopify.com/s/files/1/0804/7961/7081/files/Bed-Dream_20_283_29_054b9a28-f552-41c5-85fa-e7098a39e75e.jpg"
+  ]
+ }
+]
