@@ -408,7 +408,7 @@ AKORD_PRICE_OPTS = ["sleep_size", "fabric", "tabletop_size", "mattress_included"
 def _akord_apply(items, tags):
     head, tail = tags[:2], tags[2:]
     cols = [[t] for t in head] + ([tail] if tail else [])
-    names = [" / ".join(AKORD_OPT_LABELS[t] for t in g) for g in cols]
+    names = [" і ".join(AKORD_OPT_LABELS[t] for t in g) for g in cols]
     vals = [[" / ".join(i["opts"].get(t, "") for t in g if i["opts"].get(t, "")) or "—" for g in cols] for i in items]
     return names, vals
 
