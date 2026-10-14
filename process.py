@@ -392,8 +392,9 @@ OPTION_ORDER = ["Розмір", "Колір каркаса", "Колір тка�
 
 
 AKORD_OPT_LABELS = {
-    "sleep_size": "Спальне місце", "dimensions": "Розміри", "tabletop_size": "Розмір стільниці",
-    "fabric": "Категорія тканини", "leg_color": "Колір ніжок", "frame_color": "Колір каркаса",
+    "sleep_size": "Спальне місце", "fabric": "Категорія тканини",  # ці дві впливають на ціну — завжди перші
+    "dimensions": "Розміри", "tabletop_size": "Розмір стільниці",
+    "leg_color": "Колір ніжок", "frame_color": "Колір каркаса",
     "mechanism": "Механізм", "mattress_included": "Матрац", "pillows": "Подушки",
     "back_fabric": "Тканина спинки", "material": "Матеріал", "modules": "Модулі",
     "length_opt": "Довжина", "width_opt": "Ширина", "height_opt": "Висота",
