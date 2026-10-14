@@ -124,6 +124,8 @@ def title_overrides(title, leaf):
         return "Буфети і ТВ-тумби"
     if "шезлонг" in t or "садов" in t:
         return "Садові меблі"
+    if "крісло офісне" in t or "офісне крісло" in t:
+        return "Меблі для закладів"
     if "барний стілець" in t or t.startswith("барний"):
         return "Барні стільці"
     if "безкаркасн" in t and ("диван" in t or "софа" in t):
@@ -437,7 +439,9 @@ def group_variants(products):
         if not sp:
             out.append(p)
             continue
+        p["name"] = " ".join(p["name"].split())  # подвійні пробіли ламали групування
         base, opts = sp(p)
+        base = " ".join(base.split())
         key = (p["source"], p["product_type"], base)
         p["group_name"], p["group_opts"] = base, opts
         groups.setdefault(key, []).append(p)
@@ -453,6 +457,14 @@ def group_variants(products):
         # однакові комбінації опцій не можна — тоді не групуємо, щоб нічого не загубити
         combos = [tuple(i["group_opts"].get(n, "—") for n in names) for i in items]
         handle = f"{src}-{slug(base)}"[:120]
+        if len(items) == 1 and items[0]["group_opts"]:
+            # єдиний варіант: чиста назва моделі + опція (інші кольори з'являться в тому ж товарі сам)
+            i = items[0]
+            keys = [n for n in OPTION_ORDER if n in i["group_opts"]][:3]
+            i["handle"], i["name"] = handle, base
+            i["option_names"], i["option_values"] = keys, [i["group_opts"][k] for k in keys]
+            out.append(i)
+            continue
         if len(items) == 1 or not names or len(set(combos)) != len(items):
             for i in items:
                 i["option_names"], i["option_values"] = [], []
