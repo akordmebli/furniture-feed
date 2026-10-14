@@ -246,6 +246,10 @@ def parse_comefor(text):
     products = []
     root = ET.fromstring(text.encode("utf-8"))
     items = root.find("items")
+    _first = next(iter(items if items is not None else root.iter("item")), None)
+    if _first is not None:
+        print("COMEFOR first item:", ET.tostring(_first, encoding="unicode")[:1800].replace("\n", " "))
+    print("COMEFOR categories:", [(c.findtext("id"), c.findtext("parentId"), c.findtext("name")) for c in root.iter("category")][:60])
     for item in (items if items is not None else root.iter("item")):
         name = clean_text(item.findtext("name", ""))
         cat_id = item.findtext("categoryId", "").strip()
@@ -494,6 +498,7 @@ def main():
         with open("unmapped.log", "w", encoding="utf-8") as f:
             f.write("\n".join(sorted(set(UNMAPPED))))
         print(f"Нерозпізнані категорії: {len(set(UNMAPPED))} (див. unmapped.log)")
+        print("UNMAPPED sample:", sorted(set(UNMAPPED))[:15])
 
     if failed:
         print(f"\nФід НЕ оновлено: не вдалося завантажити {', '.join(failed)}")
