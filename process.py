@@ -477,6 +477,20 @@ def group_variants(products):
     return out
 
 
+def stock_qty(p):
+    """Кількість для Shopify: 0 — немає в наявності (варіант стає недоступним).
+    Є реальна кількість (Vetro, ВНД) — беремо її; є лише ознака «в наявності» — ставимо 100."""
+    if not p["available"]:
+        return 0
+    try:
+        q = int(float(str(p["instock"]).replace(",", ".").strip()))
+        if q > 0:
+            return q
+    except (ValueError, TypeError):
+        pass
+    return 100
+
+
 # ---------- вивід ----------
 
 def build_xml(products):
@@ -492,6 +506,7 @@ def build_xml(products):
             ("shopify_id", p["shopify_category"]),
             ("tags", ", ".join(p["tags"])),
             ("available", "true" if p["available"] else "false"),
+            ("quantity", stock_qty(p)),
             ("instock", p["instock"]), ("barcode", p["barcode"]),
             ("meta_title", p["meta_title"]), ("meta_description", p["meta_description"]),
             ("meta_keywords", p["meta_keywords"]), ("alias", p["handle"]),
