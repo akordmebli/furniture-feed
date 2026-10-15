@@ -8,7 +8,7 @@ import process as P
 clean, export, out = sys.argv[1:4]
 rd = csv.DictReader(open(clean, encoding="utf-8-sig"))
 cols, rows = list(rd.fieldnames), list(rd)
-for c in ("corner_side", "armrests", "seats"):
+for c in ("corner_side", "armrests", "seats", "tabletop_color"):
     if c not in cols:
         cols.append(c)
         for r in rows:
@@ -18,7 +18,10 @@ num = lambda s: round(float(str(s).replace(",", ".").replace(" ", "") or 0), 1)
 ER = list(csv.DictReader(open(export, encoding="utf-8-sig"), delimiter=";"))
 sku_n = collections.Counter(g(e, "Sku") for e in ER)
 E = {g(e, "Sku"): e for e in ER if sku_n[g(e, "Sku")] == 1}  # SKU, що повторюється, не ідентифікує варіант
-EP = {(g(e, "Name"), num(g(e, "Price"))): e for e in ER if sku_n[g(e, "Sku")] > 1}  # ... тоді — за назвою і ціною
+EP = collections.defaultdict(list)  # ... тоді — за назвою і ціною; однакові рядки роздаємо по черзі
+for e in ER:
+    if sku_n[g(e, "Sku")] > 1:
+        EP[(g(e, "Name"), num(g(e, "Price")))].append(e)
 
 COLUMN = {  # назва характеристики на сайті -> колонка таблиці
     "Категорія тканини": "fabric", "Колір ніжок": "leg_color", "Колір ніжки та дерев'яного декору": "leg_color",
@@ -26,10 +29,12 @@ COLUMN = {  # назва характеристики на сайті -> кол�
     "Колір дерева": "leg_color", "Сторона кута": "corner_side", "Била": "armrests",
     "Кількість билець": "armrests", "Модулі": "modules", "Матрац": "mattress_included", "РОЗМІР МАТРАЦА": "sleep_size",
 }
-ATTR = {"Конфігурація": "modules", "ВИСОТА, см": "height_opt", "ШИРИНА, см": "width_opt", "ДОВЖИНА, см": "length_opt"}
+ATTR = {"Розмір стільниці": "tabletop_size", "Колір стільниці": "tabletop_color", "Конфігурація": "modules", "ВИСОТА, см": "height_opt", "ШИРИНА, см": "width_opt", "ДОВЖИНА, см": "length_opt"}
 filled, conflicts = collections.Counter(), []
 for r in rows:
-    e = E.get(g(r, "Sku")) or EP.get((g(r, "Name"), num(g(r, "price"))))
+    e = E.get(g(r, "Sku"))
+    if not e and EP.get((g(r, "Name"), num(g(r, "price")))):
+        e = EP[(g(r, "Name"), num(g(r, "price")))].pop(0)
     if not e:
         continue
     pairs = {}

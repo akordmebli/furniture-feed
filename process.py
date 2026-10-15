@@ -58,7 +58,7 @@ SHOPIFY_TAXONOMY = {
 OPT_TAGS = ['fabric', 'leg_color', 'frame_color', 'sleep_size', 'mechanism',
             'pillows', 'back_fabric', 'mattress_included', 'material',
             'modules', 'dimensions', 'tabletop_size',
-            'height_opt', 'length_opt', 'width_opt', 'corner_side', 'armrests', 'seats']
+            'height_opt', 'length_opt', 'width_opt', 'corner_side', 'armrests', 'seats', 'tabletop_color']
 
 UNMAPPED = []
 
@@ -74,7 +74,11 @@ def fetch_text(url):
 
 def clean_price(val):
     try:
-        cleaned = str(val).replace(",", "").replace(" ", "").replace("\xa0", "").strip()
+        cleaned = str(val).replace(" ", "").replace("\xa0", "").strip()
+        if re.fullmatch(r"\d+,\d{1,2}", cleaned):  # 25482,6 — десяткова кома (ВНД)
+            cleaned = cleaned.replace(",", ".")
+        else:
+            cleaned = cleaned.replace(",", "")
         return f"{float(cleaned):.2f}" if cleaned else "0.00"
     except (ValueError, TypeError):
         return "0.00"
@@ -509,7 +513,7 @@ AKORD_OPT_LABELS = {
     "dimensions": "Розміри", "leg_color": "Колір ніжок", "frame_color": "Колір каркаса",
     "mechanism": "Механізм", "pillows": "Подушки", "material": "Матеріал",
     "length_opt": "Довжина", "width_opt": "Ширина", "height_opt": "Висота",
-    "corner_side": "Сторона кута", "armrests": "Підлокітники", "seats": "Кількість місць",
+    "corner_side": "Сторона кута", "tabletop_color": "Колір стільниці", "armrests": "Підлокітники", "seats": "Кількість місць",
 }
 # Характеристики, що впливають на ціну (за порядком пріоритету). Решта — лише метафілди,
 # і в опції потрапляють тільки якщо інакше варіанти збігаються (щоб не було дублікатів).
@@ -530,7 +534,7 @@ def akord_options(items):
         return len({i["opts"].get(t, "") for i in items}) > 1
     tags = [t for t in AKORD_PRICE_OPTS if varies(t)]
     names, vals = _akord_apply(items, tags) if tags else ([], [[] for _ in items])
-    if tags and len({tuple(v) for v in vals}) != len(items):  # цінових замало для унікальності
+    if len({tuple(v) for v in vals}) != len(items):  # цінових замало для унікальності
         tags += [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS and varies(t)]
         names, vals = _akord_apply(items, tags)
     for i, v in zip(items, vals):
