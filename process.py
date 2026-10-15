@@ -195,6 +195,8 @@ FABRIC_ORDER = {"А": 0, "Б": 1, "В": 2, "Г": 3, "Д": 4, "Е": 5, "Ж": 6, "
 
 
 def natural_key(tag, val):
+    if val == "Стандартна":
+        return (0, -1, "")
     if tag == "fabric" and val in FABRIC_ORDER:
         return (0, FABRIC_ORDER[val], "")
     nums = [float(n.replace(",", ".")) for n in re.findall(r"\d+(?:[.,]\d+)?", val)]
