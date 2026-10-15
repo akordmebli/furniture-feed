@@ -11,3 +11,15 @@ COMPARE same URL: True
 COMPARE rows: feed-source=6623 sheet=6623
 COMPARE only in feed-source: 0 | only in sheet: 0
 COMPARE changed fields: 0
+COMPARE NAMES: Диван JORD | divan-roset | Дивани / Прямі дивани | 24
+COMPARE NAMES: Диван Прованс | divan-monako | Дивани / Прямі дивани | 16
+COMPARE NAMES: Диван Прованс | divan-provans | Дивани / Прямі дивани | 104
+COMPARE NAMES: Диван Прованс Нью | divan-provans-new | Дивани / Прямі дивани | 120
+COMPARE NAMES: Крісло Прованс | myake-krislo-provans-nyu | Крісла / М'які крісла | 24
+COMPARE NAMES: Крісло Прованс 2 | myake-krislo-provans-2 | Крісла / М'які крісла | 6
+COMPARE NAMES: Крісло Прованс Нью | myake-krislo-provans-nyu | Крісла / М'які крісла | 24
+COMPARE NAMES: Кутове ліжко DREAM | myake-lizhko-tahta-drim | Ліжка / Кутові ліжка | 24
+COMPARE NAMES: М'яке ліжко DREAM | myake-lizhko-drim | Ліжка / М'які ліжка | 36
+COMPARE NAMES: М'яке ліжко Дрім Лайт | myake-lizhko-drim | Ліжка / М'які ліжка | 36
+COMPARE NAMES: Тумбочка Лора | tumbochka-greys | Тумби та зберігання / Тумбочки | 1
+COMPARE NAMES: Тумбочка Ґрейс | tumbochka-greys | Тумби та зберігання / Тумбочки | 1
