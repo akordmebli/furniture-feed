@@ -200,6 +200,21 @@ def natural_key(tag, val):
     return (2, (), val.lower())
 
 
+def clean_images(raw):
+    """Лише справжні файли: без порожніх папок, подвійних слешів і з кодуванням пробілів/дужок."""
+    from urllib.parse import quote
+    out = []
+    for u in (raw or "").split(","):
+        u = u.strip()
+        if not u or u.endswith("/"):
+            continue
+        u = re.sub(r"(?<!:)//+", "/", u)
+        u = quote(u, safe=":/%")
+        if u not in out:
+            out.append(u)
+    return out
+
+
 def parse_akord(text):
     products = []
     reader = csv.DictReader(StringIO(text))
@@ -253,7 +268,9 @@ def parse_akord(text):
             tags.append("нерозкладний")
 
         images_raw = row.get("image", "") or row.get("variant_image", "") or row.get("Images", "") or ""
-        images = [i.strip() for i in images_raw.split(",") if i.strip()]
+        images = clean_images(images_raw)
+        if "JORD" in name.upper() and "ROSET" in images_raw.upper():
+            images = []  # у вигрузці JORD містить фото ROSET — чужі фото не завантажуємо
 
         products.append(product(
             source="akord", sku=sku, handle=alias,
