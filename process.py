@@ -159,6 +159,38 @@ def product(**kw):
 
 # ---------- джерела ----------
 
+def brand_fix(text):
+    """Єдине написання бренду: у тексті лише «ВНД» і «Акорд Меблі»."""
+    text = re.sub(r"(?i)\bvinadi\b|\bвінаді\b", "ВНД", text or "")
+    return text.replace("АКОРД МЕБЛІ", "Акорд Меблі")
+
+
+def norm_size_value(tag, val):
+    """Розміри в одному форматі: см (1500*1900 → 150*190), тумба — «80х120»."""
+    if tag == "sleep_size":
+        m = re.fullmatch(r"(\d+)\s*[*xхX×]\s*(\d+)", val)
+        if m:
+            a, b = int(m.group(1)), int(m.group(2))
+            if a >= 1000 and b >= 1000:
+                a, b = round(a / 10), round(b / 10)
+            return f"{a}*{b}"
+    if tag == "tabletop_size":
+        return val.replace("x", "х").replace("X", "х")
+    return val
+
+
+FABRIC_ORDER = {"А": 0, "Б": 1, "В": 2, "Г": 3, "Д": 4, "Е": 5, "Ж": 6, "З": 7}
+
+
+def natural_key(tag, val):
+    if tag == "fabric" and val in FABRIC_ORDER:
+        return (0, FABRIC_ORDER[val], "")
+    nums = [float(n.replace(",", ".")) for n in re.findall(r"\d+(?:[.,]\d+)?", val)]
+    if nums:
+        return (1, tuple(nums), val.lower())
+    return (2, (), val.lower())
+
+
 def parse_akord(text):
     products = []
     reader = csv.DictReader(StringIO(text))
@@ -176,7 +208,7 @@ def parse_akord(text):
         for tag in OPT_TAGS:
             val = str(row.get(tag, "") or "").strip()
             if val and val.lower() != "nan":
-                opts[tag] = val
+                opts[tag] = norm_size_value(tag, val)
         # один SKU може стояти на кількох варіантах — ключ = SKU + опції
         name = clean_text(row.get("Name", ""))
         alias = str(row.get("Alias", "") or "")
@@ -202,13 +234,13 @@ def parse_akord(text):
             name=name,
             price=clean_price(row.get("price", "") or row.get("variant_price", "") or row.get("Price", "")),
             product_type=leaf, images=images,
-            description=clean_text(row.get("ShortDescription", "")),
+            description=brand_fix(clean_text(row.get("ShortDescription", ""))),
             available=str(row.get("IsAvailable", "")).strip() == "Available",
             vendor="ВНД", instock=str(row.get("InStock", "") or ""),
             barcode=str(row.get("Barcode", "") or ""),
-            meta_title=str(row.get("MetaTitle", "") or ""),
-            meta_description=str(row.get("MetaDescription", "") or ""),
-            meta_keywords=str(row.get("MetaKeywords", "") or ""),
+            meta_title=brand_fix(str(row.get("MetaTitle", "") or "")),
+            meta_description=brand_fix(str(row.get("MetaDescription", "") or "")),
+            meta_keywords=brand_fix(str(row.get("MetaKeywords", "") or "")),
             opts=opts, tags=tags, sleep=sleep_norm(opts.get("sleep_size", "")),
             length=cm(opts.get("length_opt", "")), width=cm(opts.get("width_opt", "")),
             height=cm(opts.get("height_opt", "")),
@@ -489,6 +521,11 @@ def group_variants(products):
             out.append(i)
     for items in akord.values():
         akord_options(items)
+    # варіанти від меншого до більшого: розмір, категорія тканини (А→Ж) та інші цінові опції
+    order = {h: n for n, h in enumerate(akord)}
+    sort_tags = AKORD_PRICE_OPTS + [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS]
+    key = lambda p: (order[p["handle"]], [natural_key(t, p["opts"].get(t, "")) for t in sort_tags])
+    out = [p for p in out if p["source"] != "akord"] + sorted((p for p in out if p["source"] == "akord"), key=key)
     seen = set()
     for p in out:  # SKU у фіді постачальника інколи дублюється — робимо унікальним
         if p["sku"] in seen:
