@@ -165,7 +165,10 @@ def brand_fix(text):
 
 
 # У вигрузці частину рядків QUEST скопійовано з Лоренс (чужий alias і фото): (alias, назва) -> правильний alias
-ALIAS_FIXES = {("stilets-lorens", "Стілець QUEST"): "stilets-quest"}
+ALIAS_FIXES = {
+    ("stilets-lorens", "Стілець QUEST"): "stilets-quest",
+    ("divan-monako", "Диван Прованс"): "divan-provans",  # це варіанти довжини 124 дивана Прованс
+}
 
 # Нерозкладні дивани: у вигрузці стоїть «спальне місце», якого немає
 NO_SLEEP_ALIASES = {"divan-bloom"}
