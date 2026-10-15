@@ -164,8 +164,12 @@ def brand_fix(text):
     return (text or "").replace("АКОРД МЕБЛІ", "Акорд Меблі")
 
 
+VALUE_FIXES = {"mechanism": {"Крокуючий": "Покроковий"}}
+
+
 def norm_size_value(tag, val):
     """Розміри в одному форматі: см (1500*1900 → 150*190), тумба — «80х120»."""
+    val = VALUE_FIXES.get(tag, {}).get(val, val)
     if tag == "sleep_size":
         m = re.fullmatch(r"(\d+)\s*[*xхX×]\s*(\d+)", val)
         if m:
