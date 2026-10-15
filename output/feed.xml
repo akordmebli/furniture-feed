@@ -427497,9 +427497,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title/>
     <meta_description/>
@@ -431037,9 +431037,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title/>
     <meta_description/>
