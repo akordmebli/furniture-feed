@@ -13,23 +13,27 @@ for c in ("corner_side", "armrests", "seats"):
         cols.append(c)
         for r in rows:
             r[c] = ""
-E = {r["Sku"]: r for r in csv.DictReader(open(export, encoding="utf-8-sig"), delimiter=";")}
 g = lambda r, k: str(r.get(k, "") or "").strip()
+num = lambda s: round(float(str(s).replace(",", ".").replace(" ", "") or 0), 1)
+ER = list(csv.DictReader(open(export, encoding="utf-8-sig"), delimiter=";"))
+sku_n = collections.Counter(g(e, "Sku") for e in ER)
+E = {g(e, "Sku"): e for e in ER if sku_n[g(e, "Sku")] == 1}  # SKU, що повторюється, не ідентифікує варіант
+EP = {(g(e, "Name"), num(g(e, "Price"))): e for e in ER if sku_n[g(e, "Sku")] > 1}  # ... тоді — за назвою і ціною
 
 COLUMN = {  # назва характеристики на сайті -> колонка таблиці
     "Категорія тканини": "fabric", "Колір ніжок": "leg_color", "Колір ніжки та дерев'яного декору": "leg_color",
     "Механізм": "mechanism", "Розмір спального місця": "sleep_size", "Розміри": "dimensions",
     "Колір дерева": "leg_color", "Сторона кута": "corner_side", "Била": "armrests",
-    "Кількість билець": "armrests", "Модулі": "modules", "Матрац": "mattress_included",
+    "Кількість билець": "armrests", "Модулі": "modules", "Матрац": "mattress_included", "РОЗМІР МАТРАЦА": "sleep_size",
 }
 ATTR = {"Конфігурація": "modules", "ВИСОТА, см": "height_opt", "ШИРИНА, см": "width_opt", "ДОВЖИНА, см": "length_opt"}
 filled, conflicts = collections.Counter(), []
 for r in rows:
-    e = E.get(g(r, "Sku"))
+    e = E.get(g(r, "Sku")) or EP.get((g(r, "Name"), num(g(r, "price"))))
     if not e:
         continue
     pairs = {}
-    for part in g(e, "ProductModificationName").split(",")[1:]:
+    for part in g(e, "ProductModificationName").replace("РОЗМІР МАТРАЦА, см", "РОЗМІР МАТРАЦА").split(",")[1:]:
         if ":" in part:
             k, v = part.split(":", 1)
             pairs[k.strip()] = v.strip()
