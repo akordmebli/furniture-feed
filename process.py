@@ -167,9 +167,6 @@ def brand_fix(text):
 # У вигрузці частину рядків QUEST скопійовано з Лоренс (чужий alias і фото): (alias, назва) -> правильний alias
 ALIAS_FIXES = {("stilets-lorens", "Стілець QUEST"): "stilets-quest"}
 
-# Рядки з чужими фото: (alias, назва) -> alias, чиї фото брати
-IMAGE_FROM = {("divan-monako", "Диван Прованс"): "divan-provans"}
-
 # Нерозкладні дивани: у вигрузці стоїть «спальне місце», якого немає
 NO_SLEEP_ALIASES = {"divan-bloom"}
 
@@ -241,13 +238,6 @@ def parse_akord(text):
         for (bad, nm), good in ALIAS_FIXES.items():
             if a == good and not fixed_images.get(good):
                 fixed_images[good] = row.get("image", "") or row.get("variant_image", "") or row.get("Images", "") or ""
-    alias_images = {}
-    for row in rows:
-        alias_images.setdefault(str(row.get("Alias", "") or ""), row.get("image", "") or "")
-    for row in rows:
-        src_alias = IMAGE_FROM.get((str(row.get("Alias", "") or ""), clean_text(row.get("Name", ""))))
-        if src_alias and alias_images.get(src_alias):
-            row["image"] = alias_images[src_alias]
     for row in rows:
         fix = ALIAS_FIXES.get((str(row.get("Alias", "") or ""), clean_text(row.get("Name", ""))))
         if fix:
