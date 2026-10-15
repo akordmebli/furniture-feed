@@ -7,13 +7,20 @@ import process as P
 
 clean, export, out = sys.argv[1:4]
 rd = csv.DictReader(open(clean, encoding="utf-8-sig"))
-cols, rows = rd.fieldnames, list(rd)
+cols, rows = list(rd.fieldnames), list(rd)
+for c in ("corner_side", "armrests", "seats"):
+    if c not in cols:
+        cols.append(c)
+        for r in rows:
+            r[c] = ""
 E = {r["Sku"]: r for r in csv.DictReader(open(export, encoding="utf-8-sig"), delimiter=";")}
 g = lambda r, k: str(r.get(k, "") or "").strip()
 
 COLUMN = {  # назва характеристики на сайті -> колонка таблиці
     "Категорія тканини": "fabric", "Колір ніжок": "leg_color", "Колір ніжки та дерев'яного декору": "leg_color",
     "Механізм": "mechanism", "Розмір спального місця": "sleep_size", "Розміри": "dimensions",
+    "Колір дерева": "leg_color", "Сторона кута": "corner_side", "Била": "armrests",
+    "Кількість билець": "armrests", "Модулі": "modules", "Матрац": "mattress_included",
 }
 ATTR = {"Конфігурація": "modules", "ВИСОТА, см": "height_opt", "ШИРИНА, см": "width_opt", "ДОВЖИНА, см": "length_opt"}
 filled, conflicts = collections.Counter(), []
@@ -27,6 +34,8 @@ for r in rows:
             k, v = part.split(":", 1)
             pairs[k.strip()] = v.strip()
     updates = {COLUMN[k]: v for k, v in pairs.items() if k in COLUMN}
+    if "Довжина" in pairs:  # «120 см» -> довжина; «2 сидіння» -> кількість місць
+        updates["length_opt" if pairs["Довжина"].endswith("см") else "seats"] = pairs["Довжина"]
     updates.update({dst: g(e, src) for src, dst in ATTR.items() if g(e, src)})
     for col, v in updates.items():
         v = P.norm_size_value(col, v)
@@ -38,6 +47,7 @@ for r in rows:
             filled[(r["Name"], col)] += 1
         elif g(r, col) != v:
             conflicts.append((r["Sku"], col, g(r, col), v))
+            r[col] = v  # вигрузка сайту — еталон
 
 with open(out, "w", encoding="utf-8-sig", newline="") as f:
     w = csv.DictWriter(f, fieldnames=cols)
