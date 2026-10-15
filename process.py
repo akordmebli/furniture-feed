@@ -235,6 +235,15 @@ def parse_akord(text):
     reader = csv.DictReader(StringIO(text))
     print('AKORD columns:', reader.fieldnames)
     rows = list(reader)
+    # рядок без фото бере фото зі «своїх» рядків з тим самим alias (Монако: фото стоять біля рядків Прованс)
+    first_img = {}
+    for row in rows:
+        im = row.get("image", "") or row.get("variant_image", "") or row.get("Images", "") or ""
+        if clean_images(im):
+            first_img.setdefault(str(row.get("Alias", "") or ""), im)
+    for row in rows:
+        if not clean_images(row.get("image", "") or row.get("variant_image", "") or row.get("Images", "") or ""):
+            row["image"] = first_img.get(str(row.get("Alias", "") or ""), "")
     fixed_images = {}
     for row in rows:
         a = str(row.get("Alias", "") or "")
