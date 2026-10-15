@@ -164,6 +164,9 @@ def brand_fix(text):
     return re.sub(r"(?i)акорд меблі", "АКОРД МЕБЛІ", text or "")
 
 
+# У вигрузці частину рядків QUEST скопійовано з Лоренс (чужий alias і фото): (alias, назва) -> правильний alias
+ALIAS_FIXES = {("stilets-lorens", "Стілець QUEST"): "stilets-quest"}
+
 # Нерозкладні дивани: у вигрузці стоїть «спальне місце», якого немає
 NO_SLEEP_ALIASES = {"divan-bloom"}
 
@@ -202,6 +205,18 @@ def parse_akord(text):
     reader = csv.DictReader(StringIO(text))
     print('AKORD columns:', reader.fieldnames)
     rows = list(reader)
+    fixed_images = {}
+    for row in rows:
+        a = str(row.get("Alias", "") or "")
+        for (bad, nm), good in ALIAS_FIXES.items():
+            if a == good and not fixed_images.get(good):
+                fixed_images[good] = row.get("image", "") or row.get("variant_image", "") or row.get("Images", "") or ""
+    for row in rows:
+        fix = ALIAS_FIXES.get((str(row.get("Alias", "") or ""), clean_text(row.get("Name", ""))))
+        if fix:
+            row["Alias"] = fix
+            if fixed_images.get(fix):
+                row["image"] = fixed_images[fix]
     # в таблиці різні товари інколи мають однаковий Alias (скопійований рядок) —
     # перша назва лишає alias, інші отримують власний handle
     alias_owner = {}
