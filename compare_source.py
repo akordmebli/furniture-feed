@@ -26,3 +26,10 @@ for k in set(ka) & set(kb):
 print("COMPARE changed fields:", sum(diff.values()))
 for (col, x, y), v in diff.most_common(40):
     print(f"COMPARE DIFF {col}: feed='{x}' sheet='{y}' x{v}")
+c = collections.Counter()
+for r in A:
+    n = r.get("Name", "")
+    if any(x in n for x in ("Прованс", "JORD", "Дрім", "DREAM", "Лора", "Ґрейс", "Флора")):
+        c[(n, r.get("Alias", ""), r.get("category", ""))] += 1
+for (n, al, cat), v in sorted(c.items()):
+    print(f"COMPARE NAMES: {n} | {al} | {cat} | {v}")
