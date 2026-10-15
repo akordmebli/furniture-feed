@@ -7,3 +7,7 @@ Come-For: 1102 | без ціни 0 | без фото 0 | без категорі
 Woodman: 396 | без ціни 0 | без фото 0 | без категорії 0
 
 Готово: 8341 позицій → output/feed.xml
+COMPARE same URL: True
+COMPARE rows: feed-source=6623 sheet=6623
+COMPARE only in feed-source: 0 | only in sheet: 0
+COMPARE changed fields: 0
