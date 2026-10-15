@@ -200,6 +200,18 @@ def natural_key(tag, val):
     return (2, (), val.lower())
 
 
+# Фото JORD зі сторінки товару на сайті (у вигрузці там фото ROSET)
+JORD_IMAGES = [
+    "https://akordmebli.com.ua/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/Jord.jpg",
+    "https://akordmebli.com.ua/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/Jord-6.jpg",
+    "https://akordmebli.com.ua/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/Jord-1.jpg",
+    "https://akordmebli.com.ua/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/Jord-2.jpg",
+    "https://akordmebli.com.ua/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/Jord-5.jpg",
+    "https://akordmebli.com.ua/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/Jord-3.jpg",
+    "https://akordmebli.com.ua/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/Jord-4.jpg",
+    "https://akordmebli.com.ua/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/_imports/Media/shop-14308/Jord-7.jpg",
+]
+
 def clean_images(raw):
     """Лише справжні файли: без порожніх папок, подвійних слешів і з кодуванням пробілів/дужок."""
     from urllib.parse import quote
@@ -270,7 +282,7 @@ def parse_akord(text):
         images_raw = row.get("image", "") or row.get("variant_image", "") or row.get("Images", "") or ""
         images = clean_images(images_raw)
         if "JORD" in name.upper() and "ROSET" in images_raw.upper():
-            images = []  # у вигрузці JORD містить фото ROSET — чужі фото не завантажуємо
+            images = list(JORD_IMAGES)  # у вигрузці JORD містить фото ROSET — беремо власні
 
         products.append(product(
             source="akord", sku=sku, handle=alias,
