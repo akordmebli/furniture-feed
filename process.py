@@ -524,7 +524,8 @@ def _akord_apply(items, tags):
     head, tail = tags[:2], tags[2:]
     cols = [[t] for t in head] + ([tail] if tail else [])
     names = [" і ".join(AKORD_OPT_LABELS[t] for t in g) for g in cols]
-    vals = [[" / ".join(i["opts"].get(t, "") for t in g if i["opts"].get(t, "")) or "—" for g in cols] for i in items]
+    # кома в значенні опції розбиває його на два варіанти під час імпорту -> «1,5» стає «1.5»
+    vals = [[(" / ".join(i["opts"].get(t, "") for t in g if i["opts"].get(t, "")) or "—").replace(",", ".") for g in cols] for i in items]
     return names, vals
 
 
