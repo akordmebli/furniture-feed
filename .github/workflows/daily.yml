@@ -29,6 +29,14 @@ jobs:
           WOODMAN_ENABLED: '1'
         run: python -u process.py 2>&1 | tee run.log; exit ${PIPESTATUS[0]}
 
+      - name: Compare ВНД source with sheet
+        if: always()
+        continue-on-error: true
+        env:
+          AKORD_CSV: ${{ secrets.AKORD_CSV }}
+          CMP_URL: https://docs.google.com/spreadsheets/d/e/2PACX-1vRPVKmbo3mU-hqY9WZb6K7iv2W7srvUy0NKTOgnnu8SoeL9lmM_qS4E8Hr0DkYpz0LJEOMISW3YCEaO/pub?output=csv
+        run: python -u compare_source.py 2>&1 | tee -a run.log
+
       - name: Upload unmapped categories log
         if: always()
         uses: actions/upload-artifact@v4
