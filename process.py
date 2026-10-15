@@ -163,8 +163,14 @@ def parse_akord(text):
     products = []
     reader = csv.DictReader(StringIO(text))
     print('AKORD columns:', reader.fieldnames)
+    rows = list(reader)
+    # в таблиці різні товари інколи мають однаковий Alias (скопійований рядок) —
+    # перша назва лишає alias, інші отримують власний handle
+    alias_owner = {}
+    for row in rows:
+        alias_owner.setdefault(str(row.get("Alias", "") or ""), clean_text(row.get("Name", "")))
     seen = set()
-    for row in reader:
+    for row in rows:
         sku = str(row.get("Sku", "") or "").strip()
         opts = {}
         for tag in OPT_TAGS:
@@ -172,12 +178,15 @@ def parse_akord(text):
             if val and val.lower() != "nan":
                 opts[tag] = val
         # один SKU може стояти на кількох варіантах — ключ = SKU + опції
-        key = (sku, tuple(sorted(opts.items())), row.get("Alias", ""))
+        name = clean_text(row.get("Name", ""))
+        alias = str(row.get("Alias", "") or "")
+        if alias and alias_owner.get(alias) != name:
+            alias = f"{alias}-{slug(name)}"
+        key = (sku, tuple(sorted(opts.items())), alias)
         if key in seen:
             continue
         seen.add(key)
 
-        name = clean_text(row.get("Name", ""))
         cat = str(row.get("category", "") or "").strip()
         leaf = map_leaf("akord", cat.split(" / ")[-1] if cat else "", name)
         leaf = title_overrides(name, leaf)
@@ -189,7 +198,7 @@ def parse_akord(text):
         images = [i.strip() for i in images_raw.split(",") if i.strip()]
 
         products.append(product(
-            source="akord", sku=sku, handle=str(row.get("Alias", "") or ""),
+            source="akord", sku=sku, handle=alias,
             name=name,
             price=clean_price(row.get("price", "") or row.get("variant_price", "") or row.get("Price", "")),
             product_type=leaf, images=images,
