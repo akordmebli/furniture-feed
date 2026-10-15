@@ -164,6 +164,9 @@ def brand_fix(text):
     return (text or "").replace("АКОРД МЕБЛІ", "Акорд Меблі")
 
 
+# Нерозкладні дивани: у вигрузці стоїть «спальне місце», якого немає
+NO_SLEEP_ALIASES = {"divan-bloom"}
+
 VALUE_FIXES = {"mechanism": {"Крокуючий": "Покроковий"}}
 
 
@@ -212,6 +215,9 @@ def parse_akord(text):
             val = str(row.get(tag, "") or "").strip()
             if val and val.lower() != "nan":
                 opts[tag] = norm_size_value(tag, val)
+        no_sleep = str(row.get("Alias", "") or "") in NO_SLEEP_ALIASES
+        if no_sleep:
+            opts.pop("sleep_size", None)
         # один SKU може стояти на кількох варіантах — ключ = SKU + опції
         name = clean_text(row.get("Name", ""))
         alias = str(row.get("Alias", "") or "")
@@ -227,6 +233,8 @@ def parse_akord(text):
         leaf = title_overrides(name, leaf)
         tags = []
         if "нерозкладн" in cat.lower() or "нерозкладн" in (row.get("ShortDescription", "") or "").lower():
+            tags.append("нерозкладний")
+        if no_sleep and "нерозкладний" not in tags:
             tags.append("нерозкладний")
 
         images_raw = row.get("image", "") or row.get("variant_image", "") or row.get("Images", "") or ""
