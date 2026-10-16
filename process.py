@@ -639,6 +639,9 @@ def comefor_available(stock):
 
 # ---------- вивід ----------
 
+NO_IMAGE_SOURCES = {"akord", "woodman"}
+
+
 def build_xml(products):
     catalog = ET.Element("catalog")
     for p in products:
@@ -668,9 +671,11 @@ def build_xml(products):
         for n in range(3):
             ET.SubElement(item, f"option{n + 1}_name").text = names[n] if n < len(names) else ""
             ET.SubElement(item, f"option{n + 1}_value").text = vals[n] if n < len(vals) else ""
-        ET.SubElement(item, "variant_image").text = p["images"][0] if p["images"] else ""
+        # Фото ВНД і Woodman у фід не віддаємо: їх додають і обрізають вручну в Shopify
+        imgs = [] if p["source"] in NO_IMAGE_SOURCES else p["images"]
+        ET.SubElement(item, "variant_image").text = imgs[0] if imgs else ""
         images_el = ET.SubElement(item, "images")
-        for img in p["images"]:
+        for img in imgs:
             ET.SubElement(images_el, "image").text = img
     raw = ET.tostring(catalog, encoding="unicode")
     return minidom.parseString(raw).toprettyxml(indent="  ", encoding="utf-8").decode("utf-8")
