@@ -172,6 +172,8 @@ def brand_fix(text):
 ALIAS_FIXES = {
     ("stilets-lorens", "Стілець QUEST"): "stilets-quest",
     ("divan-monako", "Диван Прованс"): "divan-provans",  # це варіанти довжини 124 дивана Прованс
+    ("myake-lizhko-tahta-EVERLAY", "Кутове ліжко EVERLAY"): "kutove-lizhko-everlay",
+    ("myake-lizhko-tahta-everlay", "Кутове ліжко EVERLAY"): "kutove-lizhko-everlay",
 }
 
 # Нерозкладні дивани: у вигрузці стоїть «спальне місце», якого немає
