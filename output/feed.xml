@@ -587,9 +587,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title/>
     <meta_description/>
@@ -1479,9 +1479,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title/>
     <meta_description/>
@@ -6098,9 +6098,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title/>
     <meta_description/>
@@ -15594,9 +15594,9 @@
     <parent_category>Тумби та зберігання</parent_category>
     <shopify_id>fr-24-6</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title/>
     <meta_description/>
@@ -18246,9 +18246,9 @@
     <parent_category>Крісла</parent_category>
     <shopify_id>fr-7-1</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title/>
     <meta_description/>
@@ -454511,6 +454511,63 @@
     <sku>96858658678</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
+    <variant_price>27936.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>140×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>А</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>140*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>А</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-140-200-a-tak</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
     <variant_price>30655.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>М'які ліжка</product_type>
@@ -454538,7 +454595,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -454554,8 +454611,8 @@
     <option1_value>140*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>А</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -454565,7 +454622,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-140-200-b</sku>
+    <sku>96858658678-140-200-b-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>28476.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>140×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Б</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>140*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Б</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-140-200-b-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>31185.00</variant_price>
@@ -454595,7 +454709,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -454611,8 +454725,8 @@
     <option1_value>140*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Б</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -454622,7 +454736,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-140-200-v</sku>
+    <sku>96858658678-140-200-v-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>29017.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>140×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>В</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>140*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>В</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-140-200-v-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>31716.00</variant_price>
@@ -454652,7 +454823,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -454668,8 +454839,8 @@
     <option1_value>140*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>В</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -454679,7 +454850,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-140-200-h</sku>
+    <sku>96858658678-140-200-h-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>29558.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>140×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Г</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>140*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Г</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-140-200-h-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>32247.00</variant_price>
@@ -454709,7 +454937,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -454725,8 +454953,8 @@
     <option1_value>140*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Г</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -454736,7 +454964,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-140-200-d</sku>
+    <sku>96858658678-140-200-d-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>30909.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>140×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Д</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>140*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Д</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-140-200-d-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>33573.00</variant_price>
@@ -454766,7 +455051,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -454782,8 +455067,8 @@
     <option1_value>140*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Д</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -454793,7 +455078,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-140-200-zh</sku>
+    <sku>96858658678-140-200-zh-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>32261.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>140×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Ж</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>140*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Ж</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-140-200-zh-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>34900.00</variant_price>
@@ -454823,7 +455165,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -454839,8 +455181,8 @@
     <option1_value>140*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Ж</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -454850,7 +455192,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-160-200-a</sku>
+    <sku>96858658678-160-200-a-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>29155.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>160×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>А</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>160*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>А</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-160-200-a-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>32402.00</variant_price>
@@ -454880,7 +455279,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -454896,8 +455295,8 @@
     <option1_value>160*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>А</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -454907,7 +455306,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-160-200-b</sku>
+    <sku>96858658678-160-200-b-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>29716.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>160×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Б</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>160*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Б</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-160-200-b-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>32954.00</variant_price>
@@ -454937,7 +455393,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -454953,8 +455409,8 @@
     <option1_value>160*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Б</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -454964,7 +455420,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-160-200-v</sku>
+    <sku>96858658678-160-200-v-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>30277.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>160×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>В</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>160*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>В</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-160-200-v-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>33505.00</variant_price>
@@ -454994,7 +455507,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -455010,8 +455523,8 @@
     <option1_value>160*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>В</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -455021,7 +455534,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-160-200-h</sku>
+    <sku>96858658678-160-200-h-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>30839.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>160×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Г</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>160*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Г</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-160-200-h-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>34056.00</variant_price>
@@ -455051,7 +455621,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -455067,8 +455637,8 @@
     <option1_value>160*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Г</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -455078,7 +455648,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-160-200-d</sku>
+    <sku>96858658678-160-200-d-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>32242.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>160×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Д</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>160*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Д</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-160-200-d-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>35434.00</variant_price>
@@ -455108,7 +455735,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -455124,8 +455751,8 @@
     <option1_value>160*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Д</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -455135,7 +455762,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-160-200-zh</sku>
+    <sku>96858658678-160-200-zh-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>33646.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>160×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Ж</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>160*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Ж</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-160-200-zh-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>36812.00</variant_price>
@@ -455165,7 +455849,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -455181,8 +455865,8 @@
     <option1_value>160*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Ж</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -455192,7 +455876,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-180-200-a</sku>
+    <sku>96858658678-180-200-a-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>32310.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>180×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>А</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>180*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>А</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-180-200-a-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>36494.00</variant_price>
@@ -455222,7 +455963,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -455238,8 +455979,8 @@
     <option1_value>180*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>А</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -455249,7 +455990,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-180-200-b</sku>
+    <sku>96858658678-180-200-b-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>32887.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>180×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Б</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>180*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Б</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-180-200-b-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>37066.00</variant_price>
@@ -455279,7 +456077,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -455295,8 +456093,8 @@
     <option1_value>180*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Б</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -455306,7 +456104,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-180-200-v</sku>
+    <sku>96858658678-180-200-v-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>33464.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>180×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>В</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>180*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>В</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-180-200-v-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>37638.00</variant_price>
@@ -455336,7 +456191,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -455352,8 +456207,8 @@
     <option1_value>180*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>В</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -455363,7 +456218,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-180-200-h</sku>
+    <sku>96858658678-180-200-h-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>34041.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>180×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Г</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>180*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Г</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-180-200-h-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>38210.00</variant_price>
@@ -455393,7 +456305,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -455409,8 +456321,8 @@
     <option1_value>180*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Г</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -455420,7 +456332,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-180-200-d</sku>
+    <sku>96858658678-180-200-d-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>35483.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>180×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Д</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>180*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Д</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-180-200-d-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>39639.00</variant_price>
@@ -455450,7 +456419,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -455466,8 +456435,8 @@
     <option1_value>180*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Д</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
@@ -455477,7 +456446,64 @@
     </images>
   </item>
   <item>
-    <sku>96858658678-180-200-zh</sku>
+    <sku>96858658678-180-200-zh-lamelna-sitka</sku>
+    <handle>myake-lizhko-arno</handle>
+    <name>М'яке ліжко ARNO</name>
+    <variant_price>36926.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>М'які ліжка</product_type>
+    <category>М'які ліжка</category>
+    <parent_category>Ліжка</parent_category>
+    <shopify_id>fr-2-2</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>М'яке ліжко ARNO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван. Доставка</meta_description>
+    <meta_keywords>М'яке ліжко ARNO, м'які ліжка, ліжка, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>myake-lizhko-arno</alias>
+    <description>Диван ARNO від фабрики VINADI, доступний у магазині АКОРД МЕБЛІ, представляє собою вишукане поєднання сучасного дизайну та функціональності. Цей диван обладнаний зручним матрацом на підйомному механізмі, що дозволяє легко та швидко трансформувати його в комфортне спальне місце. Доступні три розміри спального місця: 140х200, 160х200 і 180х200, що дає змогу обрати оптимальний варіант залежно від ваших потреб та розмірів приміщення.Особливістю дивану ARNO є вбудована ніша для зберігання речей, що робить його ідеальним вибором для тих, хто цінує порядок і прагне економити простір. Ніша забезпечує додатковий простір для зберігання постільної білизни, пледів та інших дрібниць, завжди тримаючи їх під рукою.Диван ARNO поєднує в собі стильний вигляд з високоякісними матеріалами оббивки, що гарантує довготривале використання та комфорт. Завдяки своєму універсальному дизайну, диван легко вписується в будь-який інтер&amp;rsquo;єр, додаючи в нього нотки елегантності та затишку. Не пропустіть можливість придбати цей багатофункціональний диван у магазині АКОРД МЕБЛІ, де якість завжди на першому місці.</description>
+    <spalne_mistse>180×200</spalne_mistse>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <fabric>Ж</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>180*200</sleep_size>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included>Ламельна сітка</mattress_included>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
+    <option2_name>Категорія тканини</option2_name>
+    <option2_value>Ж</option2_value>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Ламельна сітка</option3_value>
+    <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
+    <images>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-1.jpg</image>
+      <image>https://akordmebli.com.ua/Media/shop-14308/Arno-3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>96858658678-180-200-zh-tak</sku>
     <handle>myake-lizhko-arno</handle>
     <name>М'яке ліжко ARNO</name>
     <variant_price>41069.00</variant_price>
@@ -455507,7 +456533,7 @@
     <mechanism/>
     <pillows/>
     <back_fabric/>
-    <mattress_included/>
+    <mattress_included>Так</mattress_included>
     <material/>
     <modules/>
     <dimensions/>
@@ -455523,8 +456549,8 @@
     <option1_value>180*200</option1_value>
     <option2_name>Категорія тканини</option2_name>
     <option2_value>Ж</option2_value>
-    <option3_name/>
-    <option3_value/>
+    <option3_name>Матрац</option3_name>
+    <option3_value>Так</option3_value>
     <variant_image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</variant_image>
     <images>
       <image>https://akordmebli.com.ua/Media/shop-14308/Arno-2.jpg</image>
