@@ -291,9 +291,16 @@ def parse_akord(text):
         seen.add(key)
 
         cat = str(row.get("category", "") or "").strip()
+        # кілька категорій через « | »: перша — основна (product_type), решта — теги з назвою категорії
+        cats = [c.strip() for c in cat.split("|") if c.strip()]
+        cat = cats[0] if cats else ""
         leaf = map_leaf("akord", cat.split(" / ")[-1] if cat else "", name)
         leaf = title_overrides(name, leaf)
         tags = []
+        for extra in cats[1:]:
+            t = extra.split(" / ")[-1]
+            if t and t != leaf and t not in tags:
+                tags.append(t)
         if "нерозкладн" in cat.lower() or "нерозкладн" in (row.get("ShortDescription", "") or "").lower():
             tags.append("нерозкладний")
         if no_sleep and "нерозкладний" not in tags:
