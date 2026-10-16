@@ -58,7 +58,7 @@ SHOPIFY_TAXONOMY = {
 OPT_TAGS = ['fabric', 'leg_color', 'frame_color', 'sleep_size', 'mechanism',
             'pillows', 'back_fabric', 'mattress_included', 'material',
             'modules', 'dimensions', 'tabletop_size',
-            'height_opt', 'length_opt', 'width_opt', 'corner_side', 'armrests', 'seats', 'tabletop_color']
+            'height_opt', 'length_opt', 'width_opt', 'corner_side', 'armrests', 'seats', 'tabletop_color', 'boxes']
 
 UNMAPPED = []
 
@@ -523,10 +523,11 @@ AKORD_OPT_LABELS = {
     "mechanism": "Механізм", "pillows": "Подушки", "material": "Матеріал",
     "length_opt": "Довжина", "width_opt": "Ширина", "height_opt": "Висота",
     "corner_side": "Сторона кута", "tabletop_color": "Колір стільниці", "armrests": "Підлокітники", "seats": "Кількість місць",
+    "boxes": "Короби",
 }
 # Характеристики, що впливають на ціну (за порядком пріоритету). Решта — лише метафілди,
 # і в опції потрапляють тільки якщо інакше варіанти збігаються (щоб не було дублікатів).
-AKORD_PRICE_OPTS = ["sleep_size", "fabric", "tabletop_size", "mattress_included", "back_fabric", "modules"]
+AKORD_PRICE_OPTS = ["sleep_size", "fabric", "tabletop_size", "mattress_included", "boxes", "back_fabric", "modules"]
 
 
 def _akord_apply(items, tags):
