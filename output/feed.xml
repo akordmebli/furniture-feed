@@ -127317,10 +127317,10 @@
     <leg_color/>
     <frame_color/>
     <sleep_size>160*200</sleep_size>
-    <mechanism>Газовий підйомний механізм</mechanism>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
-    <mattress_included>З матрацом</mattress_included>
+    <mattress_included/>
     <material/>
     <modules/>
     <dimensions/>
@@ -127333,7 +127333,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Є</storage_niche>
+    <storage_niche>Немає</storage_niche>
     <option1_name/>
     <option1_value/>
     <option2_name/>
@@ -127371,7 +127371,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size>140*200</sleep_size>
-    <mechanism>Газовий підйомний механізм</mechanism>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included>З матрацом</mattress_included>
@@ -127387,7 +127387,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Є</storage_niche>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name/>
@@ -127425,7 +127425,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size>160*200</sleep_size>
-    <mechanism>Газовий підйомний механізм</mechanism>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included>З матрацом</mattress_included>
@@ -127441,7 +127441,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Є</storage_niche>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name/>
