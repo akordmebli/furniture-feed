@@ -58,7 +58,7 @@ SHOPIFY_TAXONOMY = {
 OPT_TAGS = ['fabric', 'leg_color', 'frame_color', 'sleep_size', 'mechanism',
             'pillows', 'back_fabric', 'mattress_included', 'material',
             'modules', 'dimensions', 'tabletop_size',
-            'height_opt', 'length_opt', 'width_opt', 'corner_side', 'armrests', 'seats', 'tabletop_color', 'boxes']
+            'height_opt', 'length_opt', 'width_opt', 'corner_side', 'armrests', 'seats', 'tabletop_color', 'boxes', 'storage_niche']
 
 UNMAPPED = []
 
@@ -523,7 +523,7 @@ AKORD_OPT_LABELS = {
     "mechanism": "Механізм", "pillows": "Подушки", "material": "Матеріал",
     "length_opt": "Довжина", "width_opt": "Ширина", "height_opt": "Висота",
     "corner_side": "Сторона кута", "tabletop_color": "Колір стільниці", "armrests": "Підлокітники", "seats": "Кількість місць",
-    "boxes": "Короби",
+    "boxes": "Короби", "storage_niche": "Ніша для речей",
 }
 # Характеристики, що впливають на ціну (за порядком пріоритету). Решта — лише метафілди,
 # і в опції потрапляють тільки якщо інакше варіанти збігаються (щоб не було дублікатів).
