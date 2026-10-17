@@ -2,7 +2,7 @@ name: Daily feed update
 
 on:
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '17 20 * * *'
   workflow_dispatch:
 
 jobs:
