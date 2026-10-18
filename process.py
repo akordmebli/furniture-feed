@@ -718,7 +718,20 @@ CARE_HARD = [
 
 
 def build_tab_materials(items):
-    if items[0]["product_type"] in ("Матраци", "Наматрасники", "Подушки", "Безпружинні матраци", "Ковдри"):
+    pt = items[0]["product_type"]
+    if pt in ("Матраци", "Безпружинні матраци"):
+        li = [
+            {"type": "list-item", "children": [
+                {"type": "text", "value": "Для продовження строку служби матраца рекомендуємо використовувати водонепроникний наматрацник: "},
+                {"type": "link", "url": "/products/comefor-namatratsnyk-akvastop",
+                 "children": [{"type": "text", "value": "наматрацник Аквастоп"}]},
+                {"type": "text", "value": "."}]},
+            {"type": "list-item", "children": [{"type": "text", "value": "Плями видаляйте теплою водою або м'яким мильним розчином."}]},
+            {"type": "list-item", "children": [{"type": "text", "value": "За потреби зверніться до послуг хімчистки."}]},
+        ]
+        return json.dumps({"type": "root", "children": [{"type": "list", "listType": "unordered", "children": li}]},
+                          ensure_ascii=False, separators=(",", ":"))
+    if pt in ("Наматрасники", "Подушки", "Ковдри"):
         return ""  # окремий догляд — текст не додаємо
     soft = any(i["opts"].get("fabric") or i["opts"].get("back_fabric") for i in items)
     tips = CARE_SOFT if soft else CARE_HARD
