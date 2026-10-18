@@ -326,6 +326,8 @@ def parse_akord(text):
             opts=opts, tags=tags, sleep=sleep_norm(opts.get("sleep_size", "")),
             length=cm(opts.get("length_opt", "")), width=cm(opts.get("width_opt", "")),
             height=cm(opts.get("height_opt", "")),
+            dims_tab=str(row.get("dims_tab", "") or row.get("dimensions", "") or "").strip(),
+            category_full=cat,
         ))
     return products
 
@@ -606,6 +608,9 @@ def group_variants(products):
             out.append(i)
     for items in akord.values():
         akord_options(items)
+        tab = build_tab_characteristics(items)
+        for i in items:
+            i["tab_characteristics"] = tab
     # варіанти від меншого до більшого: розмір, категорія тканини (А→Ж) та інші цінові опції
     order = {h: n for n, h in enumerate(akord)}
     sort_tags = AKORD_PRICE_OPTS + [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS]
@@ -618,6 +623,82 @@ def group_variants(products):
             p["sku"] = f'{p["sku"]}-{slug(suffix)}'
         seen.add(p["sku"])
     return out
+
+
+# ---------- вкладки картки товару (rich-text метаполя) ----------
+def _rt(lines):
+    """lines: [(підпис, значення)] -> JSON rich text Shopify (маркований список)."""
+    items = [{"type": "list-item", "children": [
+        {"type": "text", "value": f"{k}: ", "bold": True}, {"type": "text", "value": v}]} for k, v in lines if v]
+    if not items:
+        return ""
+    return json.dumps({"type": "root", "children": [{"type": "list", "listType": "unordered", "children": items}]},
+                      ensure_ascii=False, separators=(",", ":"))
+
+
+def _dims_text(d):
+    parts = [x.strip() for x in d.replace("×", "*").replace("x", "*").split("*") if x.strip()]
+    return "×".join(parts) + " см" if parts else ""
+
+
+def _sleep_text(v):
+    return v.replace("*", "×").replace("x", "×") + " см"
+
+
+def build_tab_characteristics(items):
+    p0 = items[0]
+    cat = (p0.get("category_full", "") + " " + p0["name"]).lower()
+    is_chair = "крісла" in cat or "стільці" in cat
+    label = "Габарити (Ш×Г×В)" if is_chair else "Габарити (Д×Ш×В)"
+    if all(len([x for x in (i.get("dims_tab") or "").split("*") if x]) == 2 for i in items if i.get("dims_tab")):
+        label = label.replace("×В", "")
+    lines = []
+    # габарити: якщо різні — прив'язуємо до характеристики, що їх розрізняє
+    dims = {i["dims_tab"] for i in items if i.get("dims_tab")}
+    if len(dims) == 1 and all(i.get("dims_tab") for i in items):
+        lines.append((label, _dims_text(next(iter(dims)))))
+    elif dims:
+        keys = ["sleep_size", "modules", "seats", "mattress_included", "armrests", "corner_side", "boxes", "mechanism"]
+        det = next((k for k in keys if len({i["opts"].get(k, "") for i in items}) > 1 and all(
+            len({i.get("dims_tab", "") for i in items if i["opts"].get(k, "") == v} - {""}) <= 1
+            for v in {i["opts"].get(k, "") for i in items})), None)
+        if not det:
+            lines.append((label, " / ".join(_dims_text(d) for d in sorted(dims))))
+        else:
+            seen = {}
+            for i in items:
+                if i.get("dims_tab"):
+                    seen.setdefault((i["opts"].get(det, ""), i["dims_tab"]), True)
+            for (tag, d), _ in seen.items():
+                t = _sleep_text(tag) if det == "sleep_size" and tag else tag
+                lines.append((f"{label}, {t}" if t else label, _dims_text(d)))
+    def uniq(tag):
+        vals = []
+        for i in items:
+            v = i["opts"].get(tag, "")
+            if v and v not in vals:
+                vals.append(v)
+        return vals
+    sl = uniq("sleep_size")
+    if sl:
+        lines.append(("Спальне місце", "; ".join(_sleep_text(v) for v in sl)))
+    mech = uniq("mechanism")
+    if mech:
+        lines.append(("Механізм", "; ".join(m[0].lower() + m[1:] if m != "Без механізму" else "без механізму" for m in mech)))
+    seats = uniq("seats")
+    if seats:
+        lines.append(("Кількість місць", "; ".join(seats)))
+    niche = uniq("storage_niche")
+    if niche:
+        lines.append(("Ніша для речей", "; ".join(n.lower() for n in niche)))
+    mt = uniq("mattress_included")
+    if mt:
+        lines.append(("Основа / матрац", "; ".join(m[0].lower() + m[1:] for m in mt)))
+    m = re.search(r"Навантаження:\s*([^.]+?)\.", p0["description"])
+    if m:
+        lines.append(("Навантаження", m.group(1).strip()))
+    lines.append(("Гарантія", "18 місяців"))
+    return _rt(lines)
 
 
 def stock_qty(p):
@@ -662,6 +743,7 @@ def build_xml(products):
             ("description", p["description"]),
             ("spalne_mistse", p["sleep"]), ("dovzhyna", p["length"]),
             ("shyryna", p["width"]), ("vysota", p["height"]),
+            ("tab_characteristics", p.get("tab_characteristics", "")),
         ]
         for tag, val in fields:
             ET.SubElement(item, tag).text = "0" if val == 0 else str(val or "")
