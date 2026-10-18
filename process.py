@@ -611,6 +611,7 @@ def group_variants(products):
         tab = build_tab_characteristics(items)
         for i in items:
             i["tab_characteristics"] = tab
+            i["tab_materials"] = build_tab_materials(items)
     # варіанти від меншого до більшого: розмір, категорія тканини (А→Ж) та інші цінові опції
     order = {h: n for n, h in enumerate(akord)}
     sort_tags = AKORD_PRICE_OPTS + [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS]
@@ -701,6 +702,31 @@ def build_tab_characteristics(items):
     return _rt(lines)
 
 
+CARE_SOFT = [
+    "Регулярно чистіть пилососом або м'якою щіткою.",
+    "Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.",
+    "Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.",
+    "Не сушіть феном і не ставте біля батарей та на пряме сонце.",
+    "Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.",
+]
+CARE_HARD = [
+    "Протирайте м'якою злегка вологою тканиною, потім сухою.",
+    "Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.",
+    "Не залишайте на поверхні воду, вона шкодить дереву.",
+    "Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.",
+]
+
+
+def build_tab_materials(items):
+    if items[0]["product_type"] in ("Матраци", "Наматрасники", "Подушки", "Безпружинні матраци", "Ковдри"):
+        return ""  # окремий догляд — текст не додаємо
+    soft = any(i["opts"].get("fabric") or i["opts"].get("back_fabric") for i in items)
+    tips = CARE_SOFT if soft else CARE_HARD
+    li = [{"type": "list-item", "children": [{"type": "text", "value": t}]} for t in tips]
+    return json.dumps({"type": "root", "children": [{"type": "list", "listType": "unordered", "children": li}]},
+                      ensure_ascii=False, separators=(",", ":"))
+
+
 def stock_qty(p):
     """Кількість для Shopify за ознакою наявності (кількості в постачальників ненадійні):
     в наявності — 100, немає — 0 (варіант стає недоступним)."""
@@ -744,6 +770,7 @@ def build_xml(products):
             ("spalne_mistse", p["sleep"]), ("dovzhyna", p["length"]),
             ("shyryna", p["width"]), ("vysota", p["height"]),
             ("tab_characteristics", p.get("tab_characteristics", "")),
+            ("tab_materials", p.get("tab_materials", "")),
         ]
         for tag, val in fields:
             ET.SubElement(item, tag).text = "0" if val == 0 else str(val or "")
