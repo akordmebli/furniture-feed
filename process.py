@@ -712,6 +712,8 @@ def build_tab_characteristics(items):
     return _rt(lines)
 
 
+AQUASTOP_URL = "https://pqqkqm-nz.myshopify.com/products/comefor-namatratsnyk-akvastop"
+
 CARE_SOFT = [
     "Регулярно чистіть пилососом або м'якою щіткою.",
     "Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.",
@@ -733,7 +735,7 @@ def build_tab_materials(items):
         li = [
             {"type": "list-item", "children": [
                 {"type": "text", "value": "Для продовження строку служби матраца рекомендуємо використовувати водонепроникний наматрацник: "},
-                {"type": "link", "url": "/products/comefor-namatratsnyk-akvastop",
+                {"type": "link", "url": AQUASTOP_URL,
                  "children": [{"type": "text", "value": "наматрацник Аквастоп"}]},
                 {"type": "text", "value": "."}]},
             {"type": "list-item", "children": [{"type": "text", "value": "Плями видаляйте теплою водою або м'яким мильним розчином."}]},
@@ -746,6 +748,12 @@ def build_tab_materials(items):
     soft = any(i["opts"].get("fabric") or i["opts"].get("back_fabric") for i in items)
     tips = CARE_SOFT if soft else CARE_HARD
     li = [{"type": "list-item", "children": [{"type": "text", "value": t}]} for t in tips]
+    if soft and pt in ("М'які ліжка", "Кутові ліжка", "Дитячі ліжка") and any(
+            i["opts"].get("mattress_included") == "З матрацом" for i in items):
+        li.insert(0, {"type": "list-item", "children": [
+            {"type": "text", "value": "Для продовження строку служби матраца рекомендуємо використовувати водонепроникний наматрацник: "},
+            {"type": "link", "url": AQUASTOP_URL, "children": [{"type": "text", "value": "наматрацник Аквастоп"}]},
+            {"type": "text", "value": "."}]})
     return json.dumps({"type": "root", "children": [{"type": "list", "listType": "unordered", "children": li}]},
                       ensure_ascii=False, separators=(",", ":"))
 
