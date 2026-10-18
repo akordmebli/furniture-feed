@@ -650,21 +650,31 @@ def build_tab_characteristics(items):
     p0 = items[0]
     cat = (p0.get("category_full", "") + " " + p0["name"]).lower()
     is_chair = "крісла" in cat or "стільці" in cat
-    label = "Габарити (Ш×Г×В)" if is_chair else "Габарити (Д×Ш×В)"
-    if all(len([x for x in (i.get("dims_tab") or "").split("*") if x]) == 2 for i in items if i.get("dims_tab")):
-        label = label.replace("×В", "")
+    axes = ["Ширина", "Глибина", "Висота"] if is_chair else ["Довжина", "Ширина", "Висота"]
     lines = []
-    # габарити: якщо різні — прив'язуємо до характеристики, що їх розрізняє
+
+    def parts(d):
+        return [x.strip() for x in d.replace("×", "*").replace("x", "*").split("*") if x.strip()]
+
+    def dim_lines(d, suffix=""):
+        return [(f"{ax}{suffix}", f"{v} см") for ax, v in zip(axes, parts(d))]
     dims = {i["dims_tab"] for i in items if i.get("dims_tab")}
     if len(dims) == 1 and all(i.get("dims_tab") for i in items):
-        lines.append((label, _dims_text(next(iter(dims)))))
+        lines += dim_lines(next(iter(dims)))
     elif dims:
         keys = ["sleep_size", "modules", "seats", "mattress_included", "armrests", "corner_side", "boxes", "mechanism"]
         det = next((k for k in keys if len({i["opts"].get(k, "") for i in items}) > 1 and all(
             len({i.get("dims_tab", "") for i in items if i["opts"].get(k, "") == v} - {""}) <= 1
             for v in {i["opts"].get(k, "") for i in items})), None)
         if not det:
-            lines.append((label, " / ".join(_dims_text(d) for d in sorted(dims))))
+            allp = [parts(d) for d in sorted(dims, key=lambda d: [float(x) for x in parts(d)])]
+            for n, ax in enumerate(axes):
+                vals = []
+                for pp in allp:
+                    if n < len(pp) and pp[n] not in vals:
+                        vals.append(pp[n])
+                if vals:
+                    lines.append((ax, " / ".join(vals) + " см"))
         else:
             seen = {}
             for i in items:
@@ -672,7 +682,7 @@ def build_tab_characteristics(items):
                     seen.setdefault((i["opts"].get(det, ""), i["dims_tab"]), True)
             for (tag, d), _ in seen.items():
                 t = _sleep_text(tag) if det == "sleep_size" and tag else tag
-                lines.append((f"{label}, {t}" if t else label, _dims_text(d)))
+                lines += dim_lines(d, f" ({t})" if t else "")
     def uniq(tag):
         vals = []
         for i in items:
