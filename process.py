@@ -613,6 +613,7 @@ def group_variants(products):
             i["tab_characteristics"] = tab
             i["tab_materials"] = build_tab_materials(items)
             i["tab_3d"] = build_tab_3d(i["handle"])
+            i["tab_details"] = build_tab_details(i["handle"])
     # варіанти від меншого до більшого: розмір, категорія тканини (А→Ж) та інші цінові опції
     order = {h: n for n, h in enumerate(akord)}
     sort_tags = AKORD_PRICE_OPTS + [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS]
@@ -783,6 +784,25 @@ def build_tab_3d(handle):
                       ensure_ascii=False, separators=(",", ":"))
 
 
+def _load_json(name):
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), name)
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except OSError:
+        return {}
+
+
+TAB_DETAILS = _load_json("tab_details.json")
+
+
+def build_tab_details(handle):
+    lines = TAB_DETAILS.get(handle)
+    if not lines:
+        return ""
+    return _rt([(k, v) for k, v in lines])
+
+
 def stock_qty(p):
     """Кількість для Shopify за ознакою наявності (кількості в постачальників ненадійні):
     в наявності — 100, немає — 0 (варіант стає недоступним)."""
@@ -828,6 +848,7 @@ def build_xml(products):
             ("tab_characteristics", p.get("tab_characteristics", "")),
             ("tab_materials", p.get("tab_materials", "")),
             ("tab_3d", p.get("tab_3d", "")),
+            ("tab_details", p.get("tab_details", "")),
         ]
         for tag, val in fields:
             ET.SubElement(item, tag).text = "0" if val == 0 else str(val or "")
