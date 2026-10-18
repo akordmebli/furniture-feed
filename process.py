@@ -612,6 +612,7 @@ def group_variants(products):
         for i in items:
             i["tab_characteristics"] = tab
             i["tab_materials"] = build_tab_materials(items)
+            i["tab_3d"] = build_tab_3d(i["handle"])
     # варіанти від меншого до більшого: розмір, категорія тканини (А→Ж) та інші цінові опції
     order = {h: n for n, h in enumerate(akord)}
     sort_tags = AKORD_PRICE_OPTS + [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS]
@@ -758,6 +759,30 @@ def build_tab_materials(items):
                       ensure_ascii=False, separators=(",", ":"))
 
 
+def _models_3d():
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "models_3d.json")
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except OSError:
+        return {}
+
+
+MODELS_3D = _models_3d()
+
+
+def build_tab_3d(handle):
+    fid = MODELS_3D.get(handle)
+    if not fid:
+        return ""
+    url = f"https://drive.google.com/drive/folders/{fid}?usp=sharing"
+    li = [{"type": "list-item", "children": [
+        {"type": "text", "value": "3D-модель: ", "bold": True},
+        {"type": "link", "url": url, "children": [{"type": "text", "value": "переглянути і завантажити"}]}]}]
+    return json.dumps({"type": "root", "children": [{"type": "list", "listType": "unordered", "children": li}]},
+                      ensure_ascii=False, separators=(",", ":"))
+
+
 def stock_qty(p):
     """Кількість для Shopify за ознакою наявності (кількості в постачальників ненадійні):
     в наявності — 100, немає — 0 (варіант стає недоступним)."""
@@ -802,6 +827,7 @@ def build_xml(products):
             ("shyryna", p["width"]), ("vysota", p["height"]),
             ("tab_characteristics", p.get("tab_characteristics", "")),
             ("tab_materials", p.get("tab_materials", "")),
+            ("tab_3d", p.get("tab_3d", "")),
         ]
         for tag, val in fields:
             ET.SubElement(item, tag).text = "0" if val == 0 else str(val or "")
