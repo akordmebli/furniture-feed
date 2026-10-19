@@ -377,6 +377,7 @@ def parse_vetro(text):
             length=vetro_param(params, "Довжина, см", "Максимальна довжина стільниці, см", "Ширина дивану, см") or diam,
             width=vetro_param(params, "Ширина, см", "Ширина сидіння, см") or diam,
             height=vetro_param(params, "Висота, см", "Висота крісла, см", "Висота дивану, см"),
+            params={k: v for k, v in params.items() if k and v},
         ))
     return products
 
@@ -641,7 +642,8 @@ def group_variants(products):
             i["tab_3d"] = build_tab_3d(i["handle"])
             i["tab_details"] = build_tab_details(i["handle"]) or (
                 build_tab_details_comefor(items) if i["source"] == "comefor" else
-                build_tab_details_woodman(items) if i["source"] == "woodman" else "")
+                build_tab_details_woodman(items) if i["source"] == "woodman" else
+                build_tab_details_vetro(items) if i["source"] == "vetro" else "")
     # варіанти від меншого до більшого: розмір, категорія тканини (А→Ж) та інші цінові опції
     order = {h: n for n, h in enumerate(akord)}
     sort_tags = AKORD_PRICE_OPTS + [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS]
@@ -847,6 +849,36 @@ WOODMAN_DETAILS = [
 ]
 
 
+# Vetro: (параметр фіду, підпис, суфікс)
+VETRO_CHAR = [
+    ("Максимальна довжина стільниці, см", "Довжина у розкладеному вигляді", " см"),
+    ("Діаметр, см", "Діаметр", " см"),
+    ("Ширина сидіння, см", "Ширина сидіння", " см"),
+    ("Глибина сидіння, см", "Глибина сидіння", " см"),
+    ("Максимальна глибина сидіння, см", "Максимальна глибина сидіння", " см"),
+    ("Висота до сидіння, см", "Висота до сидіння", " см"),
+    ("Висота до підлокітників, см", "Висота до підлокітників", " см"),
+    ("Висота посадки дивана, см", "Висота посадки", " см"),
+    ("Глибина посадки дивана, см", "Глибина посадки", " см"),
+    ("Форма", "Форма", ""),
+    ("Вид", "Вид", ""),
+    ("Механізм розкладки", "Механізм розкладки", ""),
+    ("Характеристики", "Особливості", ""),
+    ("Складання", "Складання", ""),
+    ("Вага, кг", "Вага", " кг"),
+]
+VETRO_DETAILS = [
+    ("Матеріал основи", "Основа"),
+    ("Матеріал каркасу", "Каркас"),
+    ("Матеріал ніжок", "Ніжки"),
+    ("Матеріал стільниці", "Стільниця"),
+    ("Матеріал вкладки", "Вкладка"),
+    ("Матеріал оббивки", "Оббивка"),
+    ("Наповнювач сидіння", "Наповнювач сидіння"),
+    ("Наповнювач спинки", "Наповнювач спинки"),
+]
+
+
 def _wm_vals(items, key, suffix=""):
     out = []
     for i in items:
@@ -858,6 +890,15 @@ def _wm_vals(items, key, suffix=""):
 
 def build_tab_details_woodman(items):
     return _rt([(label, _wm_vals(items, key)) for key, label in WOODMAN_DETAILS])
+
+
+def build_tab_details_vetro(items):
+    rows = []
+    for key, label in VETRO_DETAILS:
+        v = _wm_vals(items, key)
+        if v:
+            rows.append((label, v[:1].upper() + v[1:] if label in ("Основа", "Каркас", "Ніжки", "Стільниця", "Вкладка", "Оббивка") else v))
+    return _rt(rows)
 
 
 def build_tab_characteristics_other(items):
@@ -895,6 +936,12 @@ def build_tab_characteristics_other(items):
     if p0["source"] == "woodman":
         for key, label, suf in WOODMAN_CHAR:
             lines.append((label, _wm_vals(items, key, suf)))
+    if p0["source"] == "vetro":
+        for key, label, suf in VETRO_CHAR:
+            v = _wm_vals(items, key, suf)
+            if label == "Складання":
+                v = v.replace("потребує складання", "потрібне").replace("не потрібне", "не потрібне")
+            lines.append((label, v.replace(".", ",") if suf else v))
     # гарантію додаємо лише там, де вона є у фіді постачальника (Come-For, Woodman)
     return _rt([(k, v) for k, v in lines if v])
 
