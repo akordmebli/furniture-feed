@@ -181,6 +181,9 @@ ALIAS_FIXES = {
     ("myake-lizhko-tahta-everlay", "Кутове ліжко EVERLAY"): "kutove-lizhko-everlay",
 }
 
+# механізм, якого немає у вигрузці (за назвою товару)
+DEFAULT_MECHANISM = {"диван colombo": "Єврокнижка", "диван коломбо": "Єврокнижка", "диван хеппі": "Єврокнижка", "диван even": "Покроковий"}
+
 # Нерозкладні дивани: у вигрузці стоїть «спальне місце», якого немає
 NO_SLEEP_ALIASES = {"divan-bloom"}
 
@@ -285,6 +288,8 @@ def parse_akord(text):
         no_sleep = str(row.get("Alias", "") or "") in NO_SLEEP_ALIASES
         if no_sleep:
             opts.pop("sleep_size", None)
+        if not opts.get("mechanism") and name.strip().lower() in DEFAULT_MECHANISM:
+            opts["mechanism"] = DEFAULT_MECHANISM[name.strip().lower()]
         # один SKU може стояти на кількох варіантах — ключ = SKU + опції
         name = clean_text(row.get("Name", ""))
         alias = str(row.get("Alias", "") or "")
