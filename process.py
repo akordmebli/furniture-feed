@@ -434,7 +434,7 @@ def parse_comefor(text):
             sleep=f"{size[1]}×{size[2]}" if size else "",
             width=min(size[1], size[2], key=int) if size else "",
             length=max(size[1], size[2], key=int) if size else "",
-            height=height,
+            height=height, params=params,
         ))
     return products
 
@@ -638,7 +638,8 @@ def group_variants(products):
             i["tab_characteristics"] = tab
             i["tab_materials"] = mat
             i["tab_3d"] = build_tab_3d(i["handle"])
-            i["tab_details"] = build_tab_details(i["handle"])
+            i["tab_details"] = build_tab_details(i["handle"]) or (
+                build_tab_details_comefor(items) if i["source"] == "comefor" else "")
     # варіанти від меншого до більшого: розмір, категорія тканини (А→Ж) та інші цінові опції
     order = {h: n for n, h in enumerate(akord)}
     sort_tags = AKORD_PRICE_OPTS + [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS]
@@ -744,9 +745,79 @@ SOFT_TYPES = ("М'які крісла", "Прямі дивани", "Кутові
 SOFT_WORDS = ("велюр", "рогожк", "тканин", "букле", "шеніл", "флок", "мікрофібр")
 
 
+COMEFOR_CHAR = [  # (параметр у фіді, підпис, чи приводити до нижнього регістру)
+    ("Тип", "Тип", True), ("Жорсткість", "Жорсткість", True), ("Зональність", "Зони жорсткості", False),
+    ("Навантаження на 1 сп. місце", "Навантаження на спальне місце", True),
+    ("Двосторонній", "Двосторонній", True), ("Знімний чохол", "Знімний чохол", True),
+    ("Єврокаркас", "Єврокаркас", True), ("Водонепроникний", "Водонепроникний", True),
+    ("Придатне для прання", "Придатне для прання", True), ("Антикіготь", "Антикіготь", True),
+]
+COMEFOR_DETAILS = [("Матеріали", "Матеріали"), ("Тканина чохла", "Тканина чохла"), ("Основний блок", "Основний блок")]
+
+
+def _cf_vals(items, key, lower=False):
+    out = []
+    for i in items:
+        v = " ".join(str((i.get("params") or {}).get(key, "")).split())
+        if lower:
+            v = v.lower()
+        if v and v not in out:
+            out.append(v)
+    return out
+
+
+def _cf_warranty(v):
+    v = re.sub(r"(\d+,5)\s+роки\b", r"\1 року", v)
+    return v
+
+
+def _cf_num_sort(vals):
+    def k(x):
+        m = re.search(r"\d+(?:[.,]\d+)?", x)
+        return float(m.group(0).replace(",", ".")) if m else 0
+    return sorted(vals, key=k)
+
+
+def build_tab_characteristics_comefor(items):
+    lines = []
+    sizes = []
+    for i in items:
+        if i.get("sleep") and i["sleep"] not in sizes:
+            sizes.append(i["sleep"])
+    if sizes:
+        lines.append(("Розміри", "; ".join(_cf_num_sort(sizes)) + " см"))
+    hs = _cf_num_sort(_cf_vals(items, "Висота"))
+    if hs:
+        h = [x.replace(".", ",") for x in hs]
+        lines.append(("Висота", (h[0] if len(h) == 1 else f"{h[0]}–{h[-1]}") + " см"))
+    for key, label, low in COMEFOR_CHAR:
+        v = _cf_vals(items, key, low)
+        if v:
+            lines.append((label, "; ".join(v)))
+    w = [_cf_warranty(x) for x in _cf_vals(items, "Гарантія")]
+    w = list(dict.fromkeys(w))
+    if w:
+        lines.append(("Гарантія", "; ".join(_cf_num_sort(w))))
+    return _rt(lines)
+
+
+def build_tab_details_comefor(items):
+    lines = []
+    for key, label in COMEFOR_DETAILS:
+        v = _cf_vals(items, key)
+        if v:
+            lines.append((label, "; ".join(v)))
+    wt = _cf_vals(items, "Вага за 1 м² / кг")
+    if wt:
+        lines.append(("Вага 1 м²", "; ".join(x + " кг" for x in _cf_num_sort(wt))))
+    return _rt(lines)
+
+
 def build_tab_characteristics_other(items):
-    """Вкладка «Характеристики» для Vetro / Woodman / Come-For: габарити, кольори, гарантія."""
+    """Вкладка «Характеристики» для Vetro / Woodman / Come-For: габарити, кольори."""
     p0 = items[0]
+    if p0["source"] == "comefor":
+        return build_tab_characteristics_comefor(items)
     is_chair = p0["product_type"] in CHAIR_TYPES
 
     def vals(key):
