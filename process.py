@@ -774,7 +774,7 @@ def build_tab_characteristics_other(items):
                     seen.append(v)
         if seen:
             lines.append((label, "; ".join(seen)))
-    lines.append(("Гарантія", "18 місяців"))
+    # гарантію не вказуємо: у фідах Vetro/Woodman/Come-For її немає, умови в кожного виробника свої
     return _rt([(k, v) for k, v in lines if v])
 
 
