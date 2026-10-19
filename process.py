@@ -137,6 +137,8 @@ def title_overrides(title, leaf):
         return "Модульні дивани"
     if "безкаркасне крісло" in t or "поворотне крісло" in t:
         return "М'які крісла"
+    if t.startswith("крісло") and any(k in t for k in ("henry", "cooper", "vero", "topaz", "teren", "stochol", "stockholm", "borno")):
+        return "Обідні стільці"
     if t.startswith("стілець") and leaf in ("Обідні крісла", ""):
         return "Обідні стільці"
     if t.startswith("комплект журнальних"):
@@ -915,6 +917,18 @@ def apply_brands(items):
     for p in items:
         if any(k in p["name"].lower() for k in ("allegro", "mexico", "layti")) and p["product_type"] not in ("Тумбочки", "Каркаси ліжок") and "Садові меблі" not in p["tags"]:
             p["tags"].append("Садові меблі")
+    # односпальні ліжка та диван Тімон показуємо і в «Дитячих ліжках» (тег → колекція за правилом TAG)
+    for p in items:
+        n = p["name"].lower()
+        if ((n.startswith("односпальне ліжко") and p["product_type"] == "Каркаси ліжок") or n == "диван тімон") and "Дитячі ліжка" not in p["tags"]:
+            p["tags"].append("Дитячі ліжка")
+    # дивани без механізму і без спального місця (модулі з «розкладне» не чіпаємо) — нерозкладні
+    for p in items:
+        if p["product_type"] in ("Прямі дивани", "Кутові дивани", "Модульні дивани") and "нерозкладний" not in p["tags"] \
+                and not p.get("opts", {}).get("mechanism") and not p.get("opts", {}).get("sleep_size") \
+                and "розкладн" not in str(p.get("opts", {}).get("modules", "")).lower() \
+                and not any(k in p["name"].lower() for k in ("allegro", "mexico", "layti")):
+            p["tags"].append("нерозкладний")
     for p in items:
         if p.get("source") != "akord" or p.get("vendor") != "ВНД":
             continue
