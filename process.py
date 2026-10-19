@@ -626,6 +626,19 @@ def group_variants(products):
             i["tab_materials"] = build_tab_materials(items)
             i["tab_3d"] = build_tab_3d(i["handle"])
             i["tab_details"] = build_tab_details(i["handle"])
+    # інші постачальники (Vetro, Woodman, Come-For): вкладки картки теж, як у ВНД/Vinadi
+    other = {}
+    for p in out:
+        if p["source"] != "akord":
+            other.setdefault(p["handle"], []).append(p)
+    for items in other.values():
+        tab = build_tab_characteristics_other(items)
+        mat = build_tab_materials(items)
+        for i in items:
+            i["tab_characteristics"] = tab
+            i["tab_materials"] = mat
+            i["tab_3d"] = build_tab_3d(i["handle"])
+            i["tab_details"] = build_tab_details(i["handle"])
     # варіанти від меншого до більшого: розмір, категорія тканини (А→Ж) та інші цінові опції
     order = {h: n for n, h in enumerate(akord)}
     sort_tags = AKORD_PRICE_OPTS + [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS]
@@ -726,6 +739,45 @@ def build_tab_characteristics(items):
     return _rt(lines)
 
 
+CHAIR_TYPES = ("Обідні стільці", "Барні стільці", "М'які крісла")
+SOFT_TYPES = ("М'які крісла", "Прямі дивани", "Кутові дивани", "Модульні дивани", "Пуфи", "М'які ліжка", "Кутові ліжка")
+SOFT_WORDS = ("велюр", "рогожк", "тканин", "букле", "шеніл", "флок", "мікрофібр")
+
+
+def build_tab_characteristics_other(items):
+    """Вкладка «Характеристики» для Vetro / Woodman / Come-For: габарити, кольори, гарантія."""
+    p0 = items[0]
+    is_chair = p0["product_type"] in CHAIR_TYPES
+
+    def vals(key):
+        out = []
+        for i in items:
+            v = str(i.get(key, "") or "").strip()
+            if v and v not in out:
+                out.append(v)
+        return sorted(out, key=lambda x: float(x) if x.replace(".", "", 1).isdigit() else 0)
+
+    ln, wd, ht = vals("length"), vals("width"), vals("height")
+    lines = []
+    if is_chair and not ln:
+        lines.append(("Ширина", " / ".join(wd) + " см" if wd else ""))
+    elif is_chair:
+        lines += [("Ширина", " / ".join(ln) + " см"), ("Глибина", " / ".join(wd) + " см" if wd else "")]
+    else:
+        lines += [("Довжина", " / ".join(ln) + " см" if ln else ""), ("Ширина", " / ".join(wd) + " см" if wd else "")]
+    lines.append(("Висота", " / ".join(ht) + " см" if ht else ""))
+    for label in ("Колір каркаса", "Колір тканини", "Колір"):
+        seen = []
+        for i in items:
+            for n, v in zip(i.get("option_names") or [], i.get("option_values") or []):
+                if n == label and v and v != "—" and v not in seen:
+                    seen.append(v)
+        if seen:
+            lines.append((label, "; ".join(seen)))
+    lines.append(("Гарантія", "18 місяців"))
+    return _rt([(k, v) for k, v in lines if v])
+
+
 AQUASTOP_URL = "https://pqqkqm-nz.myshopify.com/products/comefor-namatratsnyk-akvastop"
 
 CARE_SOFT = [
@@ -760,6 +812,10 @@ def build_tab_materials(items):
     if pt in ("Наматрасники", "Подушки", "Ковдри"):
         return ""  # окремий догляд — текст не додаємо
     soft = any(i["opts"].get("fabric") or i["opts"].get("back_fabric") for i in items)
+    if not soft and items[0]["source"] != "akord":
+        txt = " ".join(" ".join(i.get("option_values") or []) + " " + i["name"] for i in items).lower()
+        soft = pt in SOFT_TYPES or any(w in txt for w in SOFT_WORDS) or any(
+            n == "Колір тканини" for i in items for n in (i.get("option_names") or []))
     tips = CARE_SOFT if soft else CARE_HARD
     li = [{"type": "list-item", "children": [{"type": "text", "value": t}]} for t in tips]
     if soft and pt in ("М'які ліжка", "Кутові ліжка", "Дитячі ліжка") and any(
