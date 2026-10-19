@@ -466,6 +466,7 @@ def parse_woodman(text):
             vendor="Woodman", barcode=row.get("ean", ""),
             length=cm(uarow.get("ДОВЖИНА, см", "")), width=cm(uarow.get("ШИРИНА, см", "")),
             height=cm(uarow.get("ВИСОТА, см", "")),
+            params={k: v.strip() for k, v in uarow.items() if k and v.strip() not in ("", "–", "-")},
         ))
     return products
 
@@ -639,7 +640,8 @@ def group_variants(products):
             i["tab_materials"] = mat
             i["tab_3d"] = build_tab_3d(i["handle"])
             i["tab_details"] = build_tab_details(i["handle"]) or (
-                build_tab_details_comefor(items) if i["source"] == "comefor" else "")
+                build_tab_details_comefor(items) if i["source"] == "comefor" else
+                build_tab_details_woodman(items) if i["source"] == "woodman" else "")
     # варіанти від меншого до більшого: розмір, категорія тканини (А→Ж) та інші цінові опції
     order = {h: n for n, h in enumerate(akord)}
     sort_tags = AKORD_PRICE_OPTS + [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS]
@@ -767,8 +769,7 @@ def _cf_vals(items, key, lower=False):
 
 
 def _cf_warranty(v):
-    v = re.sub(r"(\d+,5)\s+роки\b", r"\1 року", v)
-    return v
+    return re.sub(r"(\d+,5)\s+року\b", r"\1 роки", v)  # «два з половиною роки»
 
 
 def _cf_num_sort(vals):
@@ -813,6 +814,52 @@ def build_tab_details_comefor(items):
     return _rt(lines)
 
 
+# Woodman: (колонка аркуша, підпис, суфікс)
+WOODMAN_CHAR = [
+    ("РОЗМІР У СКЛАДЕНОМУ ПОЛОЖЕННІ, см", "Розмір у складеному положенні", " см"),
+    ("РОЗМІР У РОЗКЛАДЕНОМУ ПОЛОЖЕННІ, см", "Розмір у розкладеному положенні", " см"),
+    ("РОЗМІР СИДІННЯ, см", "Розмір сидіння", " см"),
+    ("ВИСОТА СИДІННЯ, см", "Висота сидіння", " см"),
+    ("ГЛИБИНА СИДІННЯ, см", "Глибина сидіння", " см"),
+    ("ВИСОТА СПИНКИ, см", "Висота спинки", " см"),
+    ("ВИСОТА ПІДЛОКІТНИКА, см", "Висота підлокітника", " см"),
+    ("ВИСОТА УЗГОЛІВ’Я, см", "Висота узголів’я", " см"),
+    ("ДОВЖИНА СПАЛЬНОГО МІСЦЯ, см", "Довжина спального місця", " см"),
+    ("ШИРИНА СПАЛЬНОГО МІСЦЯ, см", "Ширина спального місця", " см"),
+    ("ВИСОТА НІЖОК, см", "Висота ніжок", " см"),
+    ("ОСНОВА ПІД МАТРАЦ", "Основа під матрац", ""),
+    ("МАТРАЦ У КОМПЛЕКТІ", "Матрац у комплекті", ""),
+    ("РОЗМІР МАТРАЦА, см", "Розмір матраца", " см"),
+    ("ТОВЩИНА МАТРАЦА, см", "Товщина матраца", " см"),
+    ("ШУХЛЯДА У КОМПЛЕКТІ", "Шухляда у комплекті", ""),
+    ("ДОПУСТИМА ВАГА НАВАНТАЖЕННЯ, кг", "Допустиме навантаження", " кг"),
+    ("ЗАГАЛЬНА ВАГА ВИРОБУ, кг", "Вага виробу", " кг"),
+    ("ГАРАНТІЯ НА ВИРІБ", "Гарантія", ""),
+]
+WOODMAN_DETAILS = [
+    ("КАРКАС ВИРОБУ", "Каркас"),
+    ("МАТЕРІАЛ СИДІННЯ / МАТРАЦА / ПОДУШОК", "Сидіння / матрац / подушки"),
+    ("МАТЕРІАЛ НІЖОК", "Ніжки"),
+    ("МАТЕРІАЛ УЗГОЛІВ’Я", "Узголів’я"),
+    ("МАТЕРІАЛ СКЛА", "Скло"),
+    ("КОМПЛЕКТАЦІЯ", "Комплектація"),
+    ("КРАЇНА ПОХОДЖЕННЯ", "Країна походження"),
+]
+
+
+def _wm_vals(items, key, suffix=""):
+    out = []
+    for i in items:
+        v = " ".join(str((i.get("params") or {}).get(key, "")).split()).replace(" х ", "×").replace(" x ", "×")
+        if v and v not in out:
+            out.append(v)
+    return "; ".join(x + suffix for x in out) if out else ""
+
+
+def build_tab_details_woodman(items):
+    return _rt([(label, _wm_vals(items, key)) for key, label in WOODMAN_DETAILS])
+
+
 def build_tab_characteristics_other(items):
     """Вкладка «Характеристики» для Vetro / Woodman / Come-For: габарити, кольори."""
     p0 = items[0]
@@ -845,7 +892,10 @@ def build_tab_characteristics_other(items):
                     seen.append(v)
         if seen:
             lines.append((label, "; ".join(seen)))
-    # гарантію не вказуємо: у фідах Vetro/Woodman/Come-For її немає, умови в кожного виробника свої
+    if p0["source"] == "woodman":
+        for key, label, suf in WOODMAN_CHAR:
+            lines.append((label, _wm_vals(items, key, suf)))
+    # гарантію додаємо лише там, де вона є у фіді постачальника (Come-For, Woodman)
     return _rt([(k, v) for k, v in lines if v])
 
 
