@@ -911,9 +911,9 @@ def apply_brands(items):
     for p in items:
         if p.get("source") == "akord" and p.get("handle") in corner_too and "Кутові дивани" not in p["tags"]:
             p["tags"].append("Кутові дивани")
-    # усі товари серії Allegro показуємо і в «Садових меблях» (тег → колекція за правилом TAG)
+    # усі товари серії Allegro, крім тумбочок, показуємо і в «Садових меблях» (тег → колекція за правилом TAG)
     for p in items:
-        if "allegro" in p["name"].lower() and "Садові меблі" not in p["tags"]:
+        if "allegro" in p["name"].lower() and p["product_type"] != "Тумбочки" and "Садові меблі" not in p["tags"]:
             p["tags"].append("Садові меблі")
     for p in items:
         if p.get("source") != "akord" or p.get("vendor") != "ВНД":
