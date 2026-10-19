@@ -902,6 +902,12 @@ def apply_brands(items):
         text = re.sub(r"(?i)(від\s+)акорд\s+меблі", rep, text)
         text = re.sub(r"\.\s+АКОРД МЕБЛІ\.", ". Виробник — %s." % brand, text)
         return text
+    # модульні, що показуємо і в «Кутових диванах» (тег → колекція за правилом TAG)
+    corner_too = {"modulniy-divan-mondi", "modulniy-divan-morani", "modulniy-divan-casio",
+                  "modulniy-divan-siena", "modulniy-divan-ruby", "modulniy-divan-lemmo", "modulniy-divan-lario"}
+    for p in items:
+        if p.get("source") == "akord" and p.get("handle") in corner_too and "Кутові дивани" not in p["tags"]:
+            p["tags"].append("Кутові дивани")
     for p in items:
         if p.get("source") != "akord" or p.get("vendor") != "ВНД":
             continue
