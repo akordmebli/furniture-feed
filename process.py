@@ -884,6 +884,34 @@ def parse_manual(_text=None):
     return out
 
 
+def apply_brands(items):
+    """Виробник: Vinadi (пріоритет, vinadi_aliases.json) або ВНД. Магазин — лише продавець:
+    «від АКОРД МЕБЛІ» (як виробник) → «від <бренд>». «Доставка ... від АКОРД МЕБЛІ» лишається."""
+    try:
+        vin = set(json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "vinadi_aliases.json"), encoding="utf-8")))
+    except OSError:
+        vin = set()
+    def fix(text, brand):
+        if not text:
+            return text
+        def rep(m):
+            pre = text[max(0, m.start() - 40):m.start()].lower()
+            if "доставк" in pre:
+                return m.group(0)
+            return m.group(1) + brand
+        text = re.sub(r"(?i)(від\s+)акорд\s+меблі", rep, text)
+        text = re.sub(r"\.\s+АКОРД МЕБЛІ\.", ". Виробник — %s." % brand, text)
+        return text
+    for p in items:
+        if p.get("source") != "akord" or p.get("vendor") != "ВНД":
+            continue
+        if p.get("handle") in vin:
+            p["vendor"] = "Vinadi"
+        brand = p["vendor"]
+        p["description"] = fix(p.get("description", ""), brand)
+        p["meta_description"] = fix(p.get("meta_description", ""), brand)
+
+
 def main():
     sources = [
         ("Акорд (ВНД)", "AKORD_CSV", parse_akord, True),
@@ -923,6 +951,7 @@ def main():
         print(f"\nФід НЕ оновлено: не вдалося завантажити {', '.join(failed)}")
         sys.exit(1)
 
+    apply_brands(all_products)
     all_products = group_variants(all_products)
     os.makedirs("output", exist_ok=True)
     with open("output/feed.xml", "w", encoding="utf-8") as f:
