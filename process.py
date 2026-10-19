@@ -127,6 +127,8 @@ def title_overrides(title, leaf):
         return "Модульні дивани"
     if "буфет" in t or "тв-тумба" in t:
         return "Буфети і ТВ-тумби"
+    if "барний стілець" in t or t.startswith("стілець барний"):
+        return "Барні стільці"  # садові барні стільці: тег «Садові меблі» додаємо нижче
     if "шезлонг" in t or "садов" in t:
         return "Садові меблі"
     if "крісло офісне" in t or "офісне крісло" in t:
@@ -919,6 +921,9 @@ def apply_brands(items):
         if p.get("source") == "akord" and p.get("handle") in corner_too and "Кутові дивани" not in p["tags"]:
             p["tags"].append("Кутові дивани")
     # усі товари серій Allegro, Mexico, Layti, крім тумбочок і ліжок, показуємо і в «Садових меблях» (тег → колекція за правилом TAG)
+    for p in items:
+        if p["product_type"] == "Барні стільці" and "садов" in p["name"].lower() and "Садові меблі" not in p["tags"]:
+            p["tags"].append("Садові меблі")
     for p in items:
         if any(k in p["name"].lower() for k in ("allegro", "mexico", "layti")) and p["product_type"] not in ("Тумбочки", "Каркаси ліжок") and "Садові меблі" not in p["tags"]:
             p["tags"].append("Садові меблі")
