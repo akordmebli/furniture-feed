@@ -930,7 +930,8 @@ def apply_brands(items):
     # дивани без механізму і без спального місця (модулі з «розкладне» не чіпаємо) — нерозкладні
     for p in items:
         if p["product_type"] in ("Прямі дивани", "Кутові дивани", "Модульні дивани") and "нерозкладний" not in p["tags"] \
-                and not p.get("opts", {}).get("mechanism") and not p.get("opts", {}).get("sleep_size") \
+                and p.get("opts", {}).get("mechanism", "") in ("", "Без механізму") and not p.get("opts", {}).get("sleep_size") \
+                and "lemmo" not in p["name"].lower() \
                 and "розкладн" not in str(p.get("opts", {}).get("modules", "")).lower() \
                 and not any(k in p["name"].lower() for k in ("allegro", "mexico", "layti")):
             p["tags"].append("нерозкладний")
