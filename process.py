@@ -42,6 +42,7 @@ TREE = {
     "Подушки": "Матраци та аксесуари для сну", "Ковдри": "Матраци та аксесуари для сну",
     "Садові меблі": "Садові меблі",
     "Меблі для закладів": "Меблі для закладів",
+    "Додатки": "Додатки",
 }
 
 SHOPIFY_TAXONOMY = {
@@ -152,6 +153,8 @@ def product(**kw):
         "sleep": "", "length": "", "width": "", "height": "",
     }
     base.update(kw)
+    if "бортик" in base["name"].lower():
+        base["product_type"] = "Додатки"  # окрема колекція, не в меню
     pt = base["product_type"]
     base["parent_category"] = TREE.get(pt, "")
     base["shopify_category"] = SHOPIFY_TAXONOMY.get(pt, "fr")
