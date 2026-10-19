@@ -926,7 +926,10 @@ def main():
     all_products = group_variants(all_products)
     os.makedirs("output", exist_ok=True)
     with open("output/feed.xml", "w", encoding="utf-8") as f:
-        f.write(build_xml(all_products))
+        xml = build_xml(all_products)
+        # орфографія: матрац, наматрацник, підматрацник (не «матрас»)
+        xml = xml.replace("атрасник", "атрацник").replace("Атрасник", "Атрацник")
+        f.write(xml)
     print(f"\nГотово: {len(all_products)} позицій → output/feed.xml")
 
 
