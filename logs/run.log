@@ -8,7 +8,7 @@ Woodman: 396 | без ціни 0 | без фото 0 | без категорії
 Нерозпізнані категорії: 2 (див. unmapped.log)
 UNMAPPED sample: ["akord: 'Каркаси ліжок' (Ліжко GRACE)", "akord: 'Каркаси ліжок' (Ліжко Блек)"]
 
-Готово: 5981 позицій → output/feed.xml
+Готово: 7571 позицій → output/feed.xml
 COMPARE same URL: True
 COMPARE rows: feed-source=4175 sheet=4175
 COMPARE only in feed-source: 0 | only in sheet: 0
