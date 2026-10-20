@@ -211,7 +211,7 @@ FABRIC_ORDER = {"А": 0, "Б": 1, "В": 2, "Г": 3, "Д": 4, "Е": 5, "Ж": 6, "
 
 
 def natural_key(tag, val):
-    if val == "Стандартна":
+    if val in ("Стандартна", "Стандартні ніжки"):
         return (0, -1, "")
     if tag == "fabric" and val in FABRIC_ORDER:
         return (0, FABRIC_ORDER[val], "")
@@ -539,19 +539,31 @@ AKORD_OPT_LABELS = {
     "mechanism": "Механізм", "pillows": "Подушки", "material": "Матеріал",
     "length_opt": "Довжина", "width_opt": "Ширина", "height_opt": "Висота",
     "corner_side": "Сторона кута", "tabletop_color": "Колір стільниці", "armrests": "Підлокітники", "seats": "Кількість місць",
-    "boxes": "Короби", "storage_niche": "Ніша для речей",
+    "boxes": "Короби", "storage_niche": "Ніша для речей", "legs": "Ніжки",
 }
 # Характеристики, що впливають на ціну (за порядком пріоритету). Решта — лише метафілди,
 # і в опції потрапляють тільки якщо інакше варіанти збігаються (щоб не було дублікатів).
-AKORD_PRICE_OPTS = ["sleep_size", "fabric", "tabletop_size", "mattress_included", "boxes", "back_fabric", "modules"]
+AKORD_PRICE_OPTS = ["sleep_size", "fabric", "tabletop_size", "mattress_included", "boxes", "back_fabric", "modules", "legs"]
 
 
 def _akord_apply(items, tags):
     head, tail = tags[:2], tags[2:]
     cols = [[t] for t in head] + ([tail] if tail else [])
-    names = [" і ".join(AKORD_OPT_LABELS[t] for t in g) for g in cols]
+    # «Ніжки» разом з іншою опцією в одній колонці: «З матрацом» / «З матрацом + підвищені ніжки»
+    def gname(g):
+        rest = [t for t in g if t != "legs"]
+        return " і ".join(AKORD_OPT_LABELS[t] for t in (rest or g))
+
+    def gval(i, g):
+        rest = [t for t in g if t != "legs"]
+        legs = i["opts"].get("legs", "") if "legs" in g else ""
+        if not rest:
+            return legs or "—"
+        v = " / ".join(i["opts"].get(t, "") for t in rest if i["opts"].get(t, "")) or "—"
+        return f"{v} + підвищені ніжки" if legs == LEGS_HIGH else v
+    names = [gname(g) for g in cols]
     # кома в значенні опції розбиває його на два варіанти під час імпорту -> «1,5» стає «1.5»
-    vals = [[(" / ".join(i["opts"].get(t, "") for t in g if i["opts"].get(t, "")) or "—").replace(",", ".") for g in cols] for i in items]
+    vals = [[gval(i, g).replace(",", ".") for g in cols] for i in items]
     return names, vals
 
 
@@ -568,9 +580,45 @@ def akord_options(items):
         i["option_names"], i["option_values"] = (names if tags else []), v
 
 
+# М'які ліжка ВНД/Vinadi: опція «Ніжки» (стандартні / підвищені, підвищені — дорожче)
+LEGS_EXCLUDE = {"machiato", "lessa", "strong", "arno", "infinity", "mojo", "everlay",
+                "blade", "blade ii", "lavo", "mellow", "senna"}
+LEGS_1200 = ("esme", "olivia", "riff", "stone", "monroe", "freya", "астон", "aston light",
+             "marsello", "марсель")
+LEGS_STD, LEGS_HIGH = "Стандартні ніжки", "Підвищені ніжки"
+
+
+def _legs_model(p):
+    n = " ".join(p["name"].lower().replace("’", "'").split())
+    if p["product_type"] == "М'які ліжка" and n.startswith("м'яке ліжко "):
+        return n[len("м'яке ліжко "):].strip()
+    if n == "дитяче м'яке ліжко riff":
+        return "riff"
+    return None
+
+
+def add_legs_variants(products):
+    out = []
+    for p in products:
+        out.append(p)
+        if p.get("source") != "akord":
+            continue
+        model = _legs_model(p)
+        if not model or model in LEGS_EXCLUDE:
+            continue
+        add = 1200 if any(model.startswith(k) for k in LEGS_1200) else 950
+        p["opts"] = {**p["opts"], "legs": LEGS_STD}
+        hi = {**p, "opts": {**p["opts"], "legs": LEGS_HIGH}, "tags": list(p["tags"]),
+              "sku": f'{p["sku"]}-HL' if p["sku"] else "", "barcode": "",
+              "price": f'{float(p["price"]) + add:.2f}'}
+        out.append(hi)
+    return out
+
+
 def group_variants(products):
     """Об'єднує постачальницькі позиції в один товар з варіантами.
     Фід лишається плоским (один <item> = один варіант), спільний handle групує варіанти."""
+    products = add_legs_variants(products)
     out, groups, akord = [], {}, {}
     for p in products:
         sp = SPLITTERS.get(p["source"])
