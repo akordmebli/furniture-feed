@@ -1164,6 +1164,14 @@ def apply_brands(items):
             for t in ("Обідні крісла", "Обідні стільці"):
                 if t not in p["tags"]:
                     p["tags"].append(t)
+    # стільці з підлокітниками, «Крісла» серед обідніх стільців і Асті — також в «Обідніх кріслах» (тег → колекція)
+    for p in items:
+        if p["product_type"] != "Обідні стільці" or "Обідні крісла" in p["tags"]:
+            continue
+        n = p["name"].lower().strip()
+        blob = json.dumps(p, ensure_ascii=False, default=str).lower().replace("не сідайте на підлокітники", "")
+        if n.startswith("крісло") or n == "стілець асті" or ("підлокітн" in blob and "без підлокітн" not in blob):
+            p["tags"].append("Обідні крісла")
     # дивани без механізму і без спального місця (модулі з «розкладне» не чіпаємо) — нерозкладні
     for p in items:
         if p["product_type"] in ("Прямі дивани", "Кутові дивани", "Модульні дивани") and "нерозкладний" not in p["tags"] \
