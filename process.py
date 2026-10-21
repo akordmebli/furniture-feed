@@ -1235,6 +1235,13 @@ def apply_brands(items):
         blob = json.dumps(p, ensure_ascii=False, default=str).lower().replace("не сідайте на підлокітники", "")
         if n.startswith("крісло") or n == "стілець асті" or ("підлокітн" in blob and "без підлокітн" not in blob):
             p["tags"].append("Обідні крісла")
+    # столи з круглою стільницею (є діаметр або Ø у розмірі стільниці) — у «Круглих столах» (тег → колекція)
+    for p in items:
+        if not re.search(r"стіл(?!ець|ьц)|стол", (p["product_type"] + " " + p["name"]).lower()) or "Круглі столи" in p["tags"]:
+            continue
+        blob = json.dumps(p, ensure_ascii=False, default=str).lower()
+        if "ø" in blob or "⌀" in blob or re.search(r"діаметр[^0-9]{0,40}\d", blob):
+            p["tags"].append("Круглі столи")
     # дивани без механізму і без спального місця (модулі з «розкладне» не чіпаємо) — нерозкладні
     for p in items:
         if p["product_type"] in ("Прямі дивани", "Кутові дивани", "Модульні дивани") and "нерозкладний" not in p["tags"] \
