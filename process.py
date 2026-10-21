@@ -696,7 +696,22 @@ def group_variants(products):
     order = {h: n for n, h in enumerate(akord)}
     sort_tags = AKORD_PRICE_OPTS + [t for t in AKORD_OPT_LABELS if t not in AKORD_PRICE_OPTS]
     key = lambda p: (order[p["handle"]], [natural_key(t, p["opts"].get(t, "")) for t in sort_tags])
-    out = [p for p in out if p["source"] != "akord"] + sorted((p for p in out if p["source"] == "akord"), key=key)
+    others = [p for p in out if p["source"] != "akord"]
+    oorder = {}
+    for p in others:
+        oorder.setdefault(p["handle"], len(oorder))
+    first = {}
+    for p in others:
+        for i, v in enumerate(p.get("option_values") or []):
+            first.setdefault((p["handle"], i, v), len(first))
+
+    def okey(p):  # розміри — від меншого до більшого, текстові значення — у вихідному порядку
+        ks = []
+        for i, v in enumerate(p.get("option_values") or []):
+            nums = [float(n.replace(",", ".")) for n in re.findall(r"\d+(?:[.,]\d+)?", v or "")]
+            ks.append((0, tuple(nums), 0) if nums else (1, (), first[(p["handle"], i, v)]))
+        return (oorder[p["handle"]], ks)
+    out = sorted(others, key=okey) + sorted((p for p in out if p["source"] == "akord"), key=key)
     seen = set()
     for p in out:  # SKU у фіді постачальника інколи дублюється — робимо унікальним
         if p["sku"] in seen:
