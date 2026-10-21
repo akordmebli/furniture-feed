@@ -1261,6 +1261,102 @@ def apply_brands(items):
         p["meta_description"] = fix(p.get("meta_description", ""), brand)
 
 
+# ---------- короткі описи ВНД/Vinadi та meta для всіх ----------
+DESC_MAX = 350
+
+
+def _joinand(xs):
+    xs = [x for x in xs if x]
+    if not xs:
+        return ""
+    return xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " і " + xs[-1]
+
+
+def _short_desc(name, brand, ptype, items):
+    """Лаконічний опис за шаблоном: що це, ключові можливості, розміри, оббивка, гарантія, доставка."""
+    def uniq(k):
+        return list(dict.fromkeys(i.get("opts", {}).get(k, "") for i in items if i.get("opts", {}).get(k, "")))
+    mech = [m for m in uniq("mechanism") if m != "Без механізму"]
+    sleep = sorted(uniq("sleep_size"), key=lambda v: [float(x) for x in re.findall(r"\d+", v)])
+    mattress = set(uniq("mattress_included"))
+    niche = "Є" in uniq("storage_niche")
+    dims = uniq("dimensions")
+    t = (ptype or "").lower()
+    parts = []
+    if "ліжк" in t:
+        if "кутов" in t:
+            feat = "зручне кутове ліжко з м'якими бортиками"
+        elif "дит" in t:
+            feat = "затишне дитяче ліжко з м'яким узголів'ям"
+        else:
+            feat = "затишне ліжко з м'яким узголів'ям"
+        extra = []
+        if any("Газов" in m for m in mech):
+            extra.append("газовим підйомним механізмом")
+        if niche:
+            extra.append("місткою нішею для білизни")
+        parts.append(f"{name} від {brand} — {feat}" + (f", {_joinand(extra)}" if extra else "") + ".")
+        s = []
+        if {"З матрацом", "Ламельна сітка"} <= mattress:
+            s.append("Доступне з матрацом або з ламельною сіткою")
+        elif "З матрацом" in mattress:
+            s.append("Постачається з матрацом")
+        if sleep:
+            s.append(("у розмірах спального місця " if len(sleep) > 1 else "спальне місце ") + _joinand(sleep))
+        if s:
+            txt = ", ".join(s)
+            parts.append(txt[0].upper() + txt[1:] + ".")
+    elif "диван" in t:
+        kind = {"прямі дивани": "прямий диван", "кутові дивани": "кутовий диван",
+                "модульні дивани": "модульний диван"}.get(t, "диван")
+        if mech:
+            lead = f"{name} від {brand} — {kind} з механізмом «{mech[0]}»" if len(mech) == 1 else \
+                f"{name} від {brand} — {kind} з механізмами " + _joinand([f"«{m}»" for m in mech])
+        else:
+            lead = f"{name} від {brand} — {kind} без механізму розкладання"
+        parts.append(lead + ".")
+        if sleep:
+            parts.append("Спальне місце " + _joinand(sleep) + ".")
+    else:
+        kind = {"м'які крісла": "м'яке крісло", "обідні стільці": "обідній стілець", "пуфи": "м'який пуф",
+                "тумбочки": "м'яка тумбочка", "лавки": "м'яка лавка",
+                "журнальні столики і консолі": "журнальний столик"}.get(t, "")
+        parts.append(f"{name} від {brand}" + (f" — {kind} для дому чи закладу." if kind else "."))
+    if len(dims) == 1 and "ліжк" not in t:
+        parts.append(f"Розміри: {dims[0].replace('*', '×')} см.")
+    if uniq("fabric"):
+        parts.append("Обирайте оббивку під свій інтер'єр.")
+    lead = " ".join(parts)
+    return lead + " Гарантія 18 місяців. Доставка по Україні, оплата частинами.", \
+        lead + " Доставка по Україні, оплата частинами."
+
+
+def apply_short_texts(items):
+    groups = {}
+    for p in items:
+        groups.setdefault(p["handle"], []).append(p)
+    for h, g in groups.items():
+        p0 = g[0]
+        name = p0["name"]
+        brand = p0.get("vendor") or ""
+        if p0.get("source") == "akord" and len(p0.get("description") or "") > DESC_MAX:
+            desc, meta = _short_desc(name, brand, p0.get("product_type", ""), g)
+            for p in g:
+                p["description"] = desc
+                p["meta_description"] = meta
+        for p in g:
+            if not (p.get("meta_title") or "").strip():
+                p["meta_title"] = f"{name} | купити в АКОРД МЕБЛІ"
+            if not (p.get("meta_description") or "").strip():
+                txt = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", p0.get("description") or "")).strip()
+                lead = f"{name}" + (f" від {brand}" if brand and brand not in name else "") + " — купуйте в АКОРД МЕБЛІ."
+                if txt:
+                    first = re.split(r"(?<=[.!?])\s", txt)[0]
+                    if 20 < len(first) < 160 and name.lower() not in first.lower()[:len(name)+5]:
+                        lead += " " + first
+                p["meta_description"] = (lead + " Доставка по Україні, оплата частинами.")[:300]
+
+
 def main():
     sources = [
         ("Акорд (ВНД)", "AKORD_CSV", parse_akord, True),
@@ -1302,6 +1398,7 @@ def main():
 
     apply_brands(all_products)
     all_products = group_variants(all_products)
+    apply_short_texts(all_products)
     os.makedirs("output", exist_ok=True)
     with open("output/feed.xml", "w", encoding="utf-8") as f:
         xml = build_xml(all_products)
