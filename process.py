@@ -1204,7 +1204,8 @@ def build_xml(products):
         for tag, val in fields:
             ET.SubElement(item, tag).text = "0" if val == 0 else str(val or "")
         for tag in OPT_TAGS:
-            ET.SubElement(item, tag).text = str(p["opts"].get(tag, "") or "")
+            val = "" if p.get("no_dims") and tag in ("dimensions", "sleep_size") else p["opts"].get(tag, "")
+            ET.SubElement(item, tag).text = str(val or "")
         names, vals = p.get("option_names", []), p.get("option_values", [])
         for n in range(3):
             ET.SubElement(item, f"option{n + 1}_name").text = names[n] if n < len(names) else ""
@@ -1409,6 +1410,26 @@ def apply_short_texts(items):
                 p["meta_description"] = (lead + " Доставка по Україні, оплата частинами.")[:300]
 
 
+def clear_module_dims(items):
+    """Модульні товари з «сетом»: габарити й спальне місце сету лишаємо тільки сету.
+    Окремим модулям у джерелі проставлені ті самі розміри сету — прибираємо їх, щоб не вводити в оману."""
+    groups = {}
+    for p in items:
+        if p.get("opts", {}).get("modules"):
+            groups.setdefault(p["name"], []).append(p)
+    for name, its in groups.items():
+        sets = [p for p in its if "сет" in str(p["opts"]["modules"]).lower()]
+        if not sets:
+            continue
+        sd = (sets[0]["length"], sets[0]["width"], sets[0]["height"])
+        for p in its:
+            if p in sets or (p["length"], p["width"], p["height"]) != sd:
+                continue
+            p["length"] = p["width"] = p["height"] = ""
+            p["sleep"] = ""
+            p["no_dims"] = True  # опції не чіпаємо, лише не віддаємо розміри у фід
+
+
 def main():
     sources = [
         ("Акорд (ВНД)", "AKORD_CSV", parse_akord, True),
@@ -1449,6 +1470,7 @@ def main():
         sys.exit(1)
 
     apply_brands(all_products)
+    clear_module_dims(all_products)
     all_products = group_variants(all_products)
     apply_short_texts(all_products)
     os.makedirs("output", exist_ok=True)
