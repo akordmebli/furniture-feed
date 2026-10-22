@@ -121,6 +121,19 @@ def cm(v):
     return str(round(x / 10) if x >= 400 else round(x))
 
 
+def cm3(*vals):
+    """Розміри одного товару в см. Якщо хоч один розмір < 100, усі вже в см (415*150*71 — це см, а не мм)."""
+    nums = []
+    for v in vals:
+        try:
+            nums.append(float(str(v).replace(",", ".").strip()))
+        except (ValueError, TypeError):
+            nums.append(0)
+    if any(0 < x < 100 for x in nums):
+        return [str(round(x)) if x > 0 else "" for x in nums]
+    return [cm(v) for v in vals]
+
+
 def title_overrides(title, leaf):
     t = title.lower()
     if t.startswith("модульний диван"):
@@ -338,8 +351,8 @@ def parse_akord(text):
             meta_description=brand_fix(str(row.get("MetaDescription", "") or "")),
             meta_keywords=brand_fix(str(row.get("MetaKeywords", "") or "")),
             opts=opts, tags=tags, sleep=sleep_norm(opts.get("sleep_size", "")),
-            length=cm(opts.get("length_opt", "")), width=cm(opts.get("width_opt", "")),
-            height=cm(opts.get("height_opt", "")),
+            **dict(zip(("length", "width", "height"),
+                       cm3(opts.get("length_opt", ""), opts.get("width_opt", ""), opts.get("height_opt", "")))),
             dims_tab=str(row.get("dims_tab", "") or row.get("dimensions", "") or "").strip(),
             category_full=cat,
         ))
