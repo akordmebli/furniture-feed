@@ -1411,14 +1411,15 @@ def apply_short_texts(items):
 
 
 def clear_module_dims(items):
-    """Модульні товари з «сетом»: габарити й спальне місце сету лишаємо тільки сету.
+    """Модульні товари з «сетом» / «Стандартною»: габарити й спальне місце лишаємо тільки базовій комплектації.
     Окремим модулям у джерелі проставлені ті самі розміри сету — прибираємо їх, щоб не вводити в оману."""
     groups = {}
     for p in items:
         if p.get("opts", {}).get("modules"):
             groups.setdefault(p["name"], []).append(p)
     for name, its in groups.items():
-        sets = [p for p in its if "сет" in str(p["opts"]["modules"]).lower()]
+        # «сет» (MORANI, MONDI) або «Стандартна» (SMART) — базова комплектація, у якої розміри правильні
+        sets = [p for p in its if any(k in str(p["opts"]["modules"]).lower() for k in ("сет", "стандартн"))]
         if not sets:
             continue
         sd = (sets[0]["length"], sets[0]["width"], sets[0]["height"])
