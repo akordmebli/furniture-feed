@@ -195,6 +195,8 @@ VALUE_FIXES = {"mechanism": {"Крокуючий": "Покроковий"}}
 def norm_size_value(tag, val):
     """Розміри в одному форматі: см (1500*1900 → 150*190), тумба — «80х120»."""
     val = VALUE_FIXES.get(tag, {}).get(val, val)
+    # одиниці виміру вказані в назві фільтра — у значеннях опцій «см» не пишемо
+    val = re.sub(r"(?<=\d)\s*см\.?$", "", val).strip()
     if tag == "sleep_size":
         m = re.fullmatch(r"(\d+)\s*[*xхX×]\s*(\d+)", val)
         if m:
