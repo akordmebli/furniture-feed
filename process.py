@@ -1126,6 +1126,42 @@ def comefor_available(stock):
 NO_IMAGE_SOURCES = {"akord", "woodman"}
 
 
+# ---------- форма стільниці (метаполе custom.tabletop_shape, фільтр «Форма стільниці») ----------
+# моделі ВНД/Vinadi/Woodman — форма за фото (у джерелах її немає); квадратні рахуємо як прямокутні
+SHAPE_BY_MODEL = {
+    "RONDO": ["Кругла"], "TORONTO": ["Кругла"], "PINK": ["Кругла"], "ELVERA": ["Кругла"], "IRIS": ["Кругла"],
+    "AREN": ["Кругла"], "NORD": ["Кругла"], "FIJI": ["Кругла"], "STELIO": ["Кругла"], "СОФІ": ["Кругла"],
+    "ALLEGRO": ["Кругла"],
+    "LIGHT": ["Прямокутна"], "KASTELLO": ["Прямокутна"], "HEVI": ["Прямокутна"], "BEVERLEY": ["Прямокутна"],
+    "GOA": ["Прямокутна"], "MILOS": ["Прямокутна"], "EDMOND": ["Прямокутна"], "CHARLOTTE": ["Прямокутна"],
+    "STYLE": ["Прямокутна"], "ДЕФТ": ["Прямокутна"], "MEXICO": ["Прямокутна"], "КОРТІНА": ["Прямокутна"],
+    "HAROLD": ["Кругла", "Прямокутна"], "BELFORT": ["Овальна"],
+}
+SHAPE_WORDS = [("прямокут", "Прямокутна"), ("квадрат", "Прямокутна"), ("овал", "Овальна"), ("кругл", "Кругла"),
+               ("трикут", "Трикутна")]
+
+
+def tabletop_shape(p):
+    """Форма стільниці для столів: модель → «Форма: …» у даних постачальника → діаметр/Ø → розмір «ДхШ»."""
+    if not re.search(r"стіл(?!ець|ьц)|стол|консол", p["name"].lower()):
+        return []
+    up = p["name"].upper()
+    for k, v in SHAPE_BY_MODEL.items():
+        if re.search(rf"(?<![A-ZА-ЯІЇЄҐ]){k}(?![A-ZА-ЯІЇЄҐ])", up):
+            return v
+    if p["product_type"] not in ("Обідні столи", "Журнальні столики і консолі", "Садові меблі"):
+        return []
+    blob = json.dumps(p, ensure_ascii=False, default=str).lower()
+    m = re.search(r"форма[^а-яіїєґ]{0,60}(прямокут|квадрат|овал|кругл|трикут)", blob)
+    if m:
+        return [v for w, v in SHAPE_WORDS if m.group(1) == w]
+    if "кругл" in p["name"].lower() or "ø" in blob or "⌀" in blob or re.search(r"діаметр[^0-9]{0,40}\d", blob):
+        return ["Кругла"]
+    if re.search(r"\d\s*[xх×*]\s*\d", str(p.get("opts", {}).get("tabletop_size", ""))):
+        return ["Прямокутна"]
+    return []
+
+
 def build_xml(products):
     catalog = ET.Element("catalog")
     for p in products:
@@ -1150,6 +1186,7 @@ def build_xml(products):
             ("tab_materials", p.get("tab_materials", "")),
             ("tab_3d", p.get("tab_3d", "")),
             ("tab_details", p.get("tab_details", "")),
+            ("tabletop_shape", ", ".join(tabletop_shape(p))),
         ]
         for tag, val in fields:
             ET.SubElement(item, tag).text = "0" if val == 0 else str(val or "")
