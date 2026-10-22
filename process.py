@@ -199,7 +199,7 @@ def norm_size_value(tag, val):
         m = re.fullmatch(r"(\d+)\s*[*xхX×]\s*(\d+)", val)
         if m:
             a, b = int(m.group(1)), int(m.group(2))
-            if a >= 1000 and b >= 1000:
+            if max(a, b) >= 400:
                 a, b = round(a / 10), round(b / 10)
             return f"{a}*{b}"
     if tag == "tabletop_size":
