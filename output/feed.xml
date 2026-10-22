@@ -273381,10 +273381,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -273393,14 +273393,14 @@
     <fabric>А</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI Крісло кутове</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -273440,10 +273440,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -273452,14 +273452,14 @@
     <fabric>А</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI отаманка</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -273499,10 +273499,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -273511,14 +273511,14 @@
     <fabric>А</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI приставне крісло</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -273617,10 +273617,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -273629,14 +273629,14 @@
     <fabric>Б</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI Крісло кутове</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -273676,10 +273676,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -273688,14 +273688,14 @@
     <fabric>Б</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI отаманка</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -273735,10 +273735,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -273747,14 +273747,14 @@
     <fabric>Б</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI приставне крісло</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -273853,10 +273853,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -273865,14 +273865,14 @@
     <fabric>В</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI Крісло кутове</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -273912,10 +273912,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -273924,14 +273924,14 @@
     <fabric>В</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI отаманка</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -273971,10 +273971,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -273983,14 +273983,14 @@
     <fabric>В</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI приставне крісло</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -274089,10 +274089,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -274101,14 +274101,14 @@
     <fabric>Г</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI Крісло кутове</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -274148,10 +274148,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -274160,14 +274160,14 @@
     <fabric>Г</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI отаманка</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -274207,10 +274207,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -274219,14 +274219,14 @@
     <fabric>Г</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI приставне крісло</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -274325,10 +274325,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -274337,14 +274337,14 @@
     <fabric>Д</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI Крісло кутове</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -274384,10 +274384,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -274396,14 +274396,14 @@
     <fabric>Д</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI отаманка</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -274443,10 +274443,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -274455,14 +274455,14 @@
     <fabric>Д</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI приставне крісло</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -274561,10 +274561,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -274573,14 +274573,14 @@
     <fabric>Ж</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI Крісло кутове</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -274620,10 +274620,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -274632,14 +274632,14 @@
     <fabric>Ж</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI отаманка</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -274679,10 +274679,10 @@
     <meta_keywords>Модульний диван MORANI, кутові дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>modulniy-divan-morani</alias>
     <description>Модульний диван MORANI від Vinadi — модульний диван з механізмом «Єврокнижка». Спальне місце 150*365. Розміри: 415×150×71 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
-    <spalne_mistse>150×365</spalne_mistse>
-    <dovzhyna>415</dovzhyna>
-    <shyryna>150</shyryna>
-    <vysota>71</vysota>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;415 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;71 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Спальне місце: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;150×365 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;єврокнижка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12gSWVj37KPBCk0hZiSjGi53F_VDpjLBP?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -274691,14 +274691,14 @@
     <fabric>Ж</fabric>
     <leg_color/>
     <frame_color/>
-    <sleep_size>150*365</sleep_size>
+    <sleep_size/>
     <mechanism>Єврокнижка</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
     <material/>
     <modules>MORANI приставне крісло</modules>
-    <dimensions>415*150*71</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>71</height_opt>
     <length_opt>415</length_opt>
@@ -277630,9 +277630,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -277648,7 +277648,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф малий 1*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -277689,9 +277689,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -277707,7 +277707,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф великий 1.5*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -277748,9 +277748,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -277766,7 +277766,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било велике</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -277807,9 +277807,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -277825,7 +277825,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било мале</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -277925,9 +277925,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -277943,7 +277943,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф малий 1*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -277984,9 +277984,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278002,7 +278002,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф великий 1.5*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278043,9 +278043,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278061,7 +278061,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било велике</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278102,9 +278102,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278120,7 +278120,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било мале</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278220,9 +278220,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278238,7 +278238,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф малий 1*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278279,9 +278279,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278297,7 +278297,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф великий 1.5*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278338,9 +278338,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278356,7 +278356,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било велике</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278397,9 +278397,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278415,7 +278415,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било мале</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278515,9 +278515,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278533,7 +278533,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф малий 1*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278574,9 +278574,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278592,7 +278592,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф великий 1.5*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278633,9 +278633,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278651,7 +278651,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било велике</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278692,9 +278692,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278710,7 +278710,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било мале</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278810,9 +278810,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278828,7 +278828,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф малий 1*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278869,9 +278869,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278887,7 +278887,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф великий 1.5*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278928,9 +278928,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -278946,7 +278946,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било велике</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -278987,9 +278987,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -279005,7 +279005,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било мале</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -279105,9 +279105,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -279123,7 +279123,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф малий 1*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -279164,9 +279164,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -279182,7 +279182,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI пуф великий 1.5*1</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -279223,9 +279223,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -279241,7 +279241,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било велике</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
@@ -279282,9 +279282,9 @@
     <alias>modulniy-divan-mondi</alias>
     <description>Модульний диван MONDI від Vinadi — модульний диван без механізму розкладання. Розміри: 350×200×75 см. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>350</dovzhyna>
-    <shyryna>200</shyryna>
-    <vysota>75</vysota>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;350 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Регулярно чистіть пилососом або м'якою щіткою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сушіть феном і не ставте біля батарей та на пряме сонце.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень.&quot;}]}]}]}</tab_materials>
     <tab_3d>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;3D-модель: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;link&quot;,&quot;url&quot;:&quot;https://drive.google.com/drive/folders/12MWvYAy_DaGTwQ1RyBo1Pikbwu8rOrZm?usp=sharing&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;переглянути і завантажити&quot;}]}]}]}]}</tab_3d>
@@ -279300,7 +279300,7 @@
     <mattress_included/>
     <material/>
     <modules>MONDI било мале</modules>
-    <dimensions>350*200*75</dimensions>
+    <dimensions/>
     <tabletop_size/>
     <height_opt>75</height_opt>
     <length_opt>350</length_opt>
