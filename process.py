@@ -1411,6 +1411,49 @@ def apply_short_texts(items):
                     if 20 < len(first) < 160 and name.lower() not in first.lower()[:len(name)+5]:
                         lead += " " + first
                 p["meta_description"] = (lead + " Доставка по Україні, оплата частинами.")[:300]
+        for p in g:
+            p["meta_description"] = fit_meta(p.get("meta_description") or "")
+
+
+META_MAX = 160
+
+
+def fit_meta(text, limit=META_MAX):
+    """Meta description ≤160 символів: спершу прибираємо другорядні речення, потім обрізаємо по слову."""
+    t = re.sub(r"\s+", " ", text).strip()
+    if len(t) <= limit:
+        return t
+    steps = [
+        lambda s: s.replace(" Обирайте оббивку під свій інтер'єр.", ""),
+        lambda s: s.replace(" Гарантія 18 місяців.", ""),
+        lambda s: s.replace("Доставка по Україні, оплата частинами.", "Доставка по Україні."),
+        lambda s: re.sub(r" Розміри: [^.]*? см\.", "", s) if re.search(r"Спальне місце", s) else s,
+        lambda s: re.sub(r",? у розмірах спального місця [^.]*\.", ".", s),
+        lambda s: s.replace(" Доставка по Україні.", ""),
+    ]
+    for f in steps:
+        t = f(t)
+        if len(t) <= limit:
+            return t
+    m = re.match(r"(.+? — купуйте в АКОРД МЕБЛІ\.)", t)
+    if m:
+        out = m.group(1) + " Доставка по Україні, оплата частинами."
+        if len(out) <= limit:
+            return out
+    sents = re.split(r"(?<=[.!?»])\s+", t)
+    out = sents[0]
+    rest = sents[1:]
+    while rest and len(out) + 1 + len(rest[0]) <= limit:
+        out += " " + rest.pop(0)
+    if rest and len(out) < 110:
+        out += " " + rest[0]
+    if len(out) > limit:
+        cut = out[:limit - 1]
+        if cut.rfind(", ") > limit * 0.6:
+            out = cut[:cut.rfind(", ")].rstrip() + "."
+        else:
+            out = cut.rsplit(" ", 1)[0].rstrip(",;:—– ") + "…"
+    return out
 
 
 def clear_module_dims(items):
