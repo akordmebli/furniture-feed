@@ -323,6 +323,9 @@ def parse_akord(text):
         cat = cats[0] if cats else ""
         leaf = map_leaf("akord", cat.split(" / ")[-1] if cat else "", name)
         leaf = title_overrides(name, leaf)
+        # у ліжок спальне місце не довше 200 см (у джерелі бувають помилки на кшталт «140*210» у Марсель ІІ)
+        if "ліжк" in leaf.lower() and opts.get("sleep_size"):
+            opts["sleep_size"] = re.sub(r"(?<=\*)21\d$", "200", str(opts["sleep_size"]))
         tags = []
         for extra in cats[1:]:
             t = extra.split(" / ")[-1]
