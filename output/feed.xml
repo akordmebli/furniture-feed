@@ -650,9 +650,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець N-66-2 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець N-66-2 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -1497,9 +1497,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець S-118 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець S-118 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -3969,9 +3969,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-76 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-76 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -4634,9 +4634,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-88-1 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-88-1 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -9126,9 +9126,9 @@
     <parent_category>Крісла</parent_category>
     <shopify_id>fr-7-1</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Поворотне крісло &quot;Міріам&quot; | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Поворотне крісло &quot;Міріам&quot; від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -21190,9 +21190,9 @@
     <parent_category>Садові меблі</parent_category>
     <shopify_id>fr-15-2</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Комплект садових меблів &quot;Белладжо&quot; | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Комплект садових меблів &quot;Белладжо&quot; від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -96330,7 +96330,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x200</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>147</shyryna>
     <vysota/>
@@ -96360,8 +96360,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -96389,7 +96389,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x201</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>147</shyryna>
     <vysota/>
@@ -96419,8 +96419,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -96448,7 +96448,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x202</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>147</shyryna>
     <vysota/>
@@ -96478,8 +96478,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -96507,7 +96507,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x203</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>167</shyryna>
     <vysota/>
@@ -96537,8 +96537,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -96566,7 +96566,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x204</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>167</shyryna>
     <vysota/>
@@ -96596,8 +96596,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -96625,7 +96625,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x205</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>167</shyryna>
     <vysota/>
@@ -96655,8 +96655,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -96684,7 +96684,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x206</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>187</shyryna>
     <vysota/>
@@ -96714,8 +96714,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -96743,7 +96743,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x207</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>187</shyryna>
     <vysota/>
@@ -96773,8 +96773,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -96802,7 +96802,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x208</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>187</shyryna>
     <vysota/>
@@ -96832,8 +96832,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -96861,7 +96861,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x209</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>207</shyryna>
     <vysota/>
@@ -96891,8 +96891,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -96920,7 +96920,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x210</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>207</shyryna>
     <vysota/>
@@ -96950,8 +96950,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -96979,7 +96979,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-allegro</alias>
     <description>Двоспальне ліжко Allegro у скандинавському стилі з корпусом з масиву деревини бука доступне у такому виборі кольорів каркасу: натуральний, без покриття або горіховий. Щоб задовольнити ваші потреби у спальному комфорті та естетиці ліжко доступне у таких розмірах: 140x200, 160x200, 180x200 та 200x211</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>210</dovzhyna>
     <shyryna>207</shyryna>
     <vysota/>
@@ -97009,8 +97009,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -100814,7 +100814,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>147</shyryna>
     <vysota/>
@@ -100844,8 +100844,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>карамель</option2_value>
     <option3_name/>
@@ -100873,7 +100873,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>147</shyryna>
     <vysota/>
@@ -100903,8 +100903,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -100932,7 +100932,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>147</shyryna>
     <vysota/>
@@ -100962,8 +100962,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -100991,7 +100991,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>147</shyryna>
     <vysota/>
@@ -101021,8 +101021,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -101050,7 +101050,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>167</shyryna>
     <vysota/>
@@ -101080,8 +101080,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>карамель</option2_value>
     <option3_name/>
@@ -101109,7 +101109,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>167</shyryna>
     <vysota/>
@@ -101139,8 +101139,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -101168,7 +101168,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>167</shyryna>
     <vysota/>
@@ -101198,8 +101198,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -101227,7 +101227,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>167</shyryna>
     <vysota/>
@@ -101257,8 +101257,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -101286,7 +101286,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>187</shyryna>
     <vysota/>
@@ -101316,8 +101316,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>карамель</option2_value>
     <option3_name/>
@@ -101345,7 +101345,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>187</shyryna>
     <vysota/>
@@ -101375,8 +101375,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -101404,7 +101404,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>187</shyryna>
     <vysota/>
@@ -101434,8 +101434,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -101463,7 +101463,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>187</shyryna>
     <vysota/>
@@ -101493,8 +101493,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -101522,7 +101522,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>207</shyryna>
     <vysota/>
@@ -101552,8 +101552,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>карамель</option2_value>
     <option3_name/>
@@ -101581,7 +101581,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>207</shyryna>
     <vysota/>
@@ -101611,8 +101611,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -101640,7 +101640,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>207</shyryna>
     <vysota/>
@@ -101670,8 +101670,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -101699,7 +101699,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-carre</alias>
     <description>Двоспальне ліжко Carre у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, від натурального до карамельного. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>207</shyryna>
     <vysota/>
@@ -101729,8 +101729,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -101935,7 +101935,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>165</shyryna>
     <vysota/>
@@ -101965,8 +101965,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -101994,7 +101994,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>165</shyryna>
     <vysota/>
@@ -102024,8 +102024,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -102053,7 +102053,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>165</shyryna>
     <vysota/>
@@ -102083,8 +102083,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -102112,7 +102112,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>185</shyryna>
     <vysota/>
@@ -102142,8 +102142,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -102171,7 +102171,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>185</shyryna>
     <vysota/>
@@ -102201,8 +102201,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -102230,7 +102230,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>185</shyryna>
     <vysota/>
@@ -102260,8 +102260,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -102289,7 +102289,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>205</shyryna>
     <vysota/>
@@ -102319,8 +102319,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -102348,7 +102348,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>205</shyryna>
     <vysota/>
@@ -102378,8 +102378,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -102407,7 +102407,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>205</shyryna>
     <vysota/>
@@ -102437,8 +102437,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -102466,7 +102466,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>225</shyryna>
     <vysota/>
@@ -102496,8 +102496,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -102525,7 +102525,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>225</shyryna>
     <vysota/>
@@ -102555,8 +102555,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -102584,7 +102584,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cone</alias>
     <description>Двоспальне ліжко Cone у скандинавському стилі стане втіленням вашого спокою та затишку. Виготовлене з масиву деревини бука, ліжко пропонується у різних кольорах каркасу, натуральному, не покритому та горіховому. З розмірами 140х200, 160х200, 180х200, 200х200, це ліжко задовольнить ваші потреби у спальному комфорті та естетиці.</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>225</dovzhyna>
     <shyryna>225</shyryna>
     <vysota/>
@@ -102614,8 +102614,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -102643,7 +102643,7 @@
     <meta_keywords/>
     <alias>woodman-odnospalne-lizhko-country</alias>
     <description>Односпальне ліжко Country створене для затишку та комфорту у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у двох варіаціях - з або без захисної планки, щоб ви могли вибрати той варіант, який найкраще відповідає вашим потребам та уподобанням.</description>
-    <spalne_mistse/>
+    <spalne_mistse>90×200</spalne_mistse>
     <dovzhyna>206</dovzhyna>
     <shyryna>97</shyryna>
     <vysota>80</vysota>
@@ -102673,10 +102673,10 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Колір каркаса</option1_name>
-    <option1_value>натурального кольору</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>90*200</option1_value>
+    <option2_name>Колір каркаса</option2_name>
+    <option2_value>натурального кольору</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
@@ -102702,7 +102702,7 @@
     <meta_keywords/>
     <alias>woodman-odnospalne-lizhko-country</alias>
     <description>Односпальне ліжко Country створене для затишку та комфорту у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у двох варіаціях - з або без захисної планки, щоб ви могли вибрати той варіант, який найкраще відповідає вашим потребам та уподобанням.</description>
-    <spalne_mistse/>
+    <spalne_mistse>90×200</spalne_mistse>
     <dovzhyna>206</dovzhyna>
     <shyryna>97</shyryna>
     <vysota>80</vysota>
@@ -102732,10 +102732,10 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Колір каркаса</option1_name>
-    <option1_value>без покриття</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>90*200</option1_value>
+    <option2_name>Колір каркаса</option2_name>
+    <option2_value>без покриття</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
@@ -102761,7 +102761,7 @@
     <meta_keywords/>
     <alias>woodman-odnospalne-lizhko-country</alias>
     <description>Односпальне ліжко Country створене для затишку та комфорту у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у двох варіаціях - з або без захисної планки, щоб ви могли вибрати той варіант, який найкраще відповідає вашим потребам та уподобанням.</description>
-    <spalne_mistse/>
+    <spalne_mistse>90×200</spalne_mistse>
     <dovzhyna>206</dovzhyna>
     <shyryna>97</shyryna>
     <vysota>80</vysota>
@@ -102791,10 +102791,10 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Колір каркаса</option1_name>
-    <option1_value>горіхового кольору</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>90*200</option1_value>
+    <option2_name>Колір каркаса</option2_name>
+    <option2_value>горіхового кольору</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
@@ -102820,7 +102820,7 @@
     <meta_keywords/>
     <alias>woodman-odnospalne-lizhko-iz-zakhysnoiu-plankoiu-country</alias>
     <description>Односпальне ліжко Country створене для затишку та комфорту у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у двох варіаціях - з або без захисної планки, щоб ви могли вибрати той варіант, який найкраще відповідає вашим потребам та уподобанням.</description>
-    <spalne_mistse/>
+    <spalne_mistse>90×200</spalne_mistse>
     <dovzhyna>206</dovzhyna>
     <shyryna>97</shyryna>
     <vysota>80</vysota>
@@ -102850,10 +102850,10 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Колір каркаса</option1_name>
-    <option1_value>натурального кольору</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>90*200</option1_value>
+    <option2_name>Колір каркаса</option2_name>
+    <option2_value>натурального кольору</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
@@ -102879,7 +102879,7 @@
     <meta_keywords/>
     <alias>woodman-odnospalne-lizhko-iz-zakhysnoiu-plankoiu-country</alias>
     <description>Односпальне ліжко Country створене для затишку та комфорту у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у двох варіаціях - з або без захисної планки, щоб ви могли вибрати той варіант, який найкраще відповідає вашим потребам та уподобанням.</description>
-    <spalne_mistse/>
+    <spalne_mistse>90×200</spalne_mistse>
     <dovzhyna>206</dovzhyna>
     <shyryna>97</shyryna>
     <vysota>80</vysota>
@@ -102909,10 +102909,10 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Колір каркаса</option1_name>
-    <option1_value>без покриття</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>90*200</option1_value>
+    <option2_name>Колір каркаса</option2_name>
+    <option2_value>без покриття</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
@@ -102938,7 +102938,7 @@
     <meta_keywords/>
     <alias>woodman-odnospalne-lizhko-iz-zakhysnoiu-plankoiu-country</alias>
     <description>Односпальне ліжко Country створене для затишку та комфорту у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у двох варіаціях - з або без захисної планки, щоб ви могли вибрати той варіант, який найкраще відповідає вашим потребам та уподобанням.</description>
-    <spalne_mistse/>
+    <spalne_mistse>90×200</spalne_mistse>
     <dovzhyna>206</dovzhyna>
     <shyryna>97</shyryna>
     <vysota>80</vysota>
@@ -102968,10 +102968,10 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Колір каркаса</option1_name>
-    <option1_value>горіхового кольору</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>90*200</option1_value>
+    <option2_name>Колір каркаса</option2_name>
+    <option2_value>горіхового кольору</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
@@ -102997,7 +102997,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>147</shyryna>
     <vysota/>
@@ -103027,8 +103027,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -103056,7 +103056,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>147</shyryna>
     <vysota/>
@@ -103086,8 +103086,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -103115,7 +103115,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>147</shyryna>
     <vysota/>
@@ -103145,8 +103145,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -103174,7 +103174,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>167</shyryna>
     <vysota/>
@@ -103204,8 +103204,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -103233,7 +103233,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>167</shyryna>
     <vysota/>
@@ -103263,8 +103263,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -103292,7 +103292,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>167</shyryna>
     <vysota/>
@@ -103322,8 +103322,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -103351,7 +103351,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>187</shyryna>
     <vysota/>
@@ -103381,8 +103381,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -103410,7 +103410,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>187</shyryna>
     <vysota/>
@@ -103440,8 +103440,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -103469,7 +103469,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>187</shyryna>
     <vysota/>
@@ -103499,8 +103499,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -103528,7 +103528,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>207</shyryna>
     <vysota/>
@@ -103558,8 +103558,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -103587,7 +103587,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>207</shyryna>
     <vysota/>
@@ -103617,8 +103617,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -103646,7 +103646,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-cube</alias>
     <description>Двоспальне ліжко у скандинавському стилі Cube створене для комфорту та затишку у вашому домі. Виготовлене з масиву деревини бука, воно доступне в різних кольорах каркасу: без покриття, натуральному або горіховому. Ліжко пропонується у різних розмірах - 140х200, 160х200, 180х200, 200х200.</description>
-    <spalne_mistse/>
+    <spalne_mistse>200×200</spalne_mistse>
     <dovzhyna>207</dovzhyna>
     <shyryna>207</shyryna>
     <vysota/>
@@ -103676,8 +103676,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>200×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>горіхового кольору</option2_value>
     <option3_name/>
@@ -103882,7 +103882,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-drop-hard</alias>
     <description>Double bed made of solid beech wood 140x200 caramel</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>213</dovzhyna>
     <shyryna>153</shyryna>
     <vysota/>
@@ -103912,8 +103912,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>карамель</option2_value>
     <option3_name/>
@@ -103941,7 +103941,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-drop-hard</alias>
     <description>Двоспальне ліжко Drop з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>213</dovzhyna>
     <shyryna>153</shyryna>
     <vysota/>
@@ -103971,8 +103971,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -104000,7 +104000,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-drop-hard</alias>
     <description>Двоспальне ліжко Drop з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>213</dovzhyna>
     <shyryna>153</shyryna>
     <vysota/>
@@ -104030,8 +104030,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -104059,7 +104059,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-drop-hard</alias>
     <description>Двоспальне ліжко Drop з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>213</dovzhyna>
     <shyryna>173</shyryna>
     <vysota/>
@@ -104089,8 +104089,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>карамель</option2_value>
     <option3_name/>
@@ -104118,7 +104118,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-drop-hard</alias>
     <description>Двоспальне ліжко Drop з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>213</dovzhyna>
     <shyryna>173</shyryna>
     <vysota/>
@@ -104148,8 +104148,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -104177,7 +104177,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-drop-hard</alias>
     <description>Двоспальне ліжко Drop з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>213</dovzhyna>
     <shyryna>173</shyryna>
     <vysota/>
@@ -104207,8 +104207,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -104236,7 +104236,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-drop-hard</alias>
     <description>Двоспальне ліжко Drop з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>213</dovzhyna>
     <shyryna>193</shyryna>
     <vysota/>
@@ -104266,8 +104266,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>карамель</option2_value>
     <option3_name/>
@@ -104295,7 +104295,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-drop-hard</alias>
     <description>Двоспальне ліжко Drop з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>213</dovzhyna>
     <shyryna>193</shyryna>
     <vysota/>
@@ -104325,8 +104325,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -104354,7 +104354,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-drop-hard</alias>
     <description>Двоспальне ліжко Drop з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>213</dovzhyna>
     <shyryna>193</shyryna>
     <vysota/>
@@ -104384,8 +104384,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>без покриття</option2_value>
     <option3_name/>
@@ -109959,7 +109959,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-loft</alias>
     <description>Двоспальне ліжко Loft з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>219</dovzhyna>
     <shyryna>157</shyryna>
     <vysota/>
@@ -109989,8 +109989,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>карамель</option2_value>
     <option3_name/>
@@ -110018,7 +110018,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-loft</alias>
     <description>Двоспальне ліжко Loft з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>140×200</spalne_mistse>
     <dovzhyna>219</dovzhyna>
     <shyryna>157</shyryna>
     <vysota/>
@@ -110048,8 +110048,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>140×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -110077,7 +110077,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-loft</alias>
     <description>Двоспальне ліжко Loft з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>219</dovzhyna>
     <shyryna>177</shyryna>
     <vysota/>
@@ -110107,8 +110107,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>карамель</option2_value>
     <option3_name/>
@@ -110136,7 +110136,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-loft</alias>
     <description>Двоспальне ліжко Loft з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>160×200</spalne_mistse>
     <dovzhyna>219</dovzhyna>
     <shyryna>177</shyryna>
     <vysota/>
@@ -110166,8 +110166,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>160×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
@@ -110195,7 +110195,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-loft</alias>
     <description>Двоспальне ліжко Loft з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>219</dovzhyna>
     <shyryna>197</shyryna>
     <vysota/>
@@ -110225,8 +110225,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>карамель</option2_value>
     <option3_name/>
@@ -110254,7 +110254,7 @@
     <meta_keywords/>
     <alias>woodman-dvospalne-lizhko-loft</alias>
     <description>Двоспальне ліжко Loft з масиву деревини бука у скандинавському стилі - це втілення природної краси та мінімалістичного дизайну, яке створить атмосферу затишку в вашій спальні. Ви можете обрати розмір, що вам підходить: від компактного 140x200 до просторого 200x200, щоб забезпечити максимальний комфорт і відповідати вашим потребам.</description>
-    <spalne_mistse/>
+    <spalne_mistse>180×200</spalne_mistse>
     <dovzhyna>219</dovzhyna>
     <shyryna>197</shyryna>
     <vysota/>
@@ -110284,8 +110284,8 @@
     <tabletop_color/>
     <boxes/>
     <storage_niche/>
-    <option1_name>Розмір</option1_name>
-    <option1_value>180×200</option1_value>
+    <option1_name>Спальне місце</option1_name>
+    <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
     <option2_value>натурального кольору</option2_value>
     <option3_name/>
