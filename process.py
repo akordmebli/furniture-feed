@@ -487,7 +487,7 @@ def parse_woodman(text):
             height=cm(uarow.get("ВИСОТА, см", "")),
             params={k: v.strip() for k, v in uarow.items() if k and v.strip() not in ("", "–", "-")},
             # дерев'яні ліжка Woodman без підйомного механізму й ніші — для фільтрів, як у ВНД/Vinadi
-            opts={"mechanism": "Без механізму", "storage_niche": "Немає"} if "ліжко" in name.lower() else {},
+            opts={"mechanism": "Без механізму", "storage_niche": "Немає"} if re.search(r"\bліжко\b", name.lower()) else {},
         ))
     return products
 
@@ -540,7 +540,7 @@ def split_woodman(p):
     opts = {}
     # ліжка: розмір — це спальне місце; опція зветься як у ВНД/Vinadi («Спальне місце», 140*200),
     # щоб працював спільний фільтр вітрини
-    bed = "ліжко" in n.lower()
+    bed = bool(re.search(r"\bліжко\b", n.lower()))  # не «приліжкова»
     if ", " in n:
         n, fabric = n.rsplit(", ", 1)
         fabric = fabric.strip()
