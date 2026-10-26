@@ -486,6 +486,8 @@ def parse_woodman(text):
             length=cm(uarow.get("ДОВЖИНА, см", "")), width=cm(uarow.get("ШИРИНА, см", "")),
             height=cm(uarow.get("ВИСОТА, см", "")),
             params={k: v.strip() for k, v in uarow.items() if k and v.strip() not in ("", "–", "-")},
+            # дерев'яні ліжка Woodman без підйомного механізму й ніші — для фільтрів, як у ВНД/Vinadi
+            opts={"mechanism": "Без механізму", "storage_niche": "Немає"} if "ліжко" in name.lower() else {},
         ))
     return products
 
