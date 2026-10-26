@@ -92214,7 +92214,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -92230,7 +92230,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
@@ -92273,7 +92273,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -92289,7 +92289,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>без покриття</option1_value>
     <option2_name/>
@@ -92332,7 +92332,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -92348,7 +92348,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>горіхового кольору</option1_value>
     <option2_name/>
@@ -100356,7 +100356,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -100372,7 +100372,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>карамель</option1_value>
     <option2_name/>
@@ -100415,7 +100415,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -100431,7 +100431,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
@@ -100474,7 +100474,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -100490,7 +100490,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>без покриття</option1_value>
     <option2_name/>
@@ -100533,7 +100533,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -100549,7 +100549,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>горіхового кольору</option1_value>
     <option2_name/>
@@ -101536,7 +101536,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101552,7 +101552,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
@@ -101595,7 +101595,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101611,7 +101611,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>без покриття</option1_value>
     <option2_name/>
@@ -101654,7 +101654,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101670,7 +101670,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>горіхового кольору</option1_value>
     <option2_name/>
@@ -103483,7 +103483,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103499,7 +103499,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>карамель</option1_value>
     <option2_name/>
@@ -103542,7 +103542,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103558,7 +103558,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
@@ -103601,7 +103601,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103617,7 +103617,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>без покриття</option1_value>
     <option2_name/>
@@ -109501,7 +109501,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -109517,7 +109517,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>карамель</option1_value>
     <option2_name/>
@@ -109560,7 +109560,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -109576,7 +109576,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
@@ -109619,7 +109619,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -109635,7 +109635,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>карамель</option1_value>
     <option2_name/>
@@ -109678,7 +109678,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism>Без механізму</mechanism>
+    <mechanism/>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -109694,7 +109694,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche>Немає</storage_niche>
+    <storage_niche/>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
