@@ -528,16 +528,35 @@ def split_vetro(p):
     return m[1].strip(), {"Колір": m[2].strip()}
 
 
+def _wm_num(v):
+    m = re.search(r"\d+", str(v or ""))
+    return int(m[0]) if m else 0
+
+
 def split_woodman(p):
     n = p["name"]
     opts = {}
+    # ліжка: розмір — це спальне місце; опція зветься як у ВНД/Vinadi («Спальне місце», 140*200),
+    # щоб працював спільний фільтр вітрини
+    bed = "ліжко" in n.lower()
     if ", " in n:
         n, fabric = n.rsplit(", ", 1)
         opts["Колір тканини"] = fabric.strip()
     sz = SIZE_RE.search(n)
     if sz:
-        opts["Розмір"] = f"{sz[1]}×{sz[2]}"
+        if bed:
+            opts["Спальне місце"] = f"{sz[1]}*{sz[2]}"
+        else:
+            opts["Розмір"] = f"{sz[1]}×{sz[2]}"
         n = (n[:sz.start()] + n[sz.end():]).strip()
+    elif bed:
+        prm = p.get("params", {})
+        w = _wm_num(prm.get("ШИРИНА СПАЛЬНОГО МІСЦЯ, см"))
+        ln = _wm_num(prm.get("ДОВЖИНА СПАЛЬНОГО МІСЦЯ, см"))
+        if w and ln:
+            opts["Спальне місце"] = f"{min(w, ln)}*{max(w, ln)}"
+    if "Спальне місце" in opts:
+        p["sleep"] = opts["Спальне місце"].replace("*", "×")
     fm = FRAME_RE.search(n)
     if fm:
         opts["Колір каркаса"] = fm[1].strip()
@@ -546,7 +565,8 @@ def split_woodman(p):
 
 
 SPLITTERS = {"comefor": split_comefor, "vetro": split_vetro, "woodman": split_woodman}
-OPTION_ORDER = ["Розмір", "Колір каркаса", "Колір тканини", "Колір"]
+OPTION_ORDER = ["Спальне місце", "Розмір", "Колір каркаса", "Колір тканини", "Колір"]
+KEEP_SINGLE_OPTS = {"Спальне місце"}  # лишаємо опцією навіть з одним значенням — для фільтра
 
 
 
@@ -655,13 +675,15 @@ def group_variants(products):
         groups.setdefault(key, []).append(p)
     for (src, ptype, base), items in groups.items():
         # розмір — як опція, якщо габарити відрізняються всередині групи
-        if len(items) > 1 and not all("Розмір" in i["group_opts"] for i in items):
+        if len(items) > 1 and not all("Розмір" in i["group_opts"] or "Спальне місце" in i["group_opts"]
+                                      for i in items):
             dims = {(i["length"], i["width"]) for i in items}
             if len(dims) > 1 and all(i["length"] and i["width"] for i in items):
                 for i in items:
                     i["group_opts"] = {"Розмір": f'{i["width"]}×{i["length"]}', **i["group_opts"]}
         names = [n for n in OPTION_ORDER if any(n in i["group_opts"] for i in items)]
-        names = [n for n in names if len({i["group_opts"].get(n, "—") for i in items}) > 1][:3]
+        names = [n for n in names if len({i["group_opts"].get(n, "—") for i in items}) > 1
+                 or (n in KEEP_SINGLE_OPTS and all(n in i["group_opts"] for i in items))][:3]
         # однакові комбінації опцій не можна — тоді не групуємо, щоб нічого не загубити
         combos = [tuple(i["group_opts"].get(n, "—") for n in names) for i in items]
         handle = f"{src}-{slug(base)}"[:120]
