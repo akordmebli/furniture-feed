@@ -3969,9 +3969,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-76 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-76 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -6732,148 +6732,6 @@
     </images>
   </item>
   <item>
-    <sku>M-90-grey/ black</sku>
-    <handle>vetro-stilets-m-90</handle>
-    <name>Стілець M-90</name>
-    <variant_price>5998.50</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <product_type>Обідні стільці</product_type>
-    <category>Обідні стільці</category>
-    <parent_category>Стільці</parent_category>
-    <shopify_id>fr-7-9</shopify_id>
-    <tags>Обідні крісла</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Стілець M-90 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Стілець M-90 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-stilets-m-90</alias>
-    <description>&lt;p&gt;Сірий колір оббивки надає стільцю нейтральний і сучасний вигляд, який легко вписується в будь-які інтер’єри. Чорна металева основа створює контраст і додає стільцю сучасності.&lt;/p&gt;&lt;p&gt;Шкірзамінник — це практичний і довговічний матеріал, який легко чиститься і зберігає свій зовнішній вигляд. Він імітує натуральну шкіру, але при цьому є більш доступним за ціною і простішим у догляді.&lt;/p&gt;&lt;p&gt;Фарбований метал забезпечує міцність і стабільність конструкції, а чорний колір додає елегантності та гармонійно поєднується з оббивкою.&lt;/p&gt;&lt;p&gt;Стілець має підлокітники, що додає додатковий комфорт і підтримує руки в зручному положенні.&lt;/p&gt;&lt;p&gt;Цей стілець ідеально підходить для офісів, робочих кабінетів або сучасних обідніх зон, пропонуючи стильне оформлення і високий рівень комфорту.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna/>
-    <shyryna>62</shyryna>
-    <vysota>78</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;62 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;78 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;сірий + чорний&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;61,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;44 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;55 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;46 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Особливості: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;з підлокітниками&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;8,8 кг&quot;}]}]}]}</tab_characteristics>
-    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Оббивка: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Штучна шкіра&quot;}]}]}]}</tab_details>
-    <tabletop_shape/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>сірий + чорний</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/19859/66f41ea7583e6_66f41e88de119_DSC02084-(1).jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/19859/66f41ea7583e6_66f41e88de119_DSC02084-(1).jpg</image>
-      <image>https://vetro.com.ua/storage/19859/66f41ea7583e6_66f41e88de119_DSC02084-(1).jpg</image>
-      <image>https://vetro.com.ua/storage/19860/66f41eadf1b3f_66f41e4881b1e_DSC02085-(1).jpg</image>
-      <image>https://vetro.com.ua/storage/19861/66f41eb4db9a0_66f41e487e988_DSC02086-(1).jpg</image>
-      <image>https://vetro.com.ua/storage/19862/66f41ebb99d8a_66f41e468e6c8_DSC02087-(1).jpg</image>
-      <image>https://vetro.com.ua/storage/19863/66f41ec23c958_66f41e4688b72_DSC02088-(1).jpg</image>
-      <image>https://vetro.com.ua/storage/11746/654ba9cc17d1d_m-90-siriy-chorniy13.jpg</image>
-      <image>https://vetro.com.ua/storage/11743/654ba9cbdf148_m-90-siriy-chorniy11.jpg</image>
-      <image>https://vetro.com.ua/storage/11744/654ba9cbe0a65_m-90-siriy-chorniy12.jpg</image>
-      <image>https://vetro.com.ua/storage/12597/6581bfd747d81_653fb782e57d8_ugo-tml-879-rebekka-grey-chorniy8.jpg</image>
-      <image>https://vetro.com.ua/storage/12598/6581bfd758332_653fb7831ce74_ugo-tml-879-rebekka-grey-chorniy10.jpg</image>
-      <image>https://vetro.com.ua/storage/21210/6735b723b35fb_Стілець-М-90-сірий-(3).glb</image>
-    </images>
-  </item>
-  <item>
-    <sku>M-70-ivory/ black</sku>
-    <handle>vetro-stilets-m-70</handle>
-    <name>Стілець M-70</name>
-    <variant_price>3673.50</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <product_type>Обідні стільці</product_type>
-    <category>Обідні стільці</category>
-    <parent_category>Стільці</parent_category>
-    <shopify_id>fr-7-9</shopify_id>
-    <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Стілець M-70 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Стілець M-70 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Колір айворі додає ніжності та світла будь-якому приміщенню, створюючи відчуття простору та легкості.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-stilets-m-70</alias>
-    <description>&lt;p&gt;Колір айворі додає ніжності та світла будь-якому приміщенню, створюючи відчуття простору та легкості. Айворі легко поєднується з іншими кольорами та стилями — від класичного до сучасного.&lt;/p&gt;&lt;p&gt;Тканина оббивки приємна на дотик і забезпечує комфорт під час сидіння. Вона має достатню стійкість до зношування, що робить стілець довговічним і легким у догляді.&lt;/p&gt;&lt;p&gt;Чорна металева основа надає стільцю сучасного вигляду та забезпечує його стійкість і міцність. Контраст між оббивкою айворі та чорними ніжками створює стильний і збалансований образ.&lt;/p&gt;&lt;p&gt;Поєднання кольору айворі з чорними металевими ніжками створює вишуканий і сучасний вигляд.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna/>
-    <shyryna>44</shyryna>
-    <vysota>87</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;44 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;87 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;айворі + чорний&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;44 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;55,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;49 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;6,5 кг&quot;}]}]}]}</tab_characteristics>
-    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Оббивка: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тканина&quot;}]}]}]}</tab_details>
-    <tabletop_shape/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>айворі + чорний</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/21962/677e597a3b478_677e595c51b9f_677e57dba40af_677e57407c7f1_DSC03329.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/21962/677e597a3b478_677e595c51b9f_677e57dba40af_677e57407c7f1_DSC03329.jpg</image>
-      <image>https://vetro.com.ua/storage/21962/677e597a3b478_677e595c51b9f_677e57dba40af_677e57407c7f1_DSC03329.jpg</image>
-      <image>https://vetro.com.ua/storage/21946/677e57e568c8e_677e5740792b6_DSC03330.jpg</image>
-      <image>https://vetro.com.ua/storage/21947/677e57ec051ef_677e57412f9b6_DSC03331.jpg</image>
-      <image>https://vetro.com.ua/storage/21948/677e57f995f20_677e574135a3b_DSC03332.jpg</image>
-      <image>https://vetro.com.ua/storage/21949/677e580cc194d_677e5741c3a97_DSC03333.jpg</image>
-      <image>https://vetro.com.ua/storage/11557/654b68a90f19f_m-70-ayvori-chorniy4.jpg</image>
-      <image>https://vetro.com.ua/storage/11556/654b68a8c5a9d_m-70-ayvori-chorniy2.jpg</image>
-      <image>https://vetro.com.ua/storage/11558/654b68a90fff2_m-70-ayvori-chorniy3.jpg</image>
-      <image>https://vetro.com.ua/storage/11555/654b68a8c5415_m-70-ayvori-chorniy1.jpg</image>
-    </images>
-  </item>
-  <item>
     <sku>M-72- light-grey-velvet/ black</sku>
     <handle>vetro-stilets-m-72</handle>
     <name>Стілець M-72</name>
@@ -7033,9 +6891,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags>Обідні крісла</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець поворотний R-69 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець поворотний R-69 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Айворі — це ніжний, світлий відтінок, який надає кріслу стильного та сучасного вигляду.</meta_description>
@@ -7403,9 +7261,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-80 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-80 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -8198,9 +8056,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець N-54 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець N-54 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -10243,10 +10101,10 @@
     <dovzhyna>180</dovzhyna>
     <shyryna>90</shyryna>
     <vysota>76</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;180 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;90 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;76 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;венеція делікато + капучино&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина у розкладеному вигляді: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;240 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Форма: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;прямокутні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вид: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;розкладні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм розкладки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;боковий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;94 кг&quot;}]}]}]}</tab_characteristics>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;180 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;90 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;76 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;венеція делікато + капучино; патагонія + чорний&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина у розкладеному вигляді: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;240 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Форма: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;прямокутні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вид: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;розкладні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм розкладки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;боковий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;94 кг&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
     <tab_3d/>
-    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стільниця: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матова кераміка&quot;}]}]}]}</tab_details>
+    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стільниця: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матова кераміка; глянцева кераміка&quot;}]}]}]}</tab_details>
     <tabletop_shape>Прямокутна</tabletop_shape>
     <fabric/>
     <leg_color/>
@@ -10294,6 +10152,86 @@
       <image>https://vetro.com.ua/storage/20423/67138b5d38d84_67138aa12dad8_keramichniy-stil-pino-tml-1200-veneciya-delikato-kapuchino4.jpg</image>
       <image>https://vetro.com.ua/storage/20420/67138b442d38a_67138aa0aee4f_keramichniy-stil-pino-tml-1200-veneciya-delikato-kapuchino1.jpg</image>
       <image>https://vetro.com.ua/storage/20424/67138b66dab58_67138b2c95ea4_keramichniy-stil-pino-tml-1200-veneciya-delikato-kapuchino5.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>TML-1200-pino-patagonia/black</sku>
+    <handle>vetro-keramichnyi-stil-pino-tml-1200</handle>
+    <name>Керамічний стіл Піно TML-1200</name>
+    <variant_price>29062.50</variant_price>
+    <vendor>Vetro Mebel</vendor>
+    <product_type>Обідні столи</product_type>
+    <category>Обідні столи</category>
+    <parent_category>Столи</parent_category>
+    <shopify_id>fr-24-4</shopify_id>
+    <tags/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Керамічний стіл Піно TML-1200 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Керамічний стіл Піно TML-1200 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-keramichnyi-stil-pino-tml-1200</alias>
+    <description>&lt;p&gt;Керамічний стіл Піно TML-1200 патагонія + чорний — стильний і практичний розкладний стіл із глянцевою керамічною стільницею кольору &quot;патагонія&quot;. Цей відтінок надає столу елегантного вигляду завдяки природним прожилкам, що поєднують нейтральні кольори.&lt;/p&gt;&lt;p&gt;Кераміка в кольорі патагонія з природними прожилками виглядає розкішно та елегантно, а чорна металева основа додає контрасту, підкреслюючи сучасний стиль. Це поєднання створює враження витонченості та елегантності.&lt;/p&gt;&lt;p&gt;Боковий механізм розкладки дозволяє збільшити довжину стільниці з 180 см до 240 см, забезпечуючи більше місця для гостей.&lt;/p&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna>180</dovzhyna>
+    <shyryna>90</shyryna>
+    <vysota>76</vysota>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;180 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;90 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;76 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;венеція делікато + капучино; патагонія + чорний&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина у розкладеному вигляді: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;240 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Форма: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;прямокутні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вид: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;розкладні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм розкладки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;боковий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;94 кг&quot;}]}]}]}</tab_characteristics>
+    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стільниця: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матова кераміка; глянцева кераміка&quot;}]}]}]}</tab_details>
+    <tabletop_shape>Прямокутна</tabletop_shape>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>патагонія + чорний</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/22466/67a7a381511f9_67a7a33b0bfdb__DSC5784.png</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/22466/67a7a381511f9_67a7a33b0bfdb__DSC5784.png</image>
+      <image>https://vetro.com.ua/storage/22466/67a7a381511f9_67a7a33b0bfdb__DSC5784.png</image>
+      <image>https://vetro.com.ua/storage/22467/67a7a39193551_67a79d67c781f__DSC5794-(1).png</image>
+      <image>https://vetro.com.ua/storage/22468/67a7a3a02b7f0_67a79d67be3c4__DSC5795-(1)-(1).png</image>
+      <image>https://vetro.com.ua/storage/22469/67a7a3b8b478b_67a79d68e3ae0__DSC5753-(1).png</image>
+      <image>https://vetro.com.ua/storage/22462/67a79d68e38e8__DSC5755-(1).png</image>
+      <image>https://vetro.com.ua/storage/22461/67a79d6858bf2__DSC5760-(1)-(1).png</image>
+      <image>https://vetro.com.ua/storage/22460/67a79d685db06__DSC5762-(2)-(1).png</image>
+      <image>https://vetro.com.ua/storage/22470/67a7a3f98b78c_67a79c0a71cb4_stil-pino-tml-1200-patagoniya-chorniy7.jpg</image>
+      <image>https://vetro.com.ua/storage/22471/67a7a4240c524_67a79da028dae__DSC5820-(1)-(1).png</image>
+      <image>https://vetro.com.ua/storage/22472/67a7a43516251_67a79c0b4f57c_stil-pino-tml-1200-patagoniya-chorniy9.jpg</image>
+      <image>https://vetro.com.ua/storage/22448/67a79c0c3e548_stil-pino-tml-1200-patagoniya-chorniy11.jpg</image>
+      <image>https://vetro.com.ua/storage/22449/67a79c0d1bda5_stil-pino-tml-1200-patagoniya-chorniy12.jpg</image>
+      <image>https://vetro.com.ua/storage/22450/67a79c0d19b34_stil-pino-tml-1200-patagoniya-chorniy13.jpg</image>
+      <image>https://vetro.com.ua/storage/22473/67a7a4550230b_67a79c0c3e42f_stil-pino-tml-1200-patagoniya-chorniy10.jpg</image>
+      <image>https://vetro.com.ua/storage/22208/67989259a0cb2_676e8f80e446c_676e8f64e1152_101403941.jpg</image>
+      <image>https://vetro.com.ua/storage/21793/676e8e4ce4cf9_676e8d91311b7_101403942.jpg</image>
+      <image>https://vetro.com.ua/storage/21791/676e8e3a00c40_676e8d9065831_101403940.jpg</image>
+      <image>https://vetro.com.ua/storage/21797/676e8ec994403_676e8eaae66dd_101403943.jpg</image>
+      <image>https://vetro.com.ua/storage/21795/676e8e6750213_676e8e0c4caae_12001.jpg</image>
     </images>
   </item>
   <item>
@@ -13092,96 +13030,6 @@
       <image>https://vetro.com.ua/storage/29176/690258791a199_stil-beatriche-tml-994-grey-travertin-bezheviy4.JPG</image>
       <image>https://vetro.com.ua/storage/29177/69025879230f9_stil-beatriche-tml-994-grey-travertin-bezheviy5.JPG</image>
       <image>https://vetro.com.ua/storage/30268/6967615418372_R_165_white-(2).glb</image>
-    </images>
-  </item>
-  <item>
-    <sku>M-239-taupe chenille/cappuccino</sku>
-    <handle>vetro-stilets-m-239</handle>
-    <name>Стілець M-239</name>
-    <variant_price>5068.50</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <product_type>Обідні стільці</product_type>
-    <category>Обідні стільці</category>
-    <parent_category>Стільці</parent_category>
-    <shopify_id>fr-7-9</shopify_id>
-    <tags>Обідні крісла</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Стілець M-239 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Стілець M-239 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-stilets-m-239</alias>
-    <description>&lt;p&gt;&lt;strong&gt;Стілець M-239 тауп + капучино — стиль, що говорить мовою затишку&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Цей стілець втілює гармонію витонченості та практичності. Оббивка у благородному відтінку &quot;тауп&quot; виготовлена з м’якого шенілу — вона приємна на дотик, має легку текстуру та виглядає по-домашньому тепло. Широке сидіння з підлокітниками дарує відчуття підтримки та комфорту, а ергономічні пропорції дозволяють насолоджуватись тривалим сидінням без втоми.&lt;/p&gt;&lt;p&gt;Металеві ніжки кольору &quot;капучино&quot; додають конструкції візуального балансу та сучасного шарму. Тауп і капучино — це природна пара, що чудово вписується як у спокійні інтер'єри, так і в більш виразні стилістичні рішення.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna/>
-    <shyryna>54</shyryna>
-    <vysota>74</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;54 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;74 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тауп + капучино&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;54 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;40 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;51,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;47 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Особливості: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;з підлокітниками&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;9 кг&quot;}]}]}]}</tab_characteristics>
-    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Оббивка: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Шеніл&quot;}]}]}]}</tab_details>
-    <tabletop_shape/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>тауп + капучино</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/25584/680a4967f164f_680a495599940_stilec-m-239-taup-kapuchino2.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/25584/680a4967f164f_680a495599940_stilec-m-239-taup-kapuchino2.jpg</image>
-      <image>https://vetro.com.ua/storage/25584/680a4967f164f_680a495599940_stilec-m-239-taup-kapuchino2.jpg</image>
-      <image>https://vetro.com.ua/storage/25579/680a48cfb2f1f_680a484d020f3_stilec-m-239-taup-kapuchino3.jpg</image>
-      <image>https://vetro.com.ua/storage/25580/680a48d5bc13f_680a484d04d24_stilec-m-239-taup-kapuchino4.jpg</image>
-      <image>https://vetro.com.ua/storage/25581/680a48dbcc055_680a484d59db0_stilec-m-239-taup-kapuchino5.jpg</image>
-      <image>https://vetro.com.ua/storage/25582/680a48e912de8_680a484c51cb7_stilec-m-239-taup-kapuchino1.jpg</image>
-      <image>https://vetro.com.ua/storage/25585/680a4b74aa747_stilec-m-239-taup-kapuchino7.jpg</image>
-      <image>https://vetro.com.ua/storage/25587/680a4b8ac1273_stilec-m-239-taup-kapuchino9.jpg</image>
-      <image>https://vetro.com.ua/storage/25586/680a4b74a5e26_stilec-m-239-taup-kapuchino6.jpg</image>
-      <image>https://vetro.com.ua/storage/25588/680a4b8ac4664_stilec-m-239-taup-kapuchino8.jpg</image>
-      <image>https://vetro.com.ua/storage/25589/680a4d4c060b4_stilec-m-239-taup-kapuchino11.jpg</image>
-      <image>https://vetro.com.ua/storage/25590/680a4d4c08aef_stilec-m-239-taup-kapuchino10.jpg</image>
-      <image>https://vetro.com.ua/storage/24157/67d6e8dd5d025_stilec-m-239-taup-kapuchino10.jpg</image>
-      <image>https://vetro.com.ua/storage/24150/67d6e84f16bf7_stilec-m-239-taup-kapuchino9.jpg</image>
-      <image>https://vetro.com.ua/storage/24149/67d6e84f15d7a_stilec-m-239-taup-kapuchino8.jpg</image>
-      <image>https://vetro.com.ua/storage/24148/67d6e84dccd30_stilec-m-239-taup-kapuchino7.jpg</image>
-      <image>https://vetro.com.ua/storage/24147/67d6e84dd2f9f_stilec-m-239-taup-kapuchino6.jpg</image>
-      <image>https://vetro.com.ua/storage/26469/684be68b11d67_684be67729ef7_t-325-mistik-grey-kapuchino6.jpg</image>
-      <image>https://vetro.com.ua/storage/26470/684be6968f08c_684be6772e217_t-325-mistik-grey-kapuchino7.jpg</image>
-      <image>https://vetro.com.ua/storage/26513/684c06bd87cfc_olimpiya-tml-985-krema-marfil-bezheviy6.jpg</image>
-      <image>https://vetro.com.ua/storage/26516/684c08598ae2e_olimpiya-tml-985-krema-marfil-bezheviy7.jpg</image>
-      <image>https://vetro.com.ua/storage/26512/684c06bcece6f_olimpiya-tml-985-krema-marfil-bezheviy5.jpg</image>
-      <image>https://vetro.com.ua/storage/26511/684c06bcdcb88_olimpiya-tml-985-krema-marfil-bezheviy4.jpg</image>
-      <image>https://vetro.com.ua/storage/26510/684c06bc49ac4_olimpiya-tml-985-krema-marfil-bezheviy2.jpg</image>
-      <image>https://vetro.com.ua/storage/26509/684c06bc4963f_olimpiya-tml-985-krema-marfil-bezheviy1.jpg</image>
-      <image>https://vetro.com.ua/storage/29200/6902639fc602f_stil-lunario-tml-1322-krema-marfil-kapuchino11.JPG</image>
-      <image>https://vetro.com.ua/storage/29201/6902639fcac33_stil-lunario-tml-1322-krema-marfil-kapuchino12.JPG</image>
-      <image>https://vetro.com.ua/storage/29202/690263a15a5f9_stil-lunario-tml-1322-krema-marfil-kapuchino13.JPG</image>
-      <image>https://vetro.com.ua/storage/29198/6902639e5a92a_stil-lunario-tml-1322-krema-marfil-kapuchino8.JPG</image>
-      <image>https://vetro.com.ua/storage/29199/6902639e59eac_stil-lunario-tml-1322-krema-marfil-kapuchino9.JPG</image>
     </images>
   </item>
   <item>
@@ -17022,89 +16870,6 @@
       <image>https://vetro.com.ua/storage/29460/6904bb0625427_6904babe9ca8a_kavoviy-stil-lunario-ayvori-oniks-ayvori8.JPG</image>
       <image>https://vetro.com.ua/storage/29456/6904babeb1055_kavoviy-stil-lunario-ayvori-oniks-ayvori9.JPG</image>
       <image>https://vetro.com.ua/storage/29461/6904bb0dc6050_6904babedfe83_kavoviy-stil-lunario-ayvori-oniks-ayvori10.JPG</image>
-    </images>
-  </item>
-  <item>
-    <sku>Lunario-ivory-onix/ivory-tv-unit</sku>
-    <handle>vetro-tv-tumba-lunario</handle>
-    <name>ТВ-тумба &quot;Лунаріо&quot;</name>
-    <variant_price>30922.50</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <product_type>Буфети і ТВ-тумби</product_type>
-    <category>Буфети і ТВ-тумби</category>
-    <parent_category>Тумби та зберігання</parent_category>
-    <shopify_id>fr-24-6</shopify_id>
-    <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>ТВ-тумба &quot;Лунаріо&quot; | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>ТВ-тумба &quot;Лунаріо&quot; від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-tv-tumba-lunario</alias>
-    <description>&lt;p&gt;&lt;strong&gt;ТВ-тумба “Лунаріо” айворі онікс + айворі&lt;/strong&gt; — це елегантне поєднання сучасного дизайну, витончених форм і благородних матеріалів. Вона створена для інтер’єрів, де кожна деталь має значення, а стиль проявляється у стриманій розкоші.&lt;/p&gt;&lt;p&gt;Стільниця з &lt;strong&gt;глянцевої кераміки у відтінку айворі онікс&lt;/strong&gt;, поєднана з &lt;strong&gt;гартованим склом&lt;/strong&gt;, зачаровує природною текстурою каменю та м’яким сяйвом.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Овальні лінії&lt;/strong&gt; конструкції додають меблю гармонійності й плавності, а &lt;strong&gt;міцна металева основа&lt;/strong&gt;, пофарбована в тон айворі, забезпечує надійну підтримку та сучасний акцент у загальній композиції.&lt;/p&gt;&lt;p&gt;Тумба завдовжки &lt;strong&gt;200 см&lt;/strong&gt; ідеально підходить для телевізорів різних розмірів, залишаючи достатньо місця для декору, книг або аудіосистеми.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna>200</dovzhyna>
-    <shyryna>45</shyryna>
-    <vysota>47</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;45 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;47 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;айворі онікс + айворі&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина у розкладеному вигляді: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Форма: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;овальні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;79,7 кг&quot;}]}]}]}</tab_characteristics>
-    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стільниця: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глянцева кераміка + гартоване скло&quot;}]}]}]}</tab_details>
-    <tabletop_shape/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>айворі онікс + айворі</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/28805/68f7c1526909b_tv-tumba-lunario-ayvori-oniks-ayvori1.JPG</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/28805/68f7c1526909b_tv-tumba-lunario-ayvori-oniks-ayvori1.JPG</image>
-      <image>https://vetro.com.ua/storage/28805/68f7c1526909b_tv-tumba-lunario-ayvori-oniks-ayvori1.JPG</image>
-      <image>https://vetro.com.ua/storage/28806/68f7c15253790_tv-tumba-lunario-ayvori-oniks-ayvori2.JPG</image>
-      <image>https://vetro.com.ua/storage/28807/68f7c152da7d7_tv-tumba-lunario-ayvori-oniks-ayvori3.JPG</image>
-      <image>https://vetro.com.ua/storage/28810/68f7c15367eeb_tv-tumba-lunario-ayvori-oniks-ayvori6.JPG</image>
-      <image>https://vetro.com.ua/storage/28811/68f7c153da963_tv-tumba-lunario-ayvori-oniks-ayvori7.JPG</image>
-      <image>https://vetro.com.ua/storage/28808/68f7c152d378b_tv-tumba-lunario-ayvori-oniks-ayvori4.JPG</image>
-      <image>https://vetro.com.ua/storage/28809/68f7c15363251_tv-tumba-lunario-ayvori-oniks-ayvori5.JPG</image>
-      <image>https://vetro.com.ua/storage/29438/6904aad31b157_6904aa540f36f_tv-tumba-lunario-ayvori-oniks-ayvori15.JPG</image>
-      <image>https://vetro.com.ua/storage/29439/6904aadfe6e05_6904aa539be3b_tv-tumba-lunario-ayvori-oniks-ayvori14.JPG</image>
-      <image>https://vetro.com.ua/storage/29440/6904aaee9dea8_6904aa5391828_tv-tumba-lunario-ayvori-oniks-ayvori13.JPG</image>
-      <image>https://vetro.com.ua/storage/29441/6904aaf8bb59e_6904aa0413e84_tv-tumba-lunario-ayvori-oniks-ayvori8.JPG</image>
-      <image>https://vetro.com.ua/storage/29442/6904ab019f719_6904aa03f1097_tv-tumba-lunario-ayvori-oniks-ayvori9.JPG</image>
-      <image>https://vetro.com.ua/storage/29443/6904ab0a03a72_6904aa0453480_tv-tumba-lunario-ayvori-oniks-ayvori10.JPG</image>
-      <image>https://vetro.com.ua/storage/29444/6904ab1123e9d_6904aa04a0819_tv-tumba-lunario-ayvori-oniks-ayvori12.JPG</image>
-      <image>https://vetro.com.ua/storage/29445/6904ab1c457da_6904aa045dc0c_tv-tumba-lunario-ayvori-oniks-ayvori11.JPG</image>
-      <image>https://vetro.com.ua/storage/29451/6904afc0f2aa0_tv-tumba-lunario-ayvori-oniks-ayvori21.JPG</image>
-      <image>https://vetro.com.ua/storage/29432/6904aa052822b_tv-tumba-lunario-ayvori-oniks-ayvori16.JPG</image>
-      <image>https://vetro.com.ua/storage/29433/6904aa055988a_tv-tumba-lunario-ayvori-oniks-ayvori17.JPG</image>
-      <image>https://vetro.com.ua/storage/29434/6904aa05998ba_tv-tumba-lunario-ayvori-oniks-ayvori18.JPG</image>
-      <image>https://vetro.com.ua/storage/29446/6904af7f1bf16_tv-tumba-lunario-ayvori-oniks-ayvori19.JPG</image>
-      <image>https://vetro.com.ua/storage/29447/6904af7f1da7d_tv-tumba-lunario-ayvori-oniks-ayvori20.JPG</image>
-      <image>https://vetro.com.ua/storage/29452/6904afe9e043b_6904af7f71185_tv-tumba-lunario-ayvori-oniks-ayvori22.JPG</image>
     </images>
   </item>
   <item>
@@ -22810,9 +22575,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags>Круглі столи</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Еларіо TML-1370 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Еларіо TML-1370 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -92449,7 +92214,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -92465,7 +92230,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
@@ -92508,7 +92273,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -92524,7 +92289,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>без покриття</option1_value>
     <option2_name/>
@@ -92567,7 +92332,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -92583,7 +92348,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>горіхового кольору</option1_value>
     <option2_name/>
@@ -96343,7 +96108,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -96359,7 +96124,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -96402,7 +96167,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -96418,7 +96183,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -96461,7 +96226,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -96477,7 +96242,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -96520,7 +96285,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -96536,7 +96301,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -96579,7 +96344,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -96595,7 +96360,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -96638,7 +96403,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -96654,7 +96419,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -96697,7 +96462,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -96713,7 +96478,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -96756,7 +96521,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -96772,7 +96537,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -96815,7 +96580,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -96831,7 +96596,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -96874,7 +96639,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -96890,7 +96655,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -96933,7 +96698,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -96949,7 +96714,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -96992,7 +96757,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -97008,7 +96773,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -100591,7 +100356,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -100607,7 +100372,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>карамель</option1_value>
     <option2_name/>
@@ -100650,7 +100415,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -100666,7 +100431,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
@@ -100709,7 +100474,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -100725,7 +100490,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>без покриття</option1_value>
     <option2_name/>
@@ -100768,7 +100533,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -100784,7 +100549,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>горіхового кольору</option1_value>
     <option2_name/>
@@ -100827,7 +100592,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -100843,7 +100608,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -100886,7 +100651,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -100902,7 +100667,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -100945,7 +100710,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -100961,7 +100726,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101004,7 +100769,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101020,7 +100785,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101063,7 +100828,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101079,7 +100844,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101122,7 +100887,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101138,7 +100903,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101181,7 +100946,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101197,7 +100962,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101240,7 +101005,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101256,7 +101021,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101299,7 +101064,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101315,7 +101080,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101358,7 +101123,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101374,7 +101139,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101417,7 +101182,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101433,7 +101198,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101476,7 +101241,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101492,7 +101257,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101535,7 +101300,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101551,7 +101316,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101594,7 +101359,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101610,7 +101375,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101653,7 +101418,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101669,7 +101434,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101712,7 +101477,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101728,7 +101493,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -101771,7 +101536,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101787,7 +101552,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
@@ -101830,7 +101595,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101846,7 +101611,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>без покриття</option1_value>
     <option2_name/>
@@ -101889,7 +101654,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101905,7 +101670,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>горіхового кольору</option1_value>
     <option2_name/>
@@ -101948,7 +101713,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -101964,7 +101729,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102007,7 +101772,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102023,7 +101788,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102066,7 +101831,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102082,7 +101847,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102125,7 +101890,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102141,7 +101906,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102184,7 +101949,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102200,7 +101965,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102243,7 +102008,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102259,7 +102024,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102302,7 +102067,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102318,7 +102083,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102361,7 +102126,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102377,7 +102142,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102420,7 +102185,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102436,7 +102201,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102479,7 +102244,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102495,7 +102260,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102538,7 +102303,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102554,7 +102319,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102597,7 +102362,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102613,7 +102378,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102656,7 +102421,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102672,7 +102437,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>90*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102715,7 +102480,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102731,7 +102496,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>90*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102774,7 +102539,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102790,7 +102555,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>90*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102833,7 +102598,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102849,7 +102614,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>90*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102892,7 +102657,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102908,7 +102673,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>90*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -102951,7 +102716,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -102967,7 +102732,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>90*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103010,7 +102775,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103026,7 +102791,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103069,7 +102834,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103085,7 +102850,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103128,7 +102893,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103144,7 +102909,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103187,7 +102952,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103203,7 +102968,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103246,7 +103011,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103262,7 +103027,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103305,7 +103070,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103321,7 +103086,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103364,7 +103129,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103380,7 +103145,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103423,7 +103188,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103439,7 +103204,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103482,7 +103247,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103498,7 +103263,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103541,7 +103306,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103557,7 +103322,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103600,7 +103365,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103616,7 +103381,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103659,7 +103424,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103675,7 +103440,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>200*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103718,7 +103483,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103734,7 +103499,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>карамель</option1_value>
     <option2_name/>
@@ -103777,7 +103542,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103793,7 +103558,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
@@ -103836,7 +103601,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103852,7 +103617,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>без покриття</option1_value>
     <option2_name/>
@@ -103895,7 +103660,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103911,7 +103676,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -103954,7 +103719,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -103970,7 +103735,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -104013,7 +103778,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -104029,7 +103794,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -104072,7 +103837,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -104088,7 +103853,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -104131,7 +103896,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -104147,7 +103912,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -104190,7 +103955,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -104206,7 +103971,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -104249,7 +104014,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -104265,7 +104030,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -104308,7 +104073,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -104324,7 +104089,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -104367,7 +104132,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -104383,7 +104148,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -109736,7 +109501,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -109752,7 +109517,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>карамель</option1_value>
     <option2_name/>
@@ -109795,7 +109560,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -109811,7 +109576,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
@@ -109854,7 +109619,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -109870,7 +109635,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>карамель</option1_value>
     <option2_name/>
@@ -109913,7 +109678,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -109929,7 +109694,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Колір каркаса</option1_name>
     <option1_value>натурального кольору</option1_value>
     <option2_name/>
@@ -109972,7 +109737,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -109988,7 +109753,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -110031,7 +109796,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -110047,7 +109812,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>140*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -110090,7 +109855,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -110106,7 +109871,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -110149,7 +109914,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -110165,7 +109930,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>160*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -110208,7 +109973,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -110224,7 +109989,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
@@ -110267,7 +110032,7 @@
     <leg_color/>
     <frame_color/>
     <sleep_size/>
-    <mechanism/>
+    <mechanism>Без механізму</mechanism>
     <pillows/>
     <back_fabric/>
     <mattress_included/>
@@ -110283,7 +110048,7 @@
     <seats/>
     <tabletop_color/>
     <boxes/>
-    <storage_niche/>
+    <storage_niche>Немає</storage_niche>
     <option1_name>Спальне місце</option1_name>
     <option1_value>180*200</option1_value>
     <option2_name>Колір каркаса</option2_name>
