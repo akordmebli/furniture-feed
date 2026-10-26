@@ -541,7 +541,10 @@ def split_woodman(p):
     bed = "ліжко" in n.lower()
     if ", " in n:
         n, fabric = n.rsplit(", ", 1)
-        opts["Колір тканини"] = fabric.strip()
+        fabric = fabric.strip()
+        # «…, карамель» / «…, натурального кольору» — це колір каркаса, а не тканини (тумба LOFT з шухлядою)
+        key = "Колір каркаса" if FRAME_RE.fullmatch(" " + fabric) else "Колір тканини"
+        opts[key] = fabric
     sz = SIZE_RE.search(n)
     if sz:
         if bed:
