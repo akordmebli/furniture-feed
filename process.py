@@ -1504,6 +1504,9 @@ def clear_module_dims(items):
             p["no_dims"] = True  # опції не чіпаємо, лише не віддаємо розміри у фід
 
 
+RU_FIXES = [("Премиум", "Преміум"), ("премиум", "преміум"), ("Кидди", "Кідді"), ("забезпечуэ", "забезпечує")]
+
+
 def main():
     sources = [
         ("Акорд (ВНД)", "AKORD_CSV", parse_akord, True),
@@ -1552,6 +1555,9 @@ def main():
         xml = build_xml(all_products)
         # орфографія: матрац, наматрацник, підматрацник (не «матрас»)
         xml = xml.replace("атрасник", "атрацник").replace("Атрасник", "Атрацник")
+        # русизми з фідів постачальників (handle латиницею — не зачіпається)
+        for ru, ua in RU_FIXES:
+            xml = xml.replace(ru, ua)
         f.write(xml)
     print(f"\nГотово: {len(all_products)} позицій → output/feed.xml")
 
