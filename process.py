@@ -1504,6 +1504,51 @@ def clear_module_dims(items):
             p["no_dims"] = True  # опції не чіпаємо, лише не віддаємо розміри у фід
 
 
+SOFA_BED_TYPES = ("Прямі дивани", "Кутові дивани", "Модульні дивани", "Нерозкладні дивани", "Дивани для кухні",
+                  "М'які ліжка", "Кутові ліжка", "Дитячі ліжка", "Каркаси ліжок")
+TABLE_TYPES = ("Обідні столи", "Журнальні столики і консолі", "Круглі столи")
+
+
+def _size_pair(text):
+    m = re.search(r"(\d{2,3})\s*[xхX×*]\s*(\d{2,3})", str(text or ""))
+    return (int(m[1]), int(m[2])) if m else None
+
+
+def unify_filters(products):
+    """Єдині фільтри для всіх постачальників (не лише ВНД/Vinadi): механізм у диванів і ліжок,
+    спальне місце у футонів, габарити стільців (Довжина = ширина) і столів (зі стільниці)."""
+    for p in products:
+        if p["source"] == "akord":
+            continue  # ВНД/Vinadi заповнюються з таблиці
+        pt, name = p.get("product_type", ""), p.get("name", "").lower()
+        opts = p.setdefault("opts", {})
+        prm = p.get("params", {}) or {}
+        futon = "футон" in name
+        sofa_like = pt in SOFA_BED_TYPES or (pt == "Садові меблі" and re.search(r"диван|кушетк|футон", name))
+        # спальне місце: футони Woodman розкладаються на розмір матраца
+        if futon and not p.get("sleep"):
+            sz = _size_pair(prm.get("РОЗМІР МАТРАЦА, см"))
+            if sz:
+                p["sleep"] = f"{min(sz)}×{max(sz)}"
+        # механізм: у всіх диванів і ліжок, щоб працював фільтр «Механізм»
+        if (sofa_like or futon) and not opts.get("mechanism"):
+            vm = (prm.get("Механізм розкладки") or "").strip()
+            opts["mechanism"] = "Футон" if futon else (vm[:1].upper() + vm[1:] if vm else "Без механізму")
+        # стільці й крісла: як у Vinadi — Довжина = ширина виробу, Ширина = глибина (якщо відома)
+        if pt in CHAIR_TYPES and not p.get("length") and p.get("width"):
+            p["length"], p["width"] = p["width"], ""
+    # столи всіх постачальників: габарити зі стільниці, якщо їх немає
+    for p in products:
+        if p.get("product_type") in TABLE_TYPES and not (p.get("length") and p.get("width")):
+            tt = str(p.get("opts", {}).get("tabletop_size", "") or "")
+            sz = _size_pair(tt)
+            d = re.search(r"(?:D|Ø|⌀|діаметр)\s*(\d{2,3})", tt, re.I)
+            if sz:
+                p["length"], p["width"] = str(max(sz)), str(min(sz))
+            elif d:
+                p["length"] = p["width"] = d[1]
+
+
 RU_FIXES = [("Премиум", "Преміум"), ("премиум", "преміум"), ("Кидди", "Кідді"), ("забезпечуэ", "забезпечує")]
 
 
@@ -1549,6 +1594,7 @@ def main():
     apply_brands(all_products)
     clear_module_dims(all_products)
     all_products = group_variants(all_products)
+    unify_filters(all_products)
     apply_short_texts(all_products)
     os.makedirs("output", exist_ok=True)
     with open("output/feed.xml", "w", encoding="utf-8") as f:
