@@ -1297,10 +1297,11 @@ def apply_brands(items):
     for p in items:
         if any(k in p["name"].lower() for k in ("allegro", "mexico", "layti")) and p["product_type"] not in ("Тумбочки", "Каркаси ліжок") and "Садові меблі" not in p["tags"]:
             p["tags"].append("Садові меблі")
-    # односпальні ліжка та диван Тімон показуємо і в «Дитячих ліжках» (тег → колекція за правилом TAG)
+    # односпальні ліжка, усі кутові ліжка та диван Тімон показуємо і в «Дитячих ліжках» (тег → колекція за правилом TAG)
     for p in items:
         n = p["name"].lower()
-        if ((n.startswith("односпальне ліжко") and p["product_type"] == "Каркаси ліжок") or n == "диван тімон") and "Дитячі ліжка" not in p["tags"]:
+        if ((n.startswith("односпальне ліжко") and p["product_type"] == "Каркаси ліжок") or n == "диван тімон"
+                or p["product_type"] == "Кутові ліжка") and "Дитячі ліжка" not in p["tags"]:
             p["tags"].append("Дитячі ліжка")
     # ці крісла показуємо і в «Обідніх кріслах», і в «Обідніх стільцях» (теги → колекції за правилом TAG)
     dining_armchairs = {"крісло pink", "крісло noble", "крісло честер", "крісло spiner",
