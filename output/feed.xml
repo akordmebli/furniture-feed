@@ -3675,9 +3675,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-76 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-76 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -17664,9 +17664,9 @@
     <parent_category>Крісла</parent_category>
     <shopify_id>fr-7-1</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Крісло офісне O-10 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Крісло офісне O-10 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
