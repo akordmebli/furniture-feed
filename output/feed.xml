@@ -13463,7 +13463,7 @@
     <dovzhyna>58</dovzhyna>
     <shyryna/>
     <vysota>85</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий антік + білий; ігуана + чорний; чорний + чорний; сивий + білий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;46 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;50,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Особливості: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;з підлокітниками&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;7,95 кг&quot;}]}]}]}</tab_characteristics>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий антік + білий; ігуана + чорний; мигдаль + капучино; чорний + чорний; сивий + білий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;46 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;50,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Особливості: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;з підлокітниками&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;7,95 кг&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Оббивка: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вельвет рубчик&quot;}]}]}]}</tab_details>
@@ -13541,7 +13541,7 @@
     <dovzhyna>58</dovzhyna>
     <shyryna/>
     <vysota>85</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий антік + білий; ігуана + чорний; чорний + чорний; сивий + білий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;46 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;50,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Особливості: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;з підлокітниками&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;7,95 кг&quot;}]}]}]}</tab_characteristics>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий антік + білий; ігуана + чорний; мигдаль + капучино; чорний + чорний; сивий + білий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;46 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;50,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Особливості: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;з підлокітниками&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;7,95 кг&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Оббивка: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вельвет рубчик&quot;}]}]}]}</tab_details>
@@ -13597,6 +13597,93 @@
     </images>
   </item>
   <item>
+    <sku>M-240-almond/cappuccino</sku>
+    <handle>vetro-stilets-m-240</handle>
+    <name>Стілець M-240</name>
+    <variant_price>4512.50</variant_price>
+    <vendor>Vetro Mebel</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags>Обідні крісла</tags>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Стілець M-240 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець M-240 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-stilets-m-240</alias>
+    <description>&lt;p&gt;Стілець M-240 мигдаль + капучино — втілення елегантної простоти та комфорту.&lt;/p&gt;&lt;p&gt;Ця модель має унікальне поєднання м'якості й сучасного стилю. Оббивка з вельвету рубчик у теплому відтінку &quot;мигдаль&quot; виглядає розкішно і приємно на дотик. Колір мигдалю створює атмосферу спокою та затишку, що гармонійно доповнюється ніжним капучино в металевих ніжках, додаючи конструкції елегантності та легкості.&lt;/p&gt;&lt;p&gt;Широке сидіння з підлокітниками забезпечує комфортну підтримку та зручність навіть під час тривалого використання. Ергономічні пропорції стільця створюють відчуття простору і зручності, ідеально підходить для будь-якої сучасної оселі чи офісу.&lt;/p&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna>58</dovzhyna>
+    <shyryna/>
+    <vysota>85</vysota>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий антік + білий; ігуана + чорний; мигдаль + капучино; чорний + чорний; сивий + білий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;46 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;50,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Особливості: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;з підлокітниками&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;7,95 кг&quot;}]}]}]}</tab_characteristics>
+    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Оббивка: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вельвет рубчик&quot;}]}]}]}</tab_details>
+    <tabletop_shape/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>мигдаль + капучино</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/25635/680b6d367b765_680b6d1acb800_stilec-m-240-migdal-kapuchino2.jpg</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/25635/680b6d367b765_680b6d1acb800_stilec-m-240-migdal-kapuchino2.jpg</image>
+      <image>https://vetro.com.ua/storage/25635/680b6d367b765_680b6d1acb800_stilec-m-240-migdal-kapuchino2.jpg</image>
+      <image>https://vetro.com.ua/storage/25630/680b6cf490b47_680b6c530a486_stilec-m-240-migdal-kapuchino3.jpg</image>
+      <image>https://vetro.com.ua/storage/25631/680b6cff6e95c_680b6c5309393_stilec-m-240-migdal-kapuchino4.jpg</image>
+      <image>https://vetro.com.ua/storage/25632/680b6d0603484_680b6c538545d_stilec-m-240-migdal-kapuchino5.jpg</image>
+      <image>https://vetro.com.ua/storage/25633/680b6d0dab02b_680b6c52b718d_stilec-m-240-migdal-kapuchino1.jpg</image>
+      <image>https://vetro.com.ua/storage/25641/680b8d42e5214_stilec-m-240-migdal-kapuchino10.jpg</image>
+      <image>https://vetro.com.ua/storage/25640/680b8d42d8961_stilec-m-240-migdal-kapuchino11.jpg</image>
+      <image>https://vetro.com.ua/storage/25642/680b8d43387a0_stilec-m-240-migdal-kapuchino12.jpg</image>
+      <image>https://vetro.com.ua/storage/25639/680b8d4218dde_stilec-m-240-migdal-kapuchino9.jpg</image>
+      <image>https://vetro.com.ua/storage/25637/680b8d414eff2_stilec-m-240-migdal-kapuchino7.jpg</image>
+      <image>https://vetro.com.ua/storage/25638/680b8d421934a_stilec-m-240-migdal-kapuchino8.jpg</image>
+      <image>https://vetro.com.ua/storage/25636/680b8d414410e_stilec-m-240-migdal-kapuchino6.jpg</image>
+      <image>https://vetro.com.ua/storage/26111/6842affca7634_keramichniy-stil-tm-76-golden-send-tepliy-pisok1.jpg</image>
+      <image>https://vetro.com.ua/storage/26110/6842afdc83074_68418bd671128_keramichniy-stil-tm-76-golden-send-tepliy-pisok18.jpg</image>
+      <image>https://vetro.com.ua/storage/26109/6842afdaa2094_68418bd678cf9_keramichniy-stil-tm-76-golden-send-tepliy-pisok19.jpg</image>
+      <image>https://vetro.com.ua/storage/26108/6842afda37f51_68418b718f2b3_keramichniy-stil-tm-76-golden-send-tepliy-pisok1.jpg</image>
+      <image>https://vetro.com.ua/storage/26107/6842afcf87317_68418b718caa2_keramichniy-stil-tm-76-golden-send-tepliy-pisok2.jpg</image>
+      <image>https://vetro.com.ua/storage/26106/6842afcf925ba_68418b720347c_keramichniy-stil-tm-76-golden-send-tepliy-pisok3.jpg</image>
+      <image>https://vetro.com.ua/storage/26364/684ab74a3f8cc_nikkolo-tm-236-yasen-tepliy-pisok8.jpg</image>
+      <image>https://vetro.com.ua/storage/26365/684ab74a3f2f7_nikkolo-tm-236-yasen-tepliy-pisok7.jpg</image>
+      <image>https://vetro.com.ua/storage/26366/684ab74aa98d7_nikkolo-tm-236-yasen-tepliy-pisok12.jpg</image>
+      <image>https://vetro.com.ua/storage/26367/684ab74a9ebc0_nikkolo-tm-236-yasen-tepliy-pisok11.jpg</image>
+      <image>https://vetro.com.ua/storage/28510/68f0d90b51379_stil-tm-125-krema-sabbiya-kapuchino12.JPG</image>
+      <image>https://vetro.com.ua/storage/28511/68f0d90b5b76b_stil-tm-125-krema-sabbiya-kapuchino13.JPG</image>
+      <image>https://vetro.com.ua/storage/28508/68f0d90aef0ef_stil-tm-125-krema-sabbiya-kapuchino8.JPG</image>
+      <image>https://vetro.com.ua/storage/28509/68f0d90aee140_stil-tm-125-krema-sabbiya-kapuchino9.JPG</image>
+    </images>
+  </item>
+  <item>
     <sku>M-240-black/black</sku>
     <handle>vetro-stilets-m-240</handle>
     <name>Стілець M-240</name>
@@ -13620,7 +13707,7 @@
     <dovzhyna>58</dovzhyna>
     <shyryna/>
     <vysota>85</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий антік + білий; ігуана + чорний; чорний + чорний; сивий + білий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;46 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;50,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Особливості: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;з підлокітниками&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;7,95 кг&quot;}]}]}]}</tab_characteristics>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий антік + білий; ігуана + чорний; мигдаль + капучино; чорний + чорний; сивий + білий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;46 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;50,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Особливості: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;з підлокітниками&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;7,95 кг&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Оббивка: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вельвет рубчик&quot;}]}]}]}</tab_details>
@@ -13698,7 +13785,7 @@
     <dovzhyna>58</dovzhyna>
     <shyryna/>
     <vysota>85</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий антік + білий; ігуана + чорний; чорний + чорний; сивий + білий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;46 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;50,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Особливості: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;з підлокітниками&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;7,95 кг&quot;}]}]}]}</tab_characteristics>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий антік + білий; ігуана + чорний; мигдаль + капучино; чорний + чорний; сивий + білий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;46 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Максимальна глибина сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;58 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота до сидіння: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;50,5 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Особливості: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;з підлокітниками&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;7,95 кг&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Оббивка: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вельвет рубчик&quot;}]}]}]}</tab_details>
@@ -245405,7 +245492,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -245464,7 +245551,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -245523,7 +245610,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -245582,7 +245669,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -245641,7 +245728,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -245700,7 +245787,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -245759,7 +245846,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -245818,7 +245905,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -245877,7 +245964,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -245936,7 +246023,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -245995,7 +246082,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246054,7 +246141,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246113,7 +246200,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246172,7 +246259,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246231,7 +246318,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246290,7 +246377,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246349,7 +246436,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246408,7 +246495,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246467,7 +246554,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246526,7 +246613,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246585,7 +246672,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246644,7 +246731,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246703,7 +246790,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246762,7 +246849,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246821,7 +246908,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246880,7 +246967,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246939,7 +247026,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -246998,7 +247085,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247057,7 +247144,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247116,7 +247203,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247175,7 +247262,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247234,7 +247321,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247293,7 +247380,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247352,7 +247439,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247411,7 +247498,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247470,7 +247557,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247529,7 +247616,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247588,7 +247675,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247647,7 +247734,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247706,7 +247793,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247765,7 +247852,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247824,7 +247911,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247883,7 +247970,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -247942,7 +248029,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248001,7 +248088,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248060,7 +248147,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248119,7 +248206,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248178,7 +248265,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248237,7 +248324,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248296,7 +248383,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248355,7 +248442,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248414,7 +248501,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248473,7 +248560,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248532,7 +248619,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248591,7 +248678,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248650,7 +248737,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248709,7 +248796,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248768,7 +248855,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248827,7 +248914,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248886,7 +248973,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -248945,7 +249032,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249004,7 +249091,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249063,7 +249150,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249122,7 +249209,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249181,7 +249268,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249240,7 +249327,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249299,7 +249386,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249358,7 +249445,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249417,7 +249504,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249476,7 +249563,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249535,7 +249622,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249594,7 +249681,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249653,7 +249740,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249712,7 +249799,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249771,7 +249858,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249830,7 +249917,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249889,7 +249976,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -249948,7 +250035,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250007,7 +250094,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250066,7 +250153,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250125,7 +250212,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250184,7 +250271,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250243,7 +250330,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250302,7 +250389,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250361,7 +250448,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250420,7 +250507,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250479,7 +250566,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250538,7 +250625,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250597,7 +250684,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250656,7 +250743,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250715,7 +250802,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250774,7 +250861,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250833,7 +250920,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250892,7 +250979,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -250951,7 +251038,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251010,7 +251097,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251069,7 +251156,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251128,7 +251215,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251187,7 +251274,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251246,7 +251333,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251305,7 +251392,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251364,7 +251451,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251423,7 +251510,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251482,7 +251569,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251541,7 +251628,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251600,7 +251687,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251659,7 +251746,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251718,7 +251805,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251777,7 +251864,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251836,7 +251923,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251895,7 +251982,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -251954,7 +252041,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252013,7 +252100,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252072,7 +252159,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252131,7 +252218,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252190,7 +252277,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252249,7 +252336,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252308,7 +252395,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252367,7 +252454,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252426,7 +252513,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252485,7 +252572,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252544,7 +252631,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252603,7 +252690,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252662,7 +252749,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252721,7 +252808,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252780,7 +252867,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252839,7 +252926,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252898,7 +252985,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -252957,7 +253044,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253016,7 +253103,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253075,7 +253162,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253134,7 +253221,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253193,7 +253280,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253252,7 +253339,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253311,7 +253398,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253370,7 +253457,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253429,7 +253516,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253488,7 +253575,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253547,7 +253634,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253606,7 +253693,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253665,7 +253752,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253724,7 +253811,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253783,7 +253870,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253842,7 +253929,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253901,7 +253988,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -253960,7 +254047,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254019,7 +254106,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254078,7 +254165,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254137,7 +254224,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254196,7 +254283,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254255,7 +254342,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254314,7 +254401,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254373,7 +254460,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254432,7 +254519,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254491,7 +254578,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254550,7 +254637,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254609,7 +254696,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254668,7 +254755,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254727,7 +254814,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254786,7 +254873,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254845,7 +254932,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -254904,7 +254991,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -283401,7 +283488,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -283460,7 +283547,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -283519,7 +283606,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -283578,7 +283665,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -283637,7 +283724,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -283696,7 +283783,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -283755,7 +283842,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -283814,7 +283901,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -283873,7 +283960,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -283932,7 +284019,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -283991,7 +284078,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284050,7 +284137,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284109,7 +284196,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284168,7 +284255,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284227,7 +284314,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284286,7 +284373,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284345,7 +284432,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284404,7 +284491,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284463,7 +284550,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284522,7 +284609,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284581,7 +284668,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284640,7 +284727,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284699,7 +284786,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284758,7 +284845,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284817,7 +284904,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284876,7 +284963,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284935,7 +285022,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -284994,7 +285081,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285053,7 +285140,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285112,7 +285199,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285171,7 +285258,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285230,7 +285317,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285289,7 +285376,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285348,7 +285435,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285407,7 +285494,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285466,7 +285553,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285525,7 +285612,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285584,7 +285671,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285643,7 +285730,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285702,7 +285789,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285761,7 +285848,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285820,7 +285907,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285879,7 +285966,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285938,7 +286025,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -285997,7 +286084,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286056,7 +286143,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286115,7 +286202,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286174,7 +286261,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286233,7 +286320,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286292,7 +286379,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286351,7 +286438,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286410,7 +286497,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286469,7 +286556,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286528,7 +286615,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286587,7 +286674,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286646,7 +286733,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286705,7 +286792,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286764,7 +286851,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286823,7 +286910,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -286882,7 +286969,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -306411,7 +306498,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -306470,7 +306557,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -306529,7 +306616,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -306588,7 +306675,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -306647,7 +306734,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -306706,7 +306793,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -306765,7 +306852,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -306824,7 +306911,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -306883,7 +306970,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -306942,7 +307029,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307001,7 +307088,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307060,7 +307147,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307119,7 +307206,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307178,7 +307265,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307237,7 +307324,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307296,7 +307383,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307355,7 +307442,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307414,7 +307501,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307473,7 +307560,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307532,7 +307619,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307591,7 +307678,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307650,7 +307737,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307709,7 +307796,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307768,7 +307855,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307827,7 +307914,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307886,7 +307973,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -307945,7 +308032,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308004,7 +308091,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308063,7 +308150,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308122,7 +308209,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308181,7 +308268,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308240,7 +308327,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308299,7 +308386,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308358,7 +308445,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308417,7 +308504,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308476,7 +308563,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308535,7 +308622,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308594,7 +308681,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308653,7 +308740,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308712,7 +308799,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308771,7 +308858,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308830,7 +308917,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308889,7 +308976,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -308948,7 +309035,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309007,7 +309094,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309066,7 +309153,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309125,7 +309212,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309184,7 +309271,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309243,7 +309330,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309302,7 +309389,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309361,7 +309448,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309420,7 +309507,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309479,7 +309566,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309538,7 +309625,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309597,7 +309684,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309656,7 +309743,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309715,7 +309802,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309774,7 +309861,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309833,7 +309920,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -309892,7 +309979,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -321633,7 +321720,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -321692,7 +321779,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -321751,7 +321838,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -321810,7 +321897,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -321869,7 +321956,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -321928,7 +322015,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -321987,7 +322074,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -322046,7 +322133,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -322105,7 +322192,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -322164,7 +322251,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -322223,7 +322310,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -322282,7 +322369,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -322341,7 +322428,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -322400,7 +322487,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -322459,7 +322546,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -322518,7 +322605,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -322577,7 +322664,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -322636,7 +322723,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -324465,7 +324552,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -324524,7 +324611,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -324583,7 +324670,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -324642,7 +324729,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -324701,7 +324788,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -324760,7 +324847,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -324819,7 +324906,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -324878,7 +324965,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -324937,7 +325024,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -324996,7 +325083,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325055,7 +325142,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325114,7 +325201,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325173,7 +325260,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325232,7 +325319,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325291,7 +325378,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325350,7 +325437,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325409,7 +325496,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325468,7 +325555,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325527,7 +325614,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325586,7 +325673,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325645,7 +325732,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325704,7 +325791,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325763,7 +325850,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325822,7 +325909,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325881,7 +325968,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325940,7 +326027,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -325999,7 +326086,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -326058,7 +326145,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -326117,7 +326204,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -326176,7 +326263,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -326235,7 +326322,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -326294,7 +326381,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -326353,7 +326440,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -326412,7 +326499,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -326471,7 +326558,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -326530,7 +326617,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372196,7 +372283,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372255,7 +372342,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372314,7 +372401,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372373,7 +372460,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372432,7 +372519,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372491,7 +372578,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372550,7 +372637,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372609,7 +372696,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372668,7 +372755,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372727,7 +372814,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372786,7 +372873,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372845,7 +372932,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372904,7 +372991,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -372963,7 +373050,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373022,7 +373109,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373081,7 +373168,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373140,7 +373227,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373199,7 +373286,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373258,7 +373345,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373317,7 +373404,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373376,7 +373463,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373435,7 +373522,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373494,7 +373581,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373553,7 +373640,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373612,7 +373699,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373671,7 +373758,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373730,7 +373817,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373789,7 +373876,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373848,7 +373935,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373907,7 +373994,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -373966,7 +374053,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374025,7 +374112,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374084,7 +374171,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374143,7 +374230,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374202,7 +374289,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374261,7 +374348,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374320,7 +374407,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374379,7 +374466,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374438,7 +374525,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374497,7 +374584,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374556,7 +374643,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374615,7 +374702,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374674,7 +374761,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374733,7 +374820,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374792,7 +374879,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374851,7 +374938,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374910,7 +374997,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -374969,7 +375056,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -375028,7 +375115,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -375087,7 +375174,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -375146,7 +375233,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -375205,7 +375292,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -375264,7 +375351,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -375323,7 +375410,7 @@
     <category>Кутові ліжка</category>
     <parent_category>Ліжка</parent_category>
     <shopify_id>fr-2-2</shopify_id>
-    <tags/>
+    <tags>Дитячі ліжка</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
