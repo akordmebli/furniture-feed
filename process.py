@@ -1303,6 +1303,18 @@ def apply_brands(items):
         if ((n.startswith("односпальне ліжко") and p["product_type"] == "Каркаси ліжок") or n == "диван тімон"
                 or p["product_type"] == "Кутові ліжка") and "Дитячі ліжка" not in p["tags"]:
             p["tags"].append("Дитячі ліжка")
+    # пошук кирилицею: латинські назви моделей отримують теги з українським написанням (FREEDOM → Фрідом)
+    try:
+        aliases = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "search_aliases.json"), encoding="utf-8"))
+    except Exception:
+        aliases = {}
+    for p in items:
+        for model, ua in aliases.items():
+            if model.startswith("_") or not re.search(rf"(?<![A-Za-z]){re.escape(model)}(?![A-Za-z])", p["name"]):
+                continue
+            for t in ua:
+                if t not in p["tags"]:
+                    p["tags"].append(t)
     # ці крісла показуємо і в «Обідніх кріслах», і в «Обідніх стільцях» (теги → колекції за правилом TAG)
     dining_armchairs = {"крісло pink", "крісло noble", "крісло честер", "крісло spiner",
                         "крісло apex", "крісло selen", "крісло далас"}
