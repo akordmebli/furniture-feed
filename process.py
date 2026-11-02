@@ -218,7 +218,20 @@ def norm_size_value(tag, val):
                 a, b = round(a / 10), round(b / 10)
             return f"{a}*{b}"
     if tag == "tabletop_size":
-        return val.replace("x", "х").replace("X", "х")
+        val = val.replace("x", "х").replace("X", "х").replace("×", "х").replace("*", "х")
+        # діаметр — завжди «Ø80» (у таблиці бувають «80 см», «D 100», «⌀80»)
+        m = re.fullmatch(r"(?:D|Ø|⌀|d)?\s*(\d+)", val)
+        if m:
+            return f"Ø{m[1]}"
+        # прямокутна — спершу менше число, як у Vetro: «240х80» → «80х240»
+        m = re.fullmatch(r"(\d+)х(\d+)", val.replace(" ", ""))
+        if m and int(m[1]) > int(m[2]):
+            return f"{m[2]}х{m[1]}"
+        if val == "150/190х95":
+            return "95х150/190"
+        if val.replace(" ", "") == "60х60/54х54":
+            return "54х54 / 60х60"
+        return val
     return val
 
 
