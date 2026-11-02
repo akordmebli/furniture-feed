@@ -1316,6 +1316,11 @@ def apply_brands(items):
                 if t not in p["tags"]:
                     p["tags"].append(t)
     # ці крісла показуємо і в «Обідніх кріслах», і в «Обідніх стільцях» (теги → колекції за правилом TAG)
+    # ці пуфи й банкетки показуємо і в «Лавках» (тег → колекція за правилом TAG)
+    bench_poufs = {"пуф bloom", "пуф розалія 1", "пуф розалія 2", "пуф брюсель", "пуф савана", "пуф lessa", "пуф нью-йорк"}
+    for p in items:
+        if p["name"].lower().strip() in bench_poufs and "Лавки" not in p["tags"]:
+            p["tags"].append("Лавки")
     dining_armchairs = {"крісло pink", "крісло noble", "крісло честер", "крісло spiner",
                         "крісло apex", "крісло selen", "крісло далас"}
     for p in items:
