@@ -8980,7 +8980,7 @@
     <sku>Armchair-swivel-tino-grey</sku>
     <handle>vetro-povorotne-krislo-tino</handle>
     <name>Поворотне крісло &quot;Тіно&quot;</name>
-    <variant_price>9751.00</variant_price>
+    <variant_price>12691.00</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>М'які крісла</product_type>
     <category>М'які крісла</category>
@@ -14004,7 +14004,7 @@
     <sku>TM-225-bastiano-concrete</sku>
     <handle>vetro-stil-mdf-z-matovym-mikrotsementnym-pokryttiam-bastiano-tm-225</handle>
     <name>Стіл МДФ з матовим мікроцементним покриттям Бастіано TM-225</name>
-    <variant_price>26411.00</variant_price>
+    <variant_price>35035.00</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
     <category>Обідні столи</category>
@@ -15190,7 +15190,7 @@
     <sku>Armchair-tivoli-warm-chestnut</sku>
     <handle>vetro-povorotne-krislo-tivoli</handle>
     <name>Поворотне крісло &quot;Тіволі&quot;</name>
-    <variant_price>10045.00</variant_price>
+    <variant_price>12691.00</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>М'які крісла</product_type>
     <category>М'які крісла</category>
@@ -18837,7 +18837,7 @@
     <sku>TML-1350-treviso-sahara/beige</sku>
     <handle>vetro-keramichnyi-stil-trevizo-tml-1350</handle>
     <name>Керамічний стіл Тревізо TML-1350</name>
-    <variant_price>29155.00</variant_price>
+    <variant_price>36505.00</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
     <category>Обідні столи</category>
@@ -19102,7 +19102,7 @@
     <sku>TML-1410-rimini-bianco-avorio/beige</sku>
     <handle>vetro-stil-z-hpl-poverkhneiu-rimini-tml-1410</handle>
     <name>Стіл з HPL поверхнею Ріміні TML-1410</name>
-    <variant_price>34545.00</variant_price>
+    <variant_price>43561.00</variant_price>
     <vendor>Vetro Mebel</vendor>
     <product_type>Обідні столи</product_type>
     <category>Обідні столи</category>
@@ -327601,7 +327601,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Рондо</tags>
+    <tags>Рондо, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -327631,7 +327631,7 @@
     <material>Дуб зрощений</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 100</tabletop_size>
+    <tabletop_size>Ø100</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -327660,7 +327660,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Рондо</tags>
+    <tags>Рондо, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -327690,7 +327690,7 @@
     <material>Ясен зрощений</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 100</tabletop_size>
+    <tabletop_size>Ø100</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -328427,7 +328427,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Торонто</tags>
+    <tags>Торонто, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -328457,7 +328457,7 @@
     <material>Дуб цільноламельний</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 125</tabletop_size>
+    <tabletop_size>Ø125</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -328486,7 +328486,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Торонто</tags>
+    <tags>Торонто, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -328516,7 +328516,7 @@
     <material>Дуб цільноламельний</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 125</tabletop_size>
+    <tabletop_size>Ø125</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -328545,7 +328545,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Торонто</tags>
+    <tags>Торонто, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -328575,7 +328575,7 @@
     <material>Дуб цільноламельний</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 125</tabletop_size>
+    <tabletop_size>Ø125</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -328674,8 +328674,8 @@
     <alias>dubovi-stoliki-style-komplekt</alias>
     <description>Дубові столики STYLE комплект — журнальний столик від Vinadi. Стильний та функціональний, доповнить вітальню. Якісні матеріали. Гарантія 18 місяців. Доставка по Україні.</description>
     <spalne_mistse/>
-    <dovzhyna>60</dovzhyna>
-    <shyryna>60</shyryna>
+    <dovzhyna>54</dovzhyna>
+    <shyryna>54</shyryna>
     <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
@@ -328693,7 +328693,7 @@
     <material>Масив дуба цільноламельний, стільниця 20 мм, металеві опори чорні</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>60х60 / 54х54</tabletop_size>
+    <tabletop_size>54х54 / 60х60</tabletop_size>
     <height_opt>48 / 42</height_opt>
     <length_opt/>
     <width_opt/>
@@ -329902,7 +329902,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Пінк</tags>
+    <tags>Пінк, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -329932,7 +329932,7 @@
     <material>Бук цільноламельний</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 100</tabletop_size>
+    <tabletop_size>Ø100</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -329961,7 +329961,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Пінк</tags>
+    <tags>Пінк, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -329991,7 +329991,7 @@
     <material>Бук цільноламельний</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 100</tabletop_size>
+    <tabletop_size>Ø100</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -330020,7 +330020,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Пінк</tags>
+    <tags>Пінк, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -330050,7 +330050,7 @@
     <material>Бук цільноламельний</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 100</tabletop_size>
+    <tabletop_size>Ø100</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -330079,7 +330079,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Пінк</tags>
+    <tags>Пінк, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -330109,7 +330109,7 @@
     <material>Дуб цільноламельний</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 100</tabletop_size>
+    <tabletop_size>Ø100</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -330138,7 +330138,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Пінк</tags>
+    <tags>Пінк, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -330168,7 +330168,7 @@
     <material>Дуб цільноламельний</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 100</tabletop_size>
+    <tabletop_size>Ø100</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -330197,7 +330197,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Пінк</tags>
+    <tags>Пінк, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -330227,7 +330227,7 @@
     <material>Дуб цільноламельний</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 100</tabletop_size>
+    <tabletop_size>Ø100</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -332498,7 +332498,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Іріс, Ірис</tags>
+    <tags>Іріс, Ірис, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -332528,7 +332528,7 @@
     <material>Вільха цільноламельна</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 120</tabletop_size>
+    <tabletop_size>Ø120</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -332539,7 +332539,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Розмір стільниці</option1_name>
-    <option1_value>D 120</option1_value>
+    <option1_value>Ø120</option1_value>
     <option2_name>Матеріал</option2_name>
     <option2_value>Вільха цільноламельна</option2_value>
     <option3_name/>
@@ -332548,7 +332548,7 @@
     <images/>
   </item>
   <item>
-    <sku>21245524652-d-120-dub-tsilnolamelnyi</sku>
+    <sku>21245524652-120-dub-tsilnolamelnyi</sku>
     <handle>kuhonniy-stil-iris</handle>
     <name>Кухонний стіл IRIS</name>
     <variant_price>16400.00</variant_price>
@@ -332557,7 +332557,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Іріс, Ірис</tags>
+    <tags>Іріс, Ірис, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -332587,7 +332587,7 @@
     <material>Дуб цільноламельний</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 120</tabletop_size>
+    <tabletop_size>Ø120</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -332598,7 +332598,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Розмір стільниці</option1_name>
-    <option1_value>D 120</option1_value>
+    <option1_value>Ø120</option1_value>
     <option2_name>Матеріал</option2_name>
     <option2_value>Дуб цільноламельний</option2_value>
     <option3_name/>
@@ -332607,7 +332607,7 @@
     <images/>
   </item>
   <item>
-    <sku>21245524652-d-125-dub-tsilnolamelnyi</sku>
+    <sku>21245524652-125-dub-tsilnolamelnyi</sku>
     <handle>kuhonniy-stil-iris</handle>
     <name>Кухонний стіл IRIS</name>
     <variant_price>17233.00</variant_price>
@@ -332616,7 +332616,7 @@
     <category>Обідні столи</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
-    <tags>Іріс, Ірис</tags>
+    <tags>Іріс, Ірис, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -332646,7 +332646,7 @@
     <material>Дуб цільноламельний</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>D 125</tabletop_size>
+    <tabletop_size>Ø125</tabletop_size>
     <height_opt>75</height_opt>
     <length_opt/>
     <width_opt/>
@@ -332657,7 +332657,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Розмір стільниці</option1_name>
-    <option1_value>D 125</option1_value>
+    <option1_value>Ø125</option1_value>
     <option2_name>Матеріал</option2_name>
     <option2_value>Дуб цільноламельний</option2_value>
     <option3_name/>
@@ -338763,8 +338763,8 @@
     <alias>stolik-aren</alias>
     <description>Столик AREN від Vinadi — журнальний столик для дому чи закладу. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna/>
-    <shyryna/>
+    <dovzhyna>40</dovzhyna>
+    <shyryna>40</shyryna>
     <vysota>52</vysota>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
@@ -338782,7 +338782,7 @@
     <material>Масив дуба цільноламельний, стільниця 26 мм, дерев'яні ніжки</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>40</tabletop_size>
+    <tabletop_size>Ø40</tabletop_size>
     <height_opt>52</height_opt>
     <length_opt/>
     <width_opt/>
@@ -338793,7 +338793,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Розмір стільниці</option1_name>
-    <option1_value>40</option1_value>
+    <option1_value>Ø40</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -338822,8 +338822,8 @@
     <alias>stolik-aren</alias>
     <description>Столик AREN від Vinadi — журнальний столик для дому чи закладу. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna/>
-    <shyryna/>
+    <dovzhyna>80</dovzhyna>
+    <shyryna>80</shyryna>
     <vysota>45</vysota>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
@@ -338841,7 +338841,7 @@
     <material>Масив дуба цільноламельний, стільниця 26 мм, дерев'яні ніжки</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>80</tabletop_size>
+    <tabletop_size>Ø80</tabletop_size>
     <height_opt>45</height_opt>
     <length_opt/>
     <width_opt/>
@@ -338852,7 +338852,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Розмір стільниці</option1_name>
-    <option1_value>80</option1_value>
+    <option1_value>Ø80</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -443890,7 +443890,7 @@
     <category>Журнальні столики і консолі</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-1</shopify_id>
-    <tags>Норд</tags>
+    <tags>Норд, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -443901,8 +443901,8 @@
     <alias>stolik-nord</alias>
     <description>Столик NORD — журнальний столик від Vinadi. Якісне виконання з натурального дерева. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna/>
-    <shyryna/>
+    <dovzhyna>53</dovzhyna>
+    <shyryna>53</shyryna>
     <vysota>62</vysota>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
@@ -443920,7 +443920,7 @@
     <material>Масив вільхи, стільниця 20 мм, металеві опори чорні</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>53</tabletop_size>
+    <tabletop_size>Ø53</tabletop_size>
     <height_opt>62</height_opt>
     <length_opt/>
     <width_opt/>
@@ -443931,7 +443931,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Розмір стільниці</option1_name>
-    <option1_value>53</option1_value>
+    <option1_value>Ø53</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -443949,7 +443949,7 @@
     <category>Журнальні столики і консолі</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-1</shopify_id>
-    <tags>Норд</tags>
+    <tags>Норд, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -443960,8 +443960,8 @@
     <alias>stolik-nord</alias>
     <description>Столик NORD — журнальний столик від Vinadi. Якісне виконання з натурального дерева. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna/>
-    <shyryna/>
+    <dovzhyna>62</dovzhyna>
+    <shyryna>62</shyryna>
     <vysota>52</vysota>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
@@ -443979,7 +443979,7 @@
     <material>Масив вільхи, стільниця 20 мм, металеві опори чорні</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>62</tabletop_size>
+    <tabletop_size>Ø62</tabletop_size>
     <height_opt>52</height_opt>
     <length_opt/>
     <width_opt/>
@@ -443990,7 +443990,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Розмір стільниці</option1_name>
-    <option1_value>62</option1_value>
+    <option1_value>Ø62</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -444008,7 +444008,7 @@
     <category>Журнальні столики і консолі</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-1</shopify_id>
-    <tags>Стеліо</tags>
+    <tags>Стеліо, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -444019,8 +444019,8 @@
     <alias>stolik-stelio</alias>
     <description>Столик STELIO — журнальний столик від Vinadi. Якісне виконання з натурального дерева. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna/>
-    <shyryna/>
+    <dovzhyna>40</dovzhyna>
+    <shyryna>40</shyryna>
     <vysota>45</vysota>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
@@ -444038,7 +444038,7 @@
     <material>Масив ясена цільноламельний, стільниця 40 мм, металеві опори чорні</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>40</tabletop_size>
+    <tabletop_size>Ø40</tabletop_size>
     <height_opt>45</height_opt>
     <length_opt/>
     <width_opt/>
@@ -444067,7 +444067,7 @@
     <category>Журнальні столики і консолі</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-1</shopify_id>
-    <tags>Фіджі</tags>
+    <tags>Фіджі, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -444078,8 +444078,8 @@
     <alias>stolik-fiji</alias>
     <description>Столик FIJI — журнальний столик від Vinadi. Якісне виконання з натурального дерева. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna/>
-    <shyryna/>
+    <dovzhyna>50</dovzhyna>
+    <shyryna>50</shyryna>
     <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
@@ -444097,7 +444097,7 @@
     <material>Ясен цільноламельний / лак</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>50</tabletop_size>
+    <tabletop_size>Ø50</tabletop_size>
     <height_opt/>
     <length_opt/>
     <width_opt/>
@@ -444108,7 +444108,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Розмір стільниці</option1_name>
-    <option1_value>50</option1_value>
+    <option1_value>Ø50</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -444126,7 +444126,7 @@
     <category>Журнальні столики і консолі</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-1</shopify_id>
-    <tags>Фіджі</tags>
+    <tags>Фіджі, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -444137,8 +444137,8 @@
     <alias>stolik-fiji</alias>
     <description>Столик FIJI — журнальний столик від Vinadi. Якісне виконання з натурального дерева. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna/>
-    <shyryna/>
+    <dovzhyna>60</dovzhyna>
+    <shyryna>60</shyryna>
     <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
@@ -444156,7 +444156,7 @@
     <material>Ясен цільноламельний / лак</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>60</tabletop_size>
+    <tabletop_size>Ø60</tabletop_size>
     <height_opt/>
     <length_opt/>
     <width_opt/>
@@ -444167,7 +444167,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Розмір стільниці</option1_name>
-    <option1_value>60</option1_value>
+    <option1_value>Ø60</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -444185,7 +444185,7 @@
     <category>Журнальні столики і консолі</category>
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-1</shopify_id>
-    <tags>Фіджі</tags>
+    <tags>Фіджі, Круглі столи</tags>
     <available>true</available>
     <quantity>100</quantity>
     <instock>100</instock>
@@ -444196,8 +444196,8 @@
     <alias>stolik-fiji</alias>
     <description>Столик FIJI — журнальний столик від Vinadi. Якісне виконання з натурального дерева. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna/>
-    <shyryna/>
+    <dovzhyna>80</dovzhyna>
+    <shyryna>80</shyryna>
     <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
@@ -444215,7 +444215,7 @@
     <material>Ясен цільноламельний / лак</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>80</tabletop_size>
+    <tabletop_size>Ø80</tabletop_size>
     <height_opt/>
     <length_opt/>
     <width_opt/>
@@ -444226,7 +444226,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Розмір стільниці</option1_name>
-    <option1_value>80</option1_value>
+    <option1_value>Ø80</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -444963,7 +444963,7 @@
     <alias>stil-preston</alias>
     <description>Стіл PRESTON — розкладний обідній стіл від ВНД. Якісне виконання з натурального дерева. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse/>
-    <dovzhyna>190</dovzhyna>
+    <dovzhyna>150</dovzhyna>
     <shyryna>95</shyryna>
     <vysota/>
     <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Гарантія: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;18 місяців&quot;}]}]}]}</tab_characteristics>
@@ -444982,7 +444982,7 @@
     <material>Дуб зрощений / лак</material>
     <modules/>
     <dimensions/>
-    <tabletop_size>150/190х95</tabletop_size>
+    <tabletop_size>95х150/190</tabletop_size>
     <height_opt/>
     <length_opt/>
     <width_opt/>
