@@ -3171,9 +3171,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець N-46 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець N-46 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -5714,9 +5714,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-84 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-84 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -6819,9 +6819,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags>Обідні крісла</tags>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець поворотний R-69 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець поворотний R-69 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Айворі — це ніжний, світлий відтінок, який надає кріслу стильного та сучасного вигляду.</meta_description>
@@ -7116,9 +7116,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець M-75 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець M-75 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -16030,9 +16030,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Лунаріо TML-1320 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Лунаріо TML-1320 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -16193,7 +16193,7 @@
     <dovzhyna>120</dovzhyna>
     <shyryna>85</shyryna>
     <vysota>76</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;120 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;76 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;клауді грей + айворі; крема марфіль + капучино&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина у розкладеному вигляді: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;160 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Форма: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;прямокутні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вид: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;розкладні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм розкладки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;автоматичний&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;87,8 кг&quot;}]}]}]}</tab_characteristics>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;120 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;76 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;клауді грей + айворі&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина у розкладеному вигляді: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;160 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Форма: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;прямокутні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вид: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;розкладні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм розкладки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;автоматичний&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;87,8 кг&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стільниця: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матова кераміка&quot;}]}]}]}</tab_details>
@@ -16249,91 +16249,6 @@
       <image>https://vetro.com.ua/storage/29319/69037b0201e99_stil-lunario-tml-1322-klaudi-grey-ayvori19.JPG</image>
       <image>https://vetro.com.ua/storage/29320/69037b02065a2_stil-lunario-tml-1322-klaudi-grey-ayvori20.JPG</image>
       <image>https://vetro.com.ua/storage/29328/69037c5eee505_69037b024bef4_stil-lunario-tml-1322-klaudi-grey-ayvori21.JPG</image>
-    </images>
-  </item>
-  <item>
-    <sku>TML-1322-lunario-crema-marfile/cappuccino</sku>
-    <handle>vetro-keramichnyi-stil-lunario-tml-1322</handle>
-    <name>Керамічний стіл Лунаріо TML-1322</name>
-    <variant_price>36505.00</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <product_type>Обідні столи</product_type>
-    <category>Обідні столи</category>
-    <parent_category>Столи</parent_category>
-    <shopify_id>fr-24-4</shopify_id>
-    <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Керамічний стіл Лунаріо TML-1322 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Керамічний стіл Лунаріо TML-1322 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-keramichnyi-stil-lunario-tml-1322</alias>
-    <description>&lt;p&gt;Керамічний стіл &lt;strong&gt;Лунаріо TML-1322 крема марфіль + капучино&lt;/strong&gt; — це вишукане поєднання природної краси та сучасних технологій. Його матова стільниця в теплій палітрі &lt;strong&gt;крема марфіль&lt;/strong&gt; нагадує текстуру натурального каменю: ніжні відтінки створюють атмосферу затишку та гармонії, а водночас надають інтер’єру благородного шарму. Поверхня не лише ефектна, а й практична — стійка до подряпин, високих температур і проста у догляді.&lt;/p&gt;&lt;p&gt;Унікальний &lt;strong&gt;автоматичний механізм розкладки&lt;/strong&gt; перетворює цей стіл на справжнього помічника: одним плавним рухом він збільшується зі 120 до 160 см, даруючи більше простору для святкових вечерь, зустрічей з друзями чи родинних обідів.&lt;/p&gt;&lt;p&gt;Основу у відтінку &lt;strong&gt;капучино&lt;/strong&gt; виконано з фарбованого металу — вона додає конструкції сучасного вигляду, підкреслює витонченість ліній і водночас гарантує стабільність та довговічність. Завдяки гармонійному поєднанню кольорів і форм &lt;strong&gt;Лунаріо TML-1322&lt;/strong&gt; стане не просто меблями, а стильним центром вашої оселі, що підкреслить індивідуальність і сучасний характер простору.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna>120</dovzhyna>
-    <shyryna>85</shyryna>
-    <vysota>76</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;120 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;85 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;76 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;клауді грей + айворі; крема марфіль + капучино&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина у розкладеному вигляді: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;160 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Форма: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;прямокутні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вид: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;розкладні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм розкладки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;автоматичний&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;87,8 кг&quot;}]}]}]}</tab_characteristics>
-    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стільниця: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матова кераміка&quot;}]}]}]}</tab_details>
-    <tabletop_shape>Прямокутна</tabletop_shape>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>крема марфіль + капучино</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/29197/69026346a0675_6902632521ec9_stil-lunario-tml-1322-krema-marfil-kapuchino11.JPG</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/29197/69026346a0675_6902632521ec9_stil-lunario-tml-1322-krema-marfil-kapuchino11.JPG</image>
-      <image>https://vetro.com.ua/storage/29197/69026346a0675_6902632521ec9_stil-lunario-tml-1322-krema-marfil-kapuchino11.JPG</image>
-      <image>https://vetro.com.ua/storage/29193/69026258b37e6_stil-lunario-tml-1322-krema-marfil-kapuchino12.JPG</image>
-      <image>https://vetro.com.ua/storage/29194/690262597e817_stil-lunario-tml-1322-krema-marfil-kapuchino13.JPG</image>
-      <image>https://vetro.com.ua/storage/29189/69026257a7503_stil-lunario-tml-1322-krema-marfil-kapuchino8.JPG</image>
-      <image>https://vetro.com.ua/storage/29190/690262582c0e1_stil-lunario-tml-1322-krema-marfil-kapuchino9.JPG</image>
-      <image>https://vetro.com.ua/storage/29191/690262582b086_stil-lunario-tml-1322-krema-marfil-kapuchino10.JPG</image>
-      <image>https://vetro.com.ua/storage/29187/690262571274b_stil-lunario-tml-1322-krema-marfil-kapuchino6.JPG</image>
-      <image>https://vetro.com.ua/storage/29188/69026257a2ee6_stil-lunario-tml-1322-krema-marfil-kapuchino7.JPG</image>
-      <image>https://vetro.com.ua/storage/29186/690262570934e_stil-lunario-tml-1322-krema-marfil-kapuchino5.JPG</image>
-      <image>https://vetro.com.ua/storage/29182/69026255bca4d_stil-lunario-tml-1322-krema-marfil-kapuchino2.JPG</image>
-      <image>https://vetro.com.ua/storage/29183/69026255bfc37_stil-lunario-tml-1322-krema-marfil-kapuchino1.JPG</image>
-      <image>https://vetro.com.ua/storage/29184/690262567efaf_stil-lunario-tml-1322-krema-marfil-kapuchino3.JPG</image>
-      <image>https://vetro.com.ua/storage/29185/69026256842dd_stil-lunario-tml-1322-krema-marfil-kapuchino4.JPG</image>
-      <image>https://vetro.com.ua/storage/29398/690484a169350_69048466c7c55_stil-lunario-tml-1322-krema-marfil-kapuchino17.JPG</image>
-      <image>https://vetro.com.ua/storage/29399/690484acd890c_69048466c9339_stil-lunario-tml-1322-krema-marfil-kapuchino18.JPG</image>
-      <image>https://vetro.com.ua/storage/29400/690484b4198f6_6904846710ae1_stil-lunario-tml-1322-krema-marfil-kapuchino19.JPG</image>
-      <image>https://vetro.com.ua/storage/29401/690484c1c9fe2_690484662a73b_stil-lunario-tml-1322-krema-marfil-kapuchino13.JPG</image>
-      <image>https://vetro.com.ua/storage/29402/690484caa7607_690484662987a_stil-lunario-tml-1322-krema-marfil-kapuchino14.JPG</image>
-      <image>https://vetro.com.ua/storage/29403/690484d504e09_690484666e9e5_stil-lunario-tml-1322-krema-marfil-kapuchino15.JPG</image>
-      <image>https://vetro.com.ua/storage/29404/690484e35e7f0_690484667407f_stil-lunario-tml-1322-krema-marfil-kapuchino16.JPG</image>
-      <image>https://vetro.com.ua/storage/29394/690484672d2be_stil-lunario-tml-1322-krema-marfil-kapuchino20.JPG</image>
-      <image>https://vetro.com.ua/storage/29395/6904846757467_stil-lunario-tml-1322-krema-marfil-kapuchino21.JPG</image>
-      <image>https://vetro.com.ua/storage/29405/690484f1c11b9_690484677191d_stil-lunario-tml-1322-krema-marfil-kapuchino22.JPG</image>
-      <image>https://vetro.com.ua/storage/29406/6904850bd7090_690484679ceab_stil-lunario-tml-1322-krema-marfil-kapuchino23.JPG</image>
     </images>
   </item>
   <item>
@@ -19030,71 +18945,6 @@
     </images>
   </item>
   <item>
-    <sku>TML-1405-1-latina-grigio-alpa/beige</sku>
-    <handle>vetro-stil-z-hpl-poverkhneiu-latina-tml-1405-1</handle>
-    <name>Стіл з HPL поверхнею Латіна TML-1405-1</name>
-    <variant_price>39641.00</variant_price>
-    <vendor>Vetro Mebel</vendor>
-    <product_type>Обідні столи</product_type>
-    <category>Обідні столи</category>
-    <parent_category>Столи</parent_category>
-    <shopify_id>fr-24-4</shopify_id>
-    <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Стіл з HPL поверхнею Латіна TML-1405-1 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Стіл з HPL поверхнею Латіна TML-1405-1 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-stil-z-hpl-poverkhneiu-latina-tml-1405-1</alias>
-    <description>&lt;p&gt;Стіл &lt;strong&gt;Латіна TML-1405-1&lt;/strong&gt; з HPL поверхнею у відтінку гріджіо альпа з бежевою основою — це елегантна інтерпретація сучасного мінімалізму з акцентом на спокійні природні тони. Його благородний сіро-бежевий відтінок виглядає стримано та водночас виразно, створюючи витончену атмосферу в інтер’єрі та легко поєднуючись із різними матеріалами й фактурами.&lt;/p&gt;&lt;p&gt;Стільниця з матового HPL у поєднанні з гартованим склом вирізняється не лише стильним виглядом, а й високою практичністю. Вона стійка до подряпин, вологи та щоденного навантаження, не бликує при освітленні та приємна на дотик. Така поверхня зберігає свій бездоганний вигляд навіть при інтенсивному використанні, що робить стіл ідеальним вибором для щоденного життя.&lt;/p&gt;&lt;p&gt;Боковий механізм розкладки дозволяє легко збільшити довжину столу зі 140 до 200 см, забезпечуючи додатковий простір для гостей або сімейних зустрічей.&lt;br&gt;&lt;strong&gt;Переваги HPL поверхні:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Висока зносостійкість&lt;/strong&gt; — HPL стійкий до подряпин, потертостей і щоденного навантаження, що робить його ідеальним для обідніх столів.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Стійкість до вологи&lt;/strong&gt; — матеріал не вбирає вологу, не деформується і не боїться випадкових розливів.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Термостійкість&lt;/strong&gt; — добре витримує контакт із гарячим посудом без пошкоджень поверхні.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Легкість у догляді&lt;/strong&gt; — достатньо протерти вологою серветкою, щоб зберегти чистоту та охайний вигляд.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Гігієнічність&lt;/strong&gt; — непориста структура перешкоджає накопиченню бруду та бактерій.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Стійкість до побутової хімії&lt;/strong&gt; — не реагує на більшість мийних засобів, не втрачає колір.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Стабільність кольору&lt;/strong&gt; — не вигоряє з часом і зберігає первинний вигляд навіть при активному використанні.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Сучасний вигляд&lt;/strong&gt; — матова текстура виглядає стильно, не бликує та додає інтер’єру преміального характеру.&lt;/li&gt;&lt;/ul&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna>140</dovzhyna>
-    <shyryna>90</shyryna>
-    <vysota>76</vysota>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;140 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;90 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;76 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;гріджіо альпа + бежевий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина у розкладеному вигляді: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;200 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Форма: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;прямокутні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вид: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;розкладні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм розкладки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;боковий&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;114,80 кг&quot;}]}]}]}</tab_characteristics>
-    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стільниця: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матовий HPL + гартоване скло (стійкий до подряпин)&quot;}]}]}]}</tab_details>
-    <tabletop_shape>Прямокутна</tabletop_shape>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>гріджіо альпа + бежевий</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/30601/69b95e1891693_69b95ddaa0dde_stil-z-hpl-poverhneyu-latina-tml-1405-1-gridzhio-alpa-bezheviy1.JPG</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/30601/69b95e1891693_69b95ddaa0dde_stil-z-hpl-poverhneyu-latina-tml-1405-1-gridzhio-alpa-bezheviy1.JPG</image>
-      <image>https://vetro.com.ua/storage/30601/69b95e1891693_69b95ddaa0dde_stil-z-hpl-poverhneyu-latina-tml-1405-1-gridzhio-alpa-bezheviy1.JPG</image>
-      <image>https://vetro.com.ua/storage/30602/69b95e218edbb_69b95ddaa0dde_stil-z-hpl-poverhneyu-latina-tml-1405-1-gridzhio-alpa-bezheviy2.JPG</image>
-      <image>https://vetro.com.ua/storage/30603/69b95e2956f34_69b95ddb49420_stil-z-hpl-poverhneyu-latina-tml-1405-1-gridzhio-alpa-bezheviy3.JPG</image>
-      <image>https://vetro.com.ua/storage/30604/69b95e39c0e17_69b95ddb49420_stil-z-hpl-poverhneyu-latina-tml-1405-1-gridzhio-alpa-bezheviy4.JPG</image>
-    </images>
-  </item>
-  <item>
     <sku>TML-1405-latina-toronto brown/black</sku>
     <handle>vetro-stil-z-hpl-poverkhneiu-latina-tml-1405</handle>
     <name>Стіл з HPL поверхнею Латіна TML-1405</name>
@@ -19238,9 +19088,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стіл з HPL поверхнею Бассано TML-1415 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стіл з HPL поверхнею Бассано TML-1415 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -22579,9 +22429,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags>Круглі столи</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Еларіо TML-1370 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Еларіо TML-1370 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -22770,9 +22620,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags>Круглі столи</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Мареллі TML-1251 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Мареллі TML-1251 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -22835,9 +22685,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags>Круглі столи</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Мареллі TML-1251 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Мареллі TML-1251 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -22898,9 +22748,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags>Круглі столи</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Мареллі TML-1251 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Мареллі TML-1251 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -22963,9 +22813,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Велорі TML-1332 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Велорі TML-1332 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -23026,9 +22876,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Лоренсо TML-1325 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Лоренсо TML-1325 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -23090,9 +22940,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Лоренсо TML-1325-1 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Лоренсо TML-1325-1 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -23154,9 +23004,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Версаль TML-1355 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Версаль TML-1355 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -23218,9 +23068,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Кроссо TML-1201 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Кроссо TML-1201 від Vetro Mebel — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
