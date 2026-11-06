@@ -537,7 +537,7 @@ def _pav_opts(o, name, params, ptype):
     if "рустік" in low:
         d["grade"] = "Рустік"
     elif "в/с" in low:
-        d["grade"] = "Вищий"
+        d["grade"] = "В/С"
     mat = params.get("Матеріал", "")
     if "бук" in mat or re.search(r"\bбук\b", low):
         d["material"] = "Масив бука"
@@ -577,6 +577,12 @@ def parse_pavlyk(text):
                 continue
             params = {p.get("name"): (p.text or "").strip() for p in o.findall("param")}
             d = _pav_opts(o, name, params, ptype)
+            if g.get("size") and not d.get("size"):
+                d["size"] = g["size"]
+            if d.get("ext") in g.get("ext_map", {}):
+                d["ext"] = g["ext_map"][d["ext"]]
+            if g.get("grade_default") and not d.get("grade"):
+                d["grade"] = g["grade_default"]
             if name in g.get("color_by_name", {}):
                 d["color"] = g["color_by_name"][name]
             if g.get("expand_colors"):  # у файлі один варіант, а кольорів у виробника кілька
@@ -590,7 +596,7 @@ def parse_pavlyk(text):
             for it in items:
                 it[2]["material"] = next(iter(mats))
         # сорт без позначки в групі з «В/С» — дубль варіанту вищого сорту: лишаємо позначений
-        if any("в/с" in it[1].lower() for it in items):
+        if not g.get("grade_default") and any("в/с" in it[1].lower() for it in items):
             items = [it for it in items if it[2].get("grade") or not any(
                 "в/с" in j[1].lower() and j[2].get("size") == it[2].get("size") for j in items)]
         # дублікати (той самий варіант під іншою назвою, напр. «розкладний Ori 160х90» = «+40»): лишаємо перший з «+»
@@ -616,7 +622,7 @@ def parse_pavlyk(text):
         has_ext = any(it[2].get("ext") for it in items)
         labels = [("size", "Розмір стільниці"), ("material", "Матеріал"), ("model", "Модель"),
                   ("color", "Колір"), ("ext", "Розкладання"), ("grade", "Сорт")]
-        defaults = {"model": "Класична", "grade": "Вищий", "ext": "Нерозкладний" if has_ext else "", "color": "Стандартний"}
+        defaults = {"model": "Класична", "grade": g.get("grade_default", "Вищий"), "ext": "Нерозкладний" if has_ext else "", "color": "Стандартний"}
         opt_keys = [k for k, _ in labels if varies(k)]
         if "ext" in opt_keys and "size" in opt_keys:  # вставка однозначно залежить від розміру — окрема опція зайва
             pairs = {(it[2].get("size"), it[2].get("ext", "")) for it in items}
