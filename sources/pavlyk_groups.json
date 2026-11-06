@@ -46,13 +46,10 @@
  },
  "1870": {
   "title": "Стілець Геула",
-  "desc": "<p>Обідній стілець Геула від Pavlyk з м'яким сидінням і каркасом із бука.</p><ul><li>Каркас: бук</li><li>Кольори: Ivory, Black, Italian, RAL 9001, Walnut, White</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>",
+  "desc": "<p>Обідній стілець Геула від Pavlyk з м'яким сидінням і каркасом із бука.</p><ul><li>Каркас: бук</li><li>Кольори: Walnut, Ivory, White</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>",
   "expand_colors": [
-   "Ivory",
-   "Black",
-   "Italian",
-   "RAL9001",
    "Walnut",
+   "Ivory",
    "White"
   ],
   "skip_names": [
