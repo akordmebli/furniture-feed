@@ -7,6 +7,7 @@
   COMEFOR_XML  — фід Come-For (ціна в <priceuah>, фото в <image>)
   WOODMAN_CSV  — таблиця Woodman (необов'язково; вмикається WOODMAN_ENABLED=1)
   sources/pavlyk.xml — YML-файл Pavlyk (постійного посилання немає; оновлювати файл вручну)
+  sources/masio.json — прайс Masio (xlsx → tools/masio_convert.py), фото в assets/masio/
 
 Категорії: кожен товар отримує product_type — назву кінцевої категорії з дерева магазину
 (див. TREE). Автоматичні колекції в Shopify будуються саме за product_type.
@@ -687,6 +688,138 @@ def parse_pavlyk(text):
     return out
 
 
+# ---------- Masio (прайс xlsx → sources/masio.json через tools/masio_convert.py) ----------
+MASIO_FORM = {"Круглий": ("круглий", "Кругла"), "Прямокутний": ("прямокутний", "Прямокутна"),
+              "Овальний": ("овальний", "Овальна")}
+MASIO_MAT = {"Ясен": "Масив ясена", "Дуб": "Масив дуба"}
+
+
+def _masio_size(s):
+    """«Ø90+30» → ("Ø90", "+30"); «140×80 см. + 50 см.» → ("80х140", "+50")."""
+    s = s.replace("см.", "").replace("см", "")
+    ext = re.search(r"\+\s*(\d{2})", s)
+    m = re.search(r"(\d{2,3})\s*[xхXХ×]\s*(\d{2,3})", s)
+    if m:
+        a, b = sorted((int(m[1]), int(m[2])))
+        base = f"{a}х{b}"
+    else:
+        d = re.search(r"[ØD⌀]\s*(\d{2,3})", s)
+        base = f"Ø{d[1]}" if d else s.strip()
+    return base, (f"+{ext[1]}" if ext else "")
+
+
+def _masio_notes(notes):
+    """«металеві ноги 60х30 мм, стільниця 36 мм, …, можливі опції скіс 45°, …» → характеристики."""
+    chars, opts = [], []
+    low = notes.lower()
+    m = re.search(r"(?:можливі опції|можливі)\s*(.*)$", notes, re.I)
+    if m:
+        opts = [o.strip(" .") for o in m[1].split(",") if o.strip(" .")]
+    t = re.search(r"стільниця\s*(\d{2})\s*мм", low)
+    if t:
+        chars.append(("Товщина стільниці", f"{t[1]} мм"))
+    lg = re.search(r"ноги\s*(\d{2})\s*[xх×]\s*(\d{2})\s*мм", low)
+    if lg:
+        chars.append(("Перетин ніжок", f"{lg[1]}×{lg[2]} мм"))
+    if "універсальне кріплення" in low:
+        chars.append(("Кріплення ніжок", "універсальне"))
+    return chars, opts
+
+
+def parse_masio(text):
+    blocks = [b for b in json.loads(text) if any(r["price"] for r in b["rows"])]
+    # товар = модель + розкладність (+ форма, якщо в моделі кілька форм на різних сторінках сайту Masio)
+    def base_name(b):
+        n = re.sub(r"\s*\(?розкладний\)?", "", b["name"], flags=re.I)
+        return re.sub(r"\s+\d+X$", "", n).strip()  # «Промінь 3X/4X» — один стіл, різна кількість ніжок
+    groups = {}
+    for b in blocks:
+        key = (base_name(b), b["ext"], b["link"] or b["form"])
+        groups.setdefault(key, []).append(b)
+    n_groups = {}
+    for (name, ext, _) in groups:
+        n_groups[(name, ext)] = n_groups.get((name, ext), 0) + 1
+    out = []
+    for (name, ext, _), bs in groups.items():
+        forms = sorted({b["form"] for b in bs})
+        title = f"Стіл {name}"
+        if n_groups[(name, ext)] > 1 and len(forms) == 1:  # «Сяйво» круглий і прямокутний — різні столи
+            title += f" {MASIO_FORM.get(forms[0], ('',))[0]}"
+        if ext:
+            title += " розкладний"
+        title = " ".join(title.split())
+        handle = "masio-" + slug(title.replace("Стіл ", "stil "))
+        legs = {b["legs"] for b in bs}
+        legs_txt = "металеві" if legs == {"Металеві"} else "дерев'яні" if legs == {"Деревʼяні"} else "дерев'яні або металеві"
+        notes = next((b["notes"] for b in bs if b["notes"]), "")
+        n_chars, n_opts = _masio_notes(notes)
+        imgs = []
+        for b in bs:
+            if b["image"] and b["image"] not in imgs:
+                imgs.append(b["image"])
+        exts, sizes = {}, []
+        for b in bs:
+            for r in b["rows"]:
+                base, e = _masio_size(r["size"])
+                if base not in sizes:
+                    sizes.append(base)
+                if e:
+                    exts.setdefault(e, [])
+                    if base not in exts[e]:
+                        exts[e].append(base)
+        chars = [("Форма стільниці", ", ".join(MASIO_FORM.get(f, ("", f))[1].lower() for f in forms).capitalize()),
+                 ("Ніжки", legs_txt.capitalize())]
+        if name == "Промінь":
+            chars.append(("Кількість ніжок", "3 (Ø70–Ø100), 4 (Ø110–Ø130)"))
+        chars += n_chars
+        chars.append(("Розкладний", "так" if ext else "ні"))
+        if exts:
+            chars.append(("Вставка", "; ".join(f"{e} см ({', '.join(v)})" for e, v in exts.items())))
+        chars.append(("Тонування", "авторські кольори Masio або 30 відтінків палітри Adler — без доплати"))
+        if n_opts:
+            chars.append(("Опції за доплату", ", ".join(n_opts)))
+        chars.append(("Виготовлення", "під замовлення"))
+        form_word = " або ".join(MASIO_FORM.get(f, (f.lower(),))[0] for f in forms)
+        sz_nums = sorted(sizes, key=lambda s: [int(x) for x in re.findall(r"\d+", s)])
+        desc = (f"<p>{('Розкладний' if ext else 'Обідній')} {form_word} стіл {name} від українського виробника Masio. "
+                f"Стільниця — з масиву ясена або дуба, ніжки — {legs_txt}."
+                + (" Стіл розкладається за рахунок вставки — зручно, коли приходять гості." if ext else "")
+                + f" Розміри стільниці — від {sz_nums[0]} до {sz_nums[-1]} см.</p>"
+                "<p>Тонування в авторські кольори Masio або в один із 30 відтінків палітри Adler — без доплати. "
+                "Стіл виготовляють під замовлення.</p>")
+        multi_form = len(forms) > 1
+        opt_names = ["Розмір стільниці", "Матеріал"] + (["Форма"] if multi_form else [])
+        seen = set()
+        for b in bs:
+            for r in b["rows"]:
+                if not r["price"]:
+                    continue
+                base, e = _masio_size(r["size"])
+                mat = MASIO_MAT.get(b["material"], b["material"])
+                form_v = MASIO_FORM.get(b["form"], ("", b["form"]))[1]
+                vals = [base, mat] + ([form_v] if multi_form else [])
+                if tuple(vals) in seen:
+                    continue
+                seen.add(tuple(vals))
+                sku = r["sku"] if r["sku"].isdigit() else slug(f"{name}-{base}-{b['material']}-{b['form']}")
+                p = product(
+                    source="masio", sku=f"MAS-{sku}", handle=handle, name=title,
+                    price=f"{r['price']:.2f}", product_type="Обідні столи", images=imgs,
+                    description=desc, available=True, vendor="Masio",
+                    opts={"material": mat, "tabletop_size": base},
+                    length=base[1:] if base.startswith("Ø") else base.split("х")[1],
+                    width=base[1:] if base.startswith("Ø") else base.split("х")[0],
+                )
+                p["option_names"] = opt_names
+                p["option_values"] = vals
+                p["shape"] = [MASIO_FORM.get(f, ("", f))[1] for f in forms]
+                p["pav_chars"] = chars
+                p["meta_title"] = f"{title} Masio | купити в АКОРД МЕБЛІ"
+                p["meta_description"] = ""
+                out.append(p)
+    return out
+
+
 # ---------- групування у варіанти ----------
 
 SIZE_RE = re.compile(r"\s*(\d{2,3})\s*[xхXХ×*]\s*(\d{2,3})(?:\s*(?:см|cm))?(?=\s|,|$)")
@@ -1235,7 +1368,7 @@ def build_tab_characteristics_other(items):
                     seen.append(v)
         if seen:
             lines.append((label, "; ".join(seen)))
-    if p0["source"] == "pavlyk":
+    if p0["source"] in ("pavlyk", "masio"):
         have = {k for k, _ in lines}
         if "Колір" in have:
             have.add("Кольори")
@@ -1388,7 +1521,7 @@ def tabletop_shape(p):
     if not re.search(r"стіл(?!ець|ьц)|стол|консол", p["name"].lower()):
         return []
     if p.get("shape"):
-        return [p["shape"]]
+        return p["shape"] if isinstance(p["shape"], list) else [p["shape"]]
     up = p["name"].upper()
     for k, v in SHAPE_BY_MODEL.items():
         if re.search(rf"(?<![A-ZА-ЯІЇЄҐ]){k}(?![A-ZА-ЯІЇЄҐ])", up):
@@ -1778,6 +1911,7 @@ def main():
         ("Come-For", "COMEFOR_XML", parse_comefor, True),
         ("Woodman", "WOODMAN_CSV", parse_woodman, os.environ.get("WOODMAN_ENABLED", "1") == "1"),
         ("Pavlyk", "file:sources/pavlyk.xml", parse_pavlyk, True),
+        ("Masio", "file:sources/masio.json", parse_masio, True),
     ]
     all_products, failed = [], []
     all_products += parse_manual()

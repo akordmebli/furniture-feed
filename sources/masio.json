@@ -1,0 +1,2985 @@
+[
+ {
+  "name": "Сонях",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-379561654952-obdni-kruglii-stl-sonyah",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-96fe13a87a.jpg",
+  "rows": [
+   {
+    "size": "Ø80",
+    "sku": "102231",
+    "price": 24950.0
+   },
+   {
+    "size": "Ø90",
+    "sku": "102232",
+    "price": 25950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102233",
+    "price": 26950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "102234",
+    "price": 27950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102235",
+    "price": 29950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "102236",
+    "price": 31950.0
+   },
+   {
+    "size": "Ø140",
+    "sku": "102237",
+    "price": 33950.0
+   }
+  ]
+ },
+ {
+  "name": "Сонях",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-379561654952-obdni-kruglii-stl-sonyah",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-96fe13a87a.jpg",
+  "rows": [
+   {
+    "size": "Ø80",
+    "sku": "102238",
+    "price": 32950.0
+   },
+   {
+    "size": "Ø90",
+    "sku": "102239",
+    "price": 33950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102240",
+    "price": 35950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "102241",
+    "price": 36950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102242",
+    "price": 38950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "102243",
+    "price": 41950.0
+   },
+   {
+    "size": "Ø140",
+    "sku": "102244",
+    "price": 44950.0
+   }
+  ]
+ },
+ {
+  "name": "Сонях",
+  "form": "Круглий",
+  "ext": true,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, заокруглення велике R30, вбудована розетка, кабель-менеджмент",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-156391216871-obdni-kruglii-stl-sonyah-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-03d2f1f2f3.jpg",
+  "rows": [
+   {
+    "size": "Ø90+30",
+    "sku": "102252",
+    "price": 30950.0
+   },
+   {
+    "size": "Ø100+40",
+    "sku": "102253",
+    "price": 32950.0
+   },
+   {
+    "size": "Ø110+40",
+    "sku": "102254",
+    "price": 35950.0
+   },
+   {
+    "size": "Ø120+40",
+    "sku": "102255",
+    "price": 39950.0
+   },
+   {
+    "size": "Ø130+40",
+    "sku": "102256",
+    "price": 42950.0
+   }
+  ]
+ },
+ {
+  "name": "Сонях",
+  "form": "Круглий",
+  "ext": true,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, заокруглення велике R30, вбудована розетка, кабель-менеджмент",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-156391216871-obdni-kruglii-stl-sonyah-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-03d2f1f2f3.jpg",
+  "rows": [
+   {
+    "size": "Ø90+30",
+    "sku": "102257",
+    "price": 40950.0
+   },
+   {
+    "size": "Ø100+40",
+    "sku": "102258",
+    "price": 42950.0
+   },
+   {
+    "size": "Ø110+40",
+    "sku": "102259",
+    "price": 46950.0
+   },
+   {
+    "size": "Ø120+40",
+    "sku": "102260",
+    "price": 51950.0
+   },
+   {
+    "size": "Ø130+40",
+    "sku": "102261",
+    "price": 55950.0
+   }
+  ]
+ },
+ {
+  "name": "Обрій",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-207820221482-obdni-kruglii-stl-obri",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-b6b7b14a81.jpg",
+  "rows": [
+   {
+    "size": "Ø90",
+    "sku": "102267",
+    "price": 27950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102268",
+    "price": 32950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "102269",
+    "price": 37950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102270",
+    "price": 42950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "102271",
+    "price": 48950.0
+   }
+  ]
+ },
+ {
+  "name": "Обрій",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-207820221482-obdni-kruglii-stl-obri",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-b6b7b14a81.jpg",
+  "rows": [
+   {
+    "size": "Ø90",
+    "sku": "102272",
+    "price": 36950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102273",
+    "price": 42950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "102274",
+    "price": 48950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102275",
+    "price": 55950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "102276",
+    "price": 62950.0
+   }
+  ]
+ },
+ {
+  "name": "Обрій розкладний",
+  "form": "Круглий",
+  "ext": true,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-207820221482-obdni-kruglii-stl-obri",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-b6b7b14a81.jpg",
+  "rows": [
+   {
+    "size": "Ø90+30",
+    "sku": "new",
+    "price": 34950.0
+   },
+   {
+    "size": "Ø100+40",
+    "sku": "new",
+    "price": 41950.0
+   },
+   {
+    "size": "Ø110+40",
+    "sku": "new",
+    "price": 46950.0
+   },
+   {
+    "size": "Ø120+40",
+    "sku": "new",
+    "price": 52950.0
+   }
+  ]
+ },
+ {
+  "name": "Обрій розкладний",
+  "form": "Круглий",
+  "ext": true,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-207820221482-obdni-kruglii-stl-obri",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-b6b7b14a81.jpg",
+  "rows": [
+   {
+    "size": "Ø90+30",
+    "sku": "new",
+    "price": 44950.0
+   },
+   {
+    "size": "Ø100+40",
+    "sku": "new",
+    "price": 52950.0
+   },
+   {
+    "size": "Ø110+40",
+    "sku": "new",
+    "price": 60950.0
+   },
+   {
+    "size": "Ø120+40",
+    "sku": "new",
+    "price": 68950.0
+   }
+  ]
+ },
+ {
+  "name": "Баланс",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-923755126422-obdni-kruglii-stl-balans",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-d1d6ab393f.jpg",
+  "rows": [
+   {
+    "size": "Ø90",
+    "sku": "102345",
+    "price": 21950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102346",
+    "price": 24950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "102347",
+    "price": 30950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102348",
+    "price": 34950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "102349",
+    "price": 37950.0
+   }
+  ]
+ },
+ {
+  "name": "Баланс",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-923755126422-obdni-kruglii-stl-balans",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-88ff7c3624.jpg",
+  "rows": [
+   {
+    "size": "Ø90",
+    "sku": "102350",
+    "price": 27950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102351",
+    "price": 31950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "102352",
+    "price": 39950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102353",
+    "price": 44950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "102354",
+    "price": 49950.0
+   }
+  ]
+ },
+ {
+  "name": "Мотив",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-400374230404-obdni-kruglii-stl-motiv",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-e5a43ba49e.jpg",
+  "rows": [
+   {
+    "size": "Ø90",
+    "sku": "new",
+    "price": 19950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "new",
+    "price": 21950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "new",
+    "price": 25950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "new",
+    "price": 30950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "new",
+    "price": 34950.0
+   }
+  ]
+ },
+ {
+  "name": "Мотив",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-400374230404-obdni-kruglii-stl-motiv",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-e5a43ba49e.jpg",
+  "rows": [
+   {
+    "size": "Ø90",
+    "sku": "new",
+    "price": 25950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "new",
+    "price": 28950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "new",
+    "price": 32950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "new",
+    "price": 40950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "new",
+    "price": 45950.0
+   }
+  ]
+ },
+ {
+  "name": "Світанок",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-794884469881-obdni-kruglii-stl-svtanok",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-f8fc870430.jpg",
+  "rows": [
+   {
+    "size": "Ø90",
+    "sku": "102671",
+    "price": 21950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102672",
+    "price": 23950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "102673",
+    "price": 27950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102674",
+    "price": 30950.0
+   }
+  ]
+ },
+ {
+  "name": "Світанок",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-794884469881-obdni-kruglii-stl-svtanok",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-f8fc870430.jpg",
+  "rows": [
+   {
+    "size": "Ø90",
+    "sku": "102675",
+    "price": 27950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102676",
+    "price": 30950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "102677",
+    "price": 34950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102678",
+    "price": 39950.0
+   }
+  ]
+ },
+ {
+  "name": "Сяйво",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-921074077364-obdni-kruglii-stl-syaivo",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-2f35baa345.jpg",
+  "rows": [
+   {
+    "size": "Ø100",
+    "sku": "102801",
+    "price": 22950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "102802",
+    "price": 25950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102803",
+    "price": 29950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "102804",
+    "price": 33950.0
+   },
+   {
+    "size": "Ø140",
+    "sku": "102805",
+    "price": 37950.0
+   },
+   {
+    "size": "Ø150",
+    "sku": "102806",
+    "price": 42950.0
+   }
+  ]
+ },
+ {
+  "name": "Сяйво",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-921074077364-obdni-kruglii-stl-syaivo",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-2f35baa345.jpg",
+  "rows": [
+   {
+    "size": "Ø100",
+    "sku": "new",
+    "price": 28950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "new",
+    "price": 32950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "new",
+    "price": 37950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "new",
+    "price": 42950.0
+   },
+   {
+    "size": "Ø140",
+    "sku": "new",
+    "price": 48950.0
+   },
+   {
+    "size": "Ø150",
+    "sku": "new",
+    "price": 54950.0
+   }
+  ]
+ },
+ {
+  "name": "Мальва",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-122634998762-obdni-pryamokutnii-stl-malva",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-5189452e59.jpg",
+  "rows": [
+   {
+    "size": "120×80",
+    "sku": "102189",
+    "price": 18950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102190",
+    "price": 20950.0
+   },
+   {
+    "size": "150×80",
+    "sku": "102850",
+    "price": 22950.0
+   },
+   {
+    "size": "150×90",
+    "sku": "102851",
+    "price": 24950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102191",
+    "price": 23950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "new",
+    "price": 25950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102192",
+    "price": 25950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "new",
+    "price": 28950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102193",
+    "price": 31950.0
+   }
+  ]
+ },
+ {
+  "name": "Мальва",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-122634998762-obdni-pryamokutnii-stl-malva",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-5189452e59.jpg",
+  "rows": [
+   {
+    "size": "120×80",
+    "sku": "102194",
+    "price": 23950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102195",
+    "price": 26950.0
+   },
+   {
+    "size": "150×80",
+    "sku": "102822",
+    "price": 28950.0
+   },
+   {
+    "size": "150×90",
+    "sku": "102823",
+    "price": 31950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102196",
+    "price": 30950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "new",
+    "price": 33950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102197",
+    "price": 33950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "new",
+    "price": 37950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102198",
+    "price": 40950.0
+   }
+  ]
+ },
+ {
+  "name": "Сяйво",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-231424979044-obdni-pryamokutni-stl-syaivo",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-2eaf7cc794.jpg",
+  "rows": [
+   {
+    "size": "120х85",
+    "sku": "102792",
+    "price": 27950.0
+   },
+   {
+    "size": "140х85",
+    "sku": "102793",
+    "price": 30950.0
+   },
+   {
+    "size": "160х85",
+    "sku": "102794",
+    "price": 33950.0
+   },
+   {
+    "size": "180х95",
+    "sku": "102795",
+    "price": 39950.0
+   },
+   {
+    "size": "200х95",
+    "sku": "102796",
+    "price": 42950.0
+   },
+   {
+    "size": "220х95",
+    "sku": "102797",
+    "price": 45950.0
+   },
+   {
+    "size": "250х105",
+    "sku": "102798",
+    "price": 54950.0
+   },
+   {
+    "size": "280х105",
+    "sku": "102799",
+    "price": 59950.0
+   }
+  ]
+ },
+ {
+  "name": "Обрис",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-562282399082-obdni-pryamokutnii-stl-obris",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-b8b60e6bf3.jpg",
+  "rows": [
+   {
+    "size": "120×80",
+    "sku": "102777",
+    "price": 23950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102778",
+    "price": 26950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102779",
+    "price": 29950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102780",
+    "price": 35950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102781",
+    "price": 38950.0
+   }
+  ]
+ },
+ {
+  "name": "Обрис",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-562282399082-obdni-pryamokutnii-stl-obris",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-2cbb8b96ba.jpg",
+  "rows": [
+   {
+    "size": "120×80",
+    "sku": "102782",
+    "price": 30950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102783",
+    "price": 34950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102784",
+    "price": 37950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102785",
+    "price": 45950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102786",
+    "price": 49950.0
+   }
+  ]
+ },
+ {
+  "name": "Грація (розкладний)",
+  "form": "Прямокутний",
+  "ext": true,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-705910657264-obdni-stl-gratsya-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-9637cc744f.jpg",
+  "rows": [
+   {
+    "size": "120×80+45",
+    "sku": "102815",
+    "price": 32950.0
+   },
+   {
+    "size": "140×80+45",
+    "sku": "102816",
+    "price": 35950.0
+   },
+   {
+    "size": "160×80+45",
+    "sku": "102817",
+    "price": 38950.0
+   },
+   {
+    "size": "180×90+45",
+    "sku": "102818",
+    "price": 46950.0
+   },
+   {
+    "size": "200×90+45",
+    "sku": "102819",
+    "price": 49950.0
+   }
+  ]
+ },
+ {
+  "name": "Грація (розкладний)",
+  "form": "Прямокутний",
+  "ext": true,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-705910657264-obdni-stl-gratsya-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-9637cc744f.jpg",
+  "rows": [
+   {
+    "size": "120×80+45",
+    "sku": "",
+    "price": 40950.0
+   },
+   {
+    "size": "140×80+45",
+    "sku": "",
+    "price": 44950.0
+   },
+   {
+    "size": "160×80+45",
+    "sku": "",
+    "price": 49950.0
+   },
+   {
+    "size": "180×90+45",
+    "sku": "",
+    "price": 58950.0
+   },
+   {
+    "size": "200×90+45",
+    "sku": "",
+    "price": 63950.0
+   }
+  ]
+ },
+ {
+  "name": "Баланс",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс R30, заокруглення мале R5, вбудована розетка",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-494063452812-obdni-pryamokutnii-stl-balans",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-b473fe3d42.jpg",
+  "rows": [
+   {
+    "size": "140×80",
+    "sku": "102324",
+    "price": 29950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102325",
+    "price": 31950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102326",
+    "price": 36950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102327",
+    "price": 39950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102328",
+    "price": 45950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "102329",
+    "price": 50950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "102330",
+    "price": 55950.0
+   }
+  ]
+ },
+ {
+  "name": "Баланс",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс R30, заокруглення мале R5, вбудована розетка",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-494063452812-obdni-pryamokutnii-stl-balans",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-b473fe3d42.jpg",
+  "rows": [
+   {
+    "size": "140×80",
+    "sku": "102331",
+    "price": 37950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102332",
+    "price": 40950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102333",
+    "price": 47950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102334",
+    "price": 51950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102335",
+    "price": 59950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "102336",
+    "price": 65950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "102337",
+    "price": 71950.0
+   }
+  ]
+ },
+ {
+  "name": "Баланс (розкладний)",
+  "form": "Прямокутний",
+  "ext": true,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-687756587154-obdni-pryamokutnii-stl-balans-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-01a6c745b6.jpg",
+  "rows": [
+   {
+    "size": "140×80 см. + 50 см.",
+    "sku": "",
+    "price": 43950.0
+   },
+   {
+    "size": "160×80 см. + 50 см.",
+    "sku": "",
+    "price": 45950.0
+   },
+   {
+    "size": "180×90 см. + 50 см.",
+    "sku": "",
+    "price": 51950.0
+   },
+   {
+    "size": "200×90 см. + 50 см.",
+    "sku": "",
+    "price": 54950.0
+   }
+  ]
+ },
+ {
+  "name": "Мотив",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "стільниця 38 мм, універсальне кріплення ніг, можливі опції скіс 45°, скіс 60°, Живий край, заокруглення мале R5, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-855780132212-obdni-pryamokutnii-stl-motiv",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-49feac59a1.jpg",
+  "rows": [
+   {
+    "size": "120×80",
+    "sku": "",
+    "price": 21950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "",
+    "price": 23950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "",
+    "price": 26950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "",
+    "price": 30950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "",
+    "price": 28950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "",
+    "price": 33950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "",
+    "price": 40950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "",
+    "price": 43950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "",
+    "price": 47950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "",
+    "price": 52950.0
+   }
+  ]
+ },
+ {
+  "name": "Мотив",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "стільниця 38 мм, універсальне кріплення ніг, можливі опції скіс 45°, скіс 60°, Живий край, заокруглення мале R5, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-855780132212-obdni-pryamokutnii-stl-motiv",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-49feac59a1.jpg",
+  "rows": [
+   {
+    "size": "120×80",
+    "sku": "",
+    "price": 27950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "",
+    "price": 30950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "",
+    "price": 33950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "",
+    "price": 40950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "",
+    "price": 37950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "",
+    "price": 43950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "",
+    "price": 52950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "",
+    "price": 56950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "",
+    "price": 62950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "",
+    "price": 68950.0
+   }
+  ]
+ },
+ {
+  "name": "Стихія",
+  "form": "Овальний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс R30, скіс 45°",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-338827159702-obdni-ovalnii-stl-stihya",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-a60f392e1f.jpg",
+  "rows": [
+   {
+    "size": "140×80",
+    "sku": "102824",
+    "price": 29950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102204",
+    "price": 31950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102205",
+    "price": 36950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102206",
+    "price": 43950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102207",
+    "price": 47950.0
+   },
+   {
+    "size": "250×105",
+    "sku": "102208",
+    "price": 53950.0
+   },
+   {
+    "size": "280×105",
+    "sku": "102209",
+    "price": 58950.0
+   }
+  ]
+ },
+ {
+  "name": "Стихія",
+  "form": "Овальний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс R30, скіс 45°",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-338827159702-obdni-ovalnii-stl-stihya",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-a60f392e1f.jpg",
+  "rows": [
+   {
+    "size": "140×80",
+    "sku": "102825",
+    "price": 37950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102210",
+    "price": 40950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102211",
+    "price": 47950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102212",
+    "price": 57950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102213",
+    "price": 61950.0
+   },
+   {
+    "size": "250×105",
+    "sku": "102214",
+    "price": 69950.0
+   },
+   {
+    "size": "280×105",
+    "sku": "102215",
+    "price": 76950.0
+   }
+  ]
+ },
+ {
+  "name": "Стихія",
+  "form": "Овальний",
+  "ext": true,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс R30, скіс 45°",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-210261532311-obdni-ovalnii-stl-stihya-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-5565ba25dd.jpg",
+  "rows": [
+   {
+    "size": "140×80+50",
+    "sku": "",
+    "price": 45950.0
+   },
+   {
+    "size": "160×80+50",
+    "sku": "",
+    "price": 47950.0
+   },
+   {
+    "size": "160×90+50",
+    "sku": "",
+    "price": 50950.0
+   },
+   {
+    "size": "180×90+50",
+    "sku": "",
+    "price": 53950.0
+   },
+   {
+    "size": "200×100+50",
+    "sku": "",
+    "price": 61950.0
+   }
+  ]
+ },
+ {
+  "name": "Стихія",
+  "form": "Овальний",
+  "ext": true,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс R30, скіс 45°",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-210261532311-obdni-ovalnii-stl-stihya-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-5565ba25dd.jpg",
+  "rows": [
+   {
+    "size": "140×80+50",
+    "sku": "",
+    "price": 55950.0
+   },
+   {
+    "size": "160×80+50",
+    "sku": "",
+    "price": 58950.0
+   },
+   {
+    "size": "160×90+50",
+    "sku": "",
+    "price": 63950.0
+   },
+   {
+    "size": "180×90+50",
+    "sku": "",
+    "price": 66950.0
+   },
+   {
+    "size": "200×100+50",
+    "sku": "",
+    "price": 77950.0
+   }
+  ]
+ },
+ {
+  "name": "Ритм",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-629891117902-obdni-pryamokutnii-stl-ritm",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-d2d0bb6137.jpg",
+  "rows": [
+   {
+    "size": "160×85",
+    "sku": "",
+    "price": 42950.0
+   },
+   {
+    "size": "180×95",
+    "sku": "",
+    "price": 47950.0
+   },
+   {
+    "size": "200×95",
+    "sku": "102153",
+    "price": 50950.0
+   },
+   {
+    "size": "240×105",
+    "sku": "102154",
+    "price": 63950.0
+   },
+   {
+    "size": "270×105",
+    "sku": "102155",
+    "price": 68950.0
+   }
+  ]
+ },
+ {
+  "name": "Ритм",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-629891117902-obdni-pryamokutnii-stl-ritm",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-da9a078abb.jpg",
+  "rows": [
+   {
+    "size": "160×85",
+    "sku": "",
+    "price": 55950.0
+   },
+   {
+    "size": "180×95",
+    "sku": "",
+    "price": 62950.0
+   },
+   {
+    "size": "200×95",
+    "sku": "102157",
+    "price": 66950.0
+   },
+   {
+    "size": "240×105",
+    "sku": "102158",
+    "price": 82950.0
+   },
+   {
+    "size": "270×105",
+    "sku": "102159",
+    "price": 88950.0
+   }
+  ]
+ },
+ {
+  "name": "Ритм (розкладний)",
+  "form": "Прямокутний",
+  "ext": true,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-186550258494-obdni-pryamokutnii-stl-ritm-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-56caa0c77f.jpg",
+  "rows": [
+   {
+    "size": "160×85+50",
+    "sku": "",
+    "price": 56950.0
+   },
+   {
+    "size": "180×95+50",
+    "sku": "",
+    "price": 63950.0
+   },
+   {
+    "size": "200×95+50",
+    "sku": "",
+    "price": 66950.0
+   },
+   {
+    "size": "200×105+50",
+    "sku": "",
+    "price": 72950.0
+   },
+   {
+    "size": "240×105+50",
+    "sku": "",
+    "price": 79950.0
+   }
+  ]
+ },
+ {
+  "name": "Ритм (розкладний)",
+  "form": "Прямокутний",
+  "ext": true,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-186550258494-obdni-pryamokutnii-stl-ritm-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-56caa0c77f.jpg",
+  "rows": [
+   {
+    "size": "160×85+50",
+    "sku": "",
+    "price": 63950.0
+   },
+   {
+    "size": "180×95+50",
+    "sku": "",
+    "price": 71950.0
+   },
+   {
+    "size": "200×95+50",
+    "sku": "",
+    "price": 75950.0
+   },
+   {
+    "size": "200×105+50",
+    "sku": "",
+    "price": 84950.0
+   },
+   {
+    "size": "240×105+50",
+    "sku": "",
+    "price": 92950.0
+   }
+  ]
+ },
+ {
+  "name": "Призма",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "",
+  "image": "",
+  "rows": [
+   {
+    "size": "140×85",
+    "sku": "",
+    "price": 0.0
+   },
+   {
+    "size": "160×85",
+    "sku": "",
+    "price": 0.0
+   },
+   {
+    "size": "180×95",
+    "sku": "",
+    "price": 0.0
+   },
+   {
+    "size": "200×95",
+    "sku": "",
+    "price": 0.0
+   }
+  ]
+ },
+ {
+  "name": "Античність",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, заокруглення велике R30, заокруглення мале R5",
+  "link": "https://masio.com.ua/stoly-iz-masyvu-dereva-i-epoksydnoyi-smoly/tproduct/838792229-698941719972-obdni-pryamokutnii-stl-antichnst",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-a1f20e99dc.jpg",
+  "rows": [
+   {
+    "size": "160×90",
+    "sku": "",
+    "price": 34950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "",
+    "price": 36950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "",
+    "price": 43950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "",
+    "price": 47950.0
+   },
+   {
+    "size": "250×105",
+    "sku": "",
+    "price": 53950.0
+   },
+   {
+    "size": "280×105",
+    "sku": "",
+    "price": 58950.0
+   }
+  ]
+ },
+ {
+  "name": "Античність",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, заокруглення велике R30, заокруглення мале R5",
+  "link": "https://masio.com.ua/stoly-iz-masyvu-dereva-i-epoksydnoyi-smoly/tproduct/838792229-698941719972-obdni-pryamokutnii-stl-antichnst",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-1880f9e662.jpg",
+  "rows": [
+   {
+    "size": "160×90",
+    "sku": "102601",
+    "price": 44950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102602",
+    "price": 47950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "",
+    "price": 57950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "",
+    "price": 61950.0
+   },
+   {
+    "size": "250×105",
+    "sku": "",
+    "price": 69950.0
+   },
+   {
+    "size": "280×105",
+    "sku": "102605",
+    "price": 76950.0
+   }
+  ]
+ },
+ {
+  "name": "Античність",
+  "form": "Овальний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-619440657861-obdni-ovalnii-stl-antichnst",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-9270abd7d3.jpg",
+  "rows": [
+   {
+    "size": "160×90",
+    "sku": "102611",
+    "price": 34950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102612",
+    "price": 36950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "",
+    "price": 43950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "",
+    "price": 47950.0
+   },
+   {
+    "size": "250×105",
+    "sku": "102614",
+    "price": 53950.0
+   },
+   {
+    "size": "280×105",
+    "sku": "102615",
+    "price": 58950.0
+   }
+  ]
+ },
+ {
+  "name": "Античність",
+  "form": "Овальний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-619440657861-obdni-ovalnii-stl-antichnst",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-9270abd7d3.jpg",
+  "rows": [
+   {
+    "size": "160×90",
+    "sku": "102616",
+    "price": 44950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102617",
+    "price": 47950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "",
+    "price": 57950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "",
+    "price": 61950.0
+   },
+   {
+    "size": "250×105",
+    "sku": "102619",
+    "price": 69950.0
+   },
+   {
+    "size": "280×105",
+    "sku": "102620",
+    "price": 76950.0
+   }
+  ]
+ },
+ {
+  "name": "Дюна",
+  "form": "Овальний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-143898227952-obdni-ovalnii-stl-dyuna",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-5f5afd3272.jpg",
+  "rows": [
+   {
+    "size": "180×90",
+    "sku": "102683",
+    "price": 67950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102684",
+    "price": 74950.0
+   },
+   {
+    "size": "200×110",
+    "sku": "",
+    "price": 79950.0
+   },
+   {
+    "size": "240×110",
+    "sku": "102685",
+    "price": 86950.0
+   },
+   {
+    "size": "260×120",
+    "sku": "102686",
+    "price": 102950.0
+   },
+   {
+    "size": "280×120",
+    "sku": "102687",
+    "price": 105950.0
+   }
+  ]
+ },
+ {
+  "name": "Дюна",
+  "form": "Овальний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-143898227952-obdni-ovalnii-stl-dyuna",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-7ea6d76948.jpg",
+  "rows": [
+   {
+    "size": "180×90",
+    "sku": "102688",
+    "price": 84950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102689",
+    "price": 93950.0
+   },
+   {
+    "size": "200×110",
+    "sku": "",
+    "price": 99950.0
+   },
+   {
+    "size": "240×110",
+    "sku": "102690",
+    "price": 108950.0
+   },
+   {
+    "size": "260×120",
+    "sku": "102691",
+    "price": 127950.0
+   },
+   {
+    "size": "280×120",
+    "sku": "102692",
+    "price": 132950.0
+   }
+  ]
+ },
+ {
+  "name": "Онікс",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-603291924114-obdni-pryamokutnii-stl-onks",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-ea8cdc369e.jpg",
+  "rows": [
+   {
+    "size": "200×105",
+    "sku": "",
+    "price": 89950.0
+   },
+   {
+    "size": "240×105",
+    "sku": "",
+    "price": 92950.0
+   },
+   {
+    "size": "280×105",
+    "sku": "",
+    "price": 105950.0
+   }
+  ]
+ },
+ {
+  "name": "Горизонт",
+  "form": "Овальний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Деревʼяні",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-413680537384-obdni-ovalnii-stl-gorizont",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-f697dfe91d.jpg",
+  "rows": [
+   {
+    "size": "180×90",
+    "sku": "102920",
+    "price": 55950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102921",
+    "price": 65950.0
+   },
+   {
+    "size": "220×110",
+    "sku": "102922",
+    "price": 74950.0
+   },
+   {
+    "size": "240×110",
+    "sku": "102923",
+    "price": 82950.0
+   },
+   {
+    "size": "260×120",
+    "sku": "102924",
+    "price": 89950.0
+   },
+   {
+    "size": "280×120",
+    "sku": "102925",
+    "price": 92950.0
+   }
+  ]
+ },
+ {
+  "name": "Промінь 3X",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-661462169941-obdni-kruglii-stl-promn",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-b8528323d4.jpg",
+  "rows": [
+   {
+    "size": "Ø70",
+    "sku": "102124",
+    "price": 13950.0
+   },
+   {
+    "size": "Ø80",
+    "sku": "102125",
+    "price": 14950.0
+   },
+   {
+    "size": "Ø90",
+    "sku": "102126",
+    "price": 17950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102127",
+    "price": 19950.0
+   }
+  ]
+ },
+ {
+  "name": "Промінь 4X",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-661462169941-obdni-kruglii-stl-promn",
+  "image": "",
+  "rows": [
+   {
+    "size": "Ø110",
+    "sku": "102128",
+    "price": 25950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102129",
+    "price": 28950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "102130",
+    "price": 32950.0
+   }
+  ]
+ },
+ {
+  "name": "Промінь 3X",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-661462169941-obdni-kruglii-stl-promn",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-b8528323d4.jpg",
+  "rows": [
+   {
+    "size": "Ø70",
+    "sku": "102131",
+    "price": 16950.0
+   },
+   {
+    "size": "Ø80",
+    "sku": "102132",
+    "price": 19950.0
+   },
+   {
+    "size": "Ø90",
+    "sku": "102133",
+    "price": 22950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102134",
+    "price": 25950.0
+   }
+  ]
+ },
+ {
+  "name": "Промінь 4X",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-661462169941-obdni-kruglii-stl-promn",
+  "image": "",
+  "rows": [
+   {
+    "size": "Ø110",
+    "sku": "102135",
+    "price": 32950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102136",
+    "price": 37950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "102137",
+    "price": 42950.0
+   }
+  ]
+ },
+ {
+  "name": "Зоря",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-791018040441-obdni-kruglii-stl-zorya",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-540d71c79c.jpg",
+  "rows": [
+   {
+    "size": "Ø80",
+    "sku": "102416",
+    "price": 16950.0
+   },
+   {
+    "size": "Ø90",
+    "sku": "102417",
+    "price": 18950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102418",
+    "price": 20950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "102419",
+    "price": 24950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102420",
+    "price": 28950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "102421",
+    "price": 32950.0
+   }
+  ]
+ },
+ {
+  "name": "Зоря",
+  "form": "Круглий",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-445159151401-obdni-kruglii-stl-zorya",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-25d9e364c5.jpg",
+  "rows": [
+   {
+    "size": "Ø80",
+    "sku": "102422",
+    "price": 20950.0
+   },
+   {
+    "size": "Ø90",
+    "sku": "102423",
+    "price": 23950.0
+   },
+   {
+    "size": "Ø100",
+    "sku": "102424",
+    "price": 26950.0
+   },
+   {
+    "size": "Ø110",
+    "sku": "102425",
+    "price": 31950.0
+   },
+   {
+    "size": "Ø120",
+    "sku": "102426",
+    "price": 36950.0
+   },
+   {
+    "size": "Ø130",
+    "sku": "102427",
+    "price": 42950.0
+   }
+  ]
+ },
+ {
+  "name": "Зоря",
+  "form": "Круглий",
+  "ext": true,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-524896249761-obdni-kruglii-stl-zorya-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-d97aa44c0c.jpg",
+  "rows": [
+   {
+    "size": "Ø80+30",
+    "sku": "102440",
+    "price": 25950.0
+   },
+   {
+    "size": "Ø90+30",
+    "sku": "102441",
+    "price": 27950.0
+   },
+   {
+    "size": "Ø100+40",
+    "sku": "102442",
+    "price": 33950.0
+   },
+   {
+    "size": "Ø110+40",
+    "sku": "102443",
+    "price": 37950.0
+   },
+   {
+    "size": "Ø120+40",
+    "sku": "102444",
+    "price": 42950.0
+   }
+  ]
+ },
+ {
+  "name": "Зоря",
+  "form": "Круглий",
+  "ext": true,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-524896249761-obdni-kruglii-stl-zorya-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-d97aa44c0c.jpg",
+  "rows": [
+   {
+    "size": "Ø80+30",
+    "sku": "102445",
+    "price": 29950.0
+   },
+   {
+    "size": "Ø90+30",
+    "sku": "102446",
+    "price": 32950.0
+   },
+   {
+    "size": "Ø100+40",
+    "sku": "102447",
+    "price": 39950.0
+   },
+   {
+    "size": "Ø110+40",
+    "sku": "102448",
+    "price": 45950.0
+   },
+   {
+    "size": "Ø120+40",
+    "sku": "102449",
+    "price": 51950.0
+   }
+  ]
+ },
+ {
+  "name": "Іскра",
+  "form": "Круглий",
+  "ext": true,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-300295870671-obdni-kruglii-stl-skra-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-40ff7260ea.jpg",
+  "rows": [
+   {
+    "size": "Ø90+30",
+    "sku": "102500",
+    "price": 28950.0
+   },
+   {
+    "size": "Ø100+30",
+    "sku": "102501",
+    "price": 33950.0
+   },
+   {
+    "size": "Ø110+40",
+    "sku": "102502",
+    "price": 37950.0
+   },
+   {
+    "size": "Ø120+40",
+    "sku": "102503",
+    "price": 42950.0
+   }
+  ]
+ },
+ {
+  "name": "Іскра",
+  "form": "Круглий",
+  "ext": true,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-300295870671-obdni-kruglii-stl-skra-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-40ff7260ea.jpg",
+  "rows": [
+   {
+    "size": "Ø90+30",
+    "sku": "102504",
+    "price": 33950.0
+   },
+   {
+    "size": "Ø100+30",
+    "sku": "102505",
+    "price": 40950.0
+   },
+   {
+    "size": "Ø110+40",
+    "sku": "102506",
+    "price": 45950.0
+   },
+   {
+    "size": "Ø120+40",
+    "sku": "102507",
+    "price": 51950.0
+   }
+  ]
+ },
+ {
+  "name": "Простір",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "металеві ноги 60х30 мм, стільниця 36 мм, універсальне кріплення ніг, можливі опції скіс 45°, скіс 60°, Живий край, заокруглення мале R5, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-235036049782-obdni-ta-robochii-pryamokutnii-stl-prost",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-753c60d3f8.jpg",
+  "rows": [
+   {
+    "size": "100×70",
+    "sku": "102000",
+    "price": 15950.0
+   },
+   {
+    "size": "120×70",
+    "sku": "102001",
+    "price": 17950.0
+   },
+   {
+    "size": "120×80",
+    "sku": "102002",
+    "price": 20950.0
+   },
+   {
+    "size": "140×70",
+    "sku": "102003",
+    "price": 19950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102004",
+    "price": 23950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102005",
+    "price": 25950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "102006",
+    "price": 28950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102007",
+    "price": 28950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102008",
+    "price": 31950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102009",
+    "price": 34950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102010",
+    "price": 38950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102011",
+    "price": 41950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "102012",
+    "price": 46950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "102013",
+    "price": 51950.0
+   }
+  ]
+ },
+ {
+  "name": "Простір",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "металеві ноги 60х30 мм, стільниця 36 мм, універсальне кріплення ніг, можливі опції скіс 45°, скіс 60°, Живий край, заокруглення мале R5, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-235036049782-obdni-ta-robochii-pryamokutnii-stl-prost",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-753c60d3f8.jpg",
+  "rows": [
+   {
+    "size": "100×70",
+    "sku": "102014",
+    "price": 20950.0
+   },
+   {
+    "size": "120×70",
+    "sku": "102015",
+    "price": 23950.0
+   },
+   {
+    "size": "120×80",
+    "sku": "102016",
+    "price": 26950.0
+   },
+   {
+    "size": "140×70",
+    "sku": "102017",
+    "price": 25950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102018",
+    "price": 29950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102019",
+    "price": 33950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "102020",
+    "price": 37950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102021",
+    "price": 36950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102022",
+    "price": 41950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102023",
+    "price": 44950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102024",
+    "price": 50950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102025",
+    "price": 54950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "102026",
+    "price": 60950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "102027",
+    "price": 66950.0
+   }
+  ]
+ },
+ {
+  "name": "Формат",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "металеві ноги 60х30 мм, стільниця 36 мм, універсальне кріплення ніг, можливі опції скіс 45°, скіс 60°, Живий край, заокруглення мале R5, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-558758258421-obdni-ta-robochii-pryamokutnii-stl-forma",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-5ecabab0ad.jpg",
+  "rows": [
+   {
+    "size": "100×70",
+    "sku": "102042",
+    "price": 15950.0
+   },
+   {
+    "size": "120×70",
+    "sku": "102043",
+    "price": 17950.0
+   },
+   {
+    "size": "120×80",
+    "sku": "102044",
+    "price": 20950.0
+   },
+   {
+    "size": "140×70",
+    "sku": "102045",
+    "price": 19950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102046",
+    "price": 23950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102047",
+    "price": 25950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "102048",
+    "price": 28950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102049",
+    "price": 28950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102050",
+    "price": 31950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102051",
+    "price": 34950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102052",
+    "price": 38950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102053",
+    "price": 41950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "102054",
+    "price": 46950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "102055",
+    "price": 51950.0
+   }
+  ]
+ },
+ {
+  "name": "Формат",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "металеві ноги 60х30 мм, стільниця 36 мм, універсальне кріплення ніг, можливі опції скіс 45°, скіс 60°, Живий край, заокруглення мале R5, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-558758258421-obdni-ta-robochii-pryamokutnii-stl-forma",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-5ecabab0ad.jpg",
+  "rows": [
+   {
+    "size": "100×70",
+    "sku": "102056",
+    "price": 20950.0
+   },
+   {
+    "size": "120×70",
+    "sku": "102057",
+    "price": 23950.0
+   },
+   {
+    "size": "120×80",
+    "sku": "102058",
+    "price": 26950.0
+   },
+   {
+    "size": "140×70",
+    "sku": "102059",
+    "price": 25950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102060",
+    "price": 29950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102061",
+    "price": 33950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "102062",
+    "price": 37950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102063",
+    "price": 36950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102064",
+    "price": 41950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102065",
+    "price": 44950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102066",
+    "price": 50950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102067",
+    "price": 54950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "102068",
+    "price": 60950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "102069",
+    "price": 66950.0
+   }
+  ]
+ },
+ {
+  "name": "Акцент",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, Живий край, заокруглення мале R5, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-901304696451-obdni-stl-aktsent",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-24db2791be.jpg",
+  "rows": [
+   {
+    "size": "100×70",
+    "sku": "102282",
+    "price": 15950.0
+   },
+   {
+    "size": "120×70",
+    "sku": "102283",
+    "price": 17950.0
+   },
+   {
+    "size": "120×80",
+    "sku": "102284",
+    "price": 20950.0
+   },
+   {
+    "size": "140×70",
+    "sku": "102285",
+    "price": 19950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102286",
+    "price": 23950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102287",
+    "price": 25950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "102288",
+    "price": 28950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102289",
+    "price": 28950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102290",
+    "price": 31950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102291",
+    "price": 34950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102292",
+    "price": 38950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102293",
+    "price": 41950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "102294",
+    "price": 46950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "102295",
+    "price": 51950.0
+   }
+  ]
+ },
+ {
+  "name": "Акцент",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, Живий край, заокруглення мале R5, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-901304696451-obdni-stl-aktsent",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-24db2791be.jpg",
+  "rows": [
+   {
+    "size": "100×70",
+    "sku": "102296",
+    "price": 20950.0
+   },
+   {
+    "size": "120×70",
+    "sku": "102297",
+    "price": 23950.0
+   },
+   {
+    "size": "120×80",
+    "sku": "102298",
+    "price": 26950.0
+   },
+   {
+    "size": "140×70",
+    "sku": "102299",
+    "price": 25950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102300",
+    "price": 29950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102301",
+    "price": 33950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "102302",
+    "price": 37950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102303",
+    "price": 36950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102304",
+    "price": 41950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102305",
+    "price": 44950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102306",
+    "price": 50950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102307",
+    "price": 54950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "102308",
+    "price": 60950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "102309",
+    "price": 66950.0
+   }
+  ]
+ },
+ {
+  "name": "Міраж",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "металеві ноги 60х30 мм, стільниця 36 мм, універсальне кріплення ніг, можливі опції скіс 45°, скіс 60°, Живий край, заокруглення мале R5, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-335696942834-obdni-pryamokutnii-stl-mrazh",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-cce578e6fa.jpg",
+  "rows": [
+   {
+    "size": "120×80",
+    "sku": "102084",
+    "price": 20950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102085",
+    "price": 23950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102086",
+    "price": 25950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "102087",
+    "price": 28950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102088",
+    "price": 28950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102089",
+    "price": 31950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102090",
+    "price": 38950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102091",
+    "price": 41950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "102092",
+    "price": 46950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "102093",
+    "price": 50950.0
+   }
+  ]
+ },
+ {
+  "name": "Міраж",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "металеві ноги 60х30 мм, стільниця 36 мм, універсальне кріплення ніг, можливі опції скіс 45°, скіс 60°, Живий край, заокруглення мале R5, заокруглення велике R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-335696942834-obdni-pryamokutnii-stl-mrazh",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-efa465e5de.jpg",
+  "rows": [
+   {
+    "size": "120×80",
+    "sku": "102094",
+    "price": 27950.0
+   },
+   {
+    "size": "140×80",
+    "sku": "102095",
+    "price": 30950.0
+   },
+   {
+    "size": "160×80",
+    "sku": "102096",
+    "price": 33950.0
+   },
+   {
+    "size": "160×90",
+    "sku": "102097",
+    "price": 37950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102098",
+    "price": 36950.0
+   },
+   {
+    "size": "180×90",
+    "sku": "102099",
+    "price": 41950.0
+   },
+   {
+    "size": "200×100",
+    "sku": "102100",
+    "price": 49950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "102101",
+    "price": 53950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "102102",
+    "price": 59950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "102103",
+    "price": 66950.0
+   }
+  ]
+ },
+ {
+  "name": "Контур",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "Можливі опції заокруглення мале R5",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-614305226801-obdni-pryamokutnii-stl-kontur",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-6ceaace191.jpg",
+  "rows": [
+   {
+    "size": "150×80",
+    "sku": "102566",
+    "price": 26950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102567",
+    "price": 29950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102568",
+    "price": 35950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "",
+    "price": 41950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "",
+    "price": 46950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "",
+    "price": 51950.0
+   }
+  ]
+ },
+ {
+  "name": "Контур",
+  "form": "Прямокутний",
+  "ext": false,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "Можливі опції заокруглення мале R5",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-614305226801-obdni-pryamokutnii-stl-kontur",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-6ceaace191.jpg",
+  "rows": [
+   {
+    "size": "150×80",
+    "sku": "102571",
+    "price": 35950.0
+   },
+   {
+    "size": "180×80",
+    "sku": "102572",
+    "price": 38950.0
+   },
+   {
+    "size": "200×90",
+    "sku": "102573",
+    "price": 46950.0
+   },
+   {
+    "size": "220×100",
+    "sku": "",
+    "price": 54950.0
+   },
+   {
+    "size": "250×100",
+    "sku": "",
+    "price": 60950.0
+   },
+   {
+    "size": "280×100",
+    "sku": "",
+    "price": 67950.0
+   }
+  ]
+ },
+ {
+  "name": "Іскра",
+  "form": "Прямокутний",
+  "ext": true,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-959373671582-obdni-ovalnii-stl-skra-rozkladnii",
+  "image": "",
+  "rows": [
+   {
+    "size": "120×80+40",
+    "sku": "",
+    "price": 31950.0
+   },
+   {
+    "size": "140×80+40",
+    "sku": "",
+    "price": 34950.0
+   },
+   {
+    "size": "160×80+40",
+    "sku": "",
+    "price": 37950.0
+   }
+  ]
+ },
+ {
+  "name": "Іскра",
+  "form": "Прямокутний",
+  "ext": true,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-959373671582-obdni-ovalnii-stl-skra-rozkladnii",
+  "image": "",
+  "rows": [
+   {
+    "size": "120×80+40",
+    "sku": "",
+    "price": 37950.0
+   },
+   {
+    "size": "140×80+40",
+    "sku": "",
+    "price": 41950.0
+   },
+   {
+    "size": "160×80+40",
+    "sku": "",
+    "price": 45950.0
+   }
+  ]
+ },
+ {
+  "name": "Іскра",
+  "form": "Овальний",
+  "ext": true,
+  "material": "Ясен",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-959373671582-obdni-ovalnii-stl-skra-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-d31913ed24.jpg",
+  "rows": [
+   {
+    "size": "120×80+40",
+    "sku": "102482",
+    "price": 31950.0
+   },
+   {
+    "size": "140×80+40",
+    "sku": "102483",
+    "price": 34950.0
+   },
+   {
+    "size": "160×80+40",
+    "sku": "102484",
+    "price": 37950.0
+   }
+  ]
+ },
+ {
+  "name": "Іскра",
+  "form": "Овальний",
+  "ext": true,
+  "material": "Дуб",
+  "legs": "Металеві",
+  "notes": "Можливі опції скіс 45°, скіс 60°, скіс R30",
+  "link": "https://masio.com.ua/obidni-stoly/tproduct/1203002406-959373671582-obdni-ovalnii-stl-skra-rozkladnii",
+  "image": "https://raw.githubusercontent.com/akordmebli/furniture-feed/main/assets/masio/masio-e100d1de16.jpg",
+  "rows": [
+   {
+    "size": "120×80+40",
+    "sku": "102485",
+    "price": 37950.0
+   },
+   {
+    "size": "140×80+40",
+    "sku": "102486",
+    "price": 41950.0
+   },
+   {
+    "size": "160×80+40",
+    "sku": "102487",
+    "price": 45950.0
+   }
+  ]
+ }
+]
