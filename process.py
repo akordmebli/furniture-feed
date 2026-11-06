@@ -6,6 +6,7 @@
   VETRO_XML    — YML-фід Vetro Mebel (беремо ЛИШЕ українські поля name_ua / description_ua)
   COMEFOR_XML  — фід Come-For (ціна в <priceuah>, фото в <image>)
   WOODMAN_CSV  — таблиця Woodman (необов'язково; вмикається WOODMAN_ENABLED=1)
+  sources/pavlyk.xml — YML-файл Pavlyk (постійного посилання немає; оновлювати файл вручну)
 
 Категорії: кожен товар отримує product_type — назву кінцевої категорії з дерева магазину
 (див. TREE). Автоматичні колекції в Shopify будуються саме за product_type.
@@ -504,6 +505,142 @@ def parse_woodman(text):
         ))
     return products
 
+
+
+# ---------- Pavlyk (статичний YML-файл sources/pavlyk.xml; постійного посилання на фід немає) ----------
+PAVLYK_TYPES = {"2": "Обідні столи", "3": "Обідні столи", "5": "Обідні стільці", "6": "Обідні стільці",
+                "7": "Барні стільці", "8": "Журнальні столики і консолі"}
+# габарити з карток Pavlyk в Епіцентрі (Ш × Г × В, см); для стільців Довжина = ширина виробу
+PAVLYK_DIMS = {"1877": ("44", "", "83"), "1880": ("47", "", "81"), "2092": ("44", "", "83")}
+PAVLYK_COLORS = {"венге+натуральный": "Венге + натуральний", "белый+натуральный": "Білий + натуральний",
+                 "бук натуральний": "Натуральний", "натуральний": "Натуральний"}
+
+
+def _pav_opts(o, name, params, ptype):
+    low = name.lower()
+    d = {}
+    m = re.search(r"(\d{2,3})\s*[xхXХ×]\s*(\d{2,3})", name)
+    dm = re.search(r"\bd\s?(\d{3})\b", name)
+    rd = re.search(r"(?<![\dxх])(\d{3})\s*\+", name)
+    if m:
+        a, b = sorted((int(m[1]), int(m[2])))
+        d["size"] = f"{a}х{b}"
+    elif dm:
+        d["size"] = f"Ø{round(int(dm[1]) / 10)}"
+    elif rd:
+        d["size"] = f"Ø{rd[1]}"
+    ext = re.search(r"((?:\+\s*\d{2})+)", name)
+    if ext:
+        d["ext"] = ext[1].replace(" ", "") + " см"
+    elif "розкладн" in low:
+        d["ext"] = "розкладний"
+    if "рустік" in low:
+        d["grade"] = "Рустік"
+    elif "в/с" in low:
+        d["grade"] = "Вищий"
+    mat = params.get("Матеріал", "")
+    if "бук" in mat or re.search(r"\bбук\b", low):
+        d["material"] = "Масив бука"
+    elif "дуб" in mat or re.search(r"\bдуб\b", low):
+        d["material"] = "Масив дуба"
+    model = params.get("Модель", "")
+    for w in ("Soft", "Cane", "Tender"):
+        if re.search(rf"\b{w}\b", name):
+            model = w
+    if model in ("Soft", "Cane", "Tender", "Класична"):
+        d["model"] = model
+    col = params.get("Колір", "") or params.get("Колір/виконання", "")
+    if "чорний" in low:
+        d["color"] = "Чорний"
+    elif col.lower() in PAVLYK_COLORS:
+        d["color"] = PAVLYK_COLORS[col.lower()]
+    return d
+
+
+def parse_pavlyk(text):
+    root = ET.fromstring(text.encode("utf-8"))
+    groups = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources", "pavlyk_groups.json"),
+                            encoding="utf-8"))
+    by_group = {}
+    for o in root.iter("offer"):
+        by_group.setdefault(o.get("group_id"), []).append(o)
+    out = []
+    for gid, offers in by_group.items():
+        g = groups.get(gid, {})
+        ptype = PAVLYK_TYPES.get(offers[0].findtext("categoryId", ""), "")
+        title = g.get("title") or clean_text(offers[0].findtext("model", ""))
+        handle = "pavlyk-" + slug(title.replace(" Pavlyk", ""))
+        items = []
+        for o in offers:
+            name = clean_text(o.findtext("name", ""))
+            params = {p.get("name"): (p.text or "").strip() for p in o.findall("param")}
+            items.append((o, name, _pav_opts(o, name, params, ptype)))
+        # «(каркас дуб)» лише в частині назв — якщо в групі один матеріал, він стосується всіх варіантів
+        mats = {it[2]["material"] for it in items if it[2].get("material")}
+        if len(mats) == 1:
+            for it in items:
+                it[2]["material"] = next(iter(mats))
+        # сорт без позначки в групі з «В/С» — дубль варіанту вищого сорту: лишаємо позначений
+        if any("в/с" in it[1].lower() for it in items):
+            items = [it for it in items if it[2].get("grade") or not any(
+                "в/с" in j[1].lower() and j[2].get("size") == it[2].get("size") for j in items)]
+        # дублікати (той самий варіант під іншою назвою, напр. «розкладний Ori 160х90» = «+40»): лишаємо перший з «+»
+        keys = ("size", "ext", "grade", "material", "model", "color")
+        def sig(d):
+            return tuple(d.get(k, "") for k in keys if k != "ext") + (d.get("ext", "")[:1] == "+" or d.get("ext") == "розкладний",)
+        seen, kept = {}, []
+        for it in items:
+            s = sig(it[2])
+            if s in seen:
+                prev = seen[s]
+                if it[2].get("ext", "").startswith("+") and not prev[2].get("ext", "").startswith("+"):
+                    kept[kept.index(prev)] = it
+                    seen[s] = it
+                continue
+            seen[s] = it
+            kept.append(it)
+        items = kept
+        for it in items:  # «розкладний» без розміру вставки — розкладна версія з тією ж вставкою, що й інші
+            if it[2].get("ext") == "розкладний":
+                it[2].pop("ext")
+        varies = lambda k: len({it[2].get(k, "") for it in items}) > 1
+        has_ext = any(it[2].get("ext") for it in items)
+        labels = [("size", "Розмір стільниці"), ("material", "Матеріал"), ("model", "Модель"),
+                  ("color", "Колір"), ("ext", "Розкладання"), ("grade", "Сорт")]
+        defaults = {"model": "Класична", "grade": "Вищий", "ext": "Нерозкладний" if has_ext else "", "color": "Стандартний"}
+        opt_keys = [k for k, _ in labels if varies(k)]
+        if "ext" in opt_keys and "size" in opt_keys:  # вставка однозначно залежить від розміру — окрема опція зайва
+            pairs = {(it[2].get("size"), it[2].get("ext", "")) for it in items}
+            if len(pairs) == len({p[0] for p in pairs}):
+                opt_keys.remove("ext")
+        opt_keys = opt_keys[:3]
+        dims = PAVLYK_DIMS.get(gid, ("", "", ""))
+        for o, name, d in items:
+            vals = [d.get(k) or defaults.get(k, "—") for k in opt_keys]
+            sz = d.get("size", "")
+            ln = wd = ""
+            if sz.startswith("Ø"):
+                ln = wd = sz[1:]
+            elif sz:
+                wd, ln = sz.split("х")
+            if ptype in CHAIR_TYPES:
+                ln, wd = dims[0], dims[1]
+            pics = [p.text.strip() for p in o.findall("picture") if p.text]
+            p = product(
+                source="pavlyk", sku=f"PAV-{o.get('id')}", handle=handle, name=title,
+                price=clean_price(o.findtext("price", "")), product_type=ptype, images=pics,
+                description=g.get("desc", ""), available=o.get("available") == "true", vendor="Pavlyk",
+                length=ln, width=wd, height=dims[2] if ptype in CHAIR_TYPES else "",
+                opts={k2: v for k2, v in (("material", d.get("material", "")), ("tabletop_size", sz)) if v},
+            )
+            if ptype in CHAIR_TYPES:
+                p["opts"].pop("tabletop_size", None)
+            p["option_names"] = [dict(labels)[k] for k in opt_keys]
+            p["option_values"] = vals
+            p["shape"] = g.get("shape", "")
+            p["meta_title"] = f"{title} | купити в АКОРД МЕБЛІ"
+            out.append(p)
+    return out
 
 
 # ---------- групування у варіанти ----------
@@ -1046,7 +1183,7 @@ def build_tab_characteristics_other(items):
     else:
         lines += [("Довжина", " / ".join(ln) + " см" if ln else ""), ("Ширина", " / ".join(wd) + " см" if wd else "")]
     lines.append(("Висота", " / ".join(ht) + " см" if ht else ""))
-    for label in ("Колір каркаса", "Колір тканини", "Колір"):
+    for label in ("Матеріал", "Колір каркаса", "Колір тканини", "Колір"):
         seen = []
         for i in items:
             for n, v in zip(i.get("option_names") or [], i.get("option_values") or []):
@@ -1201,6 +1338,8 @@ def tabletop_shape(p):
     """Форма стільниці для столів: модель → «Форма: …» у даних постачальника → діаметр/Ø → розмір «ДхШ»."""
     if not re.search(r"стіл(?!ець|ьц)|стол|консол", p["name"].lower()):
         return []
+    if p.get("shape"):
+        return [p["shape"]]
     up = p["name"].upper()
     for k, v in SHAPE_BY_MODEL.items():
         if re.search(rf"(?<![A-ZА-ЯІЇЄҐ]){k}(?![A-ZА-ЯІЇЄҐ])", up):
@@ -1589,6 +1728,7 @@ def main():
         ("Vetro", "VETRO_XML", parse_vetro, True),
         ("Come-For", "COMEFOR_XML", parse_comefor, True),
         ("Woodman", "WOODMAN_CSV", parse_woodman, os.environ.get("WOODMAN_ENABLED", "1") == "1"),
+        ("Pavlyk", "file:sources/pavlyk.xml", parse_pavlyk, True),
     ]
     all_products, failed = [], []
     all_products += parse_manual()
@@ -1597,7 +1737,11 @@ def main():
             print(f"{label}: вимкнено")
             continue
         try:
-            items = parser(fetch_text(os.environ[env]))
+            if env.startswith("file:"):
+                src = os.path.join(os.path.dirname(os.path.abspath(__file__)), env[5:])
+                items = parser(open(src, encoding="utf-8").read())
+            else:
+                items = parser(fetch_text(os.environ[env]))
         except Exception as e:  # noqa: BLE001
             print(f"{label}: ПОМИЛКА — {e}")
             failed.append(label)

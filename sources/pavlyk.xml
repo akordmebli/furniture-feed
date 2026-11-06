@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-29 12:00">
+<shop>
+<name>MAREN home</name>
+<company>MAREN home</company>
+<url>https://maren.com.ua/</url>
+<currencies><currency id="UAH" rate="1"/></currencies>
+<categories>
+<category id="1">Столи обідні</category>
+<category id="2" parentId="1">Столи дерев'яні круглі, овальні</category>
+<category id="3" parentId="1">Столи дерев'яні квадратні, прямокутні</category>
+<category id="4">Стільці та крісла для дому, офісу, HoReCa</category>
+<category id="5" parentId="4">Стільці з м'яким сидінням</category>
+<category id="6" parentId="4">Стільці з твердим сидінням</category>
+<category id="7">Барні стільці</category>
+<category id="8">Журнальні столики</category>
+</categories>
+<offers>
+<offer id="1084146771" group_id="1792" available="true">
+<name>Стіл розкладний Софі 153х102+38</name>
+<model>Стіл розкладний Софі 153х102+38</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0230</vendorCode>
+<price>21055</price><currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<param name="Варіант">Стіл розкладний Софі 153х102+38</param>
+<param name="Розмір">153х102+38</param>
+<picture>https://maren.com.ua/content/images/43/1200x1200l80nn0/20983287570788.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1400x1200l80nn0/stil-rozkladnyi-sofi-153kh10238-86073764925678.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1000x1000l80nn0/stl-rozkladniy-sof-153x10238-14003820431372.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1100x1400l80nn0/stil-rozkladnyi-sofi-153kh10238-88842772919333.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1000x1000l80nn0/stl-rozkladniy-sof-153x10238-77780379361319.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1400x1100l80nn0/stil-rozkladnyi-sofi-153kh10238-80831160604825.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1400x1100l80nn0/stil-rozkladnyi-sofi-153kh10238-88072372504474.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1400x933l80nn0/stil-rozkladnyi-sofi-153kh10238-23103702265361.webp</picture>
+</offer>
+<offer id="1084176873" group_id="1793" available="true">
+<name>Стіл "Соренто" каркас бук</name>
+<model>Стіл "Соренто"</model>
+<vendor>Pavlyk</vendor><vendorCode>STO1173</vendorCode>
+<price>18400</price><currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<param name="Варіант">Стіл "Соренто" каркас бук</param>
+<picture>https://maren.com.ua/content/images/44/1000x1000l80nn0/stl-sorento-karkas-buk-15882057244754.webp</picture>
+<picture>https://maren.com.ua/content/images/44/1000x1000l80nn0/stl-sorento-karkas-buk-85646797797298.webp</picture>
+<picture>https://maren.com.ua/content/images/44/1000x1000l80nn0/stl-sorento-karkas-buk-48452304483025.webp</picture>
+<picture>https://maren.com.ua/content/images/44/1000x1000l80nn0/stl-sorento-karkas-buk-38640991033729.webp</picture>
+<picture>https://maren.com.ua/content/images/44/1000x1000l80nn0/stl-sorento-karkas-buk-77715593182011.webp</picture>
+<picture>https://maren.com.ua/content/images/44/1000x1000l80nn0/stl-sorento-karkas-buk-76248888768815.webp</picture>
+</offer>
+<offer id="2466888871" group_id="1793" available="true">
+<name>Стіл "Соренто" каркас дуб</name>
+<model>Стіл "Соренто"</model>
+<vendor>Pavlyk</vendor><vendorCode>STO1173</vendorCode>
+<price>19300</price><currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<param name="Варіант">Стіл "Соренто" каркас дуб</param>
+<param name="Колір/виконання">Дуб</param>
+<picture>https://maren.com.ua/content/images/19/1000x1000l80nn0/stl-sorento-karkas-dub-91773803377003.webp</picture>
+<picture>https://maren.com.ua/content/images/19/1000x1000l80nn0/stl-sorento-karkas-dub-60340523114733.webp</picture>
+<picture>https://maren.com.ua/content/images/19/1000x1000l80nn0/stl-sorento-karkas-dub-53270149230456.webp</picture>
+<picture>https://maren.com.ua/content/images/19/1000x1000l80nn0/stl-sorento-karkas-dub-48805951438524.webp</picture>
+<picture>https://maren.com.ua/content/images/19/1000x1000l80nn0/stl-sorento-karkas-dub-87555869022283.webp</picture>
+<picture>https://maren.com.ua/content/images/19/1000x1000l80nn0/stl-sorento-karkas-dub-27216645984684.webp</picture>
+</offer>
+<offer id="1085301201" group_id="1795" available="true">
+<name>Стіл Торонто (каркас бук)</name>
+<model>Стіл Торонто</model>
+<vendor>Pavlyk</vendor><vendorCode>STO1174</vendorCode>
+<price>17250</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Торонто (каркас бук)</param>
+<picture>https://maren.com.ua/content/images/46/1000x1000l80nn0/stl-toronto-karkas-buk-77542623780335.webp</picture>
+<picture>https://maren.com.ua/content/images/46/1000x1000l80nn0/stl-toronto-karkas-buk-77128895642298.webp</picture>
+<picture>https://maren.com.ua/content/images/46/1000x1000l80nn0/stl-toronto-karkas-buk-67159239335974.webp</picture>
+<picture>https://maren.com.ua/content/images/46/1000x1000l80nn0/stl-toronto-karkas-buk-20543597692923.webp</picture>
+<picture>https://maren.com.ua/content/images/46/1000x1000l80nn0/stl-toronto-karkas-buk-58684642214539.webp</picture>
+<picture>https://maren.com.ua/content/images/46/1000x1000l80nn0/stl-toronto-karkas-buk-49482191213049.webp</picture>
+</offer>
+<offer id="2470139444" group_id="1795" available="true">
+<name>Стіл Торонто (каркас дуб)</name>
+<model>Стіл Торонто</model>
+<vendor>Pavlyk</vendor><vendorCode>STO1174</vendorCode>
+<price>19060</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Торонто (каркас дуб)</param>
+<param name="Колір/виконання">Дуб</param>
+<picture>https://maren.com.ua/content/images/20/1000x1000l80nn0/stl-toronto-karkas-dub-92850994393518.webp</picture>
+<picture>https://maren.com.ua/content/images/20/1000x1000l80nn0/stl-toronto-karkas-dub-77196869271198.webp</picture>
+<picture>https://maren.com.ua/content/images/20/1000x1000l80nn0/stl-toronto-karkas-dub-50530092268811.webp</picture>
+<picture>https://maren.com.ua/content/images/20/1000x1000l80nn0/stl-toronto-karkas-dub-42465682385324.webp</picture>
+<picture>https://maren.com.ua/content/images/20/1000x1000l80nn0/stl-toronto-karkas-dub-96779388602383.webp</picture>
+<picture>https://maren.com.ua/content/images/20/1000x1000l80nn0/stl-toronto-karkas-dub-11287820298469.webp</picture>
+</offer>
+<offer id="1086816547" group_id="1803" available="true">
+<name>Стіл Ori 160х90</name>
+<model>Стіл Ori 160х90</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0261</vendorCode>
+<price>27200</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Ori 160х90</param>
+<picture>https://maren.com.ua/content/images/4/1200x710l80nn0/84581296749284.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-17475939824741.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x800l80nn0/ctil-ori-160kh90-29329318640041.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-78399679372285.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/ctil-ori-160kh90-32041115063479.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1500x1500l80nn0/stl-ori-160x90-49727831058312.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/stl-ori-160x90-87836216042194.webp</picture>
+<picture>https://maren.com.ua/content/images/4/999x1500l80nn0/stl-ori-160x90-14985839558024.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1500l80nn0/stl-ori-160x90-31958481216935.webp</picture>
+</offer>
+<offer id="1086819075" group_id="1803" available="true">
+<name>Стіл розкладний Ori 160х90+40</name>
+<model>Стіл Ori 160х90</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0261</vendorCode>
+<price>27200</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл розкладний Ori 160х90+40</param>
+<picture>https://maren.com.ua/content/images/4/1200x710l80nn0/84581296749284.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x800l80nn0/ctil-ori-160kh90-29329318640041.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-17475939824741.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/ctil-ori-160kh90-32041115063479.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-78399679372285.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1500x1500l80nn0/stl-ori-160x90-49727831058312.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/stl-ori-160x90-87836216042194.webp</picture>
+<picture>https://maren.com.ua/content/images/4/999x1500l80nn0/stl-ori-160x90-14985839558024.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1500l80nn0/stl-ori-160x90-31958481216935.webp</picture>
+</offer>
+<offer id="2095970760" group_id="1803" available="true">
+<name>Стіл розкладний Ori 160х90</name>
+<model>Стіл Ori 160х90</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0261</vendorCode>
+<price>27200</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл розкладний Ori 160х90</param>
+<picture>https://maren.com.ua/content/images/4/1200x710l80nn0/84581296749284.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x800l80nn0/ctil-ori-160kh90-29329318640041.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-17475939824741.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/ctil-ori-160kh90-32041115063479.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-78399679372285.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1500x1500l80nn0/stl-ori-160x90-49727831058312.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/stl-ori-160x90-87836216042194.webp</picture>
+<picture>https://maren.com.ua/content/images/4/999x1500l80nn0/stl-ori-160x90-14985839558024.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1500l80nn0/stl-ori-160x90-31958481216935.webp</picture>
+</offer>
+<offer id="STO_ORI_120x80" group_id="1803" available="true">
+<name>Стіл Ori 120х80</name>
+<model>Стіл Ori 160х90</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0261</vendorCode>
+<price>20870</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Ori 120х80</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/4/1200x710l80nn0/84581296749284.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x800l80nn0/ctil-ori-160kh90-29329318640041.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-17475939824741.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/ctil-ori-160kh90-32041115063479.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-78399679372285.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1500x1500l80nn0/stl-ori-160x90-49727831058312.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/stl-ori-160x90-87836216042194.webp</picture>
+<picture>https://maren.com.ua/content/images/4/999x1500l80nn0/stl-ori-160x90-14985839558024.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1500l80nn0/stl-ori-160x90-31958481216935.webp</picture>
+</offer>
+<offer id="STO_ORI_120x80_37" group_id="1803" available="true">
+<name>Стіл розкладний Ori 120х80+37</name>
+<model>Стіл Ori 160х90</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0261</vendorCode>
+<price>20870</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл розкладний Ori 120х80+37</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/4/1200x710l80nn0/84581296749284.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x800l80nn0/ctil-ori-160kh90-29329318640041.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-17475939824741.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/ctil-ori-160kh90-32041115063479.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-78399679372285.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1500x1500l80nn0/stl-ori-160x90-49727831058312.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/stl-ori-160x90-87836216042194.webp</picture>
+<picture>https://maren.com.ua/content/images/4/999x1500l80nn0/stl-ori-160x90-14985839558024.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1500l80nn0/stl-ori-160x90-31958481216935.webp</picture>
+</offer>
+<offer id="STO_ORI_160_RUS" group_id="1803" available="true">
+<name>Стіл Ori 160х90+37 сорт Рустік</name>
+<model>Стіл Ori 160х90</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0261</vendorCode>
+<price>26500</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Ori 160х90+37 сорт Рустік</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/4/1200x710l80nn0/84581296749284.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x800l80nn0/ctil-ori-160kh90-29329318640041.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-17475939824741.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/ctil-ori-160kh90-32041115063479.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-78399679372285.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1500x1500l80nn0/stl-ori-160x90-49727831058312.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/stl-ori-160x90-87836216042194.webp</picture>
+<picture>https://maren.com.ua/content/images/4/999x1500l80nn0/stl-ori-160x90-14985839558024.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1500l80nn0/stl-ori-160x90-31958481216935.webp</picture>
+</offer>
+<offer id="STO_ORI_120_RUS" group_id="1803" available="true">
+<name>Стіл Ori 120х80+37 сорт Рустік</name>
+<model>Стіл Ori 160х90</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0261</vendorCode>
+<price>19820</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Ori 120х80+37 сорт Рустік</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/4/1200x710l80nn0/84581296749284.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x800l80nn0/ctil-ori-160kh90-29329318640041.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-17475939824741.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/ctil-ori-160kh90-32041115063479.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stl-ori-160x90-78399679372285.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1500x1500l80nn0/stl-ori-160x90-49727831058312.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1200x720l80nn0/stl-ori-160x90-87836216042194.webp</picture>
+<picture>https://maren.com.ua/content/images/4/999x1500l80nn0/stl-ori-160x90-14985839558024.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1500l80nn0/stl-ori-160x90-31958481216935.webp</picture>
+</offer>
+<offer id="1332636325" group_id="1806" available="true">
+<name>Стіл розкладний Мадрид 100х160+50+50+50+50</name>
+<model>Стіл розкладний Мадрид 100х160+50+50+50+50</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0954</vendorCode>
+<price>36570</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл розкладний Мадрид 100х160+50+50+50+50</param>
+<picture>https://maren.com.ua/content/images/7/1000x1000l80nn0/stl-rozkladniy-madrid-100x16050505050-17737852516807.webp</picture>
+<picture>https://maren.com.ua/content/images/7/1000x1000l80nn0/stl-rozkladniy-madrid-100x16050505050-99932531167609.webp</picture>
+<picture>https://maren.com.ua/content/images/7/709x1063l80nn0/stl-rozkladniy-madrid-100x16050505050-34186895468354.webp</picture>
+<picture>https://maren.com.ua/content/images/7/709x1063l80nn0/stl-rozkladniy-madrid-100x16050505050-58951424611347.webp</picture>
+<picture>https://maren.com.ua/content/images/7/709x1063l80nn0/stl-rozkladniy-madrid-100x16050505050-53738708192799.webp</picture>
+</offer>
+<offer id="1332640281" group_id="1807" available="true">
+<name>Стіл розкладний Нова 127+50+50</name>
+<model>Стіл розкладний Нова Білий + Натуральний 127+50+50</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0955</vendorCode>
+<price>33000</price><currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<param name="Варіант">Стіл розкладний Нова 127+50+50</param>
+<picture>https://maren.com.ua/content/images/8/1000x1000l80nn0/stl-rozkladniy-nova-1275050-90169826353773.webp</picture>
+<picture>https://maren.com.ua/content/images/8/1000x1000l80nn0/stl-rozkladniy-nova-1275050-74369680418749.webp</picture>
+<picture>https://maren.com.ua/content/images/8/1200x1800l80nn0/stl-rozkladniy-nova-1275050-13146887186569.webp</picture>
+<picture>https://maren.com.ua/content/images/8/709x1063l80nn0/stl-rozkladniy-nova-1275050-64937728865663.webp</picture>
+<picture>https://maren.com.ua/content/images/8/1129x1694l80nn0/stl-rozkladniy-nova-1275050-77610070210065.webp</picture>
+<picture>https://maren.com.ua/content/images/8/709x1063l80nn0/stl-rozkladniy-nova-1275050-82291545386022.webp</picture>
+</offer>
+<offer id="2259699074" group_id="1807" available="true">
+<name>Стіл розкладний Нова Венге + Натуральний 127+50+50</name>
+<model>Стіл розкладний Нова Білий + Натуральний 127+50+50</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0955</vendorCode>
+<price>33000</price><currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<param name="Варіант">Стіл розкладний Нова Венге + Натуральний 127+50+50</param>
+<param name="Колір/виконання">Венге+Натуральный</param>
+<picture>https://maren.com.ua/content/images/8/1000x1000l80nn0/stl-rozkladniy-nova-1275050-90169826353773.webp</picture>
+<picture>https://maren.com.ua/content/images/8/1000x1000l80nn0/stl-rozkladniy-nova-1275050-74369680418749.webp</picture>
+<picture>https://maren.com.ua/content/images/8/1200x1800l80nn0/stl-rozkladniy-nova-1275050-13146887186569.webp</picture>
+<picture>https://maren.com.ua/content/images/8/709x1063l80nn0/stl-rozkladniy-nova-1275050-64937728865663.webp</picture>
+<picture>https://maren.com.ua/content/images/8/1129x1694l80nn0/stl-rozkladniy-nova-1275050-77610070210065.webp</picture>
+<picture>https://maren.com.ua/content/images/8/709x1063l80nn0/stl-rozkladniy-nova-1275050-82291545386022.webp</picture>
+</offer>
+<offer id="2259699075" group_id="1807" available="true">
+<name>Стіл розкладний Нова Білий + Натуральний 127+50+50</name>
+<model>Стіл розкладний Нова Білий + Натуральний 127+50+50</model>
+<vendor>Pavlyk</vendor><vendorCode>STO0955</vendorCode>
+<price>33000</price><currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<param name="Варіант">Стіл розкладний Нова Білий + Натуральний 127+50+50</param>
+<param name="Колір/виконання">Белый+Натуральный</param>
+<picture>https://maren.com.ua/content/images/10/1000x1000l80nn0/stl-rozkladniy-nova-bliy-naturalniy-1275050-91744837247536.webp</picture>
+<picture>https://maren.com.ua/content/images/10/1000x1000l80nn0/stl-rozkladniy-nova-bliy-naturalniy-1275050-55372224447701.webp</picture>
+<picture>https://maren.com.ua/content/images/10/1200x1800l80nn0/stl-rozkladniy-nova-bliy-naturalniy-1275050-18175617684417.webp</picture>
+<picture>https://maren.com.ua/content/images/10/709x1063l80nn0/stl-rozkladniy-nova-bliy-naturalniy-1275050-20165988767904.webp</picture>
+<picture>https://maren.com.ua/content/images/10/1129x1694l80nn0/stl-rozkladniy-nova-bliy-naturalniy-1275050-94664272080318.webp</picture>
+<picture>https://maren.com.ua/content/images/10/709x1063l80nn0/stl-rozkladniy-nova-bliy-naturalniy-1275050-59784861950784.webp</picture>
+</offer>
+<offer id="1086877030" group_id="1870" available="true">
+<name>Стілець Геула</name>
+<model>Стілець Геула</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0193</vendorCode>
+<price>3880</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Геула</param>
+<picture>https://maren.com.ua/content/images/12/1023x1245l80nn0/stilets-heula-natural-24827329739280.webp</picture>
+<picture>https://maren.com.ua/content/images/12/1035x1248l80nn0/stilets-heula-natural-45484161209214.webp</picture>
+<picture>https://maren.com.ua/content/images/12/1023x1248l80nn0/stilets-heula-natural-76040672761925.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-55561372389321.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-68723102491992.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-96809895888724.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-88583068862184.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-77546268285181.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-99781582813253.webp</picture>
+</offer>
+<offer id="STI0193-N" group_id="1870" available="true">
+<name>Стілець Геула натурал</name>
+<model>Стілець Геула</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0193</vendorCode>
+<price>3686</price><oldprice>3880</oldprice><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Геула натурал</param>
+<param name="Колір">Бук натуральний</param>
+<picture>https://maren.com.ua/content/images/12/1023x1245l80nn0/stilets-heula-natural-24827329739280.webp</picture>
+<picture>https://maren.com.ua/content/images/12/1035x1248l80nn0/stilets-heula-natural-45484161209214.webp</picture>
+<picture>https://maren.com.ua/content/images/12/1023x1248l80nn0/stilets-heula-natural-76040672761925.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-55561372389321.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-68723102491992.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-96809895888724.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-88583068862184.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-77546268285181.webp</picture>
+<picture>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-99781582813253.webp</picture>
+</offer>
+<offer id="1086880295" group_id="1871" available="true">
+<name>Стілець Грація</name>
+<model>Стілець Грація</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0195</vendorCode>
+<price>4065</price><currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<param name="Варіант">Стілець Грація</param>
+<param name="Матеріал">Масив бука</param>
+<picture>https://maren.com.ua/content/images/22/1000x1000l80nn0/stlec-gracja-13285535440669.webp</picture>
+<picture>https://maren.com.ua/content/images/22/1000x1000l80nn0/stlec-gracja-39784133501641.webp</picture>
+<picture>https://maren.com.ua/content/images/22/1000x1000l80nn0/stlec-gracja-39147046212780.webp</picture>
+<picture>https://maren.com.ua/content/images/22/1000x1000l80nn0/stlec-gracja-37645205063464.webp</picture>
+<picture>https://maren.com.ua/content/images/22/1000x1000l80nn0/stlec-gracja-23176687126130.webp</picture>
+<picture>https://maren.com.ua/content/images/22/1000x1000l80nn0/stlec-gracja-82192421615197.webp</picture>
+</offer>
+<offer id="1087706694" group_id="1874" available="true">
+<name>Стілець Селіна (Selina)</name>
+<model>Стілець Селіна (Selina)</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0207</vendorCode>
+<price>3940</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Селіна (Selina)</param>
+<picture>https://maren.com.ua/content/images/25/1000x1000l80nn0/stlec-selna-selina-22594945499954.webp</picture>
+<picture>https://maren.com.ua/content/images/25/1000x1000l80nn0/stlec-selna-selina-15826674215096.webp</picture>
+<picture>https://maren.com.ua/content/images/25/1500x1125l80nn0/stlec-selna-selina-78553936122757.webp</picture>
+</offer>
+<offer id="1101376712" group_id="1877" available="true">
+<name>Стілець Лула бук</name>
+<model>Стілець Лула</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1180</vendorCode>
+<price>3690</price><currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<param name="Варіант">Стілець Лула бук</param>
+<param name="Колір">Натуральний</param>
+<param name="Матеріал">Масив бука</param>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-50348795078409.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-95437391910959.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-46613819975026.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1440x1800l80nn0/stlec-lula-buk-13466583516038.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1200x1800l80nn0/stlec-lula-buk-97991395270937.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-99610972961094.webp</picture>
+</offer>
+<offer id="2596943724" group_id="1877" available="true">
+<name>Стілець Лула бук Чорний</name>
+<model>Стілець Лула</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1180</vendorCode>
+<price>3690</price><currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<param name="Варіант">Стілець Лула бук Чорний</param>
+<param name="Колір">Чорний</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Колір/виконання">Бук чорний</param>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-50348795078409.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-95437391910959.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-46613819975026.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1440x1800l80nn0/stlec-lula-buk-13466583516038.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1200x1800l80nn0/stlec-lula-buk-97991395270937.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-99610972961094.webp</picture>
+</offer>
+<offer id="2596860345" group_id="1877" available="true">
+<name>Стілець Лула дуб</name>
+<model>Стілець Лула</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1180</vendorCode>
+<price>4590</price><currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<param name="Варіант">Стілець Лула дуб</param>
+<param name="Колір">Натуральний</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Колір/виконання">Дуб натуральний</param>
+<picture>https://maren.com.ua/content/images/17/1000x1000l80nn0/stlec-lula-dub-48522928539563.webp</picture>
+<picture>https://maren.com.ua/content/images/17/1000x1000l80nn0/stlec-lula-dub-72055230618829.webp</picture>
+<picture>https://maren.com.ua/content/images/17/1000x1000l80nn0/stlec-lula-dub-34077394167241.webp</picture>
+<picture>https://maren.com.ua/content/images/17/1000x1000l80nn0/stlec-lula-dub-72713529225072.webp</picture>
+<picture>https://maren.com.ua/content/images/17/1000x1000l80nn0/stlec-lula-dub-96792520933971.webp</picture>
+<picture>https://maren.com.ua/content/images/17/1000x1000l80nn0/stlec-lula-dub-76243718044091.webp</picture>
+</offer>
+<offer id="2596944672" group_id="1877" available="true">
+<name>Стілець Лула дуб Чорний</name>
+<model>Стілець Лула</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1180</vendorCode>
+<price>4590</price><currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<param name="Варіант">Стілець Лула дуб Чорний</param>
+<param name="Колір">Чорний</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Колір/виконання">Дуб чорний</param>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-50348795078409.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-95437391910959.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-46613819975026.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1440x1800l80nn0/stlec-lula-buk-13466583516038.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1200x1800l80nn0/stlec-lula-buk-97991395270937.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/stlec-lula-buk-99610972961094.webp</picture>
+</offer>
+<offer id="1157638818" group_id="1879" available="true">
+<name>Стілець Лула Soft бук</name>
+<model>Стілець Лула Soft</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0227</vendorCode>
+<price>3975</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Лула Soft бук</param>
+<param name="Матеріал">Масив бука</param>
+<picture>https://maren.com.ua/content/images/30/1000x1000l80nn0/stlec-lula-soft-buk-32998518951449.webp</picture>
+<picture>https://maren.com.ua/content/images/30/1000x1000l80nn0/stlec-lula-soft-buk-26852651630478.webp</picture>
+<picture>https://maren.com.ua/content/images/30/1000x1000l80nn0/stlec-lula-soft-buk-98521517777868.webp</picture>
+<picture>https://maren.com.ua/content/images/30/1000x1000l80nn0/stlec-lula-soft-buk-44363648397521.webp</picture>
+<picture>https://maren.com.ua/content/images/30/1000x1000l80nn0/stlec-lula-soft-buk-57274767874347.webp</picture>
+<picture>https://maren.com.ua/content/images/30/1000x1000l80nn0/stlec-lula-soft-buk-96768483528674.webp</picture>
+</offer>
+<offer id="2179791789" group_id="1879" available="true">
+<name>Стілець Лула Soft дуб</name>
+<model>Стілець Лула Soft</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0227</vendorCode>
+<price>5200</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Лула Soft дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Колір/виконання">Дуб</param>
+<picture>https://maren.com.ua/content/images/38/1000x1000l80nn0/stlec-lula-soft-dub-27985480105205.webp</picture>
+<picture>https://maren.com.ua/content/images/38/1000x1000l80nn0/stlec-lula-soft-dub-12344632463384.webp</picture>
+<picture>https://maren.com.ua/content/images/38/1000x1000l80nn0/stlec-lula-soft-dub-41136337674079.webp</picture>
+<picture>https://maren.com.ua/content/images/38/1000x1000l80nn0/stlec-lula-soft-dub-83261167455266.webp</picture>
+<picture>https://maren.com.ua/content/images/38/1000x1000l80nn0/stlec-lula-soft-dub-52418493259636.webp</picture>
+<picture>https://maren.com.ua/content/images/38/1000x1000l80nn0/stlec-lula-soft-dub-43237762966389.webp</picture>
+</offer>
+<offer id="1157645632" group_id="1880" available="true">
+<name>Стілець Діран з м'яким сидінням</name>
+<model>Стілець Діран з м'яким сидінням</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0228</vendorCode>
+<price>4230</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Діран з м'яким сидінням</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Модель">Класична</param>
+<picture>https://maren.com.ua/content/images/31/1000x1000l80nn0/stlec-dran-z-mjakim-sidnnjam-37513776159663.webp</picture>
+<picture>https://maren.com.ua/content/images/31/1000x1000l80nn0/stlec-dran-z-mjakim-sidnnjam-99943904699886.webp</picture>
+<picture>https://maren.com.ua/content/images/31/1392x1800l80nn0/stlec-dran-z-mjakim-sidnnjam-53851421267401.webp</picture>
+<picture>https://maren.com.ua/content/images/31/1392x1800l80nn0/stlec-dran-z-mjakim-sidnnjam-24345579269815.webp</picture>
+<picture>https://maren.com.ua/content/images/31/1392x1800l80nn0/stlec-dran-z-mjakim-sidnnjam-94847435750608.webp</picture>
+<picture>https://maren.com.ua/content/images/31/1392x1800l80nn0/stlec-dran-z-mjakim-sidnnjam-87260910211142.webp</picture>
+</offer>
+<offer id="CHR_DIRAN_SOFT_BUK" group_id="1880" available="true">
+<name>Стілець Діран Soft бук</name>
+<model>Стілець Діран з м'яким сидінням</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0228</vendorCode>
+<price>4615</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Діран Soft бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Модель">Soft</param>
+<param name="Колір/виконання">Бук</param>
+<picture>https://maren.com.ua/content/images/23/1000x1000l80nn0/stlec-dran-soft-buk-53771039665246.webp</picture>
+<picture>https://maren.com.ua/content/images/23/1000x1000l80nn0/stlec-dran-soft-buk-37446220355103.webp</picture>
+</offer>
+<offer id="CHR_DIRAN_SOFT_DUB" group_id="1880" available="true">
+<name>Стілець Діран Soft дуб</name>
+<model>Стілець Діран з м'яким сидінням</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0228</vendorCode>
+<price>5680</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Діран Soft дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Модель">Soft</param>
+<param name="Колір/виконання">Дуб</param>
+<picture>https://maren.com.ua/content/images/31/1000x1000l80nn0/stlec-dran-z-mjakim-sidnnjam-37513776159663.webp</picture>
+<picture>https://maren.com.ua/content/images/31/1000x1000l80nn0/stlec-dran-z-mjakim-sidnnjam-99943904699886.webp</picture>
+<picture>https://maren.com.ua/content/images/31/1392x1800l80nn0/stlec-dran-z-mjakim-sidnnjam-53851421267401.webp</picture>
+<picture>https://maren.com.ua/content/images/31/1392x1800l80nn0/stlec-dran-z-mjakim-sidnnjam-24345579269815.webp</picture>
+<picture>https://maren.com.ua/content/images/31/1392x1800l80nn0/stlec-dran-z-mjakim-sidnnjam-94847435750608.webp</picture>
+<picture>https://maren.com.ua/content/images/31/1392x1800l80nn0/stlec-dran-z-mjakim-sidnnjam-87260910211142.webp</picture>
+</offer>
+<offer id="CHR_DIRAN_DUB" group_id="1880" available="true">
+<name>Стілець Діран дуб</name>
+<model>Стілець Діран з м'яким сидінням</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0228</vendorCode>
+<price>5320</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Діран дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Модель">Класична</param>
+<picture>https://maren.com.ua/content/images/3/1000x1000l80nn0/stlec-dran-dub-12096501697360.webp</picture>
+<picture>https://maren.com.ua/content/images/3/1000x1000l80nn0/stlec-dran-dub-53778874408670.webp</picture>
+<picture>https://maren.com.ua/content/images/3/1392x1800l80nn0/stlec-dran-dub-55955109860317.webp</picture>
+<picture>https://maren.com.ua/content/images/3/1392x1800l80nn0/stlec-dran-dub-29461380299228.webp</picture>
+<picture>https://maren.com.ua/content/images/3/1392x1800l80nn0/stlec-dran-dub-14732177200725.webp</picture>
+<picture>https://maren.com.ua/content/images/3/1392x1800l80nn0/stlec-dran-dub-65054374199400.webp</picture>
+</offer>
+<offer id="1888374911" group_id="1902" available="true">
+<name>Стілець Гуру (Guru) дуб</name>
+<model>Стілець Гуру (Guru)</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1117</vendorCode>
+<price>4905</price><currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<param name="Варіант">Стілець Гуру (Guru) дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<picture>https://maren.com.ua/content/images/3/1800x1779l80nn0/stlec-guru-guru-dub-41974488636945.webp</picture>
+<picture>https://maren.com.ua/content/images/3/1800x1778l80nn0/stlec-guru-guru-dub-23446077703066.webp</picture>
+<picture>https://maren.com.ua/content/images/3/1800x1778l80nn0/stlec-guru-guru-dub-28541219561339.webp</picture>
+<picture>https://maren.com.ua/content/images/3/1800x1778l80nn0/stlec-guru-guru-dub-60500715840248.webp</picture>
+</offer>
+<offer id="1888392870" group_id="1902" available="true">
+<name>Стілець Гуру (Guru) бук</name>
+<model>Стілець Гуру (Guru)</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1117</vendorCode>
+<price>3885</price><currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<param name="Варіант">Стілець Гуру (Guru) бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Колір/виконання">Бук чорний</param>
+<picture>https://maren.com.ua/content/images/4/900x889l80nn0/stlec-guru-guru-buk-73414064802787.webp</picture>
+<picture>https://maren.com.ua/content/images/4/900x889l80nn0/stlec-guru-guru-buk-95901904500155.webp</picture>
+<picture>https://maren.com.ua/content/images/4/900x889l80nn0/stlec-guru-guru-buk-22688520358868.webp</picture>
+<picture>https://maren.com.ua/content/images/4/900x889l80nn0/stlec-guru-guru-buk-62832460897159.webp</picture>
+<picture>https://maren.com.ua/content/images/4/900x889l80nn0/stlec-guru-guru-buk-74715237520261.webp</picture>
+</offer>
+<offer id="1888396561" group_id="1904" available="true">
+<name>Стілець Гуру Cane дуб</name>
+<model>Стілець Гуру Cane</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1118</vendorCode>
+<price>5950</price><currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<param name="Варіант">Стілець Гуру Cane дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<picture>https://maren.com.ua/content/images/5/900x889l80nn0/stlec-guru-cane-dub-77660077906001.webp</picture>
+<picture>https://maren.com.ua/content/images/5/900x889l80nn0/stlec-guru-cane-dub-72048788336689.webp</picture>
+<picture>https://maren.com.ua/content/images/5/900x889l80nn0/stlec-guru-cane-dub-14145550161849.webp</picture>
+</offer>
+<offer id="1888396569" group_id="1904" available="true">
+<name>Стілець Гуру Cane бук</name>
+<model>Стілець Гуру Cane</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1118</vendorCode>
+<price>4920</price><currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<param name="Варіант">Стілець Гуру Cane бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Колір/виконання">Бук чорний</param>
+<picture>https://maren.com.ua/content/images/6/900x889l80nn0/stlec-guru-cane-buk-81305946943959.webp</picture>
+<picture>https://maren.com.ua/content/images/6/900x889l80nn0/stlec-guru-cane-buk-61785974296731.webp</picture>
+<picture>https://maren.com.ua/content/images/6/900x889l80nn0/stlec-guru-cane-buk-55586429196910.webp</picture>
+<picture>https://maren.com.ua/content/images/6/900x889l80nn0/stlec-guru-cane-buk-60724174304473.webp</picture>
+<picture>https://maren.com.ua/content/images/6/900x889l80nn0/stlec-guru-cane-buk-88439754788025.webp</picture>
+</offer>
+<offer id="1888399467" group_id="1906" available="true">
+<name>Стілець Гуру Tender дуб</name>
+<model>Стілець Гуру (Guru) м'який</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1120</vendorCode>
+<price>5240</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Гуру Tender дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Модель">Tender</param>
+<picture>https://maren.com.ua/content/images/7/900x889l80nn0/stlec-guru-tender-dub-35133101187465.webp</picture>
+<picture>https://maren.com.ua/content/images/7/900x889l80nn0/stlec-guru-tender-dub-67426849391170.webp</picture>
+<picture>https://maren.com.ua/content/images/7/900x889l80nn0/stlec-guru-tender-dub-39715688833448.webp</picture>
+<picture>https://maren.com.ua/content/images/7/900x889l80nn0/stlec-guru-tender-dub-96634000802965.webp</picture>
+<picture>https://maren.com.ua/content/images/7/900x889l80nn0/stlec-guru-tender-dub-26479773065316.webp</picture>
+</offer>
+<offer id="1888399483" group_id="1906" available="true">
+<name>Стілець Гуру Tender бук</name>
+<model>Стілець Гуру (Guru) м'який</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1120</vendorCode>
+<price>4030</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Гуру Tender бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Модель">Tender</param>
+<param name="Колір/виконання">Стандарт</param>
+<picture>https://maren.com.ua/content/images/8/900x889l80nn0/stlec-guru-tender-buk-73836378286952.webp</picture>
+<picture>https://maren.com.ua/content/images/8/900x889l80nn0/stlec-guru-tender-buk-82874787494392.webp</picture>
+<picture>https://maren.com.ua/content/images/8/900x889l80nn0/stlec-guru-tender-buk-35979750851445.webp</picture>
+<picture>https://maren.com.ua/content/images/8/900x889l80nn0/stlec-guru-tender-buk-40815188394172.webp</picture>
+<picture>https://maren.com.ua/content/images/8/900x889l80nn0/stlec-guru-tender-buk-48032382088604.webp</picture>
+</offer>
+<offer id="1888421273" group_id="1906" available="true">
+<name>Стілець Гуру Soft дуб</name>
+<model>Стілець Гуру (Guru) м'який</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1120</vendorCode>
+<price>5540</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Гуру Soft дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Модель">Soft</param>
+<param name="Колір/виконання">Soft</param>
+<picture>https://maren.com.ua/content/images/9/900x889l80nn0/stlec-guru-soft-dub-27922678022531.webp</picture>
+<picture>https://maren.com.ua/content/images/9/900x889l80nn0/stlec-guru-soft-dub-54810110023180.webp</picture>
+<picture>https://maren.com.ua/content/images/9/900x889l80nn0/stlec-guru-soft-dub-92218989838893.webp</picture>
+<picture>https://maren.com.ua/content/images/9/900x889l80nn0/stlec-guru-soft-dub-40520640375675.webp</picture>
+<picture>https://maren.com.ua/content/images/9/900x889l80nn0/stlec-guru-soft-dub-65180165728580.webp</picture>
+</offer>
+<offer id="1888421274" group_id="1906" available="true">
+<name>Стілець Гуру Soft бук</name>
+<model>Стілець Гуру (Guru) м'який</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1120</vendorCode>
+<price>4520</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Гуру Soft бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Модель">Soft</param>
+<param name="Колір/виконання">Стандарт</param>
+<picture>https://maren.com.ua/content/images/10/900x889l80nn0/stlec-guru-soft-buk-90269950388881.webp</picture>
+<picture>https://maren.com.ua/content/images/10/900x889l80nn0/stlec-guru-soft-buk-87059937532750.webp</picture>
+<picture>https://maren.com.ua/content/images/10/900x889l80nn0/stlec-guru-soft-buk-49821373542356.webp</picture>
+<picture>https://maren.com.ua/content/images/10/900x889l80nn0/stlec-guru-soft-buk-99370722500285.webp</picture>
+<picture>https://maren.com.ua/content/images/10/900x889l80nn0/stlec-guru-soft-buk-94142575758540.webp</picture>
+</offer>
+<offer id="1971994643" group_id="1910" available="true">
+<name>Стілець Логан бук</name>
+<model>Стілець Логан</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1124</vendorCode>
+<price>6300</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Логан бук</param>
+<param name="Модель">З м'яким сидінням</param>
+<picture>https://maren.com.ua/content/images/11/900x900l80nn0/stlec-logan-dubbuk-tverde-35356731881713.webp</picture>
+<picture>https://maren.com.ua/content/images/11/1000x1000l80nn0/stlec-logan-dubbuk-tverde-64521082484485.webp</picture>
+<picture>https://maren.com.ua/content/images/11/709x1063l80nn0/stlec-logan-dubbuk-tverde-76823397077180.webp</picture>
+<picture>https://maren.com.ua/content/images/11/709x1063l80nn0/stlec-logan-dubbuk-tverde-66311214669026.webp</picture>
+<picture>https://maren.com.ua/content/images/11/709x1063l80nn0/stlec-logan-dubbuk-tverde-94140360004769.webp</picture>
+<picture>https://maren.com.ua/content/images/11/709x1063l80nn0/stlec-logan-dubbuk-tverde-90864280717927.webp</picture>
+</offer>
+<offer id="1972188729" group_id="1910" available="true">
+<name>Стілець Логан дуб</name>
+<model>Стілець Логан</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1124</vendorCode>
+<price>7200</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Логан дуб</param>
+<param name="Модель">З м'яким сидінням</param>
+<param name="Колір/виконання">Дуб</param>
+<picture>https://maren.com.ua/content/images/12/1000x1000l80nn0/stlec-logan-dub-mjake-13055976379052.webp</picture>
+<picture>https://maren.com.ua/content/images/12/1000x1000l80nn0/stlec-logan-dub-mjake-50220070649473.webp</picture>
+<picture>https://maren.com.ua/content/images/12/1000x1000l80nn0/stlec-logan-dub-mjake-15750902115597.webp</picture>
+<picture>https://maren.com.ua/content/images/12/1000x1000l80nn0/stlec-logan-dub-mjake-89100286967368.webp</picture>
+<picture>https://maren.com.ua/content/images/12/709x1063l80nn0/stlec-logan-dub-mjake-47106488286783.webp</picture>
+<picture>https://maren.com.ua/content/images/12/709x1063l80nn0/stlec-logan-dub-mjake-70856406114178.webp</picture>
+</offer>
+<offer id="2461203058" group_id="1915" available="true">
+<name>Стілець Roses (Троянда), бук</name>
+<model>Стілець Roses (Троянда), бук</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1172</vendorCode>
+<price>8700</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Roses (Троянда), бук</param>
+<param name="Матеріал">Масив бука</param>
+<picture>https://maren.com.ua/content/images/16/1000x1000l80nn0/stlec-roses-trojanda-buk-39162790811169.webp</picture>
+<picture>https://maren.com.ua/content/images/16/1000x1000l80nn0/stlec-roses-trojanda-buk-61898510757179.webp</picture>
+<picture>https://maren.com.ua/content/images/16/1000x1000l80nn0/stlec-roses-trojanda-buk-92386000814370.webp</picture>
+<picture>https://maren.com.ua/content/images/16/1000x1000l80nn0/stlec-roses-trojanda-buk-48778537046737.webp</picture>
+<picture>https://maren.com.ua/content/images/16/1000x1000l80nn0/stlec-roses-trojanda-buk-38069137188436.webp</picture>
+<picture>https://maren.com.ua/content/images/16/1000x1000l80nn0/stlec-roses-trojanda-buk-43765140920315.webp</picture>
+</offer>
+<offer id="CHR_ROSES_DUB" group_id="1915" available="true">
+<name>Стілець Roses дуб</name>
+<model>Стілець Roses (Троянда), бук</model>
+<vendor>Pavlyk</vendor><vendorCode>STI1172</vendorCode>
+<price>9850</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Roses дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Колір/виконання">Дуб</param>
+<picture>https://maren.com.ua/content/images/26/1419x1419l80nn0/stlec-roses-dub-14190277791755.webp</picture>
+<picture>https://maren.com.ua/content/images/26/1419x1419l80nn0/stlec-roses-dub-75876363970306.webp</picture>
+<picture>https://maren.com.ua/content/images/26/1200x1800l80nn0/stlec-roses-dub-79358301879082.webp</picture>
+<picture>https://maren.com.ua/content/images/26/1200x1800l80nn0/stlec-roses-dub-36686900974368.webp</picture>
+<picture>https://maren.com.ua/content/images/26/1200x1800l80nn0/stlec-roses-dub-90138018500776.webp</picture>
+<picture>https://maren.com.ua/content/images/26/1200x1800l80nn0/stlec-roses-dub-11647494528361.webp</picture>
+</offer>
+<offer id="1102373480" group_id="1923" available="true">
+<name>Стілець Лула Бар / Семібар бук</name>
+<model>Стілець Лула барний стілець</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0197</vendorCode>
+<price>4100</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Стілець Лула Бар / Семібар бук</param>
+<param name="Матеріал">Масив бука</param>
+<picture>https://maren.com.ua/content/images/24/1000x1000l80nn0/stlec-lula-bar-sembar-buk-48211904844846.webp</picture>
+<picture>https://maren.com.ua/content/images/24/1000x1000l80nn0/stlec-lula-bar-sembar-buk-73838532225991.webp</picture>
+<picture>https://maren.com.ua/content/images/24/709x1063l80nn0/stlec-lula-bar-sembar-buk-49217730993033.webp</picture>
+<picture>https://maren.com.ua/content/images/24/709x1063l80nn0/stlec-lula-bar-sembar-buk-48056868484449.webp</picture>
+<picture>https://maren.com.ua/content/images/24/709x1063l80nn0/stlec-lula-bar-sembar-buk-22025082607680.webp</picture>
+<picture>https://maren.com.ua/content/images/24/709x1063l80nn0/stlec-lula-bar-sembar-buk-96026886260834.webp</picture>
+</offer>
+<offer id="STI0197_DUB" group_id="1923" available="true">
+<name>Стілець Лула Бар / Семібар дуб</name>
+<model>Стілець Лула барний стілець</model>
+<vendor>Pavlyk</vendor><vendorCode>STI0197</vendorCode>
+<price>5500</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Стілець Лула Бар / Семібар дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stlec-lula-bar-sembar-dub-96974387108450.webp</picture>
+<picture>https://maren.com.ua/content/images/4/1000x1000l80nn0/stlec-lula-bar-sembar-dub-47255447143256.webp</picture>
+<picture>https://maren.com.ua/content/images/4/709x1063l80nn0/stlec-lula-bar-sembar-dub-12550126128210.webp</picture>
+<picture>https://maren.com.ua/content/images/4/709x1063l80nn0/stlec-lula-bar-sembar-dub-69563092675879.webp</picture>
+<picture>https://maren.com.ua/content/images/4/709x1063l80nn0/stlec-lula-bar-sembar-dub-71265959785782.webp</picture>
+<picture>https://maren.com.ua/content/images/4/709x1063l80nn0/stlec-lula-bar-sembar-dub-86477713365018.webp</picture>
+</offer>
+<offer id="STO_STONE_160" group_id="2083" available="true">
+<name>Стіл Stone (каркас дуб) 160x90+45</name>
+<model>Стіл Stone (каркас дуб) 160x90+45</model>
+<vendor>Pavlyk</vendor><vendorCode>STO_STONE_160</vendorCode>
+<price>36660</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Stone (каркас дуб) 160x90+45</param>
+<picture>https://maren.com.ua/content/images/34/1419x1419l80nn0/stl-stone-karkas-dub-160x9045-85610725198237.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1419x1419l80nn0/stl-stone-karkas-dub-160x9045-11867659064134.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1000x1500l80nn0/stl-stone-karkas-dub-160x9045-75187425546356.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1500x1000l80nn0/stl-stone-karkas-dub-160x9045-68067075608425.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1500x1000l80nn0/stl-stone-karkas-dub-160x9045-28603302306139.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1500x1000l80nn0/stl-stone-karkas-dub-160x9045-38147701368861.webp</picture>
+</offer>
+<offer id="STO_STONE_BC" group_id="2083" available="true">
+<name>Стіл Stone 160x90+45 сорт В/С</name>
+<model>Стіл Stone (каркас дуб) 160x90+45</model>
+<vendor>Pavlyk</vendor><vendorCode>STO_STONE_160</vendorCode>
+<price>35940</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Stone 160x90+45 сорт В/С</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/34/1419x1419l80nn0/stl-stone-karkas-dub-160x9045-85610725198237.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1419x1419l80nn0/stl-stone-karkas-dub-160x9045-11867659064134.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1000x1500l80nn0/stl-stone-karkas-dub-160x9045-75187425546356.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1500x1000l80nn0/stl-stone-karkas-dub-160x9045-68067075608425.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1500x1000l80nn0/stl-stone-karkas-dub-160x9045-28603302306139.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1500x1000l80nn0/stl-stone-karkas-dub-160x9045-38147701368861.webp</picture>
+</offer>
+<offer id="STO_STONE_RUSTIC" group_id="2083" available="true">
+<name>Стіл Stone 160x90+45 сорт Рустік</name>
+<model>Стіл Stone (каркас дуб) 160x90+45</model>
+<vendor>Pavlyk</vendor><vendorCode>STO_STONE_160</vendorCode>
+<price>35390</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Stone 160x90+45 сорт Рустік</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/34/1419x1419l80nn0/stl-stone-karkas-dub-160x9045-85610725198237.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1419x1419l80nn0/stl-stone-karkas-dub-160x9045-11867659064134.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1000x1500l80nn0/stl-stone-karkas-dub-160x9045-75187425546356.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1500x1000l80nn0/stl-stone-karkas-dub-160x9045-68067075608425.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1500x1000l80nn0/stl-stone-karkas-dub-160x9045-28603302306139.webp</picture>
+<picture>https://maren.com.ua/content/images/34/1500x1000l80nn0/stl-stone-karkas-dub-160x9045-38147701368861.webp</picture>
+</offer>
+<offer id="STO_DENIS_140" group_id="2084" available="true">
+<name>Стіл Denis (каркас дуб) 140x85+60</name>
+<model>Стіл Denis (каркас дуб)</model>
+<vendor>Pavlyk</vendor><vendorCode>STO_DENIS_180</vendorCode>
+<price>27770</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Denis (каркас дуб) 140x85+60</param>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-33789369259321.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-73358704042172.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-19414866556124.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-60879337948248.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-60682736671041.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-92388170091044.webp</picture>
+</offer>
+<offer id="STO_DENIS_180" group_id="2084" available="true">
+<name>Стіл Denis (каркас дуб) 180x90+70</name>
+<model>Стіл Denis (каркас дуб)</model>
+<vendor>Pavlyk</vendor><vendorCode>STO_DENIS_180</vendorCode>
+<price>30700</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Denis (каркас дуб) 180x90+70</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-33789369259321.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-73358704042172.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-19414866556124.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-60879337948248.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-60682736671041.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-92388170091044.webp</picture>
+</offer>
+<offer id="STO_DENIS_140_RUS" group_id="2084" available="true">
+<name>Стіл Denis 140x85+60 сорт Рустік</name>
+<model>Стіл Denis (каркас дуб)</model>
+<vendor>Pavlyk</vendor><vendorCode>STO_DENIS_180</vendorCode>
+<price>26750</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Denis 140x85+60 сорт Рустік</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-33789369259321.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-73358704042172.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-19414866556124.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-60879337948248.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-60682736671041.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-92388170091044.webp</picture>
+</offer>
+<offer id="STO_DENIS_180_RUS" group_id="2084" available="true">
+<name>Стіл Denis 180x90+70 сорт Рустік</name>
+<model>Стіл Denis (каркас дуб)</model>
+<vendor>Pavlyk</vendor><vendorCode>STO_DENIS_180</vendorCode>
+<price>27555</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл Denis 180x90+70 сорт Рустік</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-33789369259321.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-73358704042172.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-19414866556124.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-60879337948248.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-60682736671041.webp</picture>
+<picture>https://maren.com.ua/content/images/35/1000x1000l80nn0/stl-denis-pavlyk-karkas-dub-140x8560-92388170091044.webp</picture>
+</offer>
+<offer id="STO_ZEVS_200" group_id="2088" available="true">
+<name>Стіл ZEVS (каркас дуб) 200х100+45+45</name>
+<model>Стіл ZEVS (каркас дуб) 200х100+45+45</model>
+<vendor>Pavlyk</vendor><vendorCode>STO_ZEVS_200</vendorCode>
+<price>96000</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл ZEVS (каркас дуб) 200х100+45+45</param>
+<picture>https://maren.com.ua/content/images/39/1200x1200l80nn0/stl-zevs-karkas-dub-200x1004545-61853195151849.webp</picture>
+<picture>https://maren.com.ua/content/images/39/1200x1200l80nn0/stl-zevs-karkas-dub-200x1004545-48180216471103.webp</picture>
+</offer>
+<offer id="CHR_MACARONE_BUK" group_id="2089" available="true">
+<name>Стілець Макарон бук</name>
+<model>Стілець Макарон</model>
+<vendor>Pavlyk</vendor><vendorCode>MACARONE-DUB</vendorCode>
+<price>4770</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Макарон бук</param>
+<param name="Матеріал">Масив бука</param>
+<picture>https://maren.com.ua/content/images/40/900x887l80nn0/stlec-makaron-buk-56010055598919.webp</picture>
+<picture>https://maren.com.ua/content/images/40/900x887l80nn0/stlec-makaron-buk-52319458741463.webp</picture>
+<picture>https://maren.com.ua/content/images/40/900x887l80nn0/stlec-makaron-buk-94880302626240.webp</picture>
+</offer>
+<offer id="CHR_MACARONE_DUB" group_id="2089" available="true">
+<name>Стілець Макарон дуб</name>
+<model>Стілець Макарон</model>
+<vendor>Pavlyk</vendor><vendorCode>MACARONE-DUB</vendorCode>
+<price>5970</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Макарон дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Колір/виконання">Дуб</param>
+<picture>https://maren.com.ua/content/images/41/900x887l80nn0/stlec-makaron-dub-27815175874603.webp</picture>
+<picture>https://maren.com.ua/content/images/41/900x887l80nn0/stlec-makaron-dub-16492097758956.webp</picture>
+<picture>https://maren.com.ua/content/images/41/900x887l80nn0/stlec-makaron-dub-49482796901890.webp</picture>
+</offer>
+<offer id="CHR_BARI_DUB" group_id="2092" available="true">
+<name>Стілець Барі дуб</name>
+<model>Стілець Барі</model>
+<vendor>Pavlyk</vendor><vendorCode>BARI-DUB</vendorCode>
+<price>5200</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Барі дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<picture>https://maren.com.ua/content/images/43/1000x1000l80nn0/stlec-bar-dub-74011421191410.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1000x1000l80nn0/stlec-bar-dub-22346833927328.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1008x1008l80nn0/stlec-bar-dub-93278083778490.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1008x1008l80nn0/stlec-bar-dub-77331873733400.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1008x1008l80nn0/stlec-bar-dub-99735791926810.webp</picture>
+<picture>https://maren.com.ua/content/images/43/1008x1008l80nn0/stlec-bar-dub-90562612169101.webp</picture>
+</offer>
+<offer id="BARI-BUK" group_id="2092" available="true">
+<name>Стілець Барі бук</name>
+<model>Стілець Барі</model>
+<vendor>Pavlyk</vendor><vendorCode>BARI-DUB</vendorCode>
+<price>3975</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Барі бук</param>
+<param name="Матеріал">Масив бука</param>
+<picture>https://maren.com.ua/content/images/5/1000x1000l80nn0/stlec-bar-buk-82068427636682.webp</picture>
+<picture>https://maren.com.ua/content/images/5/1000x1000l80nn0/stlec-bar-buk-73042267624342.webp</picture>
+<picture>https://maren.com.ua/content/images/5/1000x1000l80nn0/stlec-bar-buk-93802092623373.webp</picture>
+<picture>https://maren.com.ua/content/images/5/1000x1000l80nn0/stlec-bar-buk-28068469805564.webp</picture>
+</offer>
+<offer id="CHR_FRAME_CANE_DUB" group_id="2093" available="true">
+<name>Стілець Frame Cane дуб</name>
+<model>Стілець Фрейм (Frame)</model>
+<vendor>Pavlyk</vendor><vendorCode>FRAME-CANE-BUK</vendorCode>
+<price>9700</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Frame Cane дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Модель">Cane</param>
+<picture>https://maren.com.ua/content/images/44/1000x1000l80nn0/stlec-frame-cane-dub-85725032551308.webp</picture>
+<picture>https://maren.com.ua/content/images/44/1000x1000l80nn0/stlec-frame-cane-dub-37055962218876.webp</picture>
+</offer>
+<offer id="CHR_FRAME_CANE_BUK" group_id="2093" available="true">
+<name>Стілець Frame Cane бук</name>
+<model>Стілець Фрейм (Frame)</model>
+<vendor>Pavlyk</vendor><vendorCode>FRAME-CANE-BUK</vendorCode>
+<price>7400</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Frame Cane бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Модель">Cane</param>
+<param name="Колір/виконання">Бук</param>
+<picture>https://maren.com.ua/content/images/45/1000x1000l80nn0/stlec-frame-cane-buk-25925242438605.webp</picture>
+<picture>https://maren.com.ua/content/images/45/1000x1000l80nn0/stlec-frame-cane-buk-59170351889316.webp</picture>
+</offer>
+<offer id="CHR_FRAME_SOFT_DUB" group_id="2093" available="true">
+<name>Стілець Frame Soft дуб</name>
+<model>Стілець Фрейм (Frame)</model>
+<vendor>Pavlyk</vendor><vendorCode>FRAME-CANE-BUK</vendorCode>
+<price>9700</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Frame Soft дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Модель">Soft</param>
+<param name="Колір/виконання">Дуб</param>
+<picture>https://maren.com.ua/content/images/46/1000x1000l80nn0/stlec-frame-soft-dub-96378969864887.webp</picture>
+<picture>https://maren.com.ua/content/images/46/1000x1000l80nn0/stlec-frame-soft-dub-64379355085474.webp</picture>
+<picture>https://maren.com.ua/content/images/46/1000x1000l80nn0/stlec-frame-soft-dub-36888169264113.webp</picture>
+</offer>
+<offer id="CHR_FRAME_SOFT_BUK" group_id="2093" available="true">
+<name>Стілець Frame Soft бук</name>
+<model>Стілець Фрейм (Frame)</model>
+<vendor>Pavlyk</vendor><vendorCode>FRAME-CANE-BUK</vendorCode>
+<price>7400</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Frame Soft бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Модель">Soft</param>
+<param name="Колір/виконання">Бук</param>
+<picture>https://maren.com.ua/content/images/47/1000x1000l80nn0/stlec-frame-soft-buk-79745582318536.webp</picture>
+<picture>https://maren.com.ua/content/images/47/1000x1000l80nn0/stlec-frame-soft-buk-68933395798589.webp</picture>
+<picture>https://maren.com.ua/content/images/47/1000x1000l80nn0/stlec-frame-soft-buk-74829968923800.webp</picture>
+</offer>
+<offer id="FRAME-DUB" group_id="2093" available="true">
+<name>Стілець Frame дуб</name>
+<model>Стілець Фрейм (Frame)</model>
+<vendor>Pavlyk</vendor><vendorCode>FRAME-CANE-BUK</vendorCode>
+<price>9500</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Frame дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Модель">Класична</param>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/stlec-frame-dub-34761676997087.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/stlec-frame-dub-95180823617938.webp</picture>
+</offer>
+<offer id="FRAME-BUK" group_id="2093" available="true">
+<name>Стілець Frame бук</name>
+<model>Стілець Фрейм (Frame)</model>
+<vendor>Pavlyk</vendor><vendorCode>FRAME-CANE-BUK</vendorCode>
+<price>7200</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Frame бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Модель">Класична</param>
+<picture>https://maren.com.ua/content/images/7/1000x1000l80nn0/stlec-frame-buk-62455586597176.webp</picture>
+<picture>https://maren.com.ua/content/images/7/1000x1000l80nn0/stlec-frame-buk-22885877932603.webp</picture>
+</offer>
+<offer id="CT_TWIN_D580_BC" group_id="2114" available="true">
+<name>Журнальний столик Twin d580 В/С</name>
+<model>Журнальний столик Twin</model>
+<vendor>Pavlyk</vendor><vendorCode>twin-d880_rus</vendorCode>
+<price>5400</price><currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<param name="Варіант">Журнальний столик Twin d580 В/С</param>
+<picture>https://maren.com.ua/content/images/15/1200x1200l80nn0/zhurnalniy-stolik-twin-d580-vs-78551395417246.webp</picture>
+<picture>https://maren.com.ua/content/images/15/1200x1200l80nn0/zhurnalniy-stolik-twin-d580-vs-73376569407053.webp</picture>
+</offer>
+<offer id="CT_TWIN_D580_RUS" group_id="2114" available="true">
+<name>Журнальний столик Twin d580 Рустік</name>
+<model>Журнальний столик Twin</model>
+<vendor>Pavlyk</vendor><vendorCode>twin-d880_rus</vendorCode>
+<price>5215</price><currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<param name="Варіант">Журнальний столик Twin d580 Рустік</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/15/1200x1200l80nn0/zhurnalniy-stolik-twin-d580-vs-78551395417246.webp</picture>
+<picture>https://maren.com.ua/content/images/15/1200x1200l80nn0/zhurnalniy-stolik-twin-d580-vs-73376569407053.webp</picture>
+</offer>
+<offer id="CT_TWIN_D880_BC" group_id="2114" available="true">
+<name>Журнальний столик Twin d880 В/С</name>
+<model>Журнальний столик Twin</model>
+<vendor>Pavlyk</vendor><vendorCode>twin-d880_rus</vendorCode>
+<price>7915</price><currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<param name="Варіант">Журнальний столик Twin d880 В/С</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/15/1200x1200l80nn0/zhurnalniy-stolik-twin-d580-vs-78551395417246.webp</picture>
+<picture>https://maren.com.ua/content/images/15/1200x1200l80nn0/zhurnalniy-stolik-twin-d580-vs-73376569407053.webp</picture>
+</offer>
+<offer id="CT_TWIN_D880_RUS" group_id="2114" available="true">
+<name>Журнальний столик Twin d880 Рустік</name>
+<model>Журнальний столик Twin</model>
+<vendor>Pavlyk</vendor><vendorCode>twin-d880_rus</vendorCode>
+<price>7465</price><currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<param name="Варіант">Журнальний столик Twin d880 Рустік</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/15/1200x1200l80nn0/zhurnalniy-stolik-twin-d580-vs-78551395417246.webp</picture>
+<picture>https://maren.com.ua/content/images/15/1200x1200l80nn0/zhurnalniy-stolik-twin-d580-vs-73376569407053.webp</picture>
+</offer>
+<offer id="CT_EVO_L_BC" group_id="2118" available="true">
+<name>Журнальний столик EVO L 109x71 В/С</name>
+<model>Журнальний столик EVO</model>
+<vendor>Pavlyk</vendor><vendorCode>evo-s_rus</vendorCode>
+<price>7465</price><currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<param name="Варіант">Журнальний столик EVO L 109x71 В/С</param>
+<picture>https://maren.com.ua/content/images/19/1200x1200l80nn0/zhurnalniy-stolik-evo-l-109x71-vs-49910694068975.webp</picture>
+<picture>https://maren.com.ua/content/images/19/1200x1200l80nn0/zhurnalniy-stolik-evo-l-109x71-vs-41844907222639.webp</picture>
+</offer>
+<offer id="CT_EVO_L_RUS" group_id="2118" available="true">
+<name>Журнальний столик EVO L 109x71 Рустік</name>
+<model>Журнальний столик EVO</model>
+<vendor>Pavlyk</vendor><vendorCode>evo-s_rus</vendorCode>
+<price>7200</price><currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<param name="Варіант">Журнальний столик EVO L 109x71 Рустік</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/19/1200x1200l80nn0/zhurnalniy-stolik-evo-l-109x71-vs-49910694068975.webp</picture>
+<picture>https://maren.com.ua/content/images/19/1200x1200l80nn0/zhurnalniy-stolik-evo-l-109x71-vs-41844907222639.webp</picture>
+</offer>
+<offer id="CT_EVO_S_BC" group_id="2118" available="true">
+<name>Журнальний столик EVO S 75x53 В/С</name>
+<model>Журнальний столик EVO</model>
+<vendor>Pavlyk</vendor><vendorCode>evo-s_rus</vendorCode>
+<price>5485</price><currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<param name="Варіант">Журнальний столик EVO S 75x53 В/С</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/19/1200x1200l80nn0/zhurnalniy-stolik-evo-l-109x71-vs-49910694068975.webp</picture>
+<picture>https://maren.com.ua/content/images/19/1200x1200l80nn0/zhurnalniy-stolik-evo-l-109x71-vs-41844907222639.webp</picture>
+</offer>
+<offer id="CT_EVO_S_RUS" group_id="2118" available="true">
+<name>Журнальний столик EVO S 75x53 Рустік</name>
+<model>Журнальний столик EVO</model>
+<vendor>Pavlyk</vendor><vendorCode>evo-s_rus</vendorCode>
+<price>5215</price><currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<param name="Варіант">Журнальний столик EVO S 75x53 Рустік</param>
+<param name="Колір/виконання">Natural</param>
+<picture>https://maren.com.ua/content/images/19/1200x1200l80nn0/zhurnalniy-stolik-evo-l-109x71-vs-49910694068975.webp</picture>
+<picture>https://maren.com.ua/content/images/19/1200x1200l80nn0/zhurnalniy-stolik-evo-l-109x71-vs-41844907222639.webp</picture>
+</offer>
+<offer id="CHR_HENNI_DUB" group_id="2124" available="true">
+<name>Стілець Хенні дуб</name>
+<model>Стілець Хенні</model>
+<vendor>Pavlyk</vendor><vendorCode>CHR_HENNI_DUB</vendorCode>
+<price>7150</price><currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<param name="Варіант">Стілець Хенні дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<picture>https://maren.com.ua/content/images/25/1200x1200l80nn0/stlec-xenn-dub-71098172573369.webp</picture>
+<picture>https://maren.com.ua/content/images/25/1200x1200l80nn0/stlec-xenn-dub-23965287326463.webp</picture>
+</offer>
+<offer id="CHR_BENET_BAR_BUK" group_id="2126" available="true">
+<name>Бенет Бар/Семібар бук</name>
+<model>Барний/Напівбарний стілець Бенет</model>
+<vendor>Pavlyk</vendor><vendorCode>CHR_BENET_BAR_BUK</vendorCode>
+<price>4720</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Бенет Бар/Семібар бук</param>
+<param name="Матеріал">Масив бука</param>
+<picture>https://maren.com.ua/content/images/27/1000x1000l80nn0/benet-barsembar-buk-34215627228741.webp</picture>
+<picture>https://maren.com.ua/content/images/27/1000x1000l80nn0/benet-barsembar-buk-93119578165869.webp</picture>
+<picture>https://maren.com.ua/content/images/27/709x1063l80nn0/benet-barsembar-buk-48697806121935.webp</picture>
+<picture>https://maren.com.ua/content/images/27/709x1063l80nn0/benet-barsembar-buk-34255649306004.webp</picture>
+<picture>https://maren.com.ua/content/images/27/709x1063l80nn0/benet-barsembar-buk-30327896144107.webp</picture>
+<picture>https://maren.com.ua/content/images/27/709x1063l80nn0/benet-barsembar-buk-86330958131259.webp</picture>
+</offer>
+<offer id="CHR_BENET_BAR_DUB" group_id="2126" available="true">
+<name>Бенет Бар/Семібар дуб</name>
+<model>Барний/Напівбарний стілець Бенет</model>
+<vendor>Pavlyk</vendor><vendorCode>CHR_BENET_BAR_DUB</vendorCode>
+<price>5800</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Бенет Бар/Семібар дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Колір/виконання">Дуб</param>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/benet-barsembar-dub-63072594218874.webp</picture>
+<picture>https://maren.com.ua/content/images/28/1000x1000l80nn0/benet-barsembar-dub-62604137855356.webp</picture>
+<picture>https://maren.com.ua/content/images/28/709x1063l80nn0/benet-barsembar-dub-21948482306408.webp</picture>
+<picture>https://maren.com.ua/content/images/28/709x1063l80nn0/benet-barsembar-dub-87448784020736.webp</picture>
+<picture>https://maren.com.ua/content/images/28/709x1063l80nn0/benet-barsembar-dub-76442356031304.webp</picture>
+<picture>https://maren.com.ua/content/images/28/709x1063l80nn0/benet-barsembar-dub-60909714043870.webp</picture>
+</offer>
+<offer id="GURU-BAR-BUK" group_id="2405" available="true">
+<name>Барний / напівбарний стілець Гуру (Guru Bar) бук</name>
+<model>Барний / напівбарний стілець Гуру (Guru Bar / Semibar)</model>
+<vendor>Pavlyk</vendor><vendorCode>GURU-BAR-BUK</vendorCode>
+<price>4900</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Барний / напівбарний стілець Гуру (Guru Bar) бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Модель">Класична</param>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-97269223861094.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-19530990349907.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-18414366422853.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-79702061031949.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-98775283071078.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-44611721487287.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-85786353794461.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54338892489158.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88853371073314.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-70702470943967.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-94063451157962.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-37437034979633.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88856289487026.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-40487719095082.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15801139707344.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-86682986479435.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54797209341772.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-31051337853738.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-45963089238606.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-28332236876680.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15080332084028.webp</picture>
+</offer>
+<offer id="GURU-BAR-DUB" group_id="2405" available="true">
+<name>Барний / напівбарний стілець Гуру (Guru Bar) дуб</name>
+<model>Барний / напівбарний стілець Гуру (Guru Bar / Semibar)</model>
+<vendor>Pavlyk</vendor><vendorCode>GURU-BAR-DUB</vendorCode>
+<price>6050</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Барний / напівбарний стілець Гуру (Guru Bar) дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Модель">Класична</param>
+<picture>https://maren.com.ua/content/images/7/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-dub-73439677625860.webp</picture>
+<picture>https://maren.com.ua/content/images/7/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-dub-32512473866702.webp</picture>
+<picture>https://maren.com.ua/content/images/7/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-dub-67963431513858.webp</picture>
+<picture>https://maren.com.ua/content/images/7/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-dub-24948335396829.webp</picture>
+<picture>https://maren.com.ua/content/images/7/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-dub-50893424273911.webp</picture>
+<picture>https://maren.com.ua/content/images/7/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-dub-47872076759968.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-85786353794461.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54338892489158.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88853371073314.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-70702470943967.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-94063451157962.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-37437034979633.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88856289487026.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-40487719095082.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15801139707344.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-86682986479435.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54797209341772.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-31051337853738.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-45963089238606.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-28332236876680.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15080332084028.webp</picture>
+</offer>
+<offer id="GURU-BAR-TENDER-BUK" group_id="2405" available="true">
+<name>Барний / напівбарний стілець Гуру Tender бук</name>
+<model>Барний / напівбарний стілець Гуру (Guru Bar / Semibar)</model>
+<vendor>Pavlyk</vendor><vendorCode>GURU-BAR-TENDER-BUK</vendorCode>
+<price>4980</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Барний / напівбарний стілець Гуру Tender бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Модель">Tender</param>
+<picture>https://maren.com.ua/content/images/8/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-tender-buk-70713624770908.webp</picture>
+<picture>https://maren.com.ua/content/images/8/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-tender-buk-61155442079979.webp</picture>
+<picture>https://maren.com.ua/content/images/8/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-tender-buk-55416631812012.webp</picture>
+<picture>https://maren.com.ua/content/images/8/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-tender-buk-20779542658287.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-85786353794461.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54338892489158.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88853371073314.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-70702470943967.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-94063451157962.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-37437034979633.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88856289487026.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-40487719095082.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15801139707344.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-86682986479435.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54797209341772.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-31051337853738.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-45963089238606.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-28332236876680.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15080332084028.webp</picture>
+</offer>
+<offer id="GURU-BAR-TENDER-DUB" group_id="2405" available="true">
+<name>Барний / напівбарний стілець Гуру Tender дуб</name>
+<model>Барний / напівбарний стілець Гуру (Guru Bar / Semibar)</model>
+<vendor>Pavlyk</vendor><vendorCode>GURU-BAR-TENDER-DUB</vendorCode>
+<price>6350</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Барний / напівбарний стілець Гуру Tender дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Модель">Tender</param>
+<picture>https://maren.com.ua/content/images/9/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-tender-dub-49970441270665.webp</picture>
+<picture>https://maren.com.ua/content/images/9/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-tender-dub-45637397737468.webp</picture>
+<picture>https://maren.com.ua/content/images/9/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-tender-dub-35707394553971.webp</picture>
+<picture>https://maren.com.ua/content/images/9/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-tender-dub-74276007771981.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-85786353794461.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54338892489158.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88853371073314.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-70702470943967.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-94063451157962.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-37437034979633.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88856289487026.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-40487719095082.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15801139707344.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-86682986479435.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54797209341772.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-31051337853738.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-45963089238606.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-28332236876680.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15080332084028.webp</picture>
+</offer>
+<offer id="GURU-BAR-SOFT-BUK" group_id="2405" available="true">
+<name>Барний / напівбарний стілець Гуру Soft бук</name>
+<model>Барний / напівбарний стілець Гуру (Guru Bar / Semibar)</model>
+<vendor>Pavlyk</vendor><vendorCode>GURU-BAR-SOFT-BUK</vendorCode>
+<price>5445</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Барний / напівбарний стілець Гуру Soft бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Модель">Soft</param>
+<picture>https://maren.com.ua/content/images/10/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-soft-buk-36498424875483.webp</picture>
+<picture>https://maren.com.ua/content/images/10/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-soft-buk-47252601287330.webp</picture>
+<picture>https://maren.com.ua/content/images/10/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-soft-buk-53502062542673.webp</picture>
+<picture>https://maren.com.ua/content/images/10/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-soft-buk-81663824001179.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-85786353794461.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54338892489158.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88853371073314.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-70702470943967.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-94063451157962.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-37437034979633.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88856289487026.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-40487719095082.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15801139707344.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-86682986479435.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54797209341772.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-31051337853738.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-45963089238606.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-28332236876680.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15080332084028.webp</picture>
+</offer>
+<offer id="GURU-BAR-SOFT-DUB" group_id="2405" available="true">
+<name>Барний / напівбарний стілець Гуру Soft дуб</name>
+<model>Барний / напівбарний стілець Гуру (Guru Bar / Semibar)</model>
+<vendor>Pavlyk</vendor><vendorCode>GURU-BAR-SOFT-DUB</vendorCode>
+<price>6680</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Барний / напівбарний стілець Гуру Soft дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Модель">Soft</param>
+<picture>https://maren.com.ua/content/images/11/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-soft-dub-88324411401784.webp</picture>
+<picture>https://maren.com.ua/content/images/11/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-soft-dub-66148732656925.webp</picture>
+<picture>https://maren.com.ua/content/images/11/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-soft-dub-82568838168980.webp</picture>
+<picture>https://maren.com.ua/content/images/11/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-soft-dub-40161300285202.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-85786353794461.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54338892489158.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88853371073314.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-70702470943967.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-94063451157962.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-37437034979633.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88856289487026.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-40487719095082.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15801139707344.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-86682986479435.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54797209341772.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-31051337853738.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-45963089238606.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-28332236876680.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15080332084028.webp</picture>
+</offer>
+<offer id="GURU-BAR-CANE-BUK" group_id="2405" available="true">
+<name>Барний / напівбарний стілець Гуру Cane бук</name>
+<model>Барний / напівбарний стілець Гуру (Guru Bar / Semibar)</model>
+<vendor>Pavlyk</vendor><vendorCode>GURU-BAR-CANE-BUK</vendorCode>
+<price>5800</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Барний / напівбарний стілець Гуру Cane бук</param>
+<param name="Матеріал">Масив бука</param>
+<param name="Модель">Cane</param>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-97269223861094.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-19530990349907.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-18414366422853.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-79702061031949.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-98775283071078.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-44611721487287.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-85786353794461.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54338892489158.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88853371073314.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-70702470943967.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-94063451157962.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-37437034979633.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88856289487026.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-40487719095082.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15801139707344.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-86682986479435.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54797209341772.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-31051337853738.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-45963089238606.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-28332236876680.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15080332084028.webp</picture>
+</offer>
+<offer id="GURU-BAR-CANE-DUB" group_id="2405" available="true">
+<name>Барний / напівбарний стілець Гуру Cane дуб</name>
+<model>Барний / напівбарний стілець Гуру (Guru Bar / Semibar)</model>
+<vendor>Pavlyk</vendor><vendorCode>GURU-BAR-CANE-DUB</vendorCode>
+<price>7080</price><currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<param name="Варіант">Барний / напівбарний стілець Гуру Cane дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<param name="Модель">Cane</param>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-97269223861094.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-19530990349907.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-18414366422853.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-79702061031949.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-98775283071078.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-44611721487287.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-85786353794461.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54338892489158.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88853371073314.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-70702470943967.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-94063451157962.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-37437034979633.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-88856289487026.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-40487719095082.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15801139707344.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-86682986479435.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-54797209341772.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-31051337853738.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-45963089238606.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-28332236876680.webp</picture>
+<picture>https://maren.com.ua/content/images/6/1000x1000l80nn0/barniy-napvbarniy-stlec-guru-guru-bar-buk-15080332084028.webp</picture>
+</offer>
+<offer id="STO_RAVENO_110" group_id="2413" available="true">
+<name>Стіл розкладний Raveno (каркас дуб) 110+39</name>
+<model>Стіл розкладний Raveno (каркас дуб) 110+39</model>
+<vendor>Pavlyk</vendor><vendorCode>STO_RAVENO_110</vendorCode>
+<price>19425</price><currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<param name="Варіант">Стіл розкладний Raveno (каркас дуб) 110+39</param>
+<picture>https://maren.com.ua/content/images/14/1200x1200l80nn0/stl-rozkladniy-raveno-karkas-dub-11039-58283364404385.webp</picture>
+<picture>https://maren.com.ua/content/images/14/1200x1200l80nn0/stl-rozkladniy-raveno-karkas-dub-11039-26839441979706.webp</picture>
+</offer>
+<offer id="STO_FLORENTI_140" group_id="2414" available="true">
+<name>Стіл розкладний Florenti (каркас дуб) 140x85+39</name>
+<model>Стіл розкладний Florenti (каркас дуб) 140x85+39</model>
+<vendor>Pavlyk</vendor><vendorCode>STO_FLORENTI_140</vendorCode>
+<price>18700</price><currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<param name="Варіант">Стіл розкладний Florenti (каркас дуб) 140x85+39</param>
+<picture>https://maren.com.ua/content/images/15/1200x1200l80nn0/stl-rozkladniy-florenti-karkas-dub-140x8539-58125584382727.webp</picture>
+<picture>https://maren.com.ua/content/images/15/1200x1200l80nn0/stl-rozkladniy-florenti-karkas-dub-140x8539-79686367787328.webp</picture>
+</offer>
+<offer id="BENET-CHAIR-BUK" group_id="2415" available="true">
+<name>Стілець Бенет бук</name>
+<model>Стілець Бенет (Benet)</model>
+<vendor>Pavlyk</vendor><vendorCode>BENET-CHAIR-BUK</vendorCode>
+<price>4180</price><currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<param name="Варіант">Стілець Бенет бук</param>
+<param name="Матеріал">Масив бука</param>
+<picture>https://maren.com.ua/content/images/16/1000x1000l80nn0/stlec-benet-buk-72944992178430.webp</picture>
+<picture>https://maren.com.ua/content/images/16/1000x1000l80nn0/stlec-benet-buk-16457138701732.webp</picture>
+<picture>https://maren.com.ua/content/images/16/709x1063l80nn0/stlec-benet-buk-67947906461751.webp</picture>
+<picture>https://maren.com.ua/content/images/16/709x1063l80nn0/stlec-benet-buk-85106045832989.webp</picture>
+<picture>https://maren.com.ua/content/images/16/709x1063l80nn0/stlec-benet-buk-54339807698784.webp</picture>
+<picture>https://maren.com.ua/content/images/16/709x1063l80nn0/stlec-benet-buk-40691561940078.webp</picture>
+</offer>
+<offer id="BENET-CHAIR-DUB" group_id="2415" available="true">
+<name>Стілець Бенет дуб</name>
+<model>Стілець Бенет (Benet)</model>
+<vendor>Pavlyk</vendor><vendorCode>BENET-CHAIR-DUB</vendorCode>
+<price>5010</price><currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<param name="Варіант">Стілець Бенет дуб</param>
+<param name="Матеріал">Масив дуба</param>
+<picture>https://maren.com.ua/content/images/17/1000x1000l80nn0/stlec-benet-dub-26706937870393.webp</picture>
+<picture>https://maren.com.ua/content/images/17/1000x1000l80nn0/stlec-benet-dub-63732577458501.webp</picture>
+<picture>https://maren.com.ua/content/images/17/1000x1000l80nn0/stlec-benet-dub-97143882031980.webp</picture>
+<picture>https://maren.com.ua/content/images/17/1000x1000l80nn0/stlec-benet-dub-79937706609098.webp</picture>
+<picture>https://maren.com.ua/content/images/17/1000x1000l80nn0/stlec-benet-dub-41011431799408.webp</picture>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
