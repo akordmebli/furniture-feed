@@ -561,6 +561,24 @@ def _pav_opts(o, name, params, ptype):
     return d
 
 
+def _pav_split_desc(desc):
+    """Опис Pavlyk: абзац лишається описом, пункти списку йдуть у «Характеристики».
+    Габаритні рядки відкидаємо — вони вже є в Ширина/Глибина/Висота (крім рядків зі вставкою, як у Denis)."""
+    paras = "".join(re.findall(r"<p>.*?</p>", desc, re.S))
+    chars = []
+    for li in re.findall(r"<li>(.*?)</li>", desc, re.S):
+        if ":" not in li:
+            continue
+        k, v = (x.strip() for x in li.split(":", 1))
+        if k in ("Розміри", "Розмір стільниці", "Діаметр стільниці", "Діаметр", "Розмір"):
+            ins = re.findall(r"(\d+×\d+)\s*см\s*\(вставка\s*(\+\d+\s*см)\)", v)
+            if ins:
+                chars.append(("Вставка", ", ".join(f"{e} ({sz})" for sz, e in ins)))
+            continue
+        chars.append((k, v))
+    return paras or desc, chars
+
+
 def parse_pavlyk(text):
     root = ET.fromstring(text.encode("utf-8"))
     groups = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources", "pavlyk_groups.json"),
@@ -634,6 +652,10 @@ def parse_pavlyk(text):
                 opt_keys.remove("ext")
         opt_keys = opt_keys[:3]
         dims = PAVLYK_DIMS.get(gid, ("", "", ""))
+        desc_p, pav_chars = _pav_split_desc(g.get("desc", ""))
+        m3 = re.search(r"Розміри:\s*([\d,.]+)\s*×\s*([\d,.]+)\s*×\s*([\d,.]+)", g.get("desc", ""))
+        if m3:  # Ш × Г × В з опису — точніші, ніж PAVLYK_DIMS (там немає глибини)
+            dims = tuple(str(int(float(x.replace(",", ".")) + 0.5)) for x in m3.groups())
         for o, name, d in items:
             vals = [d.get(k) or defaults.get(k, "—") for k in opt_keys]
             sz = d.get("size", "")
@@ -648,15 +670,17 @@ def parse_pavlyk(text):
             p = product(
                 source="pavlyk", sku=f"PAV-{o.get('id')}" + (f"-{slug(d['color'])}" if g.get("expand_colors") else ""), handle=handle, name=title,
                 price=clean_price(o.findtext("price", "")), product_type=ptype, images=pics,
-                description=g.get("desc", ""), available=o.get("available") == "true", vendor="Pavlyk",
+                description=desc_p, available=o.get("available") == "true", vendor="Pavlyk",
                 length=ln, width=wd, height=dims[2] if ptype in CHAIR_TYPES else "",
                 opts={k2: v for k2, v in (("material", d.get("material", "")), ("tabletop_size", sz)) if v},
             )
             if ptype in CHAIR_TYPES:
                 p["opts"].pop("tabletop_size", None)
+                p["length"], p["width"] = ln, wd  # product() міняє місцями, якщо ширина > довжини; для стільців width = глибина
             p["option_names"] = [dict(labels)[k] for k in opt_keys]
             p["option_values"] = vals
             p["shape"] = g.get("shape", "")
+            p["pav_chars"] = pav_chars
             p["meta_title"] = f"{title} | купити в АКОРД МЕБЛІ"
             p["meta_description"] = g.get("meta", "")
             out.append(p)
@@ -1211,6 +1235,11 @@ def build_tab_characteristics_other(items):
                     seen.append(v)
         if seen:
             lines.append((label, "; ".join(seen)))
+    if p0["source"] == "pavlyk":
+        have = {k for k, _ in lines}
+        if "Колір" in have:
+            have.add("Кольори")
+        lines += [(k, v) for k, v in p0.get("pav_chars", []) if k not in have]
     if p0["source"] == "woodman":
         for key, label, suf in WOODMAN_CHAR:
             lines.append((label, _wm_vals(items, key, suf)))
