@@ -732,9 +732,17 @@ def parse_masio(text):
     def base_name(b):
         n = re.sub(r"\s*\(?розкладний\)?", "", b["name"], flags=re.I)
         return re.sub(r"\s+\d+X$", "", n).strip()  # «Промінь 3X/4X» — один стіл, різна кількість ніжок
+    gal = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources", "masio_gallery.json"),
+                         encoding="utf-8"))
+    def uid(b):  # productuid сторінки товару на masio.com.ua (з урахуванням застарілих посилань у прайсі)
+        m = re.search(r"-(\d{12})-", b["link"] or "")
+        if not m:
+            return b["form"]
+        u = m[1]
+        return gal["aliases"].get(u + ("+ext" if b["ext"] else ""), gal["aliases"].get(u, u))
     groups = {}
     for b in blocks:
-        key = (base_name(b), b["ext"], b["link"] or b["form"])
+        key = (base_name(b), b["ext"], uid(b))
         groups.setdefault(key, []).append(b)
     n_groups = {}
     for (name, ext, _) in groups:
@@ -754,9 +762,14 @@ def parse_masio(text):
         notes = next((b["notes"] for b in bs if b["notes"]), "")
         n_chars, n_opts = _masio_notes(notes)
         imgs = []
-        for b in bs:
-            if b["image"] and b["image"] not in imgs:
-                imgs.append(b["image"])
+        for b in bs:  # фото з сайту Masio; фото з прайсу — лише якщо на сайті мало
+            for u in gal["gallery"].get(uid(b), []):
+                if u not in imgs:
+                    imgs.append(u)
+        if len(imgs) < 3:
+            for b in bs:
+                if b["image"] and b["image"] not in imgs:
+                    imgs.append(b["image"])
         exts, sizes = {}, []
         for b in bs:
             for r in b["rows"]:
