@@ -1401,7 +1401,7 @@ def build_xml(products):
             ("tab_materials", p.get("tab_materials", "")),
             ("tab_3d", p.get("tab_3d", "")),
             ("tab_details", p.get("tab_details", "")),
-            ("tabletop_shape", ", ".join(tabletop_shape(p))),
+            ("tabletop_shape", json.dumps(tabletop_shape(p), ensure_ascii=False) if tabletop_shape(p) else ""),  # метаполе типу list → JSON-масив
         ]
         for tag, val in fields:
             ET.SubElement(item, tag).text = "0" if val == 0 else str(val or "")
