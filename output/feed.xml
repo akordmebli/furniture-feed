@@ -830,12 +830,12 @@
     <meta_description>Стіл розкладний Нова від Pavlyk — купуйте в АКОРД МЕБЛІ. Розкладний обідній стіл Нова від Pavlyk. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords/>
     <alias>pavlyk-stil-rozkladnyi-nova</alias>
-    <description>&lt;p&gt;Розкладний обідній стіл Нова від Pavlyk. Стільниця 127 см і дві вставки по 50 см. Кілька варіантів кольору, зокрема поєднання з натуральним деревом.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Розмір стільниці: 127 см&lt;/li&gt;&lt;li&gt;Вставки: 2 × 50 см&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
+    <description>&lt;p&gt;Розкладний обідній стіл Нова від Pavlyk. Стільниця 127 см і дві вставки по 50 см. Кольори: Natural, Natural/White, Natural/Black.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Розмір стільниці: 127 см&lt;/li&gt;&lt;li&gt;Вставки: 2 × 50 см&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
     <spalne_mistse/>
     <dovzhyna>127</dovzhyna>
     <shyryna>127</shyryna>
     <vysota/>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стандартний; Венге + натуральний; Білий + натуральний&quot;}]}]}]}</tab_characteristics>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Natural; Natural/Black; Natural/White&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details/>
@@ -862,7 +862,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Колір</option1_name>
-    <option1_value>Стандартний</option1_value>
+    <option1_value>Natural</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -896,12 +896,12 @@
     <meta_description>Стіл розкладний Нова від Pavlyk — купуйте в АКОРД МЕБЛІ. Розкладний обідній стіл Нова від Pavlyk. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords/>
     <alias>pavlyk-stil-rozkladnyi-nova</alias>
-    <description>&lt;p&gt;Розкладний обідній стіл Нова від Pavlyk. Стільниця 127 см і дві вставки по 50 см. Кілька варіантів кольору, зокрема поєднання з натуральним деревом.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Розмір стільниці: 127 см&lt;/li&gt;&lt;li&gt;Вставки: 2 × 50 см&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
+    <description>&lt;p&gt;Розкладний обідній стіл Нова від Pavlyk. Стільниця 127 см і дві вставки по 50 см. Кольори: Natural, Natural/White, Natural/Black.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Розмір стільниці: 127 см&lt;/li&gt;&lt;li&gt;Вставки: 2 × 50 см&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
     <spalne_mistse/>
     <dovzhyna>127</dovzhyna>
     <shyryna>127</shyryna>
     <vysota/>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стандартний; Венге + натуральний; Білий + натуральний&quot;}]}]}]}</tab_characteristics>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Natural; Natural/Black; Natural/White&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details/>
@@ -928,7 +928,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Колір</option1_name>
-    <option1_value>Венге + натуральний</option1_value>
+    <option1_value>Natural/Black</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -962,12 +962,12 @@
     <meta_description>Стіл розкладний Нова від Pavlyk — купуйте в АКОРД МЕБЛІ. Розкладний обідній стіл Нова від Pavlyk. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords/>
     <alias>pavlyk-stil-rozkladnyi-nova</alias>
-    <description>&lt;p&gt;Розкладний обідній стіл Нова від Pavlyk. Стільниця 127 см і дві вставки по 50 см. Кілька варіантів кольору, зокрема поєднання з натуральним деревом.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Розмір стільниці: 127 см&lt;/li&gt;&lt;li&gt;Вставки: 2 × 50 см&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
+    <description>&lt;p&gt;Розкладний обідній стіл Нова від Pavlyk. Стільниця 127 см і дві вставки по 50 см. Кольори: Natural, Natural/White, Natural/Black.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Розмір стільниці: 127 см&lt;/li&gt;&lt;li&gt;Вставки: 2 × 50 см&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
     <spalne_mistse/>
     <dovzhyna>127</dovzhyna>
     <shyryna>127</shyryna>
     <vysota/>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стандартний; Венге + натуральний; Білий + натуральний&quot;}]}]}]}</tab_characteristics>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;127 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Natural; Natural/Black; Natural/White&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details/>
@@ -994,7 +994,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Колір</option1_name>
-    <option1_value>Білий + натуральний</option1_value>
+    <option1_value>Natural/White</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -1010,7 +1010,7 @@
     </images>
   </item>
   <item>
-    <sku>PAV-1086877030</sku>
+    <sku>PAV-1086877030-ral9001</sku>
     <handle>pavlyk-stilets-heula</handle>
     <name>Стілець Геула</name>
     <variant_price>3880.00</variant_price>
@@ -1028,12 +1028,12 @@
     <meta_description>Стілець Геула від Pavlyk — купуйте в АКОРД МЕБЛІ. Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Доставка по Україні.</meta_description>
     <meta_keywords/>
     <alias>pavlyk-stilets-heula</alias>
-    <description>&lt;p&gt;Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Підходить для кухні, їдальні чи кафе.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Сидіння: м'яке&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
+    <description>&lt;p&gt;Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Підходить для кухні, їдальні чи кафе.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Сидіння: м'яке&lt;/li&gt;&lt;li&gt;Кольори: Ivory, Black, Italian, RAL9001, Walnut, White&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
     <spalne_mistse/>
     <dovzhyna/>
     <shyryna/>
     <vysota/>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стандартний; Натуральний&quot;}]}]}]}</tab_characteristics>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ivory; Black; Italian; RAL9001; Walnut; White&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details/>
@@ -1060,7 +1060,7 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Колір</option1_name>
-    <option1_value>Стандартний</option1_value>
+    <option1_value>RAL9001</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
@@ -1079,10 +1079,10 @@
     </images>
   </item>
   <item>
-    <sku>PAV-STI0193-N</sku>
+    <sku>PAV-1086877030-ivory</sku>
     <handle>pavlyk-stilets-heula</handle>
     <name>Стілець Геула</name>
-    <variant_price>3686.00</variant_price>
+    <variant_price>3880.00</variant_price>
     <vendor>Pavlyk</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -1097,12 +1097,12 @@
     <meta_description>Стілець Геула від Pavlyk — купуйте в АКОРД МЕБЛІ. Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Доставка по Україні.</meta_description>
     <meta_keywords/>
     <alias>pavlyk-stilets-heula</alias>
-    <description>&lt;p&gt;Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Підходить для кухні, їдальні чи кафе.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Сидіння: м'яке&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
+    <description>&lt;p&gt;Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Підходить для кухні, їдальні чи кафе.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Сидіння: м'яке&lt;/li&gt;&lt;li&gt;Кольори: Ivory, Black, Italian, RAL9001, Walnut, White&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
     <spalne_mistse/>
     <dovzhyna/>
     <shyryna/>
     <vysota/>
-    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стандартний; Натуральний&quot;}]}]}]}</tab_characteristics>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ivory; Black; Italian; RAL9001; Walnut; White&quot;}]}]}]}</tab_characteristics>
     <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details/>
@@ -1129,7 +1129,283 @@
     <boxes/>
     <storage_niche/>
     <option1_name>Колір</option1_name>
-    <option1_value>Натуральний</option1_value>
+    <option1_value>Ivory</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://maren.com.ua/content/images/12/1023x1245l80nn0/stilets-heula-natural-24827329739280.webp</variant_image>
+    <images>
+      <image>https://maren.com.ua/content/images/12/1023x1245l80nn0/stilets-heula-natural-24827329739280.webp</image>
+      <image>https://maren.com.ua/content/images/12/1035x1248l80nn0/stilets-heula-natural-45484161209214.webp</image>
+      <image>https://maren.com.ua/content/images/12/1023x1248l80nn0/stilets-heula-natural-76040672761925.webp</image>
+      <image>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-55561372389321.webp</image>
+      <image>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-68723102491992.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-96809895888724.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-88583068862184.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-77546268285181.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-99781582813253.webp</image>
+    </images>
+  </item>
+  <item>
+    <sku>PAV-1086877030-black</sku>
+    <handle>pavlyk-stilets-heula</handle>
+    <name>Стілець Геула</name>
+    <variant_price>3880.00</variant_price>
+    <vendor>Pavlyk</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Стілець Геула | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець Геула від Pavlyk — купуйте в АКОРД МЕБЛІ. Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Доставка по Україні.</meta_description>
+    <meta_keywords/>
+    <alias>pavlyk-stilets-heula</alias>
+    <description>&lt;p&gt;Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Підходить для кухні, їдальні чи кафе.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Сидіння: м'яке&lt;/li&gt;&lt;li&gt;Кольори: Ivory, Black, Italian, RAL9001, Walnut, White&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ivory; Black; Italian; RAL9001; Walnut; White&quot;}]}]}]}</tab_characteristics>
+    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>Black</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://maren.com.ua/content/images/12/1023x1245l80nn0/stilets-heula-natural-24827329739280.webp</variant_image>
+    <images>
+      <image>https://maren.com.ua/content/images/12/1023x1245l80nn0/stilets-heula-natural-24827329739280.webp</image>
+      <image>https://maren.com.ua/content/images/12/1035x1248l80nn0/stilets-heula-natural-45484161209214.webp</image>
+      <image>https://maren.com.ua/content/images/12/1023x1248l80nn0/stilets-heula-natural-76040672761925.webp</image>
+      <image>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-55561372389321.webp</image>
+      <image>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-68723102491992.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-96809895888724.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-88583068862184.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-77546268285181.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-99781582813253.webp</image>
+    </images>
+  </item>
+  <item>
+    <sku>PAV-1086877030-italian</sku>
+    <handle>pavlyk-stilets-heula</handle>
+    <name>Стілець Геула</name>
+    <variant_price>3880.00</variant_price>
+    <vendor>Pavlyk</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Стілець Геула | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець Геула від Pavlyk — купуйте в АКОРД МЕБЛІ. Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Доставка по Україні.</meta_description>
+    <meta_keywords/>
+    <alias>pavlyk-stilets-heula</alias>
+    <description>&lt;p&gt;Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Підходить для кухні, їдальні чи кафе.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Сидіння: м'яке&lt;/li&gt;&lt;li&gt;Кольори: Ivory, Black, Italian, RAL9001, Walnut, White&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ivory; Black; Italian; RAL9001; Walnut; White&quot;}]}]}]}</tab_characteristics>
+    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>Italian</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://maren.com.ua/content/images/12/1023x1245l80nn0/stilets-heula-natural-24827329739280.webp</variant_image>
+    <images>
+      <image>https://maren.com.ua/content/images/12/1023x1245l80nn0/stilets-heula-natural-24827329739280.webp</image>
+      <image>https://maren.com.ua/content/images/12/1035x1248l80nn0/stilets-heula-natural-45484161209214.webp</image>
+      <image>https://maren.com.ua/content/images/12/1023x1248l80nn0/stilets-heula-natural-76040672761925.webp</image>
+      <image>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-55561372389321.webp</image>
+      <image>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-68723102491992.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-96809895888724.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-88583068862184.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-77546268285181.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-99781582813253.webp</image>
+    </images>
+  </item>
+  <item>
+    <sku>PAV-1086877030-walnut</sku>
+    <handle>pavlyk-stilets-heula</handle>
+    <name>Стілець Геула</name>
+    <variant_price>3880.00</variant_price>
+    <vendor>Pavlyk</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Стілець Геула | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець Геула від Pavlyk — купуйте в АКОРД МЕБЛІ. Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Доставка по Україні.</meta_description>
+    <meta_keywords/>
+    <alias>pavlyk-stilets-heula</alias>
+    <description>&lt;p&gt;Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Підходить для кухні, їдальні чи кафе.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Сидіння: м'яке&lt;/li&gt;&lt;li&gt;Кольори: Ivory, Black, Italian, RAL9001, Walnut, White&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ivory; Black; Italian; RAL9001; Walnut; White&quot;}]}]}]}</tab_characteristics>
+    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>Walnut</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://maren.com.ua/content/images/12/1023x1245l80nn0/stilets-heula-natural-24827329739280.webp</variant_image>
+    <images>
+      <image>https://maren.com.ua/content/images/12/1023x1245l80nn0/stilets-heula-natural-24827329739280.webp</image>
+      <image>https://maren.com.ua/content/images/12/1035x1248l80nn0/stilets-heula-natural-45484161209214.webp</image>
+      <image>https://maren.com.ua/content/images/12/1023x1248l80nn0/stilets-heula-natural-76040672761925.webp</image>
+      <image>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-55561372389321.webp</image>
+      <image>https://maren.com.ua/content/images/21/1000x1000l80nn0/stlec-geula-68723102491992.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-96809895888724.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-88583068862184.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-77546268285181.webp</image>
+      <image>https://maren.com.ua/content/images/21/1200x1200l80nn0/stlec-geula-99781582813253.webp</image>
+    </images>
+  </item>
+  <item>
+    <sku>PAV-1086877030-white</sku>
+    <handle>pavlyk-stilets-heula</handle>
+    <name>Стілець Геула</name>
+    <variant_price>3880.00</variant_price>
+    <vendor>Pavlyk</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Стілець Геула | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець Геула від Pavlyk — купуйте в АКОРД МЕБЛІ. Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Доставка по Україні.</meta_description>
+    <meta_keywords/>
+    <alias>pavlyk-stilets-heula</alias>
+    <description>&lt;p&gt;Обідній стілець Геула від Pavlyk з м'яким сидінням і дерев'яним каркасом. Підходить для кухні, їдальні чи кафе.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Сидіння: м'яке&lt;/li&gt;&lt;li&gt;Кольори: Ivory, Black, Italian, RAL9001, Walnut, White&lt;/li&gt;&lt;li&gt;Виробництво: Україна&lt;/li&gt;&lt;/ul&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna/>
+    <shyryna/>
+    <vysota/>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ivory; Black; Italian; RAL9001; Walnut; White&quot;}]}]}]}</tab_characteristics>
+    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>White</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
