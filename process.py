@@ -658,6 +658,7 @@ def parse_pavlyk(text):
             p["option_values"] = vals
             p["shape"] = g.get("shape", "")
             p["meta_title"] = f"{title} | купити в АКОРД МЕБЛІ"
+            p["meta_description"] = g.get("meta", "")
             out.append(p)
     return out
 
