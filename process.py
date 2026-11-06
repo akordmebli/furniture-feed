@@ -762,11 +762,11 @@ def parse_masio(text):
         notes = next((b["notes"] for b in bs if b["notes"]), "")
         n_chars, n_opts = _masio_notes(notes)
         imgs = []
-        for b in bs:  # фото з сайту Masio; фото з прайсу — лише якщо на сайті мало
+        for b in bs:  # фото з сайту Masio
             for u in gal["gallery"].get(uid(b), []):
                 if u not in imgs:
                     imgs.append(u)
-        if len(imgs) < 3:
+        if not imgs:  # фото з прайсу дрібні — лише коли на сайті Masio фото немає зовсім
             for b in bs:
                 if b["image"] and b["image"] not in imgs:
                     imgs.append(b["image"])
