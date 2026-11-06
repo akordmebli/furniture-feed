@@ -46,7 +46,7 @@
  },
  "1870": {
   "title": "Стілець Геула",
-  "desc": "<p>Обідній стілець Геула від Pavlyk з м'яким сидінням і каркасом із бука.</p><ul><li>Каркас: бук</li><li>Кольори: Walnut, Ivory, White</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>",
+  "desc": "<p>Обідній стілець Геула від Pavlyk з м'яким сидінням і каркасом із бука.</p><ul><li>Розміри: ширина 44 см, висота 95 см</li><li>Висота сидіння: 46 см</li><li>Каркас: бук</li><li>Кольори: Walnut, Ivory, White</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>",
   "expand_colors": [
    "Walnut",
    "Ivory",
@@ -58,11 +58,11 @@
  },
  "1871": {
   "title": "Стілець Грація",
-  "desc": "<p>Дерев'яний обідній стілець Грація від Pavlyk з твердим сидінням. Каркас із масиву бука, без оббивки — легко доглядати.</p><ul><li>Каркас: масив бука</li><li>Кольори: White, Natural, Black</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Дерев'яний обідній стілець Грація від Pavlyk з твердим сидінням. Каркас із масиву бука, без оббивки — легко доглядати.</p><ul><li>Розміри: 45 × 52 × 83 см (Ш × Г × В)</li><li>Висота сидіння: 42,5 см</li><li>Каркас: масив бука</li><li>Кольори: White, Natural, Black</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>"
  },
  "1874": {
   "title": "Стілець Селіна",
-  "desc": "<p>Обідній стілець Селіна від Pavlyk з м'яким сидінням і каркасом із бука.</p><ul><li>Каркас: бук</li><li>Кольори: Walnut, Ivory, White</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Обідній стілець Селіна від Pavlyk з м'яким сидінням і каркасом із бука.</p><ul><li>Розміри: ширина 45 см, висота 95 см</li><li>Висота сидіння: 47 см</li><li>Каркас: бук</li><li>Кольори: Walnut, Ivory, White</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>"
  },
  "1877": {
   "title": "Стілець Лула",
@@ -70,7 +70,7 @@
  },
  "1879": {
   "title": "Стілець Лула Soft",
-  "desc": "<p>Стілець Лула Soft від Pavlyk — версія класичної Лули з м'яким сидінням. Каркас із масиву бука або дуба.</p><ul><li>Кольори (бук): Natural, Black, Walnut, White</li><li>Кольори (дуб): Natural, Black, Walnut, Stained oak, Oak</li><li>Тканини: Diosa 11, 19, 70, 84; Malmo new 08, 90, 96; Aragon 03, 80; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Стілець Лула Soft від Pavlyk — версія класичної Лули з м'яким сидінням. Каркас із масиву бука або дуба.</p><ul><li>Розміри: 44 × 51,5 × 82,5 см (Ш × Г × В)</li><li>Висота сидіння: 47,5 см</li><li>Кольори (бук): Natural, Black, Walnut, White</li><li>Кольори (дуб): Natural, Black, Walnut, Stained oak, Oak</li><li>Тканини: Diosa 11, 19, 70, 84; Malmo new 08, 90, 96; Aragon 03, 80; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
  },
  "1880": {
   "title": "Стілець Діран",
@@ -78,27 +78,27 @@
  },
  "1902": {
   "title": "Стілець Гуру",
-  "desc": "<p>Дерев'яний стілець Гуру від Pavlyk з твердим сидінням. Каркас із масиву бука або дуба.</p><ul><li>Кольори (бук): Black, Natural, Walnut, Stained oak</li><li>Кольори (дуб): Black, Natural, Black patina, Stained oak, Walnut</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Дерев'яний стілець Гуру від Pavlyk з твердим сидінням. Каркас із масиву бука або дуба.</p><ul><li>Розміри: 52,5 × 56 × 78 см (Ш × Г × В)</li><li>Висота сидіння: 42 см</li><li>Кольори (бук): Black, Natural, Walnut, Stained oak</li><li>Кольори (дуб): Black, Natural, Black patina, Stained oak, Walnut</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>"
  },
  "1904": {
   "title": "Стілець Гуру Cane",
-  "desc": "<p>Стілець Гуру Cane від Pavlyk. Каркас із масиву бука або дуба.</p><ul><li>Кольори (бук): Black, Natural, Walnut, Stained oak</li><li>Кольори (дуб): Black, Natural, Black patina, Stained oak, Walnut</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Стілець Гуру Cane від Pavlyk. Каркас із масиву бука або дуба.</p><ul><li>Розміри: 52,5 × 56 × 78 см (Ш × Г × В)</li><li>Висота сидіння: 42 см</li><li>Кольори (бук): Black, Natural, Walnut, Stained oak</li><li>Кольори (дуб): Black, Natural, Black patina, Stained oak, Walnut</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>"
  },
  "1906": {
   "title": "Стілець Гуру м'який",
-  "desc": "<p>Стілець Гуру від Pavlyk з м'яким сидінням у версіях Tender і Soft. Каркас із масиву бука або дуба.</p><ul><li>Кольори (бук): Black, Natural, Walnut, Stained oak</li><li>Кольори (дуб): Black, Natural, Black patina, Stained oak, Walnut</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Malmo new 08, 90, 96; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Стілець Гуру від Pavlyk з м'яким сидінням у версіях Tender і Soft. Каркас із масиву бука або дуба.</p><ul><li>Розміри: 52,5 × 56 × 78 см (Ш × Г × В)</li><li>Висота сидіння: 42,5 см</li><li>Кольори (бук): Black, Natural, Walnut, Stained oak</li><li>Кольори (дуб): Black, Natural, Black patina, Stained oak, Walnut</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Malmo new 08, 90, 96; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця</li><li>Виробництво: Україна</li></ul>"
  },
  "1910": {
   "title": "Стілець Логан",
-  "desc": "<p>Обідній стілець Логан від Pavlyk з м'яким сидінням. Каркас із масиву бука або дуба.</p><ul><li>Кольори (бук): Black, Walnut, Stained oak, Oak, Natural, Ivory, RAL 9001, White</li><li>Кольори (дуб): Black, Walnut, Stained oak, Oak, Natural, Black patina, Oil</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Aragon 03, 80; Royal Velvet 2, 4; Now or Never 05, 18, 38, 83; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Обідній стілець Логан від Pavlyk з м'яким сидінням. Каркас із масиву бука або дуба.</p><ul><li>Розміри: 55,5 × 50,5 × 78,5 см (Ш × Г × В)</li><li>Висота сидіння: 45 см</li><li>Кольори (бук): Black, Walnut, Stained oak, Oak, Natural, Ivory, RAL 9001, White</li><li>Кольори (дуб): Black, Walnut, Stained oak, Oak, Natural, Black patina, Oil</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Aragon 03, 80; Royal Velvet 2, 4; Now or Never 05, 18, 38, 83; Cashmere 2, 18</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
  },
  "1915": {
   "title": "Стілець Roses",
-  "desc": "<p>Стілець Roses (Троянда) від Pavlyk з м'яким сидінням. Каркас із масиву бука або дуба.</p><ul><li>Кольори (бук): Black, Walnut, Stained oak, Oak, Natural, Ivory, RAL 9001, White</li><li>Кольори (дуб): Black, Walnut, Stained oak, Oak, Natural, Black patina, Oil</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Aragon 03, 80; Royal Velvet 2, 4; Now or Never 05, 18, 38, 83</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Стілець Roses (Троянда) від Pavlyk з м'яким сидінням. Каркас із масиву бука або дуба.</p><ul><li>Розміри: 58 × 56 × 80,5 см (Ш × Г × В)</li><li>Висота сидіння: 50 см</li><li>Кольори (бук): Black, Walnut, Stained oak, Oak, Natural, Ivory, RAL 9001, White</li><li>Кольори (дуб): Black, Walnut, Stained oak, Oak, Natural, Black patina, Oil</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Aragon 03, 80; Royal Velvet 2, 4; Now or Never 05, 18, 38, 83</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
  },
  "1923": {
   "title": "Барний стілець Лула",
-  "desc": "<p>Барний / напівбарний стілець Лула від Pavlyk з твердим сидінням і підставкою для ніг. Каркас із масиву бука або дуба.</p><ul><li>Висота сидіння: 76 см (барний), 66 см (напівбарний)</li><li>Кольори (бук): Natural, Black, Walnut</li><li>Кольори (дуб): Natural, Black, Walnut, Stained oak, Oak</li><li>Постачається: зібраним</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Барний / напівбарний стілець Лула від Pavlyk з твердим сидінням і підставкою для ніг. Каркас із масиву бука або дуба.</p><ul><li>Розміри: 46,5 × 42,5 × 107,5 см (Ш × Г × В)</li><li>Висота сидіння: 76 см (барний), 66 см (напівбарний)</li><li>Кольори (бук): Natural, Black, Walnut</li><li>Кольори (дуб): Natural, Black, Walnut, Stained oak, Oak</li><li>Постачається: зібраним</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
  },
  "2083": {
   "title": "Стіл Stone",
@@ -127,7 +127,7 @@
  },
  "2093": {
   "title": "Стілець Frame",
-  "desc": "<p>Стілець Frame від Pavlyk у трьох версіях: класичній, Soft і Cane. Каркас із масиву бука або дуба.</p><ul><li>Кольори (бук): Black, Natural, Walnut, Oak, Stained oak</li><li>Кольори (дуб): Black, Natural, Black patina, Stained oak, Oak, Walnut</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Malmo new 08, 90, 96; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 2 місяці</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Стілець Frame від Pavlyk у трьох версіях: класичній, Soft і Cane. Каркас із масиву бука або дуба.</p><ul><li>Розміри: ширина 50 см, висота 76 см</li><li>Висота сидіння: 43 см</li><li>Кольори (бук): Black, Natural, Walnut, Oak, Stained oak</li><li>Кольори (дуб): Black, Natural, Black patina, Stained oak, Oak, Walnut</li><li>Тканини: Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Malmo new 08, 90, 96; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 2 місяці</li><li>Виробництво: Україна</li></ul>"
  },
  "2114": {
   "title": "Журнальний столик Twin",
@@ -143,15 +143,15 @@
  },
  "2124": {
   "title": "Стілець Хенні",
-  "desc": "<p>Обідній стілець Хенні від Pavlyk з каркасом із масиву дуба.</p><ul><li>Каркас: масив дуба</li><li>Кольори: Natural, Black, Walnut, Stained oak, Oak</li><li>Термін виготовлення: 2 місяці</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Обідній стілець Хенні від Pavlyk з каркасом із масиву дуба.</p><ul><li>Розміри: 53,5 × 49 × 75 см (Ш × Г × В)</li><li>Висота сидіння: 45,5 см</li><li>Каркас: масив дуба</li><li>Кольори: Natural, Black, Walnut, Stained oak, Oak</li><li>Термін виготовлення: 2 місяці</li><li>Виробництво: Україна</li></ul>"
  },
  "2126": {
   "title": "Барний стілець Бенет Pavlyk",
-  "desc": "<p>Барний / напівбарний стілець Бенет від Pavlyk. Каркас із масиву бука або дуба.</p><ul><li>Висота сидіння: 76 см (барний), 66 см (напівбарний)</li><li>Кольори (бук): Natural, Black, Walnut</li><li>Кольори (дуб): Natural, Black, Walnut, Stained oak, Oak</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Барний / напівбарний стілець Бенет від Pavlyk. Каркас із масиву бука або дуба.</p><ul><li>Розміри: 46,5 × 42,5 × 107,5 см (Ш × Г × В)</li><li>Висота сидіння: 76 см (барний), 66 см (напівбарний)</li><li>Кольори (бук): Natural, Black, Walnut</li><li>Кольори (дуб): Natural, Black, Walnut, Stained oak, Oak</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
  },
  "2405": {
   "title": "Барний стілець Гуру",
-  "desc": "<p>Барний / напівбарний стілець Гуру від Pavlyk у чотирьох версіях: класичній, Tender, Soft і Cane. Каркас із масиву бука або дуба.</p><ul><li>Висота сидіння: 71 см (барний), 63 см (напівбарний)</li><li>Кольори (бук): Black, Natural, Walnut, Stained oak</li><li>Кольори (дуб): Black, Natural, Black patina, Stained oak, Walnut</li><li>Тканини (Tender, Soft): Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Malmo new 08, 90, 96; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 2 місяці</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Барний / напівбарний стілець Гуру від Pavlyk у чотирьох версіях: класичній, Tender, Soft і Cane. Каркас із масиву бука або дуба.</p><ul><li>Розміри: 52,5 × 63 × 104 см (Ш × Г × В)</li><li>Висота сидіння: 71 см (барний), 63 см (напівбарний)</li><li>Кольори (бук): Black, Natural, Walnut, Stained oak</li><li>Кольори (дуб): Black, Natural, Black patina, Stained oak, Walnut</li><li>Тканини (Tender, Soft): Diosa 11, 19, 70, 84; Cloud 03, 82, 97; Malmo new 08, 90, 96; Aragon 03, 80; Royal Velvet 2, 4; Cashmere 2, 18</li><li>Термін виготовлення: 2 місяці</li><li>Виробництво: Україна</li></ul>"
  },
  "2413": {
   "title": "Стіл розкладний Raveno",
@@ -165,6 +165,6 @@
  },
  "2415": {
   "title": "Стілець Бенет Pavlyk",
-  "desc": "<p>Обідній стілець Бенет від Pavlyk. Каркас із масиву бука або дуба.</p><ul><li>Кольори (бук): Natural, Black, Walnut</li><li>Кольори (дуб): Natural, Black, Walnut, Stained oak, Oak</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
+  "desc": "<p>Обідній стілець Бенет від Pavlyk. Каркас із масиву бука або дуба.</p><ul><li>Розміри: 44 × 51,5 × 82,5 см (Ш × Г × В)</li><li>Висота сидіння: 46 см</li><li>Кольори (бук): Natural, Black, Walnut</li><li>Кольори (дуб): Natural, Black, Walnut, Stained oak, Oak</li><li>Термін виготовлення: 1,5 місяця (бук), 2 місяці (дуб)</li><li>Виробництво: Україна</li></ul>"
  }
 }
