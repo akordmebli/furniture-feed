@@ -573,8 +573,17 @@ def parse_pavlyk(text):
         items = []
         for o in offers:
             name = clean_text(o.findtext("name", ""))
+            if name in g.get("skip_names", []):
+                continue
             params = {p.get("name"): (p.text or "").strip() for p in o.findall("param")}
-            items.append((o, name, _pav_opts(o, name, params, ptype)))
+            d = _pav_opts(o, name, params, ptype)
+            if name in g.get("color_by_name", {}):
+                d["color"] = g["color_by_name"][name]
+            if g.get("expand_colors"):  # у файлі один варіант, а кольорів у виробника кілька
+                for c in g["expand_colors"]:
+                    items.append((o, name, {**d, "color": c}))
+                continue
+            items.append((o, name, d))
         # «(каркас дуб)» лише в частині назв — якщо в групі один матеріал, він стосується всіх варіантів
         mats = {it[2]["material"] for it in items if it[2].get("material")}
         if len(mats) == 1:
@@ -627,7 +636,7 @@ def parse_pavlyk(text):
                 ln, wd = dims[0], dims[1]
             pics = [p.text.strip() for p in o.findall("picture") if p.text]
             p = product(
-                source="pavlyk", sku=f"PAV-{o.get('id')}", handle=handle, name=title,
+                source="pavlyk", sku=f"PAV-{o.get('id')}" + (f"-{slug(d['color'])}" if g.get("expand_colors") else ""), handle=handle, name=title,
                 price=clean_price(o.findtext("price", "")), product_type=ptype, images=pics,
                 description=g.get("desc", ""), available=o.get("available") == "true", vendor="Pavlyk",
                 length=ln, width=wd, height=dims[2] if ptype in CHAIR_TYPES else "",
