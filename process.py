@@ -1937,7 +1937,10 @@ def main():
                 src = os.path.join(os.path.dirname(os.path.abspath(__file__)), env[5:])
                 items = parser(open(src, encoding="utf-8").read())
             else:
-                items = parser(fetch_text(os.environ[env]))
+                raw = fetch_text(os.environ[env])
+                items = parser(raw)
+                if not items:
+                    print(f"{label}: відповідь джерела (початок): {raw[:200]!r}")
         except Exception as e:  # noqa: BLE001
             print(f"{label}: ПОМИЛКА — {e}")
             failed.append(label)
