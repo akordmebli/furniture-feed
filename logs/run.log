@@ -9,8 +9,9 @@ Pavlyk: 83 | без ціни 0 | без фото 0 | без категорії 0
 Masio: 427 | без ціни 0 | без фото 0 | без категорії 0
 Нерозпізнані категорії: 2 (див. unmapped.log)
 UNMAPPED sample: ["akord: 'Каркаси ліжок' (Ліжко GRACE)", "akord: 'Каркаси ліжок' (Ліжко Блек)"]
+Виключено знятих з виробництва: 12 позицій
 
-Готово: 8176 позицій → output/feed.xml
+Готово: 8164 позицій → output/feed.xml
 COMPARE same URL: True
 COMPARE rows: feed-source=4175 sheet=4175
 COMPARE only in feed-source: 0 | only in sheet: 0
