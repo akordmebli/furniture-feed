@@ -1965,6 +1965,11 @@ def main():
         print(f"\nФід НЕ оновлено: не вдалося завантажити {', '.join(failed)}")
         sys.exit(1)
 
+    excl = {n.lower() for n in json.load(open("sources/excluded.json", encoding="utf-8")).get("names", [])}
+    before = len(all_products)
+    all_products = [p for p in all_products if (p.get("name") or "").strip().lower() not in excl]
+    if before != len(all_products):
+        print(f"Виключено знятих з виробництва: {before - len(all_products)} позицій")
     apply_brands(all_products)
     clear_module_dims(all_products)
     all_products = group_variants(all_products)
