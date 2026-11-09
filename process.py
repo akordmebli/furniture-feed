@@ -1804,10 +1804,29 @@ def apply_short_texts(items):
                         lead += " " + first
                 p["meta_description"] = (lead + " Доставка по Україні, оплата частинами.")[:300]
         for p in g:
-            p["meta_description"] = fit_meta(p.get("meta_description") or "")
+            p["meta_description"] = fit_meta(clean_meta(p.get("meta_description") or ""))
 
 
 META_MAX = 160
+DELIVERY = "Доставка по Україні, оплата частинами."
+
+
+def clean_meta(text):
+    """Лагодить обрізані джерелом meta: «…оплата. Доставка по Україні, оплата час», «по.. Дост»."""
+    t = re.sub(r"\s+", " ", text).strip()
+    t = re.sub(r"\.{2,}", ".", t)
+    if not t:
+        return t
+    broken = t.count("Доставка") > 1 or not re.search(r"[.!?…»\"”]$", t)
+    if not broken:
+        return t
+    i = t.find("Доставка")
+    head = t[:i] if i > 0 else t
+    if i < 0:  # обрізано посеред речення без «Доставка» — лишаємо цілі речення
+        sents = re.split(r"(?<=[.!?»])\s+", head)
+        head = " ".join(sents[:-1]) if len(sents) > 1 else head.rsplit(" ", 1)[0]
+    head = head.rstrip(" ,;:—–.") + "."
+    return head + " " + DELIVERY
 
 
 def fit_meta(text, limit=META_MAX):
