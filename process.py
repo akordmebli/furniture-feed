@@ -3,7 +3,7 @@
 
 Джерела (URL у секретах GitHub):
   AKORD_CSV    — вигрузка ShopExpress (ВНД / VINADI), один рядок = один варіант
-  VETRO_XML    — YML-фід Vetro Mebel (беремо ЛИШЕ українські поля name_ua / description_ua)
+  VETRO_XML    — YML-фід Vetro (беремо ЛИШЕ українські поля name_ua / description_ua)
   COMEFOR_XML  — фід Come-For (ціна в <priceuah>, фото в <image>)
   WOODMAN_CSV  — таблиця Woodman (необов'язково; вмикається WOODMAN_ENABLED=1)
   sources/pavlyk.xml — YML-файл Pavlyk (постійного посилання немає; оновлювати файл вручну)
@@ -403,9 +403,9 @@ def parse_vetro(text):
             price=clean_price(offer.findtext("price", "")),
             product_type=leaf,
             images=[p.text.strip() for p in offer.findall("picture") if p.text],
-            description=clean_text(offer.findtext("description_ua", "")),
+            description=re.sub(r"(?i)vetro[\s-]*mebel", "Vetro", clean_text(offer.findtext("description_ua", ""))),
             available=offer.get("available") == "true",
-            vendor="Vetro Mebel",
+            vendor="Vetro",
             instock=offer.findtext("stock_quantity", "") or "",
             length=vetro_param(params, "Довжина, см", "Максимальна довжина стільниці, см", "Ширина дивану, см") or diam,
             width=vetro_param(params, "Ширина, см", "Ширина сидіння, см") or diam,
