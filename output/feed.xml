@@ -38688,9 +38688,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-87-1 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-87-1 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -40371,9 +40371,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець M-72 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець M-72 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -42320,9 +42320,9 @@
     <parent_category>Крісла</parent_category>
     <shopify_id>fr-7-1</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Крісло &quot;Памела&quot; | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Крісло &quot;Памела&quot; від Vetro — купуйте в АКОРД МЕБЛІ. Крісло Памела бізе є чудовим вибором для тих, хто цінує комфорт, стиль та високу якість. Доставка по Україні.</meta_description>
@@ -56135,6 +56135,196 @@
       <image>https://vetro.com.ua/storage/32660/6aaba45f8659f_6aaba3182cc62_stil-montero-tml-1365-arabeskato-vintazh-bronza3.jpg</image>
       <image>https://vetro.com.ua/storage/32661/6aaba4695fa5e_6aaba4222b4de_stil-montero-tml-1365-arabeskato-vintazh-bronza3.jpg</image>
       <image>https://vetro.com.ua/storage/32663/6aaba4a05e256_6aaba484dc0f4_stil-montero-tml-1365-arabeskato-vintazh-bronza2.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>TML-1255-positano-white-sand/cream</sku>
+    <handle>vetro-keramichnyi-stil-pozitano-tml-1255</handle>
+    <name>Керамічний стіл Позітано TML-1255</name>
+    <variant_price>25235.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні столи</product_type>
+    <category>Обідні столи</category>
+    <parent_category>Столи</parent_category>
+    <shopify_id>fr-24-4</shopify_id>
+    <tags/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Керамічний стіл Позітано TML-1255 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Керамічний стіл Позітано TML-1255 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-keramichnyi-stil-pozitano-tml-1255</alias>
+    <description>&lt;p&gt;&lt;strong&gt;Керамічний стіл Позітано TML-1255&lt;/strong&gt; — елегантна модель із прямокутною стільницею у світлому відтінку білий пісок та витонченою кремовою металевою основою. Матова кераміка, стійка до подряпин, поєднує вишуканий вигляд із практичністю та невибагливістю у щоденному догляді.&lt;/p&gt;&lt;p&gt;Завдяки автоматичному механізму розкладки стіл легко збільшується зі 110 до 140 см, створюючи додатковий простір для гостей. Керамічна вкладка в тон основної стільниці зберігає цілісність дизайну в розкладеному вигляді.&lt;/p&gt;&lt;p&gt;Позітано TML-1255 — вдале поєднання лаконічного дизайну, функціональності та світлої естетики, що гармонійно доповнить сучасну кухню або обідню зону.&lt;/p&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna>110</dovzhyna>
+    <shyryna>75</shyryna>
+    <vysota>76</vysota>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;110 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;76 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий пісок + кремовий; голд патагонія + кремовий; діп грей + антрацит&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина у розкладеному вигляді: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;140 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Форма: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;прямокутні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вид: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;розкладні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм розкладки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;автоматичний&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;83 кг&quot;}]}]}]}</tab_characteristics>
+    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стільниця: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матова кераміка (стійка до подряпин); глянцева кераміка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вкладка: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матова кераміка (стійка до подряпин); глянцева кераміка&quot;}]}]}]}</tab_details>
+    <tabletop_shape>[&quot;Прямокутна&quot;]</tabletop_shape>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>білий пісок + кремовий</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/32701/6aabba5d5770f_6aabba189016f_stil-pozitano-tml-1255-biliy-pisok-kremoviy1.png</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/32701/6aabba5d5770f_6aabba189016f_stil-pozitano-tml-1255-biliy-pisok-kremoviy1.png</image>
+      <image>https://vetro.com.ua/storage/32701/6aabba5d5770f_6aabba189016f_stil-pozitano-tml-1255-biliy-pisok-kremoviy1.png</image>
+      <image>https://vetro.com.ua/storage/32702/6aabba6932ce7_6aabba1896f8f_stil-pozitano-tml-1255-biliy-pisok-kremoviy2.png</image>
+    </images>
+  </item>
+  <item>
+    <sku>TML-1255-positano-gold-patagonia/cream</sku>
+    <handle>vetro-keramichnyi-stil-pozitano-tml-1255</handle>
+    <name>Керамічний стіл Позітано TML-1255</name>
+    <variant_price>25235.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні столи</product_type>
+    <category>Обідні столи</category>
+    <parent_category>Столи</parent_category>
+    <shopify_id>fr-24-4</shopify_id>
+    <tags/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Керамічний стіл Позітано TML-1255 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Керамічний стіл Позітано TML-1255 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-keramichnyi-stil-pozitano-tml-1255</alias>
+    <description>&lt;p&gt;&lt;strong&gt;Керамічний стіл Позітано TML-1255&lt;/strong&gt; — елегантна модель із глянцевою стільницею у виразному відтінку голд патагонія та кремовою металевою основою. Ефектний малюнок кераміки з природними переходами кольорів надає столу особливого характеру, а глянцева поверхня підкреслює глибину та красу текстури.&lt;/p&gt;&lt;p&gt;Завдяки автоматичному механізму розкладки стіл легко збільшується зі 110 до 140 см, забезпечуючи додатковий простір для сімейних обідів і зустрічей із гостями. Керамічна вкладка в тон основної стільниці зберігає цілісність дизайну в розкладеному вигляді.&lt;/p&gt;&lt;p&gt;Позітано TML-1255 — гармонійне поєднання виразного природного малюнка, сучасної елегантності та продуманої функціональності.&lt;/p&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna>110</dovzhyna>
+    <shyryna>75</shyryna>
+    <vysota>76</vysota>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;110 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;76 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий пісок + кремовий; голд патагонія + кремовий; діп грей + антрацит&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина у розкладеному вигляді: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;140 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Форма: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;прямокутні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вид: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;розкладні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм розкладки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;автоматичний&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;83 кг&quot;}]}]}]}</tab_characteristics>
+    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стільниця: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матова кераміка (стійка до подряпин); глянцева кераміка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вкладка: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матова кераміка (стійка до подряпин); глянцева кераміка&quot;}]}]}]}</tab_details>
+    <tabletop_shape>[&quot;Прямокутна&quot;]</tabletop_shape>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>голд патагонія + кремовий</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/32729/6aabc401f28e5_6aabc3d384021_stil-pozitano-tml-1255-gold-patagoniya-kremoviy1.png</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/32729/6aabc401f28e5_6aabc3d384021_stil-pozitano-tml-1255-gold-patagoniya-kremoviy1.png</image>
+      <image>https://vetro.com.ua/storage/32729/6aabc401f28e5_6aabc3d384021_stil-pozitano-tml-1255-gold-patagoniya-kremoviy1.png</image>
+      <image>https://vetro.com.ua/storage/32730/6aabc40a7e517_6aabc3d3aefa3_stil-pozitano-tml-1255-gold-patagoniya-kremoviy2.png</image>
+    </images>
+  </item>
+  <item>
+    <sku>TML-1255-positano-deep-gray/anthracite</sku>
+    <handle>vetro-keramichnyi-stil-pozitano-tml-1255</handle>
+    <name>Керамічний стіл Позітано TML-1255</name>
+    <variant_price>25235.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні столи</product_type>
+    <category>Обідні столи</category>
+    <parent_category>Столи</parent_category>
+    <shopify_id>fr-24-4</shopify_id>
+    <tags/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Керамічний стіл Позітано TML-1255 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Керамічний стіл Позітано TML-1255 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-keramichnyi-stil-pozitano-tml-1255</alias>
+    <description>&lt;p&gt;&lt;strong&gt;Керамічний стіл Позітано TML-1255&lt;/strong&gt; — стильна модель із матовою стільницею у глибокому відтінку діп грей та лаконічною основою кольору антрацит. Стримане поєднання темних тонів підкреслює сучасний характер столу, а керамічна поверхня, стійка до подряпин, забезпечує практичність у щоденному використанні.&lt;/p&gt;&lt;p&gt;Завдяки автоматичному механізму розкладки стіл легко збільшується зі 110 до 140 см, створюючи додатковий простір для комфортного розміщення гостей. Керамічна вкладка в тон основної стільниці зберігає цілісність дизайну та гармонійний вигляд столу в розкладеному стані.&lt;/p&gt;&lt;p&gt;Позітано TML-1255 — вдале поєднання лаконічного дизайну, функціональності та виразної естетики, яке стане стильним доповненням сучасного інтер’єру.&lt;/p&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna>110</dovzhyna>
+    <shyryna>75</shyryna>
+    <vysota>76</vysota>
+    <tab_characteristics>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;110 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Ширина: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;75 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Висота: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;76 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Колір: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;білий пісок + кремовий; голд патагонія + кремовий; діп грей + антрацит&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Довжина у розкладеному вигляді: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;140 см&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Форма: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;прямокутні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вид: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;розкладні&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Механізм розкладки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;автоматичний&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Складання: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;потрібне&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вага: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;83 кг&quot;}]}]}]}</tab_characteristics>
+    <tab_materials>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Протирайте м'якою злегка вологою тканиною, потім сухою.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Не залишайте на поверхні воду, вона шкодить дереву.&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%.&quot;}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Основа: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Фарбований метал&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Стільниця: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матова кераміка (стійка до подряпин); глянцева кераміка&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Вкладка: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Матова кераміка (стійка до подряпин); глянцева кераміка&quot;}]}]}]}</tab_details>
+    <tabletop_shape>[&quot;Прямокутна&quot;]</tabletop_shape>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>діп грей + антрацит</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/32726/6aabc30e628d7_6aabc2f2d9a70_stil-pozitano-tml-1255-dip-grey-antracit3.jpg</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/32726/6aabc30e628d7_6aabc2f2d9a70_stil-pozitano-tml-1255-dip-grey-antracit3.jpg</image>
+      <image>https://vetro.com.ua/storage/32726/6aabc30e628d7_6aabc2f2d9a70_stil-pozitano-tml-1255-dip-grey-antracit3.jpg</image>
+      <image>https://vetro.com.ua/storage/32721/6aabc2041978d_6aabc1a79eacb_stil-pozitano-tml-1255-dip-grey-antracit1.jpg</image>
+      <image>https://vetro.com.ua/storage/32722/6aabc20c6307d_6aabc1a6655c2_stil-pozitano-tml-1255-dip-grey-antracit2.jpg</image>
     </images>
   </item>
   <item>
