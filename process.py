@@ -325,7 +325,7 @@ def parse_akord(text):
             if fixed_images.get(fix):
                 row["image"] = fixed_images[fix]
     # в таблиці різні товари інколи мають однаковий Alias (скопійований рядок) —
-    # перша назва лишає alias, інші отримують власний handle
+    # перша назва лишає alias, інші отримують власний handle «тип-назва» (без чужої назви)
     alias_owner = {}
     for row in rows:
         alias_owner.setdefault(str(row.get("Alias", "") or ""), clean_text(row.get("Name", "")))
@@ -346,7 +346,7 @@ def parse_akord(text):
         name = clean_text(row.get("Name", ""))
         alias = str(row.get("Alias", "") or "")
         if alias and alias_owner.get(alias) != name:
-            alias = f"{alias}-{slug(name)}"
+            alias = slug(name)
         key = (sku, tuple(sorted(opts.items())), alias)
         if key in seen:
             continue
