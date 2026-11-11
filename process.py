@@ -198,6 +198,26 @@ ALIAS_FIXES = {
     ("myake-lizhko-tahta-everlay", "Кутове ліжко EVERLAY"): "kutove-lizhko-everlay",
 }
 
+# Зламані адреси товарів (чужа назва, цифри, назва не збігається з товаром) -> «тип-назва» (КМУ).
+# У Shopify змінено з редиректом зі старої адреси 11.11.2026. Ключі в json-файлах уже нові.
+HANDLE_RENAMES = {
+    "divan-roset-dyvan-jord": "dyvan-jord",
+    "myake-lizhko-drim-miake-lizhko-drim-lait": "miake-lizhko-drim-lait",
+    "tumbochka-greys-tumbochka-lora": "tumbochka-lora",
+    "myake-krislo-provans-nyu-krislo-provans": "krislo-provans",
+    "benketka-nyu_york-3054043": "puf-niu-iork",
+    "benketka-rozaliya-1-3054044": "puf-rozaliia-1",
+    "benketka-rozaliya-2-3054046": "puf-rozaliia-2",
+    "modulniy-divan-loft-2103213618": "modulnyi-dyvan-loft",
+    "stolik-deft-4-5v1": "stolyk-deft-4",
+    "modulniy-nerozkladniy-divan-lester": "modulnyi-dyvan-lester",
+    "divan-dzhas": "dyvan-dzhastin",
+    "divan-re": "dyvan-resty",
+    "divan-rive": "dyvan-riven",
+    "myaka-tumbochka-avanti-temna": "miaka-tumbochka-avanti",
+    "namatrasnik-vodonepronyknyy": "namatratsnyk-vodonepronyknyi",
+}
+
 # механізм, якого немає у вигрузці (за назвою товару)
 DEFAULT_MECHANISM = {"диван colombo": "Єврокнижка", "диван коломбо": "Єврокнижка", "диван хеппі": "Єврокнижка", "диван even": "Покроковий"}
 
@@ -357,7 +377,7 @@ def parse_akord(text):
             images = list(JORD_IMAGES)  # у вигрузці JORD містить фото ROSET — беремо власні
 
         products.append(product(
-            source="akord", sku=sku, handle=alias,
+            source="akord", sku=sku, handle=HANDLE_RENAMES.get(alias, alias),
             name=name,
             price=clean_price(row.get("price", "") or row.get("variant_price", "") or row.get("Price", "")),
             product_type=leaf, images=images,
@@ -1608,7 +1628,7 @@ def parse_manual(_text=None):
         return out
     for m in json.load(open(path, encoding="utf-8")):
         out.append(product(
-            source="akord", sku=m["sku"], handle=m["handle"], name=m["name"], price=m["price"],
+            source="akord", sku=m["sku"], handle=HANDLE_RENAMES.get(m["handle"], m["handle"]), name=m["name"], price=m["price"],
             product_type=m["product_type"], images=m["images"], description=m["description"],
             available=True, vendor="ВНД", instock="100",
             meta_title=m["name"] + " — Акорд Меблі",
