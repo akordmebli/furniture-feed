@@ -1188,6 +1188,7 @@ def build_tab_characteristics(items):
     m = re.search(r"Навантаження:\s*([^.]+?)\.", p0["description"])
     if m:
         lines.append(("Навантаження", m.group(1).strip()))
+    lines += [tuple(x) for x in PRODUCT_EXTRAS.get(p0.get("handle", ""), {}).get("characteristics", [])]
     lines.append(("Гарантія", "18 місяців"))
     return _rt(lines)
 
@@ -1483,6 +1484,8 @@ def _load_json(name):
 
 
 TAB_DETAILS = _load_json("tab_details.json")
+# ручні доповнення окремих товарів: рядки «Характеристик» і речення в описі після першого
+PRODUCT_EXTRAS = _load_json("product_extras.json")
 
 
 def build_tab_details(handle):
@@ -1803,6 +1806,13 @@ def apply_short_texts(items):
                     if 20 < len(first) < 160 and name.lower() not in first.lower()[:len(name)+5]:
                         lead += " " + first
                 p["meta_description"] = (lead + " Доставка по Україні, оплата частинами.")[:300]
+        extra = PRODUCT_EXTRAS.get(h, {}).get("description", "")
+        if extra:
+            for p in g:
+                d = p.get("description") or ""
+                if extra not in d:
+                    m = re.search(r"(?<=[.!?])\s", d)
+                    p["description"] = (d[:m.start()] + " " + extra + d[m.start():]) if m else (d + " " + extra).strip()
         for p in g:
             p["meta_description"] = fit_meta(clean_meta(p.get("meta_description") or ""))
 
