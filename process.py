@@ -1018,10 +1018,62 @@ def add_legs_variants(products):
     return out
 
 
+# Ліжка ВНД/Vinadi: варіанти без матраца — «Ламельна сітка» (Стандарт У40) і «Посилені ламелі» (Люкс У25).
+# Ціна = «З матрацом» того ж розміру/тканини/ніжок мінус знижка з прайсу «Додатки» за шириною спального місця.
+# Ліжка, де «Ламельна сітка» вже є з ціною постачальника, отримують лише «Посилені ламелі».
+LAMEL_STD, LAMEL_LUX = "Ламельна сітка", "Посилені ламелі"
+LAMEL_BED_TYPES = {"М'які ліжка", "Кутові ліжка", "Дитячі ліжка"}
+# ширина, см (до якої включно) -> (Ламельна сітка, Посилені ламелі)
+LAMEL_DISCOUNT = [(80, (1050, 880)), (100, (1050, 880)), (120, (1500, 1300)),
+                  (140, (2100, 1900)), (160, (2500, 2300)), (180, (2940, 2700))]
+
+
+def _lamel_discount(sleep):
+    nums = [int(n) for n in re.findall(r"\d+", sleep or "")]
+    if len(nums) < 2:
+        return None
+    w = min(nums[:2])
+    for limit, d in LAMEL_DISCOUNT:
+        if w <= limit:
+            return d
+    return None
+
+
+def add_lamel_variants(products):
+    groups = {}
+    for p in products:
+        if p.get("source") == "akord" and p["product_type"] in LAMEL_BED_TYPES:
+            groups.setdefault(p["handle"], []).append(p)
+    extra = {}
+    for h, items in groups.items():
+        mts = {i["opts"].get("mattress_included", "") for i in items}
+        if "З матрацом" not in mts or LAMEL_LUX in mts:
+            continue
+        add = [LAMEL_LUX] if LAMEL_STD in mts else [LAMEL_STD, LAMEL_LUX]
+        for i in items:
+            if i["opts"].get("mattress_included") != "З матрацом":
+                continue
+            d = _lamel_discount(i["opts"].get("sleep_size") or i.get("sleep", ""))
+            if not d:
+                continue
+            for kind in add:
+                minus = d[0] if kind == LAMEL_STD else d[1]
+                extra.setdefault(id(i), []).append({
+                    **i, "opts": {**i["opts"], "mattress_included": kind}, "tags": list(i["tags"]),
+                    "sku": f'{i["sku"]}-{"LS" if kind == LAMEL_STD else "LL"}' if i["sku"] else "",
+                    "barcode": "", "price": f'{float(i["price"]) - minus:.2f}'})
+    out = []
+    for p in products:
+        out.append(p)
+        out.extend(extra.get(id(p), []))
+    return out
+
+
 def group_variants(products):
     """Об'єднує постачальницькі позиції в один товар з варіантами.
     Фід лишається плоским (один <item> = один варіант), спільний handle групує варіанти."""
     products = add_legs_variants(products)
+    products = add_lamel_variants(products)
     out, groups, akord = [], {}, {}
     for p in products:
         sp = SPLITTERS.get(p["source"])
