@@ -1637,7 +1637,7 @@ def tabletop_shape(p):
 ROZKLAD_BY_MODEL = {"ЄВРО ПЛЮС": "Так", "DRIVE NEW": "Так",
                     "ДАКОТА": "Ні", "ОРЕГОН": "Ні", "ВІРДЖИНІЯ": "Ні",
                     "BEND": "Ні", "BOWEN": "Ні", "MONDI": "Ні", "GRACIO": "Ні",
-                    "ДИВАН-ФУТОН ALLEGRO": "Ні", "ДИВАН-ФУТОН MEXICO": "Ні"}
+                    "ДИВАН-ФУТОН ALLEGRO": "Так", "ДИВАН-ФУТОН MEXICO": "Так"}
 # столи — вручну від Юлії (окремо, щоб, напр., LIGHT не зачепив ліжка ASTON LIGHT)
 ROZKLAD_TABLES = {"PRESTON": "Так", "КОРТІНА": "Так",
                   "RONDO": "Ні", "LIGHT": "Ні", "TORONTO": "Ні", "KASTELLO": "Ні", "PINK": "Ні",
