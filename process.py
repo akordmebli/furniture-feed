@@ -1633,7 +1633,7 @@ def tabletop_shape(p):
 
 # ---------- розкладний стіл (метаполе custom.rozkladnyi «Так»/«Ні», фільтр «Розкладний») ----------
 # моделі без даних у джерелах (ВНД/Vinadi) — вручну від Юлії
-ROZKLAD_BY_MODEL = {"PRESTON": "Так"}
+ROZKLAD_BY_MODEL = {"PRESTON": "Так", "ЄВРО ПЛЮС": "Так"}
 
 
 def _rt_rows(tab):
