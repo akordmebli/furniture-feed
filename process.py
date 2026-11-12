@@ -1652,8 +1652,31 @@ def _rt_rows(tab):
     return rows
 
 
+SOFA_TYPES = {"Прямі дивани", "Кутові дивани", "Модульні дивани"}
+BED_TYPES = {"М'які ліжка", "Кутові ліжка", "Дитячі ліжка", "Каркаси ліжок"}
+
+
+def _mechanisms(p):
+    vals = [r.split(":", 1)[1].strip().lower() for r in _rt_rows(p.get("tab_characteristics", ""))
+            if r.lower().startswith("механізм:")]
+    vals += [str(v).lower() for k, v in (p.get("opts") or {}).items() if "mechan" in k and v]
+    return [x for v in vals for x in re.split(r"[;+]", v) if x.strip()]
+
+
 def rozkladnyi(p):
-    """«Так»/«Ні» для обідніх і садових столів; порожньо, якщо даних немає."""
+    """«Так»/«Ні»: столи — розкладні; дивани — з будь-яким механізмом; ліжка — з газовим
+    підйомним механізмом або розкладні («дельфін»). Порожньо, якщо даних немає."""
+    if p["product_type"] in SOFA_TYPES | BED_TYPES:
+        up = p["name"].upper()
+        for k, v in ROZKLAD_BY_MODEL.items():
+            if re.search(rf"(?<![A-ZА-ЯІЇЄҐ]){k}(?![A-ZА-ЯІЇЄҐ])", up):
+                return v
+        ms = [m.strip() for m in _mechanisms(p)]
+        if not ms:
+            return ""
+        if p["product_type"] in SOFA_TYPES:
+            return "Так" if any(m != "без механізму" for m in ms) else "Ні"
+        return "Так" if any("підйом" in m or "дельфін" in m for m in ms) else "Ні"
     name = p["name"].lower()
     if p["product_type"] not in ("Обідні столи", "Садові меблі") or not re.search(r"(^|\s)стіл(\s|$)", name):
         return ""
