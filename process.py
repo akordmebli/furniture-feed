@@ -1631,6 +1631,52 @@ def tabletop_shape(p):
     return []
 
 
+# ---------- розкладний стіл (метаполе custom.rozkladnyi «Так»/«Ні», фільтр «Розкладний») ----------
+# моделі без даних у джерелах (ВНД/Vinadi) — вручну від Юлії
+ROZKLAD_BY_MODEL = {"PRESTON": "Так"}
+
+
+def _rt_rows(tab):
+    try:
+        root = json.loads(tab or "")
+    except ValueError:
+        return []
+    rows = []
+
+    def walk(n):
+        if n.get("type") == "list-item":
+            rows.append("".join(c.get("value", "") for c in n.get("children", [])))
+        for c in n.get("children", []) or []:
+            walk(c)
+    walk(root)
+    return rows
+
+
+def rozkladnyi(p):
+    """«Так»/«Ні» для обідніх і садових столів; порожньо, якщо даних немає."""
+    name = p["name"].lower()
+    if p["product_type"] not in ("Обідні столи", "Садові меблі") or not re.search(r"(^|\s)стіл(\s|$)", name):
+        return ""
+    up = p["name"].upper()
+    for k, v in ROZKLAD_BY_MODEL.items():
+        if re.search(rf"(?<![A-ZА-ЯІЇЄҐ]){k}(?![A-ZА-ЯІЇЄҐ])", up):
+            return v
+    if "нерозкладн" in name:
+        return "Ні"
+    if "розкладн" in name:
+        return "Так"
+    for r in _rt_rows(p.get("tab_characteristics", "")):
+        low = r.lower()
+        if low.startswith(("вид:", "розкладний:", "тип:")):
+            if "нерозкладн" in low or low.endswith(" ні"):
+                return "Ні"
+            if "розкладн" in low.split(":", 1)[1] or low.endswith(" так"):
+                return "Так"
+        if low.startswith("вставк"):
+            return "Так"
+    return ""
+
+
 def build_xml(products):
     catalog = ET.Element("catalog")
     for p in products:
@@ -1656,6 +1702,7 @@ def build_xml(products):
             ("tab_3d", p.get("tab_3d", "")),
             ("tab_details", p.get("tab_details", "")),
             ("tabletop_shape", json.dumps(tabletop_shape(p), ensure_ascii=False) if tabletop_shape(p) else ""),  # метаполе типу list → JSON-масив
+            ("rozkladnyi", rozkladnyi(p)),  # метаполе custom.rozkladnyi
         ]
         for tag, val in fields:
             ET.SubElement(item, tag).text = "0" if val == 0 else str(val or "")
