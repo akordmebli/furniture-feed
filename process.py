@@ -1633,9 +1633,16 @@ def tabletop_shape(p):
 
 # ---------- розкладний стіл (метаполе custom.rozkladnyi «Так»/«Ні», фільтр «Розкладний») ----------
 # моделі без даних у джерелах (ВНД/Vinadi) — вручну від Юлії
-ROZKLAD_BY_MODEL = {"PRESTON": "Так", "ЄВРО ПЛЮС": "Так", "DRIVE NEW": "Так",
+# дивани/ліжка (рядок у назві) — вручну від Юлії
+ROZKLAD_BY_MODEL = {"ЄВРО ПЛЮС": "Так", "DRIVE NEW": "Так",
                     "ДАКОТА": "Ні", "ОРЕГОН": "Ні", "ВІРДЖИНІЯ": "Ні",
-                    "КОРТІНА": "Так"}
+                    "BEND": "Ні", "BOWEN": "Ні", "MONDI": "Ні", "GRACIO": "Ні",
+                    "ДИВАН-ФУТОН ALLEGRO": "Ні", "ДИВАН-ФУТОН MEXICO": "Ні"}
+# столи — вручну від Юлії (окремо, щоб, напр., LIGHT не зачепив ліжка ASTON LIGHT)
+ROZKLAD_TABLES = {"PRESTON": "Так", "КОРТІНА": "Так",
+                  "RONDO": "Ні", "LIGHT": "Ні", "TORONTO": "Ні", "KASTELLO": "Ні", "PINK": "Ні",
+                  "HEVI": "Ні", "BEVERLEY": "Ні", "IRIS": "Ні", "GOA": "Ні", "ARBOR": "Ні",
+                  "BELFORT": "Ні", "HAROLD": "Ні", "ELVERA": "Ні", "MILOS": "Ні", "ПАРМА": "Ні"}
 
 
 def _rt_rows(tab):
@@ -1684,7 +1691,7 @@ def rozkladnyi(p):
     if p["product_type"] not in ("Обідні столи", "Садові меблі") or not re.search(r"(^|\s)стіл(\s|$)", name):
         return ""
     up = p["name"].upper()
-    for k, v in ROZKLAD_BY_MODEL.items():
+    for k, v in ROZKLAD_TABLES.items():
         if re.search(rf"(?<![A-ZА-ЯІЇЄҐ]){k}(?![A-ZА-ЯІЇЄҐ])", up):
             return v
     if "нерозкладн" in name:
