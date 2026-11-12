@@ -1674,7 +1674,8 @@ def rozkladnyi(p):
                 return v
         ms = [m.strip() for m in _mechanisms(p)]
         if not ms:
-            return ""
+            # дерев'яні ліжка Woodman — без механізму (Юлія, 12.11.2026)
+            return "Ні" if p["product_type"] in BED_TYPES and p.get("vendor") == "Woodman" else ""
         if p["product_type"] in SOFA_TYPES:
             return "Так" if any(m != "без механізму" for m in ms) else "Ні"
         return "Так" if any("підйом" in m or "дельфін" in m for m in ms) else "Ні"
