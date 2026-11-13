@@ -20,6 +20,15 @@
   if ak_bort_p == nil or ak_bort_p.variants.size == 0
     assign ak_bort = false
   endif
+  assign ak_wood = product.metafields.custom.wood_colors.value | default: ''
+  assign ak_wood_label = product.metafields.custom.wood_label.value | default: 'Колір ніжок'
+  assign ak_wood_raise = false
+  if ak_wood_label == 'Колір підвищених ніжок'
+    assign ak_wood_raise = true
+    if ak_legs_v == nil
+      assign ak_wood = ''
+    endif
+  endif
   assign ak_cat_idx = -1
   for o in product.options_with_values
     if o.name == 'Категорія тканини'
@@ -27,9 +36,33 @@
     endif
   endfor
 -%}
-{%- if ak_legs_v or ak_bort -%}
+{%- if ak_legs_v or ak_bort or ak_wood != '' -%}
 <div class="ak-addons" data-title="{{ product.title | escape }}">
-  <div class="ak-addons__title">Додатково</div>
+  {%- if ak_wood != '' -%}
+  {%- assign ak_wood_list = ak_wood | split: ',' -%}
+  <div class="ak-wood"{% if ak_wood_raise %} data-raise hidden{% endif %} data-key="{% if ak_wood_raise %}Колір ніжок{% else %}{{ ak_wood_label | escape }}{% endif %}">
+    <div class="ak-wood__title">{% if ak_wood_raise %}Колір ніжок{% else %}{{ ak_wood_label }}{% endif %}: <span class="ak-wood__name">{{ ak_wood_list.first | strip }}</span></div>
+    <div class="ak-wood__list">
+      {%- for c in ak_wood_list -%}
+        {%- assign cn = c | strip -%}
+        {%- case cn -%}
+          {%- when 'Венге' -%}{%- assign f = 'ak-wood-venge.png' -%}
+          {%- when 'Лак' -%}{%- assign f = 'ak-wood-lak.png' -%}
+          {%- when 'Білий' -%}{%- assign f = 'ak-wood-bilyi.png' -%}
+          {%- when 'Крем' or 'Шампань' -%}{%- assign f = 'ak-wood-krem.png' -%}
+          {%- when 'Масло' or 'Масло світле' -%}{%- assign f = 'ak-wood-maslo.png' -%}
+          {%- when 'Масло темне' -%}{%- assign f = 'ak-wood-maslo-temne.png' -%}
+          {%- when 'Золото' -%}{%- assign f = 'ak-wood-zoloto.png' -%}
+          {%- when 'Срібло' -%}{%- assign f = 'ak-wood-sriblo.png' -%}
+          {%- when 'Чорний' -%}{%- assign f = 'ak-wood-chornyi.png' -%}
+          {%- else -%}{%- assign f = 'ak-wood-venge.png' -%}
+        {%- endcase -%}
+        <button type="button" class="ak-wood__sw{% if forloop.first %} is-active{% endif %}" data-name="{{ cn | escape }}" title="{{ cn | escape }}" aria-label="{{ cn | escape }}" style="background-image:url({{ f | file_url }})"></button>
+      {%- endfor -%}
+    </div>
+  </div>
+  {%- endif -%}
+  {%- if ak_legs_v or ak_bort -%}<div class="ak-addons__title">Додатково</div>{%- endif -%}
   {%- if ak_legs_v -%}
   <label class="ak-addon">
     <input type="checkbox" data-ak-addon="legs" value="{{ ak_legs_v.id }}">
@@ -86,6 +119,14 @@
   .ak-addon--bort{flex-wrap:wrap}
   .ak-addon input[type=checkbox]{width:18px;height:18px;accent-color:#4ac805;margin:0}
   .ak-addon b{font-weight:600;white-space:nowrap}
+  .ak-wood{display:grid;gap:8px}
+  .ak-wood[hidden]{display:none}
+  .ak-wood__title{font-size:14px}
+  .ak-wood__name{font-weight:600}
+  .ak-wood__list{display:flex;flex-wrap:wrap;gap:8px}
+  .ak-wood__sw{width:40px;height:40px;border:1px solid #ccc;border-radius:4px;background-size:cover;background-position:center;cursor:pointer;padding:0;outline-offset:2px}
+  .ak-wood__sw.is-active{outline:2px solid #3a3a3a}
+  .ak-wood__sw:hover{outline:2px solid #4ac805}
   .ak-bort-len{padding:4px 28px 4px 10px;border:1px solid #ccc;border-radius:4px;background:#fff;font-size:14px}
 </style>
 <script>
@@ -114,6 +155,21 @@
     if (bort && bort.checked) { var b = bortVariant(); if (b) out.push({ id: b.id, bed: bed }); }
     return out;
   };
+  var wood = box.querySelector('.ak-wood');
+  if (wood) {
+    wood.addEventListener('click', function(e){
+      var sw = e.target.closest('.ak-wood__sw'); if (!sw) return;
+      wood.querySelectorAll('.ak-wood__sw').forEach(function(x){ x.classList.toggle('is-active', x === sw); });
+      wood.querySelector('.ak-wood__name').textContent = sw.dataset.name;
+    });
+    var lg = box.querySelector('[data-ak-addon="legs"]');
+    if (wood.hasAttribute('data-raise') && lg) lg.addEventListener('change', function(){ wood.hidden = !lg.checked; });
+  }
+  box.akColor = function(){
+    if (!wood || wood.hidden) return null;
+    var a = wood.querySelector('.ak-wood__sw.is-active');
+    return a ? { k: wood.dataset.key, v: a.dataset.name } : null;
+  };
   document.addEventListener('change', function(){ setTimeout(refresh, 150); });
   refresh();
 
@@ -126,6 +182,8 @@
       // додавання ліжка: додаємо обрані доповнення тим самим запитом
       if (/\/cart\/add/.test(url) && o && o.body instanceof FormData && !o.body.has('items[0][id]')) {
         var b0 = document.querySelector('.ak-addons'), adds = b0 && b0.akSelected ? b0.akSelected() : [];
+        var col = b0 && b0.akColor ? b0.akColor() : null;
+        if (col) o.body.set('properties[' + col.k + ']', col.v);
         if (adds.length) {
           var fd = o.body, nf = new FormData(), q = fd.get('quantity') || 1, g = 'ak' + Date.now().toString(36);
           nf.append('items[0][id]', fd.get('id')); nf.append('items[0][quantity]', q);
