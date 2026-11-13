@@ -1,0 +1,148 @@
+{%- comment -%} АКОРД: доповнення до ліжок — «Підвищені ніжки» і «Захисний бортик» (приховані товари) {%- endcomment -%}
+{%- liquid
+  assign ak_legs = product.metafields.custom.legs_addon.value
+  assign ak_bort = false
+  if product.type == 'Дитячі ліжка' or product.type == 'Кутові ліжка'
+    if product.vendor == 'ВНД' or product.vendor == 'Vinadi'
+      assign ak_bort = true
+    endif
+  endif
+  assign ak_legs_p = all_products['pidvyshcheni-nizhky']
+  assign ak_bort_p = all_products['bortyk-riff']
+  assign ak_legs_v = nil
+  if ak_legs and ak_legs_p
+    assign ak_legs_cents = ak_legs | times: 100
+    for v in ak_legs_p.variants
+      if v.price == ak_legs_cents
+        assign ak_legs_v = v
+      endif
+    endfor
+  endif
+  if ak_bort_p == nil or ak_bort_p.variants.size == 0
+    assign ak_bort = false
+  endif
+  assign ak_cat_pos = 0
+  for o in product.options_with_values
+    if o.name == 'Категорія тканини'
+      assign ak_cat_pos = o.position
+    endif
+  endfor
+-%}
+{%- if ak_legs_v or ak_bort -%}
+<div class="ak-addons" data-title="{{ product.title | escape }}">
+  <div class="ak-addons__title">Додатково</div>
+  {%- if ak_legs_v -%}
+  <label class="ak-addon">
+    <input type="checkbox" data-ak-addon="legs" value="{{ ak_legs_v.id }}">
+    <span>Підвищені ніжки</span>
+    <b>+{{ ak_legs_v.price | money_without_trailing_zeros }}</b>
+  </label>
+  {%- endif -%}
+  {%- if ak_bort -%}
+  <div class="ak-addon ak-addon--bort">
+    <label>
+      <input type="checkbox" data-ak-addon="bort">
+      <span>Захисний бортик</span>
+      <b class="ak-bort-price"></b>
+    </label>
+    <select class="ak-bort-len" aria-label="Довжина бортика">
+      <option value="90">90 см</option>
+      <option value="120">120 см</option>
+    </select>
+  </div>
+  <script type="application/json" class="ak-bort-data">
+    [{%- for v in ak_bort_p.variants -%}{"id":{{ v.id }},"c":{{ v.option1 | json }},"l":{{ v.option2 | json }},"p":{{ v.price }}}{% unless forloop.last %},{% endunless %}{%- endfor -%}]
+  </script>
+  <script type="application/json" class="ak-variant-data">
+    {"{%- for v in product.variants -%}{{ v.id }}":{"t":{{ v.title | json }},"c":{% if ak_cat_pos > 0 %}{{ v.options[ak_cat_pos | minus: 1] | json }}{% else %}"А"{% endif %}}{% unless forloop.last %},"{% endunless %}{%- endfor -%}}
+  </script>
+  {%- else -%}
+  <script type="application/json" class="ak-variant-data">
+    {"{%- for v in product.variants -%}{{ v.id }}":{"t":{{ v.title | json }},"c":""}{% unless forloop.last %},"{% endunless %}{%- endfor -%}}
+  </script>
+  {%- endif -%}
+</div>
+<style>
+  .ak-addons{display:grid;gap:10px;margin:8px 0 4px}
+  .ak-addons__title{font-weight:600}
+  .ak-addon,.ak-addon--bort label{display:flex;align-items:center;gap:10px;cursor:pointer}
+  .ak-addon--bort{flex-wrap:wrap}
+  .ak-addon input[type=checkbox]{width:18px;height:18px;accent-color:#4ac805;margin:0}
+  .ak-addon b{font-weight:600;white-space:nowrap}
+  .ak-bort-len{padding:4px 28px 4px 10px;border:1px solid #ccc;border-radius:4px;background:#fff;font-size:14px}
+</style>
+<script>
+(function(){
+  var box = document.currentScript.closest('.ak-addons');
+  function fmt(c){ return '+' + Math.round(c/100).toLocaleString('uk-UA') + ' грн'; }
+  function vdata(){ try { return JSON.parse(box.querySelector('.ak-variant-data').textContent); } catch(e){ return {}; } }
+  function curVariant(){
+    var f = document.querySelector('form.main-product-form [name="id"]');
+    return f ? f.value : '';
+  }
+  function bortVariant(){
+    var el = box.querySelector('.ak-bort-data'); if (!el) return null;
+    var list = JSON.parse(el.textContent), v = vdata()[curVariant()] || {}, len = box.querySelector('.ak-bort-len').value;
+    return list.find(function(b){ return b.c === v.c && b.l === len; }) || list.find(function(b){ return b.l === len; });
+  }
+  function refresh(){
+    var p = box.querySelector('.ak-bort-price'), b = bortVariant();
+    if (p && b) p.textContent = fmt(b.p);
+  }
+  box.akSelected = function(){
+    var out = [], v = vdata()[curVariant()] || {}, bed = box.dataset.title + (v.t && v.t !== 'Default Title' ? ' (' + v.t + ')' : '');
+    var legs = box.querySelector('[data-ak-addon="legs"]');
+    if (legs && legs.checked) out.push({ id: legs.value, bed: bed });
+    var bort = box.querySelector('[data-ak-addon="bort"]');
+    if (bort && bort.checked) { var b = bortVariant(); if (b) out.push({ id: b.id, bed: bed }); }
+    return out;
+  };
+  document.addEventListener('change', function(){ setTimeout(refresh, 150); });
+  refresh();
+
+  if (window.__akAddonsFetch) return;
+  window.__akAddonsFetch = true;
+  var of = window.fetch;
+  window.fetch = async function(u, o){
+    try {
+      var url = typeof u === 'string' ? u : (u && u.url) || '';
+      // додавання ліжка: додаємо обрані доповнення тим самим запитом
+      if (/\/cart\/add/.test(url) && o && o.body instanceof FormData && !o.body.has('items[0][id]')) {
+        var b0 = document.querySelector('.ak-addons'), adds = b0 && b0.akSelected ? b0.akSelected() : [];
+        if (adds.length) {
+          var fd = o.body, nf = new FormData(), q = fd.get('quantity') || 1, g = 'ak' + Date.now().toString(36);
+          nf.append('items[0][id]', fd.get('id')); nf.append('items[0][quantity]', q);
+          fd.forEach(function(val, k){ var m = k.match(/^properties\[(.+)\]$/); if (m) nf.append('items[0][properties][' + m[1] + ']', val); });
+          nf.append('items[0][properties][_akgrp]', g);
+          adds.forEach(function(a, i){
+            var n = i + 1;
+            nf.append('items[' + n + '][id]', a.id); nf.append('items[' + n + '][quantity]', q);
+            nf.append('items[' + n + '][properties][До ліжка]', a.bed);
+            nf.append('items[' + n + '][properties][_akgrp]', g);
+            nf.append('items[' + n + '][properties][_akaddon]', '1');
+          });
+          ['sections', 'sections_url'].forEach(function(k){ if (fd.has(k)) nf.append(k, fd.get(k)); });
+          o = Object.assign({}, o, { body: nf });
+        }
+      }
+      // зміна кількості / видалення ліжка: доповнення змінюються разом із ним
+      if (/\/cart\/change/.test(url) && o && typeof o.body === 'string') {
+        var b = JSON.parse(o.body);
+        var cart = await (await of('/cart.js')).json();
+        var line = b.line ? cart.items[b.line - 1] : cart.items.find(function(i){ return i.key === b.id || String(i.variant_id) === String(b.id); });
+        var grp = line && line.properties && line.properties._akgrp;
+        if (grp && !line.properties._akaddon) {
+          var upd = {};
+          cart.items.forEach(function(i){ if (i.properties && i.properties._akgrp === grp) upd[i.key] = b.quantity; });
+          var nb = { updates: upd };
+          if (b.sections) nb.sections = b.sections;
+          if (b.sections_url) nb.sections_url = b.sections_url;
+          return of.call(this, url.replace(/\/cart\/change(\.js)?/, '/cart/update.js'), Object.assign({}, o, { body: JSON.stringify(nb) }));
+        }
+      }
+    } catch (e) { console.warn('ak-addons', e); }
+    return of.call(this, u, o);
+  };
+})();
+</script>
+{%- endif -%}
