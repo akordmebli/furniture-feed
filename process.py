@@ -989,6 +989,9 @@ LEGS_EXCLUDE = {"machiato", "lessa", "strong", "arno", "infinity", "mojo", "ever
 LEGS_1200 = ("esme", "olivia", "riff", "stone", "monroe", "freya", "астон", "aston light",
              "marsello", "марсель")
 LEGS_STD, LEGS_HIGH = "Стандартні ніжки", "Підвищені ніжки"
+# 13.11.2026 (Юлія): підвищені ніжки — не варіант, а доповнення (прихований товар «Підвищені ніжки»,
+# галочка на сторінці ліжка). Фід лише передає доплату в полі legs_addon → метаполе custom.legs_addon.
+LEGS_VARIANTS = False
 
 
 def _legs_model(p):
@@ -1010,6 +1013,9 @@ def add_legs_variants(products):
         if not model or model in LEGS_EXCLUDE:
             continue
         add = 1200 if any(model.startswith(k) for k in LEGS_1200) else 950
+        p["legs_addon"] = str(add)
+        if not LEGS_VARIANTS:
+            continue
         p["opts"] = {**p["opts"], "legs": LEGS_STD}
         hi = {**p, "opts": {**p["opts"], "legs": LEGS_HIGH}, "tags": list(p["tags"]),
               "sku": f'{p["sku"]}-HL' if p["sku"] else "", "barcode": "",
@@ -1743,6 +1749,7 @@ def build_xml(products):
             ("tab_details", p.get("tab_details", "")),
             ("tabletop_shape", json.dumps(tabletop_shape(p), ensure_ascii=False) if tabletop_shape(p) else ""),  # метаполе типу list → JSON-масив
             ("rozkladnyi", rozkladnyi(p)),  # метаполе custom.rozkladnyi
+            ("legs_addon", p.get("legs_addon", "")),  # метаполе custom.legs_addon (доплата за підвищені ніжки, грн)
         ]
         for tag, val in fields:
             ET.SubElement(item, tag).text = "0" if val == 0 else str(val or "")
