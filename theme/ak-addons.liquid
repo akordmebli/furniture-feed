@@ -1,4 +1,3 @@
-{%- comment -%} АКОРД: доповнення до ліжок — «Підвищені ніжки» і «Захисний бортик» (приховані товари) {%- endcomment -%}
 {%- liquid
   assign ak_legs = product.metafields.custom.legs_addon.value
   assign ak_bort = false
@@ -21,10 +20,10 @@
   if ak_bort_p == nil or ak_bort_p.variants.size == 0
     assign ak_bort = false
   endif
-  assign ak_cat_pos = 0
+  assign ak_cat_idx = -1
   for o in product.options_with_values
     if o.name == 'Категорія тканини'
-      assign ak_cat_pos = o.position
+      assign ak_cat_idx = forloop.index0
     endif
   endfor
 -%}
@@ -54,11 +53,29 @@
     [{%- for v in ak_bort_p.variants -%}{"id":{{ v.id }},"c":{{ v.option1 | json }},"l":{{ v.option2 | json }},"p":{{ v.price }}}{% unless forloop.last %},{% endunless %}{%- endfor -%}]
   </script>
   <script type="application/json" class="ak-variant-data">
-    {"{%- for v in product.variants -%}{{ v.id }}":{"t":{{ v.title | json }},"c":{% if ak_cat_pos > 0 %}{{ v.options[ak_cat_pos | minus: 1] | json }}{% else %}"А"{% endif %}}{% unless forloop.last %},"{% endunless %}{%- endfor -%}}
+    {%- assign ak_first = true -%}
+    {
+    {%- for v in product.variants -%}
+      {%- assign ak_c = '' -%}
+      {%- if ak_cat_idx >= 0 -%}{%- assign ak_c = v.options[ak_cat_idx] -%}{%- endif -%}
+      {%- unless ak_first -%},{%- endunless -%}
+      "{{ v.id }}":{"t":{{ v.title | json }},"c":{{ ak_c | json }}}
+      {%- assign ak_first = false -%}
+    {%- endfor -%}
+    }
   </script>
   {%- else -%}
   <script type="application/json" class="ak-variant-data">
-    {"{%- for v in product.variants -%}{{ v.id }}":{"t":{{ v.title | json }},"c":""}{% unless forloop.last %},"{% endunless %}{%- endfor -%}}
+    {%- assign ak_first = true -%}
+    {
+    {%- for v in product.variants -%}
+      {%- assign ak_c = '' -%}
+      {%- if ak_cat_idx >= 0 -%}{%- assign ak_c = v.options[ak_cat_idx] -%}{%- endif -%}
+      {%- unless ak_first -%},{%- endunless -%}
+      "{{ v.id }}":{"t":{{ v.title | json }},"c":{{ ak_c | json }}}
+      {%- assign ak_first = false -%}
+    {%- endfor -%}
+    }
   </script>
   {%- endif -%}
 </div>
@@ -73,7 +90,7 @@
 </style>
 <script>
 (function(){
-  var box = document.currentScript.closest('.ak-addons');
+  var box = document.querySelector('.ak-addons'); if (!box) return;
   function fmt(c){ return '+' + Math.round(c/100).toLocaleString('uk-UA') + ' грн'; }
   function vdata(){ try { return JSON.parse(box.querySelector('.ak-variant-data').textContent); } catch(e){ return {}; } }
   function curVariant(){
