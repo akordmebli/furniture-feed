@@ -34798,9 +34798,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець N-66-2 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець N-66-2 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -38241,9 +38241,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-76 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-76 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -39499,9 +39499,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Обідній керамічний стіл TM-100 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Обідній керамічний стіл TM-100 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -39572,9 +39572,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Обідній керамічний стіл TM-100 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Обідній керамічний стіл TM-100 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -43173,9 +43173,9 @@
     <parent_category>Крісла</parent_category>
     <shopify_id>fr-7-1</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Поворотне крісло &quot;Гарібальді&quot; | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Поворотне крісло &quot;Гарібальді&quot; від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -54024,9 +54024,9 @@
     <parent_category>Крісла</parent_category>
     <shopify_id>fr-7-1</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Безкаркасне крісло &quot;Техас&quot; | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Безкаркасне крісло &quot;Техас&quot; від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -61574,7 +61574,7 @@
     <sku>10004-80-200</sku>
     <handle>comefor-matrats-ekonom-duet-lait</handle>
     <name>Матрац Економ Дует Лайт</name>
-    <variant_price>1440.00</variant_price>
+    <variant_price>1319.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -139239,7 +139239,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139299,7 +139299,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139359,7 +139359,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139419,7 +139419,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139479,7 +139479,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139539,7 +139539,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139599,7 +139599,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139659,7 +139659,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139719,7 +139719,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139779,7 +139779,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139839,7 +139839,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139899,7 +139899,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -139959,7 +139959,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140019,7 +140019,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140079,7 +140079,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140139,7 +140139,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140199,7 +140199,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140259,7 +140259,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140319,7 +140319,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140379,7 +140379,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140439,7 +140439,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140499,7 +140499,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140559,7 +140559,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140619,7 +140619,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140679,7 +140679,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140739,7 +140739,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140799,7 +140799,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140859,7 +140859,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140919,7 +140919,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -140979,7 +140979,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -154719,7 +154719,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -154779,7 +154779,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -154839,7 +154839,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -154899,7 +154899,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -154959,7 +154959,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155019,7 +155019,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155079,7 +155079,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155139,7 +155139,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155199,7 +155199,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155259,7 +155259,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155319,7 +155319,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155379,7 +155379,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155439,7 +155439,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155499,7 +155499,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155559,7 +155559,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155619,7 +155619,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155679,7 +155679,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155739,7 +155739,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155799,7 +155799,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155859,7 +155859,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155919,7 +155919,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -155979,7 +155979,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -156039,7 +156039,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -156099,7 +156099,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -156159,7 +156159,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -156219,7 +156219,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -156279,7 +156279,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -156339,7 +156339,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -156399,7 +156399,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
@@ -156459,7 +156459,7 @@
     <tab_3d/>
     <tab_details>{&quot;type&quot;:&quot;root&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list&quot;,&quot;listType&quot;:&quot;unordered&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Каркас: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;масив деревини бука (сертифікований FSC)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Сидіння / матрац / подушки: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;тканина поліестер, наповнювач синтепух&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Комплектація: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;комплект для складання (двоє людей)&quot;}]},{&quot;type&quot;:&quot;list-item&quot;,&quot;children&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Країна походження: &quot;,&quot;bold&quot;:true},{&quot;type&quot;:&quot;text&quot;,&quot;value&quot;:&quot;Україна&quot;}]}]}]}</tab_details>
     <tabletop_shape/>
-    <rozkladnyi>Ні</rozkladnyi>
+    <rozkladnyi>Так</rozkladnyi>
     <fabric/>
     <leg_color/>
     <frame_color/>
