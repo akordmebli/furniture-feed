@@ -1024,6 +1024,8 @@ def add_legs_variants(products):
 # ВИМКНЕНО 11.11.2026: з цими варіантами feed.xml = 144 МБ, GitHub приймає до 100 МБ. Увімкнути, коли вирішимо розмір.
 LAMEL_ENABLED = False
 LAMEL_STD, LAMEL_LUX = "Ламельна сітка", "Посилені ламелі"
+# які варіанти додавати (Юлія 13.11.2026: поки лише «Ламельна сітка», без «Посилених ламелей»)
+LAMEL_KINDS = {LAMEL_STD}
 LAMEL_BED_TYPES = {"М'які ліжка", "Кутові ліжка", "Дитячі ліжка"}
 # ширина, см (до якої включно) -> (Ламельна сітка, Посилені ламелі)
 LAMEL_DISCOUNT = [(80, (1050, 880)), (100, (1050, 880)), (120, (1500, 1300)),
@@ -1054,6 +1056,9 @@ def add_lamel_variants(products):
         if "З матрацом" not in mts or LAMEL_LUX in mts:
             continue
         add = [LAMEL_LUX] if LAMEL_STD in mts else [LAMEL_STD, LAMEL_LUX]
+        add = [k for k in add if k in LAMEL_KINDS]
+        if not add:
+            continue
         for i in items:
             if i["opts"].get("mattress_included") != "З матрацом":
                 continue
