@@ -1061,6 +1061,9 @@ def add_lamel_variants(products):
         mts = {i["opts"].get("mattress_included", "") for i in items}
         if "З матрацом" not in mts or LAMEL_LUX in mts:
             continue
+        # механізм «Дельфін» (напр. кутове ліжко TWIST) — лише з матрацом, ламельна сітка неможлива (Юлія 13.11.2026)
+        if any("дельфін" in (i["opts"].get("mechanism", "") or "").lower() for i in items):
+            continue
         add = [LAMEL_LUX] if LAMEL_STD in mts else [LAMEL_STD, LAMEL_LUX]
         add = [k for k in add if k in LAMEL_KINDS]
         if not add:
