@@ -1183,6 +1183,8 @@ def group_variants(products):
         if p["sku"] in seen:
             suffix = "-".join(p.get("option_values") or []) or p["handle"]
             p["sku"] = f'{p["sku"]}-{slug(suffix)}'
+            if p["sku"] in seen:  # такий уже є в іншого товару (напр. ROSET і JORD) — додаємо handle
+                p["sku"] = f'{p["sku"]}-{p["handle"]}'
         seen.add(p["sku"])
     return out
 
