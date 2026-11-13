@@ -1753,7 +1753,10 @@ def build_xml(products):
         for img in imgs:
             ET.SubElement(images_el, "image").text = img
     raw = ET.tostring(catalog, encoding="unicode")
-    return minidom.parseString(raw).toprettyxml(indent="  ", encoding="utf-8").decode("utf-8")
+    xml = minidom.parseString(raw).toprettyxml(indent="  ", encoding="utf-8").decode("utf-8")
+    # minidom екранує лапки в тексті (&quot;) — це ~20 МБ зайвого; атрибутів у фіді немає,
+    # тож лапки в тексті безпечно лишити як є
+    return xml.replace("&quot;", '"')
 
 
 def parse_manual(_text=None):

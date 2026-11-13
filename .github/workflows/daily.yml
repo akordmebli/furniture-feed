@@ -5,6 +5,9 @@ on:
     - cron: '17 20 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -64,8 +67,17 @@ jobs:
           git pull --rebase origin main || true
           git push origin HEAD:main || true
 
+      - name: Publish feed to release (no 100 MB limit)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view feed >/dev/null 2>&1 || gh release create feed --title "Feed" --notes "Актуальний фід товарів: https://github.com/${{ github.repository }}/releases/download/feed/feed.xml"
+          gh release upload feed output/feed.xml --clobber
+
       - name: Commit feed to repo
         run: |
+          # GitHub не приймає файли понад 100 МБ — тоді фід є лише в релізі
+          if [ "$(stat -c%s output/feed.xml)" -gt 95000000 ]; then echo "feed.xml > 95 МБ — у репо не комічу"; exit 0; fi
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add -f output/feed.xml
