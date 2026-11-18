@@ -35514,6 +35514,80 @@
     </images>
   </item>
   <item>
+    <sku>M-65-ink-blue-velvet/ black</sku>
+    <handle>vetro-stilets-m-65</handle>
+    <name>Стілець M-65</name>
+    <variant_price>5145.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags>Обідні крісла</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Стілець M-65 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець M-65 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-stilets-m-65</alias>
+    <description/>
+    <spalne_mistse/>
+    <dovzhyna>58</dovzhyna>
+    <shyryna/>
+    <vysota>86</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"86 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"чорнильно-синій + чорний; смарагдовий велюр + чорний; капучино велюр + чорний; сірий велюр + чорний; коричневий велюр + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"45 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"59 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Велюр"}]}]}]}</tab_details>
+    <tabletop_shape/>
+    <rozkladnyi/>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>чорнильно-синій + чорний</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/5061/M-65_(7).jpg</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/5061/M-65_(7).jpg</image>
+      <image>https://vetro.com.ua/storage/5061/M-65_(7).jpg</image>
+      <image>https://vetro.com.ua/storage/5062/M-65_(8).jpg</image>
+      <image>https://vetro.com.ua/storage/5063/M-65_(9).jpg</image>
+      <image>https://vetro.com.ua/storage/5064/M-65_(10).jpg</image>
+      <image>https://vetro.com.ua/storage/5065/M-65_(11).jpg</image>
+      <image>https://vetro.com.ua/storage/5066/M-65_(1).jpg</image>
+      <image>https://vetro.com.ua/storage/5067/M-65_(2).jpg</image>
+      <image>https://vetro.com.ua/storage/5068/M-65_(3).jpg</image>
+      <image>https://vetro.com.ua/storage/5069/M-65_(4).jpg</image>
+      <image>https://vetro.com.ua/storage/5070/M-65_(5).jpg</image>
+      <image>https://vetro.com.ua/storage/12583/6581b7f883881_64f1b45eb7c66_Стіл-TML-880-неро-маркіна-(1).jpg</image>
+    </images>
+  </item>
+  <item>
     <sku>M-65-emerald-velvet/ black</sku>
     <handle>vetro-stilets-m-65</handle>
     <name>Стілець M-65</name>
@@ -35537,7 +35611,7 @@
     <dovzhyna>58</dovzhyna>
     <shyryna/>
     <vysota>86</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"86 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"смарагдовий велюр + чорний; капучино велюр + чорний; сірий велюр + чорний; коричневий велюр + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"45 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"59 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8 кг"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"86 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"чорнильно-синій + чорний; смарагдовий велюр + чорний; капучино велюр + чорний; сірий велюр + чорний; коричневий велюр + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"45 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"59 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8 кг"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Велюр"}]}]}]}</tab_details>
@@ -35610,7 +35684,7 @@
     <dovzhyna>58</dovzhyna>
     <shyryna/>
     <vysota>86</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"86 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"смарагдовий велюр + чорний; капучино велюр + чорний; сірий велюр + чорний; коричневий велюр + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"45 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"59 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8 кг"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"86 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"чорнильно-синій + чорний; смарагдовий велюр + чорний; капучино велюр + чорний; сірий велюр + чорний; коричневий велюр + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"45 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"59 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8 кг"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Велюр"}]}]}]}</tab_details>
@@ -35684,7 +35758,7 @@
     <dovzhyna>58</dovzhyna>
     <shyryna/>
     <vysota>86</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"86 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"смарагдовий велюр + чорний; капучино велюр + чорний; сірий велюр + чорний; коричневий велюр + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"45 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"59 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8 кг"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"86 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"чорнильно-синій + чорний; смарагдовий велюр + чорний; капучино велюр + чорний; сірий велюр + чорний; коричневий велюр + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"45 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"59 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8 кг"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Велюр"}]}]}]}</tab_details>
@@ -35759,7 +35833,7 @@
     <dovzhyna>58</dovzhyna>
     <shyryna/>
     <vysota>86</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"86 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"смарагдовий велюр + чорний; капучино велюр + чорний; сірий велюр + чорний; коричневий велюр + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"45 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"59 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8 кг"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"86 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"чорнильно-синій + чорний; смарагдовий велюр + чорний; капучино велюр + чорний; сірий велюр + чорний; коричневий велюр + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"45 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"59 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8 кг"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Велюр"}]}]}]}</tab_details>
@@ -35807,6 +35881,224 @@
       <image>https://vetro.com.ua/storage/30065/6915984296f22_stilec-m-65-korichneviy-chorniy9.JPG</image>
       <image>https://vetro.com.ua/storage/30067/691598455d79f_stilec-m-65-korichneviy-chorniy11.JPG</image>
       <image>https://vetro.com.ua/storage/30073/6915991d590e2_stilec-m-65-korichneviy-chorniy10.JPG</image>
+    </images>
+  </item>
+  <item>
+    <sku>S-118-brown-velvet</sku>
+    <handle>vetro-stilets-s-118</handle>
+    <name>Стілець S-118</name>
+    <variant_price>2891.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Стілець S-118 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець S-118 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-stilets-s-118</alias>
+    <description>&lt;p&gt;Стілець S-118 — це стильна модель з сучасним дизайном, яка поєднує естетику та комфорт. Його сидіння та спинка оббиті розкішним коричневим велюром, що додає тепла і м'якості в інтер'єр. Матеріал оббивки виглядає елегантно, забезпечуючи приємні тактильні відчуття та легкість у догляді.&lt;/p&gt;&lt;p&gt;Основною особливістю стільця є його металева ніжка у формі літери «S». Ця конструкція не тільки виглядає сучасно і динамічно, але й забезпечує стійкість і витривалість. Форма бази робить стілець відмінним вибором для інтер'єрів у стилі модерн, лофт або хай-тек.&lt;/p&gt;&lt;p&gt;Сидіння з плавним переходом у спинку створює ергономічну посадку, яка забезпечує комфорт навіть при тривалому використанні. Завдяки такому дизайну стілець стане не тільки функціональним елементом, але й стильним акцентом у вашому просторі.&lt;/p&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna>44</dovzhyna>
+    <shyryna/>
+    <vysota>101</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"101 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"коричневий велюр; капучино велюр; чорний велюр"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"47 см"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"6 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Хромована сталь"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Велюр"}]}]}]}</tab_details>
+    <tabletop_shape/>
+    <rozkladnyi/>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>коричневий велюр</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/21566/6762867a99d56_676286608831a_66f6a60eda7d5_66f6a5695673f_AAA_7791.jpg</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/21566/6762867a99d56_676286608831a_66f6a60eda7d5_66f6a5695673f_AAA_7791.jpg</image>
+      <image>https://vetro.com.ua/storage/21566/6762867a99d56_676286608831a_66f6a60eda7d5_66f6a5695673f_AAA_7791.jpg</image>
+      <image>https://vetro.com.ua/storage/20036/66f6a766be7f8_66f6a44374446_AAA_7792.jpg</image>
+      <image>https://vetro.com.ua/storage/20037/66f6a77379ac0_66f6a4441debe_AAA_7794.jpg</image>
+      <image>https://vetro.com.ua/storage/20038/66f6a7854e6fa_66f6a4404e5bd_AAA_7795.jpg</image>
+      <image>https://vetro.com.ua/storage/20039/66f6a79cb5d03_66f6a44043c31_AAA_7796.jpg</image>
+      <image>https://vetro.com.ua/storage/7391/Stul_S-118_korichnevyy_velvet_(6).jpg</image>
+      <image>https://vetro.com.ua/storage/7392/Stul_S-118_korichnevyy_velvet_(7).jpg</image>
+      <image>https://vetro.com.ua/storage/7393/Stul_S-118_korichnevyy_velvet_(8).jpg</image>
+      <image>https://vetro.com.ua/storage/7394/Stul_S-118_korichnevyy_velvet_(9).jpg</image>
+      <image>https://vetro.com.ua/storage/12577/6581ae4fb20c2_Stol_TML-765-1_matovyy_kapuchino_(1)_(2).jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>S-118-cappuccino-velvet</sku>
+    <handle>vetro-stilets-s-118</handle>
+    <name>Стілець S-118</name>
+    <variant_price>2891.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Стілець S-118 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець S-118 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-stilets-s-118</alias>
+    <description>&lt;p&gt;Стілець S-118 у кольорі капучино вирізняється вишуканістю та сучасним стилем. Оббивка з велюру у теплих відтінках капучино додає інтер’єру затишку, гармонійно поєднуючись із м’якими текстурами й природними кольорами. Велюрова поверхня не лише приємна на дотик, але й довговічна, зберігаючи свій вигляд навіть при частому використанні.&lt;/p&gt;&lt;p&gt;Металева основа у формі літери «S» підкреслює сучасний характер стільця, додаючи нотку динамічності. Завдяки міцній конструкції стілець забезпечує стабільність і стійкість, а плавні вигини ніжки створюють ефект легкості.&lt;/p&gt;&lt;p&gt;Ергономічне сидіння з плавним переходом у спинку розроблене для максимального комфорту. Така форма дозволяє зручно сидіти протягом тривалого часу, роблячи стілець ідеальним вибором як для вітальні чи кухні, так і для зони відпочинку. Його стильний вигляд гармонійно впишеться у сучасні інтер'єри, додаючи простору витонченості.&lt;/p&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna>44</dovzhyna>
+    <shyryna/>
+    <vysota>101</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"101 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"коричневий велюр; капучино велюр; чорний велюр"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"47 см"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"6 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Хромована сталь"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Велюр"}]}]}]}</tab_details>
+    <tabletop_shape/>
+    <rozkladnyi/>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>капучино велюр</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/21564/676286411f29a_676286268e163_66b4a20b0a50d_AAA_5074.jpg</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/21564/676286411f29a_676286268e163_66b4a20b0a50d_AAA_5074.jpg</image>
+      <image>https://vetro.com.ua/storage/21564/676286411f29a_676286268e163_66b4a20b0a50d_AAA_5074.jpg</image>
+      <image>https://vetro.com.ua/storage/17260/66b4a215a096b_AAA_5075.jpg</image>
+      <image>https://vetro.com.ua/storage/17261/66b4a21dad33e_AAA_5076.jpg</image>
+      <image>https://vetro.com.ua/storage/17262/66b4a2263ec3e_AAA_5077.jpg</image>
+      <image>https://vetro.com.ua/storage/17263/66b4a2319f7ab_AAA_5078.jpg</image>
+      <image>https://vetro.com.ua/storage/6476/AAA_5079.jpg</image>
+      <image>https://vetro.com.ua/storage/6477/AAA_5080.jpg</image>
+      <image>https://vetro.com.ua/storage/6478/AAA_5081.jpg</image>
+      <image>https://vetro.com.ua/storage/6479/AAA_5082.jpg</image>
+      <image>https://vetro.com.ua/storage/6480/AAA_5084.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>S-118-black-velvet</sku>
+    <handle>vetro-stilets-s-118</handle>
+    <name>Стілець S-118</name>
+    <variant_price>2891.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Стілець S-118 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець S-118 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-stilets-s-118</alias>
+    <description>&lt;p&gt;Стілець S-118 у чорному велюрі — це стильний та універсальний вибір для сучасного інтер'єру. Його оббивка з чорного велюру виглядає елегантно та розкішно, додаючи простору відчуття витонченості. Тканина приємна на дотик, зносостійка та проста у догляді, що робить цей стілець практичним рішенням для щоденного використання.&lt;/p&gt;&lt;p&gt;Металева основа у формі літери «S» надає стільцю сучасного вигляду і забезпечує його міцність та стабільність. Завдяки плавним лініям конструкція виглядає легкою, водночас залишаючись надійною.&lt;/p&gt;&lt;p&gt;Сидіння, що плавно переходить у спинку, забезпечує ергономічну підтримку тіла, дозволяючи зручно сидіти навіть протягом тривалого часу. Універсальний чорний колір оббивки гармонійно поєднується з іншими елементами декору, що дозволяє використовувати цей стілець у різних стилях інтер’єру — від мінімалізму до лофту або хай-теку.&lt;/p&gt;&lt;p&gt;Цей стілець стане не лише зручним місцем для відпочинку, а й стильним акцентом вашого простору.&lt;/p&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna>44</dovzhyna>
+    <shyryna/>
+    <vysota>101</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"101 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"коричневий велюр; капучино велюр; чорний велюр"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"47 см"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"6 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Хромована сталь"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Велюр"}]}]}]}</tab_details>
+    <tabletop_shape/>
+    <rozkladnyi/>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>чорний велюр</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/21567/676286b9e5554_66b4a2f6c24f4_AAA_5096.jpg</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/21567/676286b9e5554_66b4a2f6c24f4_AAA_5096.jpg</image>
+      <image>https://vetro.com.ua/storage/21567/676286b9e5554_66b4a2f6c24f4_AAA_5096.jpg</image>
+      <image>https://vetro.com.ua/storage/17275/66b4a2ffe6c11_AAA_5097.jpg</image>
+      <image>https://vetro.com.ua/storage/17276/66b4a307559ad_AAA_5098.jpg</image>
+      <image>https://vetro.com.ua/storage/17277/66b4a31054485_AAA_5099.jpg</image>
+      <image>https://vetro.com.ua/storage/17278/66b4a318c935b_AAA_5100.jpg</image>
+      <image>https://vetro.com.ua/storage/6818/AAA_5101.jpg</image>
+      <image>https://vetro.com.ua/storage/6819/AAA_5102.jpg</image>
+      <image>https://vetro.com.ua/storage/6820/AAA_5105.jpg</image>
+      <image>https://vetro.com.ua/storage/6821/AAA_5104.jpg</image>
     </images>
   </item>
   <item>
@@ -37081,9 +37373,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець N-41 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець N-41 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -37221,7 +37513,7 @@
     <sku>N-41-cappuccino-velur/oak</sku>
     <handle>vetro-stilets-n-41</handle>
     <name>Стілець N-41</name>
-    <variant_price>1911.00</variant_price>
+    <variant_price>2695.00</variant_price>
     <vendor>Vetro</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -37298,151 +37590,6 @@
       <image>https://vetro.com.ua/storage/23008/67b09c6e600a3_67b09c48c9db9_stil-tm-87-1-travertin-matoviy-buk2.jpg</image>
       <image>https://vetro.com.ua/storage/23010/67b09c84db852_67b09c49ac3c5_stil-tm-87-1-travertin-matoviy-buk4.jpg</image>
       <image>https://vetro.com.ua/storage/23009/67b09c7ad8478_67b09c49ac54e_stil-tm-87-1-travertin-matoviy-buk5.jpg</image>
-    </images>
-  </item>
-  <item>
-    <sku>S-118-cappuccino-velvet</sku>
-    <handle>vetro-stilets-s-118</handle>
-    <name>Стілець S-118</name>
-    <variant_price>2891.00</variant_price>
-    <vendor>Vetro</vendor>
-    <product_type>Обідні стільці</product_type>
-    <category>Обідні стільці</category>
-    <parent_category>Стільці</parent_category>
-    <shopify_id>fr-7-9</shopify_id>
-    <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Стілець S-118 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Стілець S-118 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-stilets-s-118</alias>
-    <description>&lt;p&gt;Стілець S-118 у кольорі капучино вирізняється вишуканістю та сучасним стилем. Оббивка з велюру у теплих відтінках капучино додає інтер’єру затишку, гармонійно поєднуючись із м’якими текстурами й природними кольорами. Велюрова поверхня не лише приємна на дотик, але й довговічна, зберігаючи свій вигляд навіть при частому використанні.&lt;/p&gt;&lt;p&gt;Металева основа у формі літери «S» підкреслює сучасний характер стільця, додаючи нотку динамічності. Завдяки міцній конструкції стілець забезпечує стабільність і стійкість, а плавні вигини ніжки створюють ефект легкості.&lt;/p&gt;&lt;p&gt;Ергономічне сидіння з плавним переходом у спинку розроблене для максимального комфорту. Така форма дозволяє зручно сидіти протягом тривалого часу, роблячи стілець ідеальним вибором як для вітальні чи кухні, так і для зони відпочинку. Його стильний вигляд гармонійно впишеться у сучасні інтер'єри, додаючи простору витонченості.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna>44</dovzhyna>
-    <shyryna/>
-    <vysota>101</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"101 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"капучино велюр; чорний велюр"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"47 см"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"6 кг"}]}]}]}</tab_characteristics>
-    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Хромована сталь"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Велюр"}]}]}]}</tab_details>
-    <tabletop_shape/>
-    <rozkladnyi/>
-    <legs_addon/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>капучино велюр</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/21564/676286411f29a_676286268e163_66b4a20b0a50d_AAA_5074.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/21564/676286411f29a_676286268e163_66b4a20b0a50d_AAA_5074.jpg</image>
-      <image>https://vetro.com.ua/storage/21564/676286411f29a_676286268e163_66b4a20b0a50d_AAA_5074.jpg</image>
-      <image>https://vetro.com.ua/storage/17260/66b4a215a096b_AAA_5075.jpg</image>
-      <image>https://vetro.com.ua/storage/17261/66b4a21dad33e_AAA_5076.jpg</image>
-      <image>https://vetro.com.ua/storage/17262/66b4a2263ec3e_AAA_5077.jpg</image>
-      <image>https://vetro.com.ua/storage/17263/66b4a2319f7ab_AAA_5078.jpg</image>
-      <image>https://vetro.com.ua/storage/6476/AAA_5079.jpg</image>
-      <image>https://vetro.com.ua/storage/6477/AAA_5080.jpg</image>
-      <image>https://vetro.com.ua/storage/6478/AAA_5081.jpg</image>
-      <image>https://vetro.com.ua/storage/6479/AAA_5082.jpg</image>
-      <image>https://vetro.com.ua/storage/6480/AAA_5084.jpg</image>
-    </images>
-  </item>
-  <item>
-    <sku>S-118-black-velvet</sku>
-    <handle>vetro-stilets-s-118</handle>
-    <name>Стілець S-118</name>
-    <variant_price>2891.00</variant_price>
-    <vendor>Vetro</vendor>
-    <product_type>Обідні стільці</product_type>
-    <category>Обідні стільці</category>
-    <parent_category>Стільці</parent_category>
-    <shopify_id>fr-7-9</shopify_id>
-    <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
-    <barcode/>
-    <meta_title>Стілець S-118 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Стілець S-118 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-stilets-s-118</alias>
-    <description>&lt;p&gt;Стілець S-118 у чорному велюрі — це стильний та універсальний вибір для сучасного інтер'єру. Його оббивка з чорного велюру виглядає елегантно та розкішно, додаючи простору відчуття витонченості. Тканина приємна на дотик, зносостійка та проста у догляді, що робить цей стілець практичним рішенням для щоденного використання.&lt;/p&gt;&lt;p&gt;Металева основа у формі літери «S» надає стільцю сучасного вигляду і забезпечує його міцність та стабільність. Завдяки плавним лініям конструкція виглядає легкою, водночас залишаючись надійною.&lt;/p&gt;&lt;p&gt;Сидіння, що плавно переходить у спинку, забезпечує ергономічну підтримку тіла, дозволяючи зручно сидіти навіть протягом тривалого часу. Універсальний чорний колір оббивки гармонійно поєднується з іншими елементами декору, що дозволяє використовувати цей стілець у різних стилях інтер’єру — від мінімалізму до лофту або хай-теку.&lt;/p&gt;&lt;p&gt;Цей стілець стане не лише зручним місцем для відпочинку, а й стильним акцентом вашого простору.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna>44</dovzhyna>
-    <shyryna/>
-    <vysota>101</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"101 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"капучино велюр; чорний велюр"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"44 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"58 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"47 см"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"6 кг"}]}]}]}</tab_characteristics>
-    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Хромована сталь"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Велюр"}]}]}]}</tab_details>
-    <tabletop_shape/>
-    <rozkladnyi/>
-    <legs_addon/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>чорний велюр</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/21567/676286b9e5554_66b4a2f6c24f4_AAA_5096.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/21567/676286b9e5554_66b4a2f6c24f4_AAA_5096.jpg</image>
-      <image>https://vetro.com.ua/storage/21567/676286b9e5554_66b4a2f6c24f4_AAA_5096.jpg</image>
-      <image>https://vetro.com.ua/storage/17275/66b4a2ffe6c11_AAA_5097.jpg</image>
-      <image>https://vetro.com.ua/storage/17276/66b4a307559ad_AAA_5098.jpg</image>
-      <image>https://vetro.com.ua/storage/17277/66b4a31054485_AAA_5099.jpg</image>
-      <image>https://vetro.com.ua/storage/17278/66b4a318c935b_AAA_5100.jpg</image>
-      <image>https://vetro.com.ua/storage/6818/AAA_5101.jpg</image>
-      <image>https://vetro.com.ua/storage/6819/AAA_5102.jpg</image>
-      <image>https://vetro.com.ua/storage/6820/AAA_5105.jpg</image>
-      <image>https://vetro.com.ua/storage/6821/AAA_5104.jpg</image>
     </images>
   </item>
   <item>
@@ -38497,9 +38644,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-76 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-76 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -39330,9 +39477,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-87 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-87 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -39546,9 +39693,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-87-1 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-87-1 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -40007,9 +40154,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Обідній керамічний стіл TM-100 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Обідній керамічний стіл TM-100 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -41416,84 +41563,6 @@
     </images>
   </item>
   <item>
-    <sku>M-72- light-grey-velvet/ black</sku>
-    <handle>vetro-stilets-m-72</handle>
-    <name>Стілець M-72</name>
-    <variant_price>3871.00</variant_price>
-    <vendor>Vetro</vendor>
-    <product_type>Обідні стільці</product_type>
-    <category>Обідні стільці</category>
-    <parent_category>Стільці</parent_category>
-    <shopify_id>fr-7-9</shopify_id>
-    <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Стілець M-72 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Стілець M-72 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-stilets-m-72</alias>
-    <description>&lt;p&gt;Натуральний колір створює відчуття природності та тепла, в той час як чорні ніжки додають контрасту і елегантності.&lt;/p&gt;&lt;p&gt;Текстура &lt;a href="https://vetro.com.ua/category/stulya/stiltsi-velvet-rubchik/"&gt;вельвет рубчик&lt;/a&gt; надає тканині вишуканого та елегантного вигляду. Її рубчаста структура додає текстурний інтерес та глибину кожному предмету, виготовленому з цієї тканини.&lt;/p&gt;&lt;p&gt;Основа стільця виготовлена з фарбованого металу, що забезпечує стійкість і надійність конструкції.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna>48</dovzhyna>
-    <shyryna/>
-    <vysota>88</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"48 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"88 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"натуральний + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"48,5 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"59 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49 см"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"6,5 кг"}]}]}]}</tab_characteristics>
-    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Вельвет рубчик"}]}]}]}</tab_details>
-    <tabletop_shape/>
-    <rozkladnyi/>
-    <legs_addon/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>натуральний + чорний</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/32476/6a8ef17d4030b_6a8ef13e8b944_m-72-naturalniy-chorniy1.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/32476/6a8ef17d4030b_6a8ef13e8b944_m-72-naturalniy-chorniy1.jpg</image>
-      <image>https://vetro.com.ua/storage/32476/6a8ef17d4030b_6a8ef13e8b944_m-72-naturalniy-chorniy1.jpg</image>
-      <image>https://vetro.com.ua/storage/32471/6a8ef0f8626ed_6a8ef094ef9f1_m-72-naturalniy-chorniy2.jpg</image>
-      <image>https://vetro.com.ua/storage/32472/6a8ef104b92d2_6a8ef095036ba_m-72-naturalniy-chorniy3.jpg</image>
-      <image>https://vetro.com.ua/storage/32473/6a8ef10fbc689_6a8ef094764ff_m-72-naturalniy-chorniy4.jpg</image>
-      <image>https://vetro.com.ua/storage/32474/6a8ef11aa4599_6a8ef0946f304_m-72-naturalniy-chorniy5.jpg</image>
-      <image>https://vetro.com.ua/storage/11798/654cce8dabd52_m-72-naturalniy-chorniy5.jpg</image>
-      <image>https://vetro.com.ua/storage/11794/654cce8d594e3_m-72-naturalniy-chorniy1.jpg</image>
-      <image>https://vetro.com.ua/storage/11795/654cce8d6c618_m-72-naturalniy-chorniy2.jpg</image>
-      <image>https://vetro.com.ua/storage/11797/654cce8d963cf_m-72-naturalniy-chorniy4.jpg</image>
-      <image>https://vetro.com.ua/storage/11796/654cce8d82a52_m-72-naturalniy-chorniy3.jpg</image>
-      <image>https://vetro.com.ua/storage/28419/68ef64dbc8bdd_68ef649e85a34_stil-tm-98-b-yanko-karrara-grey-chorniy1.JPG</image>
-      <image>https://vetro.com.ua/storage/28420/68ef64f25b496_68ef649e8a8d9_stil-tm-98-b-yanko-karrara-grey-chorniy2.JPG</image>
-      <image>https://vetro.com.ua/storage/28421/68ef6501dfeb5_68ef649ee4cfe_stil-tm-98-b-yanko-karrara-grey-chorniy3.JPG</image>
-      <image>https://vetro.com.ua/storage/28422/68ef650f8d91a_68ef649ee2dc4_stil-tm-98-b-yanko-karrara-grey-chorniy4.JPG</image>
-      <image>https://vetro.com.ua/storage/28423/68ef652670427_68ef649f386de_stil-tm-98-b-yanko-karrara-grey-chorniy5.JPG</image>
-    </images>
-  </item>
-  <item>
     <sku>M-71-mustard/ black</sku>
     <handle>vetro-stilets-m-71</handle>
     <name>Стілець M-71</name>
@@ -41569,88 +41638,6 @@
     </images>
   </item>
   <item>
-    <sku>R-69-ivory/ black</sku>
-    <handle>vetro-stilets-povorotnyi-r-69</handle>
-    <name>Стілець поворотний R-69</name>
-    <variant_price>6615.00</variant_price>
-    <vendor>Vetro</vendor>
-    <product_type>Обідні стільці</product_type>
-    <category>Обідні стільці</category>
-    <parent_category>Стільці</parent_category>
-    <shopify_id>fr-7-9</shopify_id>
-    <tags>Обідні крісла</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Стілець поворотний R-69 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Стілець поворотний R-69 від Vetro — купуйте в АКОРД МЕБЛІ. Айворі — це ніжний, світлий відтінок, який надає кріслу стильного та сучасного вигляду.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-stilets-povorotnyi-r-69</alias>
-    <description>&lt;p&gt;Айворі — це ніжний, світлий відтінок, який надає кріслу стильного та сучасного вигляду. Таке крісло легко вписується в різні інтер'єри, додаючи їм свіжості та легкості.&lt;/p&gt;&lt;p&gt;йворі є нейтральним кольором, що дозволяє поєднувати його з різноманітними кольорами та текстурами. Це робить крісло універсальним елементом меблів, яке можна використовувати в сучасних, класичних або навіть скандинавських інтер'єрах.&lt;/p&gt;&lt;p&gt;Завдяки своїй стильності та функціональності, поворотне крісло може стати чудовим акцентом у вітальні, офісі або навіть спальні, створюючи затишну атмосферу.&lt;/p&gt;&lt;p&gt;Поворотний механізм робить його ідеальним для відкритих планувань, де важливо легко переміщатися та взаємодіяти з іншими людьми.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna>60</dovzhyna>
-    <shyryna/>
-    <vysota>84</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"84 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"айворі + чорний; сірий + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"60,5 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"42 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"55 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"46 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"поворотні, автоповорот на 180°, з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"11 кг"}]}]}]}</tab_characteristics>
-    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Тканина"}]}]}]}</tab_details>
-    <tabletop_shape/>
-    <rozkladnyi/>
-    <legs_addon/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>айворі + чорний</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/21576/676aa587d87b3_66e3023395491_66e301f2af98e_DSC01949.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/21576/676aa587d87b3_66e3023395491_66e301f2af98e_DSC01949.jpg</image>
-      <image>https://vetro.com.ua/storage/21576/676aa587d87b3_66e3023395491_66e301f2af98e_DSC01949.jpg</image>
-      <image>https://vetro.com.ua/storage/19069/66e3023ba899c_66e301a948d94_DSC01950.jpg</image>
-      <image>https://vetro.com.ua/storage/19070/66e302430ade7_66e301a965313_DSC01951.jpg</image>
-      <image>https://vetro.com.ua/storage/19071/66e3024c843f4_66e301a6582fd_DSC01952.jpg</image>
-      <image>https://vetro.com.ua/storage/19072/66e30256214e5_66e301a61082b_DSC01953.jpg</image>
-      <image>https://vetro.com.ua/storage/11887/654ceda55cd04_r-69-ayvori-chorniy4.jpg</image>
-      <image>https://vetro.com.ua/storage/11884/654ceda51e6fe_r-69-ayvori-chorniy2.jpg</image>
-      <image>https://vetro.com.ua/storage/11885/654ceda5221fe_r-69-ayvori-chorniy1.jpg</image>
-      <image>https://vetro.com.ua/storage/11886/654ceda552a2f_r-69-ayvori-chorniy3.jpg</image>
-      <image>https://vetro.com.ua/storage/13803/6661c1990d9ab_dante-tml-980-travertin6.jpg</image>
-      <image>https://vetro.com.ua/storage/13804/6661c19915335_dante-tml-980-travertin7.jpg</image>
-      <image>https://vetro.com.ua/storage/13805/6661c199344b5_dante-tml-980-travertin8.jpg</image>
-      <image>https://vetro.com.ua/storage/13806/6661c1994d015_dante-tml-980-travertin9.jpg</image>
-      <image>https://vetro.com.ua/storage/13807/6661c1995aa28_dante-tml-980-travertin10.jpg</image>
-      <image>https://vetro.com.ua/storage/13808/6661c1997352c_dante-tml-980-travertin11.jpg</image>
-      <image>https://vetro.com.ua/storage/13809/6661c199833e6_dante-tml-980-travertin12.jpg</image>
-      <image>https://vetro.com.ua/storage/12512/65815ec57a37a_653252af22f00_tml-950-kasa-gold-chorniy2.jpg</image>
-      <image>https://vetro.com.ua/storage/12511/65815ec57a045_653252af6e6a0_tml-950-kasa-gold-chorniy3.jpg</image>
-      <image>https://vetro.com.ua/storage/30270/69679517496ab_СтілецьповоротнийR-69_1-(5).glb</image>
-    </images>
-  </item>
-  <item>
     <sku>R-69-grey/ black</sku>
     <handle>vetro-stilets-povorotnyi-r-69</handle>
     <name>Стілець поворотний R-69</name>
@@ -41666,7 +41653,7 @@
     <instock>100</instock>
     <barcode/>
     <meta_title>Стілець поворотний R-69 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Стілець поворотний R-69 від Vetro — купуйте в АКОРД МЕБЛІ. Айворі — це ніжний, світлий відтінок, який надає кріслу стильного та сучасного вигляду.</meta_description>
+    <meta_description>Стілець поворотний R-69 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords/>
     <alias>vetro-stilets-povorotnyi-r-69</alias>
     <description>&lt;p&gt;Поворотний стілець в оббивці з тканини сірого кольору — це ідеальне рішення для створення стильного та функціонального інтер'єру.&lt;/p&gt;&lt;p&gt;М’яка тканинна оббивки забезпечує високий рівень комфорту. Сірий колір і текстура створюють затишну атмосферу, ідеально підходячи для тривалих годин відпочинку або роботи.&lt;/p&gt;&lt;p&gt;Сірий колір є нейтральним і універсальним, що дозволяє стільцю вписатися в різні інтер'єрні стилі — від сучасного до класичного. Такий стілець стане елегантним акцентом у вашому просторі.&lt;/p&gt;&lt;p&gt;Поворотний механізм дозволяє легко змінювати напрямок, що забезпечує зручність під час спілкування, перегляду телевізора або роботи за комп'ютером. Це особливо зручно в відкритих просторах.&lt;/p&gt;</description>
@@ -41674,7 +41661,7 @@
     <dovzhyna>60</dovzhyna>
     <shyryna/>
     <vysota>84</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"84 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"айворі + чорний; сірий + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"60,5 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"42 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"55 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"46 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"поворотні, автоповорот на 180°, з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"11 кг"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"84 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"сірий + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"60,5 см"}]},{"type":"list-item","children":[{"type":"text","value":"Глибина сидіння: ","bold":true},{"type":"text","value":"42 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"55 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"46 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"поворотні, автоповорот на 180°, з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"11 кг"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Тканина"}]}]}]}</tab_details>
@@ -46009,86 +45996,6 @@
     </images>
   </item>
   <item>
-    <sku>TML-995-beatrice-tiger-travertin/brown</sku>
-    <handle>vetro-keramichnyi-stil-beatriche-tml-995</handle>
-    <name>Керамічний стіл Беатріче TML-995</name>
-    <variant_price>61985.00</variant_price>
-    <vendor>Vetro</vendor>
-    <product_type>Обідні столи</product_type>
-    <category>Обідні столи</category>
-    <parent_category>Столи</parent_category>
-    <shopify_id>fr-24-4</shopify_id>
-    <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Керамічний стіл Беатріче TML-995 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Керамічний стіл Беатріче TML-995 від Vetro — купуйте в АКОРД МЕБЛІ. Колір тайгер травертін надає поверхні природної краси, нагадуючи мармурові текстури.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-keramichnyi-stil-beatriche-tml-995</alias>
-    <description>&lt;p&gt;Колір тайгер травертін надає поверхні природної краси, нагадуючи мармурові текстури. Це додає інтер’єру розкішного та сучасного вигляду.&lt;/p&gt;&lt;p&gt;Стільниця поєднує глянцеву кераміку та гартоване скло, що робить її дуже стійкою до тепла, перепадів температур і вигорання на сонці. Фарбований метал основи також додає стійкості та надійності конструкції.&lt;/p&gt;&lt;p&gt;Завдяки боковому механізму розкладки, стіл можна розширити з 180 см до 260 см, що ідеально підходить для прийому гостей або сімейних свят.&lt;/p&gt;&lt;p&gt;Цей стіл ідеальний для просторих кухонь або віталень, де важлива поєднання стилю, надійності та функціональності.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna>180</dovzhyna>
-    <shyryna>100</shyryna>
-    <vysota>76</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"180 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"100 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"76 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"тайгер травертін + коричневий"}]},{"type":"list-item","children":[{"type":"text","value":"Довжина у розкладеному вигляді: ","bold":true},{"type":"text","value":"260 см"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"прямокутні"}]},{"type":"list-item","children":[{"type":"text","value":"Вид: ","bold":true},{"type":"text","value":"розкладні"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм розкладки: ","bold":true},{"type":"text","value":"боковий"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"174 кг"}]}]}]}</tab_characteristics>
-    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Глянцева кераміка + гартоване скло"}]}]}]}</tab_details>
-    <tabletop_shape>["Прямокутна"]</tabletop_shape>
-    <rozkladnyi>Так</rozkladnyi>
-    <legs_addon/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>тайгер травертін + коричневий</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/23084/67b358c5d7360_67b3580541234_stil-beatriche-tml-995-tayger-travertin-korichneviy4.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/23084/67b358c5d7360_67b3580541234_stil-beatriche-tml-995-tayger-travertin-korichneviy4.jpg</image>
-      <image>https://vetro.com.ua/storage/23084/67b358c5d7360_67b3580541234_stil-beatriche-tml-995-tayger-travertin-korichneviy4.jpg</image>
-      <image>https://vetro.com.ua/storage/23080/67b358055d02c_stil-beatriche-tml-995-tayger-travertin-korichneviy3.jpg</image>
-      <image>https://vetro.com.ua/storage/23085/67b358d819215_67b358064a093_stil-beatriche-tml-995-tayger-travertin-korichneviy5.jpg</image>
-      <image>https://vetro.com.ua/storage/23086/67b358e32bebe_67b35807158f2_stil-beatriche-tml-995-tayger-travertin-korichneviy6.jpg</image>
-      <image>https://vetro.com.ua/storage/23087/67b358f57b7ca_67b3580372111_stil-beatriche-tml-995-tayger-travertin-korichneviy1.jpg</image>
-      <image>https://vetro.com.ua/storage/23078/67b358037e409_stil-beatriche-tml-995-tayger-travertin-korichneviy2.jpg</image>
-      <image>https://vetro.com.ua/storage/23088/67b35910cdf2f_67b358097882b_stil-beatriche-tml-995-tayger-travertin-korichneviy7.jpg</image>
-      <image>https://vetro.com.ua/storage/23104/67b3978b22c12_67b3974b54314_stil-beatriche-tml-995-tayger-travertin-korichneviy9.jpg</image>
-      <image>https://vetro.com.ua/storage/23105/67b39798f202b_67b3974bd7286_stil-beatriche-tml-995-tayger-travertin-korichneviy11.jpg</image>
-      <image>https://vetro.com.ua/storage/23106/67b397a5cc3d8_67b3974bd691b_stil-beatriche-tml-995-tayger-travertin-korichneviy10.jpg</image>
-      <image>https://vetro.com.ua/storage/23107/67b397b264c01_67b3974b58497_stil-beatriche-tml-995-tayger-travertin-korichneviy8.jpg</image>
-      <image>https://vetro.com.ua/storage/23108/67b397c285320_67b3974c5e602_stil-beatriche-tml-995-tayger-travertin-korichneviy13.jpg</image>
-      <image>https://vetro.com.ua/storage/23102/67b3974c65ae8_stil-beatriche-tml-995-tayger-travertin-korichneviy12.jpg</image>
-      <image>https://vetro.com.ua/storage/23120/67b437d04f136__DSC6404.jpg</image>
-      <image>https://vetro.com.ua/storage/21305/673b4c0259458_673b4b9c13acd_673b4b81d6caa_673b4b52994a5_ET2406-1.jpg</image>
-      <image>https://vetro.com.ua/storage/20516/67152e70360d8_67152e2abd42c_ET2406-2.jpg</image>
-      <image>https://vetro.com.ua/storage/27195/687f8258632f2_TML-995-(1).glb</image>
-    </images>
-  </item>
-  <item>
     <sku>TML-996-noemi-westwood/black</sku>
     <handle>vetro-keramichnyi-stil-noemi-tml-996</handle>
     <name>Керамічний стіл Ноемі TML-996</name>
@@ -47635,9 +47542,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець поворотний R-168 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець поворотний R-168 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -57685,6 +57592,72 @@
       <image>https://vetro.com.ua/storage/32660/6aaba45f8659f_6aaba3182cc62_stil-montero-tml-1365-arabeskato-vintazh-bronza3.jpg</image>
       <image>https://vetro.com.ua/storage/32661/6aaba4695fa5e_6aaba4222b4de_stil-montero-tml-1365-arabeskato-vintazh-bronza3.jpg</image>
       <image>https://vetro.com.ua/storage/32663/6aaba4a05e256_6aaba484dc0f4_stil-montero-tml-1365-arabeskato-vintazh-bronza2.jpg</image>
+    </images>
+  </item>
+  <item>
+    <sku>TM-97-bari-white-sand/cream</sku>
+    <handle>vetro-keramichnyi-stil-bari-tm-97</handle>
+    <name>Керамічний стіл Барі TM-97</name>
+    <variant_price>18571.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні столи</product_type>
+    <category>Обідні столи</category>
+    <parent_category>Столи</parent_category>
+    <shopify_id>fr-24-4</shopify_id>
+    <tags>Bari</tags>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Керамічний стіл Барі TM-97 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Керамічний стіл Барі TM-97 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-keramichnyi-stil-bari-tm-97</alias>
+    <description>&lt;p&gt;&lt;strong&gt;Керамічний стіл Барі TM-97&lt;/strong&gt; — компактна квадратна модель у світлому відтінку білий пісок із кремовою металевою основою. Матова керамічна стільниця стійка до подряпин і добре підходить для щоденного використання, зберігаючи акуратний та естетичний вигляд.&lt;/p&gt;&lt;p&gt;Боковий механізм розкладки дозволяє збільшити довжину столу з 80 до 130 см, коли потрібно більше простору для гостей. У складеному вигляді модель займає мінімум місця, а після розкладання легко перетворюється на повноцінний обідній стіл.&lt;/p&gt;&lt;p&gt;Барі TM-97 — вдале поєднання компактності, практичності та легкої сучасної естетики, яке гармонійно доповнить як невелику кухню, так і сучасну обідню зону.&lt;/p&gt;</description>
+    <spalne_mistse/>
+    <dovzhyna>80</dovzhyna>
+    <shyryna>80</shyryna>
+    <vysota>75</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"80 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"80 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"білий пісок + кремовий"}]},{"type":"list-item","children":[{"type":"text","value":"Довжина у розкладеному вигляді: ","bold":true},{"type":"text","value":"130 см"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"квадратні"}]},{"type":"list-item","children":[{"type":"text","value":"Вид: ","bold":true},{"type":"text","value":"розкладні"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм розкладки: ","bold":true},{"type":"text","value":"боковий"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"51 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Матова кераміка (стійка до подряпин)"}]}]}]}</tab_details>
+    <tabletop_shape>["Прямокутна"]</tabletop_shape>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>білий пісок + кремовий</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/32685/6aabab8493d69_6aabab3b882c1_stil-bari-tm-97-biliy-pisok-kremoviy2.jpg</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/32685/6aabab8493d69_6aabab3b882c1_stil-bari-tm-97-biliy-pisok-kremoviy2.jpg</image>
+      <image>https://vetro.com.ua/storage/32685/6aabab8493d69_6aabab3b882c1_stil-bari-tm-97-biliy-pisok-kremoviy2.jpg</image>
+      <image>https://vetro.com.ua/storage/32686/6aabab8eab84d_6aabab3b83076_stil-bari-tm-97-biliy-pisok-kremoviy3.jpg</image>
+      <image>https://vetro.com.ua/storage/32687/6aabab994c469_6aabab5fe5579_stil-bari-tm-97-biliy-pisok-kremoviy1.jpg</image>
     </images>
   </item>
   <item>
