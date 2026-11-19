@@ -35167,9 +35167,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець N-66-2 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець N-66-2 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -35598,9 +35598,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags>Обідні крісла</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець M-65 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець M-65 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -37373,9 +37373,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець N-41 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець N-41 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -42993,9 +42993,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-120 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-120 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -49751,79 +49751,6 @@
     </images>
   </item>
   <item>
-    <sku>CT-55-livio-oak/black</sku>
-    <handle>vetro-komplekt-zhurnalnykh-stoliv-ct-55</handle>
-    <name>Комплект журнальних столів CT-55</name>
-    <variant_price>7301.00</variant_price>
-    <vendor>Vetro</vendor>
-    <product_type>Журнальні столики і консолі</product_type>
-    <category>Журнальні столики і консолі</category>
-    <parent_category>Столи</parent_category>
-    <shopify_id>fr-24-1</shopify_id>
-    <tags>Круглі столи</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Комплект журнальних столів CT-55 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Комплект журнальних столів CT-55 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-komplekt-zhurnalnykh-stoliv-ct-55</alias>
-    <description>&lt;p&gt;&lt;strong&gt;Комплект журнальних столів CT-55 Лівіо дуб + чорний&lt;/strong&gt; — це вдале поєднання сучасного стилю та природної текстури. Столики різного розміру з круглими стільницями у відтінку теплого дуба додають інтер'єру глибини й багатошаровості, а чорна металева основа підкреслює графічність і стабільність форм.&lt;/p&gt;&lt;p&gt;Ламіноване МДФ із реалістичним деревним малюнком приємне на дотик і стійке до щоденного використання. Металеві ніжки з матовим покриттям не тільки доповнюють образ, а й забезпечують конструкції надійність. Завдяки різній висоті столів їх легко компонувати разом або використовувати окремо — як журнальні, кавові чи декоративні.&lt;/p&gt;&lt;p&gt;Цей комплект стане стильним акцентом у вітальні, доповнить лаунж-зону або зону відпочинку у спальні. CT-55 Лівіо — це більше, ніж просто столи. Це деталь, яка створює настрій у просторі.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna>70</dovzhyna>
-    <shyryna>70</shyryna>
-    <vysota>46</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"70 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"70 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"46 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"Лівіо дуб + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Діаметр: ","bold":true},{"type":"text","value":"70,50 см"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"круглі"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"12,7 кг"}]}]}]}</tab_characteristics>
-    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Ламіноване МДФ"}]}]}]}</tab_details>
-    <tabletop_shape>["Кругла"]</tabletop_shape>
-    <rozkladnyi/>
-    <legs_addon/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>Лівіо дуб + чорний</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/28518/68f1df988e3c2_68f1df78cb5ec_krislo-tivoli-tepliy-kashtan2.JPG</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/28518/68f1df988e3c2_68f1df78cb5ec_krislo-tivoli-tepliy-kashtan2.JPG</image>
-      <image>https://vetro.com.ua/storage/28518/68f1df988e3c2_68f1df78cb5ec_krislo-tivoli-tepliy-kashtan2.JPG</image>
-      <image>https://vetro.com.ua/storage/28519/68f1dfa77ba93_68f1df78ca0f6_krislo-tivoli-tepliy-kashtan1.JPG</image>
-      <image>https://vetro.com.ua/storage/29814/690ca80e2acee_690ca7f086b8e_komplekt-zhurnalnih-stoliv-ct-55-livio-dub-chorniy1.JPG</image>
-      <image>https://vetro.com.ua/storage/29815/690ca815d4797_690ca7f089825_komplekt-zhurnalnih-stoliv-ct-55-livio-dub-chorniy2.JPG</image>
-      <image>https://vetro.com.ua/storage/29816/690ca81c97ae4_690ca7f0eda35_komplekt-zhurnalnih-stoliv-ct-55-livio-dub-chorniy3.JPG</image>
-      <image>https://vetro.com.ua/storage/29810/690ca7f16968a_komplekt-zhurnalnih-stoliv-ct-55-livio-dub-chorniy5.JPG</image>
-      <image>https://vetro.com.ua/storage/29812/690ca7f1f159b_komplekt-zhurnalnih-stoliv-ct-55-livio-dub-chorniy6.JPG</image>
-      <image>https://vetro.com.ua/storage/29809/690ca7f125da1_komplekt-zhurnalnih-stoliv-ct-55-livio-dub-chorniy4.JPG</image>
-      <image>https://vetro.com.ua/storage/29811/690ca7f1def32_komplekt-zhurnalnih-stoliv-ct-55-livio-dub-chorniy7.JPG</image>
-      <image>https://vetro.com.ua/storage/29813/690ca7f240bf7_komplekt-zhurnalnih-stoliv-ct-55-livio-dub-chorniy8.JPG</image>
-    </images>
-  </item>
-  <item>
     <sku>TML-1240-siena-roman-travertine/cappuccino</sku>
     <handle>vetro-keramichnyi-stil-siiena-tml-1240</handle>
     <name>Керамічний стіл Сієна TML-1240</name>
@@ -50400,9 +50327,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-98-1 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-98-1 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -59439,7 +59366,7 @@
     <dovzhyna>74</dovzhyna>
     <shyryna/>
     <vysota>102</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"74 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"102 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"74 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"91 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"50 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"поворотні"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"не потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"24 кг"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"74 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"102 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"74 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"91 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"50 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"поворотні"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"24 кг"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Букле"}]}]}]}</tab_details>
@@ -59505,7 +59432,7 @@
     <dovzhyna>74</dovzhyna>
     <shyryna/>
     <vysota>102</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"74 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"102 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"74 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"91 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"50 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"поворотні"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"не потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"24 кг"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"74 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"102 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"74 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"91 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"50 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"поворотні"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"24 кг"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Букле"}]}]}]}</tab_details>
