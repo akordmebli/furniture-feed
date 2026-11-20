@@ -1728,6 +1728,13 @@ def rozkladnyi(p):
 
 def build_xml(products):
     catalog = ET.Element("catalog")
+    # Фото варіанта віддаємо лише тоді, коли варіанти товару мають різні фото (напр. кольори Vetro).
+    # Якщо в усіх варіантів те саме перше фото (категорії тканини ВНД/Vinadi), variant_image порожній:
+    # інакше Meta/Instagram показує в картці лише це фото для кожного варіанта (Юлія, 20.11.2026).
+    _first = {}
+    for p in products:
+        imgs0 = [] if p["source"] in NO_IMAGE_SOURCES else p["images"]
+        _first.setdefault(p["handle"], set()).add(imgs0[0] if imgs0 else "")
     for p in products:
         item = ET.SubElement(catalog, "item")
         fields = [
@@ -1765,7 +1772,7 @@ def build_xml(products):
             ET.SubElement(item, f"option{n + 1}_value").text = vals[n] if n < len(vals) else ""
         # Фото ВНД і Woodman у фід не віддаємо: їх додають і обрізають вручну в Shopify
         imgs = [] if p["source"] in NO_IMAGE_SOURCES else p["images"]
-        ET.SubElement(item, "variant_image").text = imgs[0] if imgs else ""
+        ET.SubElement(item, "variant_image").text = imgs[0] if imgs and len(_first[p["handle"]]) > 1 else ""
         images_el = ET.SubElement(item, "images")
         for img in imgs:
             ET.SubElement(images_el, "image").text = img
