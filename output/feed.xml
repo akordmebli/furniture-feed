@@ -36159,14 +36159,14 @@
     <option2_value/>
     <option3_name/>
     <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/22202/67988ac057a81_66b376a712ac5_66b3766f6f5e2_Stul_R-63_kapuchino_(1).jpg</variant_image>
+    <variant_image>https://vetro.com.ua/storage/33513/6b04060b193dd_6b04059e99837_r-63-kapuchino-chorniy1.jpg</variant_image>
     <images>
-      <image>https://vetro.com.ua/storage/22202/67988ac057a81_66b376a712ac5_66b3766f6f5e2_Stul_R-63_kapuchino_(1).jpg</image>
-      <image>https://vetro.com.ua/storage/22202/67988ac057a81_66b376a712ac5_66b3766f6f5e2_Stul_R-63_kapuchino_(1).jpg</image>
-      <image>https://vetro.com.ua/storage/17147/66b37676a45f9_Stul_R-63_kapuchino_(2).jpg</image>
-      <image>https://vetro.com.ua/storage/17148/66b3767e54ebc_Stul_R-63_kapuchino_(3).jpg</image>
-      <image>https://vetro.com.ua/storage/17149/66b376848ab1d_Stul_R-63_kapuchino_(4).jpg</image>
-      <image>https://vetro.com.ua/storage/17150/66b3768c841b1_Stul_R-63_kapuchino_(5).jpg</image>
+      <image>https://vetro.com.ua/storage/33513/6b04060b193dd_6b04059e99837_r-63-kapuchino-chorniy1.jpg</image>
+      <image>https://vetro.com.ua/storage/33513/6b04060b193dd_6b04059e99837_r-63-kapuchino-chorniy1.jpg</image>
+      <image>https://vetro.com.ua/storage/33514/6b040616d4423_6b04059ded920_r-63-kapuchino-chorniy2.jpg</image>
+      <image>https://vetro.com.ua/storage/33515/6b04061fb614b_6b04059e0884f_r-63-kapuchino-chorniy3.jpg</image>
+      <image>https://vetro.com.ua/storage/33516/6b04062ee0497_6b04059cb3dc1_r-63-kapuchino-chorniy4.jpg</image>
+      <image>https://vetro.com.ua/storage/33517/6b040638b0cc3_6b04059ca8e0c_r-63-kapuchino-chorniy5.jpg</image>
       <image>https://vetro.com.ua/storage/7747/Stul_R-63_kapuchino_(6).jpg</image>
       <image>https://vetro.com.ua/storage/7748/Stul_R-63_kapuchino_(7).jpg</image>
       <image>https://vetro.com.ua/storage/7749/Stul_R-63_kapuchino_(8).jpg</image>
@@ -36232,14 +36232,14 @@
     <option2_value/>
     <option3_name/>
     <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/22206/67988b33b6ae2_66b377de15f75_66b37792bdca0_Stul_R-63_chernyy_(1).jpg</variant_image>
+    <variant_image>https://vetro.com.ua/storage/33531/6b040885d21ae_6b0407f16f970_r-63-chorniy-chorniy1.jpg</variant_image>
     <images>
-      <image>https://vetro.com.ua/storage/22206/67988b33b6ae2_66b377de15f75_66b37792bdca0_Stul_R-63_chernyy_(1).jpg</image>
-      <image>https://vetro.com.ua/storage/22206/67988b33b6ae2_66b377de15f75_66b37792bdca0_Stul_R-63_chernyy_(1).jpg</image>
-      <image>https://vetro.com.ua/storage/17164/66b3779a0e172_Stul_R-63_chernyy_(2).jpg</image>
-      <image>https://vetro.com.ua/storage/17165/66b377a43267a_Stul_R-63_chernyy_(3).jpg</image>
-      <image>https://vetro.com.ua/storage/17166/66b377ab63eb8_Stul_R-63_chernyy_(4).jpg</image>
-      <image>https://vetro.com.ua/storage/17167/66b377b235eb6_Stul_R-63_chernyy_(5).jpg</image>
+      <image>https://vetro.com.ua/storage/33531/6b040885d21ae_6b0407f16f970_r-63-chorniy-chorniy1.jpg</image>
+      <image>https://vetro.com.ua/storage/33531/6b040885d21ae_6b0407f16f970_r-63-chorniy-chorniy1.jpg</image>
+      <image>https://vetro.com.ua/storage/33502/6b0404a63c924_6b0403f4a27d7_r-63-chorniy-chorniy2.jpg</image>
+      <image>https://vetro.com.ua/storage/33503/6b0404b4bc7d1_6b0403f4c1811_r-63-chorniy-chorniy3.jpg</image>
+      <image>https://vetro.com.ua/storage/33504/6b0404c0abbb2_6b0403f327a5d_r-63-chorniy-chorniy4.jpg</image>
+      <image>https://vetro.com.ua/storage/33505/6b0404ccdbab2_6b0403f327b37_r-63-chorniy-chorniy5.jpg</image>
       <image>https://vetro.com.ua/storage/7757/Stul_R-63_chernyy_(6).jpg</image>
       <image>https://vetro.com.ua/storage/7758/Stul_R-63_chernyy_(7).jpg</image>
       <image>https://vetro.com.ua/storage/7759/Stul_R-63_chernyy_(8).jpg</image>
@@ -36305,14 +36305,14 @@
     <option2_value/>
     <option3_name/>
     <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/17158/66b37741bdb79_Stul_R-63_seryy_(1).jpg</variant_image>
+    <variant_image>https://vetro.com.ua/storage/33525/6b040761601f5_6b04070c82e3d_r-63-siriy-chorniy1.jpg</variant_image>
     <images>
-      <image>https://vetro.com.ua/storage/17158/66b37741bdb79_Stul_R-63_seryy_(1).jpg</image>
-      <image>https://vetro.com.ua/storage/17158/66b37741bdb79_Stul_R-63_seryy_(1).jpg</image>
-      <image>https://vetro.com.ua/storage/17159/66b3774884ae9_Stul_R-63_seryy_(2).jpg</image>
-      <image>https://vetro.com.ua/storage/17160/66b37754f08b5_Stul_R-63_seryy_(3).jpg</image>
-      <image>https://vetro.com.ua/storage/17161/66b3775e545a1_Stul_R-63_seryy_(4).jpg</image>
-      <image>https://vetro.com.ua/storage/17162/66b37765163ba_Stul_R-63_seryy_(5).jpg</image>
+      <image>https://vetro.com.ua/storage/33525/6b040761601f5_6b04070c82e3d_r-63-siriy-chorniy1.jpg</image>
+      <image>https://vetro.com.ua/storage/33525/6b040761601f5_6b04070c82e3d_r-63-siriy-chorniy1.jpg</image>
+      <image>https://vetro.com.ua/storage/33526/6b04076db89c4_6b04070b0e081_r-63-siriy-chorniy2.jpg</image>
+      <image>https://vetro.com.ua/storage/33527/6b04077bcad73_6b04070b3d205_r-63-siriy-chorniy3.jpg</image>
+      <image>https://vetro.com.ua/storage/33528/6b04078565bd0_6b040709e573b_r-63-siriy-chorniy4.jpg</image>
+      <image>https://vetro.com.ua/storage/33529/6b04079189f63_6b040709e0455_r-63-siriy-chorniy5.jpg</image>
       <image>https://vetro.com.ua/storage/5700/Stul_R-63_seryy_(6).jpg</image>
       <image>https://vetro.com.ua/storage/5701/Stul_R-63_seryy_(7).jpg</image>
       <image>https://vetro.com.ua/storage/5702/Stul_R-63_seryy_(8).jpg</image>
@@ -59615,6 +59615,142 @@
     </images>
   </item>
   <item>
+    <sku>M-122-ivory-teddy/cappuccino</sku>
+    <handle>vetro-stilets-m-122</handle>
+    <name>Стілець M-122</name>
+    <variant_price>5040.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags>Обідні крісла</tags>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Стілець M-122 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець M-122 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-stilets-m-122</alias>
+    <description/>
+    <spalne_mistse/>
+    <dovzhyna>60</dovzhyna>
+    <shyryna/>
+    <vysota>85</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"85 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"айворі + капучино; тауп + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"61 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49,5 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8,70 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Тедді тканина"}]}]}]}</tab_details>
+    <tabletop_shape/>
+    <rozkladnyi/>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>айворі + капучино</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/33587/6b041312c24e6_6b0412fc2f8e5_m-122-ayvori-kapuchino4.JPG</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/33587/6b041312c24e6_6b0412fc2f8e5_m-122-ayvori-kapuchino4.JPG</image>
+      <image>https://vetro.com.ua/storage/33587/6b041312c24e6_6b0412fc2f8e5_m-122-ayvori-kapuchino4.JPG</image>
+      <image>https://vetro.com.ua/storage/33566/6b040f80bebf9_6b040f4105aeb_m-122-ayvori-kapuchino3.JPG</image>
+      <image>https://vetro.com.ua/storage/33589/6b0414500d03a_6b04143b43842_m-122-ayvori-kapuchino2.JPG</image>
+      <image>https://vetro.com.ua/storage/33568/6b040f9a149c9_6b040efd80b62_m-122-ayvori-kapuchino1.JPG</image>
+      <image>https://vetro.com.ua/storage/33569/6b040fa6331f1_6b040eff01ad0_m-122-ayvori-kapuchino5.JPG</image>
+    </images>
+  </item>
+  <item>
+    <sku>M-122-taupe-teddy/black</sku>
+    <handle>vetro-stilets-m-122</handle>
+    <name>Стілець M-122</name>
+    <variant_price>5040.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags>Обідні крісла</tags>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Стілець M-122 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець M-122 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-stilets-m-122</alias>
+    <description/>
+    <spalne_mistse/>
+    <dovzhyna>60</dovzhyna>
+    <shyryna/>
+    <vysota>85</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"85 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"айворі + капучино; тауп + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"61 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49,5 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8,70 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Тедді тканина"}]}]}]}</tab_details>
+    <tabletop_shape/>
+    <rozkladnyi/>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>тауп + чорний</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/33581/6b041293c8d82_6b04126beada2_m-122-taup-chorniy2.JPG</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/33581/6b041293c8d82_6b04126beada2_m-122-taup-chorniy2.JPG</image>
+      <image>https://vetro.com.ua/storage/33581/6b041293c8d82_6b04126beada2_m-122-taup-chorniy2.JPG</image>
+      <image>https://vetro.com.ua/storage/33582/6b04129f08947_6b04126be76af_m-122-taup-chorniy3.JPG</image>
+      <image>https://vetro.com.ua/storage/33583/6b0412aaaccd7_6b04126c57fa5_m-122-taup-chorniy4.JPG</image>
+      <image>https://vetro.com.ua/storage/33584/6b0412b8a1a43_6b0412306a60d_m-122-taup-chorniy5.JPG</image>
+      <image>https://vetro.com.ua/storage/33585/6b0412c267dd1_6b04122f184db_m-122-taup-chorniy1.JPG</image>
+    </images>
+  </item>
+  <item>
     <sku>10001</sku>
     <handle>comefor-matrats-ekonom-sponfleks-meha-lait</handle>
     <name>Матрац Економ Спонфлекс Мега Лайт</name>
@@ -64233,7 +64369,7 @@
     <sku>10006</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>3067.00</variant_price>
+    <variant_price>2785.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -64298,7 +64434,7 @@
     <sku>10006-80-200</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>3147.00</variant_price>
+    <variant_price>2857.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -64363,7 +64499,7 @@
     <sku>10006-90-190</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>3378.00</variant_price>
+    <variant_price>3068.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -64428,7 +64564,7 @@
     <sku>10006-90-200</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>3467.00</variant_price>
+    <variant_price>3148.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -64493,7 +64629,7 @@
     <sku>10006-115-190</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>4162.00</variant_price>
+    <variant_price>3779.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -64558,7 +64694,7 @@
     <sku>10006-120-190</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>4324.00</variant_price>
+    <variant_price>3926.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -64623,7 +64759,7 @@
     <sku>10006-120-200</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>4434.00</variant_price>
+    <variant_price>4027.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -64688,7 +64824,7 @@
     <sku>10006-125-190</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>4479.00</variant_price>
+    <variant_price>4067.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -64753,7 +64889,7 @@
     <sku>10006-135-190</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>4795.00</variant_price>
+    <variant_price>4354.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -64818,7 +64954,7 @@
     <sku>10006-140-190</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>4949.00</variant_price>
+    <variant_price>4494.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -64883,7 +65019,7 @@
     <sku>10006-140-200</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>5081.00</variant_price>
+    <variant_price>4614.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -64948,7 +65084,7 @@
     <sku>10006-150-190</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>5264.00</variant_price>
+    <variant_price>4780.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -65013,7 +65149,7 @@
     <sku>10006-150-200</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>5401.00</variant_price>
+    <variant_price>4904.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -65078,7 +65214,7 @@
     <sku>10006-160-190</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>5579.00</variant_price>
+    <variant_price>5066.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -65143,7 +65279,7 @@
     <sku>10006-160-200</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>5708.00</variant_price>
+    <variant_price>5183.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -65208,7 +65344,7 @@
     <sku>10006-180-190</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>6206.00</variant_price>
+    <variant_price>5635.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -65273,7 +65409,7 @@
     <sku>10006-180-200</sku>
     <handle>comefor-matrats-aero-flex</handle>
     <name>Матрац Aero Flex</name>
-    <variant_price>6367.00</variant_price>
+    <variant_price>5781.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -65403,7 +65539,7 @@
     <sku>10007-80-200</sku>
     <handle>comefor-matrats-aero-mix</handle>
     <name>Матрац Aero Mix</name>
-    <variant_price>4424.00</variant_price>
+    <variant_price>4124.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71228,7 +71364,7 @@
     <sku>10014</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>6564.00</variant_price>
+    <variant_price>5948.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71293,7 +71429,7 @@
     <sku>10014-80-200</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>6822.00</variant_price>
+    <variant_price>6183.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71358,7 +71494,7 @@
     <sku>10014-90-190</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>7288.00</variant_price>
+    <variant_price>6604.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71423,7 +71559,7 @@
     <sku>10014-90-200</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>7580.00</variant_price>
+    <variant_price>6870.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71488,7 +71624,7 @@
     <sku>10014-120-190</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>9468.00</variant_price>
+    <variant_price>8581.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71553,7 +71689,7 @@
     <sku>10014-120-200</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>9839.00</variant_price>
+    <variant_price>8916.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71618,7 +71754,7 @@
     <sku>10014-140-190</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>10918.00</variant_price>
+    <variant_price>9895.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71683,7 +71819,7 @@
     <sku>10014-140-200</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>11350.00</variant_price>
+    <variant_price>10286.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71748,7 +71884,7 @@
     <sku>10014-160-190</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>12371.00</variant_price>
+    <variant_price>11211.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71813,7 +71949,7 @@
     <sku>10014-160-200</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>12857.00</variant_price>
+    <variant_price>11652.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71878,7 +72014,7 @@
     <sku>10014-180-190</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>13823.00</variant_price>
+    <variant_price>12527.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -71943,7 +72079,7 @@
     <sku>10014-180-200</sku>
     <handle>comefor-matrats-basic-skate</handle>
     <name>Матрац BASIC Skate</name>
-    <variant_price>14367.00</variant_price>
+    <variant_price>13020.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -81457,7 +81593,7 @@
     <sku>10025</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>4774.00</variant_price>
+    <variant_price>4262.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -81522,7 +81658,7 @@
     <sku>10025-80-200</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>4871.00</variant_price>
+    <variant_price>4349.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -81587,7 +81723,7 @@
     <sku>10025-90-190</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>5431.00</variant_price>
+    <variant_price>4849.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -81652,7 +81788,7 @@
     <sku>10025-90-200</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>5536.00</variant_price>
+    <variant_price>4943.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -81717,7 +81853,7 @@
     <sku>10025-120-190</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>7258.00</variant_price>
+    <variant_price>6480.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -81782,7 +81918,7 @@
     <sku>10025-120-200</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>7397.00</variant_price>
+    <variant_price>6605.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -81847,7 +81983,7 @@
     <sku>10025-140-190</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>8411.00</variant_price>
+    <variant_price>7510.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -81912,7 +82048,7 @@
     <sku>10025-140-200</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>8589.00</variant_price>
+    <variant_price>7669.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -81977,7 +82113,7 @@
     <sku>10025-160-190</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>9469.00</variant_price>
+    <variant_price>8455.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -82042,7 +82178,7 @@
     <sku>10025-160-200</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>9663.00</variant_price>
+    <variant_price>8628.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -82107,7 +82243,7 @@
     <sku>10025-180-190</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>10727.00</variant_price>
+    <variant_price>9578.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -82172,7 +82308,7 @@
     <sku>10025-180-200</sku>
     <handle>comefor-matrats-basic-praktyk-soft</handle>
     <name>Матрац BASIC Практик Софт</name>
-    <variant_price>10948.00</variant_price>
+    <variant_price>9775.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Матраци</product_type>
     <category>Матраци</category>
@@ -102697,7 +102833,7 @@
     <sku>10052</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>13631.00</variant_price>
+    <variant_price>11135.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -102763,7 +102899,7 @@
     <sku>10052-80-200</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>14101.00</variant_price>
+    <variant_price>11519.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -102829,7 +102965,7 @@
     <sku>10052-90-190</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>15203.00</variant_price>
+    <variant_price>12419.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -102895,7 +103031,7 @@
     <sku>10052-90-200</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>15805.00</variant_price>
+    <variant_price>12911.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -102961,7 +103097,7 @@
     <sku>10052-120-190</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>20011.00</variant_price>
+    <variant_price>16347.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -103027,7 +103163,7 @@
     <sku>10052-120-200</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>20692.00</variant_price>
+    <variant_price>16903.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -103093,7 +103229,7 @@
     <sku>10052-140-190</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>23128.00</variant_price>
+    <variant_price>18894.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -103159,7 +103295,7 @@
     <sku>10052-140-200</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>23894.00</variant_price>
+    <variant_price>19519.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -103225,7 +103361,7 @@
     <sku>10052-160-190</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>26247.00</variant_price>
+    <variant_price>21441.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -103291,7 +103427,7 @@
     <sku>10052-160-200</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>27243.00</variant_price>
+    <variant_price>22255.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -103357,7 +103493,7 @@
     <sku>10052-180-190</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>29501.00</variant_price>
+    <variant_price>24099.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -103423,7 +103559,7 @@
     <sku>10052-180-200</sku>
     <handle>comefor-matrats-regeneration-r-3</handle>
     <name>Матрац Regeneration R 3</name>
-    <variant_price>30502.00</variant_price>
+    <variant_price>24917.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -528452,6 +528588,372 @@
     <storage_niche/>
     <option1_name/>
     <option1_value/>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>MILO-80190</sku>
+    <handle>krislo-lizhko-milo</handle>
+    <name>Крісло-ліжко MILO</name>
+    <variant_price>16434.00</variant_price>
+    <vendor>Vinadi</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>М'які крісла, розкладний</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Крісло-ліжко MILO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Крісло-ліжко MILO від Vinadi: ширина 80 см, спальне місце 80×190 см. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Крісло-ліжко MILO, крісло-ліжко, розкладне крісло, прямі дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>krislo-lizhko-milo</alias>
+    <description>Крісло-ліжко MILO від Vinadi — компактне крісло шириною 80 см, яке легко розкладається в повноцінне спальне місце 80×190 см. У комплекті подушка й незакріплене било. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>80×190</spalne_mistse>
+    <dovzhyna/>
+    <shyryna>80</shyryna>
+    <vysota/>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"80×190 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"дельфін"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>А</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>80*190</sleep_size>
+    <mechanism>Дельфін</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt>80</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>А</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>MILO-80190-b</sku>
+    <handle>krislo-lizhko-milo</handle>
+    <name>Крісло-ліжко MILO</name>
+    <variant_price>17075.00</variant_price>
+    <vendor>Vinadi</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>М'які крісла, розкладний</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Крісло-ліжко MILO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Крісло-ліжко MILO від Vinadi: ширина 80 см, спальне місце 80×190 см. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Крісло-ліжко MILO, крісло-ліжко, розкладне крісло, прямі дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>krislo-lizhko-milo</alias>
+    <description>Крісло-ліжко MILO від Vinadi — компактне крісло шириною 80 см, яке легко розкладається в повноцінне спальне місце 80×190 см. У комплекті подушка й незакріплене било. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>80×190</spalne_mistse>
+    <dovzhyna/>
+    <shyryna>80</shyryna>
+    <vysota/>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"80×190 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"дельфін"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>Б</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>80*190</sleep_size>
+    <mechanism>Дельфін</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt>80</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>Б</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>MILO-80190-v</sku>
+    <handle>krislo-lizhko-milo</handle>
+    <name>Крісло-ліжко MILO</name>
+    <variant_price>17720.00</variant_price>
+    <vendor>Vinadi</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>М'які крісла, розкладний</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Крісло-ліжко MILO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Крісло-ліжко MILO від Vinadi: ширина 80 см, спальне місце 80×190 см. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Крісло-ліжко MILO, крісло-ліжко, розкладне крісло, прямі дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>krislo-lizhko-milo</alias>
+    <description>Крісло-ліжко MILO від Vinadi — компактне крісло шириною 80 см, яке легко розкладається в повноцінне спальне місце 80×190 см. У комплекті подушка й незакріплене било. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>80×190</spalne_mistse>
+    <dovzhyna/>
+    <shyryna>80</shyryna>
+    <vysota/>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"80×190 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"дельфін"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>В</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>80*190</sleep_size>
+    <mechanism>Дельфін</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt>80</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>В</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>MILO-80190-h</sku>
+    <handle>krislo-lizhko-milo</handle>
+    <name>Крісло-ліжко MILO</name>
+    <variant_price>18363.00</variant_price>
+    <vendor>Vinadi</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>М'які крісла, розкладний</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Крісло-ліжко MILO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Крісло-ліжко MILO від Vinadi: ширина 80 см, спальне місце 80×190 см. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Крісло-ліжко MILO, крісло-ліжко, розкладне крісло, прямі дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>krislo-lizhko-milo</alias>
+    <description>Крісло-ліжко MILO від Vinadi — компактне крісло шириною 80 см, яке легко розкладається в повноцінне спальне місце 80×190 см. У комплекті подушка й незакріплене било. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>80×190</spalne_mistse>
+    <dovzhyna/>
+    <shyryna>80</shyryna>
+    <vysota/>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"80×190 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"дельфін"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>Г</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>80*190</sleep_size>
+    <mechanism>Дельфін</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt>80</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>Г</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>MILO-80190-d</sku>
+    <handle>krislo-lizhko-milo</handle>
+    <name>Крісло-ліжко MILO</name>
+    <variant_price>19970.00</variant_price>
+    <vendor>Vinadi</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>М'які крісла, розкладний</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Крісло-ліжко MILO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Крісло-ліжко MILO від Vinadi: ширина 80 см, спальне місце 80×190 см. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Крісло-ліжко MILO, крісло-ліжко, розкладне крісло, прямі дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>krislo-lizhko-milo</alias>
+    <description>Крісло-ліжко MILO від Vinadi — компактне крісло шириною 80 см, яке легко розкладається в повноцінне спальне місце 80×190 см. У комплекті подушка й незакріплене било. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>80×190</spalne_mistse>
+    <dovzhyna/>
+    <shyryna>80</shyryna>
+    <vysota/>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"80×190 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"дельфін"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>Д</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>80*190</sleep_size>
+    <mechanism>Дельфін</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt>80</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>Д</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>MILO-80190-zh</sku>
+    <handle>krislo-lizhko-milo</handle>
+    <name>Крісло-ліжко MILO</name>
+    <variant_price>21577.00</variant_price>
+    <vendor>Vinadi</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>М'які крісла, розкладний</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Крісло-ліжко MILO | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Крісло-ліжко MILO від Vinadi: ширина 80 см, спальне місце 80×190 см. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Крісло-ліжко MILO, крісло-ліжко, розкладне крісло, прямі дивани, дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>krislo-lizhko-milo</alias>
+    <description>Крісло-ліжко MILO від Vinadi — компактне крісло шириною 80 см, яке легко розкладається в повноцінне спальне місце 80×190 см. У комплекті подушка й незакріплене било. Обирайте оббивку під свій інтер'єр. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>80×190</spalne_mistse>
+    <dovzhyna/>
+    <shyryna>80</shyryna>
+    <vysota/>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"80×190 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"дельфін"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>Ж</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>80*190</sleep_size>
+    <mechanism>Дельфін</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt>80</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>Ж</option1_value>
     <option2_name/>
     <option2_value/>
     <option3_name/>
