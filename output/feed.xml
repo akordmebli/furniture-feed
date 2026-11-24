@@ -36925,9 +36925,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець N-41 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець N-41 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -41946,9 +41946,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-80 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-80 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -46241,9 +46241,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags>Обідні крісла</tags>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець M-225 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець M-225 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -51517,9 +51517,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець поворотний R-185 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець поворотний R-185 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -51751,9 +51751,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл Комо TML-1306 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Комо TML-1306 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -59638,7 +59638,7 @@
     <dovzhyna>60</dovzhyna>
     <shyryna/>
     <vysota>85</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"85 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"айворі + капучино; тауп + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"61 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49,5 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8,70 кг"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"85 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"айворі + капучино; тауп + чорний; лайт браун + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"61 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49,5 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8,70 кг"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Тедді тканина"}]}]}]}</tab_details>
@@ -59706,7 +59706,7 @@
     <dovzhyna>60</dovzhyna>
     <shyryna/>
     <vysota>85</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"85 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"айворі + капучино; тауп + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"61 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49,5 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8,70 кг"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"85 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"айворі + капучино; тауп + чорний; лайт браун + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"61 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49,5 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8,70 кг"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Тедді тканина"}]}]}]}</tab_details>
@@ -59748,6 +59748,477 @@
       <image>https://vetro.com.ua/storage/33583/6b0412aaaccd7_6b04126c57fa5_m-122-taup-chorniy4.JPG</image>
       <image>https://vetro.com.ua/storage/33584/6b0412b8a1a43_6b0412306a60d_m-122-taup-chorniy5.JPG</image>
       <image>https://vetro.com.ua/storage/33585/6b0412c267dd1_6b04122f184db_m-122-taup-chorniy1.JPG</image>
+    </images>
+  </item>
+  <item>
+    <sku>M-122-light-brown-teddy/black</sku>
+    <handle>vetro-stilets-m-122</handle>
+    <name>Стілець M-122</name>
+    <variant_price>5040.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні стільці</product_type>
+    <category>Обідні стільці</category>
+    <parent_category>Стільці</parent_category>
+    <shopify_id>fr-7-9</shopify_id>
+    <tags>Обідні крісла</tags>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Стілець M-122 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Стілець M-122 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-stilets-m-122</alias>
+    <description/>
+    <spalne_mistse/>
+    <dovzhyna>60</dovzhyna>
+    <shyryna/>
+    <vysota>85</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"85 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"айворі + капучино; тауп + чорний; лайт браун + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина сидіння: ","bold":true},{"type":"text","value":"60 см"}]},{"type":"list-item","children":[{"type":"text","value":"Максимальна глибина сидіння: ","bold":true},{"type":"text","value":"61 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота до сидіння: ","bold":true},{"type":"text","value":"49,5 см"}]},{"type":"list-item","children":[{"type":"text","value":"Особливості: ","bold":true},{"type":"text","value":"з підлокітниками"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"8,70 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Оббивка: ","bold":true},{"type":"text","value":"Тедді тканина"}]}]}]}</tab_details>
+    <tabletop_shape/>
+    <rozkladnyi/>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>лайт браун + чорний</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/33601/6b041bf47a2c1_6b041b93a94da_m-122-layt-braun-chorniy4.JPG</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/33601/6b041bf47a2c1_6b041b93a94da_m-122-layt-braun-chorniy4.JPG</image>
+      <image>https://vetro.com.ua/storage/33601/6b041bf47a2c1_6b041b93a94da_m-122-layt-braun-chorniy4.JPG</image>
+      <image>https://vetro.com.ua/storage/33602/6b041bfed8961_6b041b93a2509_m-122-layt-braun-chorniy3.JPG</image>
+      <image>https://vetro.com.ua/storage/33603/6b041c06413d5_6b041b92ddf2a_m-122-layt-braun-chorniy2.JPG</image>
+      <image>https://vetro.com.ua/storage/33604/6b041c1558956_6b041b92de27f_m-122-layt-braun-chorniy1.JPG</image>
+      <image>https://vetro.com.ua/storage/33605/6b041c22e330b_6b041b943af0c_m-122-layt-braun-chorniy5.JPG</image>
+    </images>
+  </item>
+  <item>
+    <sku>TML-1252-elizaro-mistic-grey/cappuccino</sku>
+    <handle>vetro-keramichnyi-stil-elizaro-tml-1252</handle>
+    <name>Керамічний стіл Елізаро TML-1252</name>
+    <variant_price>25680.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні столи</product_type>
+    <category>Обідні столи</category>
+    <parent_category>Столи</parent_category>
+    <shopify_id>fr-24-4</shopify_id>
+    <tags>Круглі столи</tags>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Керамічний стіл Елізаро TML-1252 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Керамічний стіл Елізаро TML-1252 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-keramichnyi-stil-elizaro-tml-1252</alias>
+    <description/>
+    <spalne_mistse/>
+    <dovzhyna>135</dovzhyna>
+    <shyryna>100</shyryna>
+    <vysota>76</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"135 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"100 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"76 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"містік грей + капучино; базальт + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Довжина у розкладеному вигляді: ","bold":true},{"type":"text","value":"135 см"}]},{"type":"list-item","children":[{"type":"text","value":"Діаметр: ","bold":true},{"type":"text","value":"100 см"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"круглі"}]},{"type":"list-item","children":[{"type":"text","value":"Вид: ","bold":true},{"type":"text","value":"розкладні"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм розкладки: ","bold":true},{"type":"text","value":"книжка-автомат"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"52 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Глянцева кераміка + МДФ; матова кераміка + МДФ"}]},{"type":"list-item","children":[{"type":"text","value":"Вкладка: ","bold":true},{"type":"text","value":"Глянцева кераміка + МДФ; матова кераміка + МДФ"}]}]}]}</tab_details>
+    <tabletop_shape>["Кругла"]</tabletop_shape>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>містік грей + капучино</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/33617/6b04297833f35_6b0429132046b_stil-elizaro-tml-1252-mistik-grey-kapuchino2.JPG</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/33617/6b04297833f35_6b0429132046b_stil-elizaro-tml-1252-mistik-grey-kapuchino2.JPG</image>
+      <image>https://vetro.com.ua/storage/33617/6b04297833f35_6b0429132046b_stil-elizaro-tml-1252-mistik-grey-kapuchino2.JPG</image>
+      <image>https://vetro.com.ua/storage/33618/6b042986bf3ae_6b04291408ec9_stil-elizaro-tml-1252-mistik-grey-kapuchino4.JPG</image>
+      <image>https://vetro.com.ua/storage/33630/6b042d1436982_6b042cf3516fa_stil-elizaro-tml-1252-mistik-grey-kapuchino3.JPG</image>
+      <image>https://vetro.com.ua/storage/33621/6b0429e814450_6b0429c46c014_stil-elizaro-tml-1252-mistik-grey-kapuchino1.JPG</image>
+      <image>https://vetro.com.ua/storage/33622/6b0429f5a429f_6b0429153b613_stil-elizaro-tml-1252-mistik-grey-kapuchino5.JPG</image>
+    </images>
+  </item>
+  <item>
+    <sku>TML-1252-elizaro-basalt/black</sku>
+    <handle>vetro-keramichnyi-stil-elizaro-tml-1252</handle>
+    <name>Керамічний стіл Елізаро TML-1252</name>
+    <variant_price>25680.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні столи</product_type>
+    <category>Обідні столи</category>
+    <parent_category>Столи</parent_category>
+    <shopify_id>fr-24-4</shopify_id>
+    <tags>Круглі столи</tags>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Керамічний стіл Елізаро TML-1252 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Керамічний стіл Елізаро TML-1252 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-keramichnyi-stil-elizaro-tml-1252</alias>
+    <description/>
+    <spalne_mistse/>
+    <dovzhyna>135</dovzhyna>
+    <shyryna>100</shyryna>
+    <vysota>76</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"135 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"100 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"76 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"містік грей + капучино; базальт + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Довжина у розкладеному вигляді: ","bold":true},{"type":"text","value":"135 см"}]},{"type":"list-item","children":[{"type":"text","value":"Діаметр: ","bold":true},{"type":"text","value":"100 см"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"круглі"}]},{"type":"list-item","children":[{"type":"text","value":"Вид: ","bold":true},{"type":"text","value":"розкладні"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм розкладки: ","bold":true},{"type":"text","value":"книжка-автомат"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"52 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Глянцева кераміка + МДФ; матова кераміка + МДФ"}]},{"type":"list-item","children":[{"type":"text","value":"Вкладка: ","bold":true},{"type":"text","value":"Глянцева кераміка + МДФ; матова кераміка + МДФ"}]}]}]}</tab_details>
+    <tabletop_shape>["Кругла"]</tabletop_shape>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>базальт + чорний</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image>https://vetro.com.ua/storage/33644/6b042e918b2d2_6b042e71e5a3e_stil-elizaro-tml-1252-bazalt-chorniy2.JPG</variant_image>
+    <images>
+      <image>https://vetro.com.ua/storage/33644/6b042e918b2d2_6b042e71e5a3e_stil-elizaro-tml-1252-bazalt-chorniy2.JPG</image>
+      <image>https://vetro.com.ua/storage/33644/6b042e918b2d2_6b042e71e5a3e_stil-elizaro-tml-1252-bazalt-chorniy2.JPG</image>
+      <image>https://vetro.com.ua/storage/33646/6b042ed72a653_6b042eb8c5a65_stil-elizaro-tml-1252-bazalt-chorniy3.JPG</image>
+      <image>https://vetro.com.ua/storage/33638/6b042dc215677_6b042d3f27544_stil-elizaro-tml-1252-bazalt-chorniy1.JPG</image>
+      <image>https://vetro.com.ua/storage/33639/6b042dd2575ea_6b042d400049e_stil-elizaro-tml-1252-bazalt-chorniy4.JPG</image>
+      <image>https://vetro.com.ua/storage/33640/6b042de0d3b45_6b042d40c9d0e_stil-elizaro-tml-1252-bazalt-chorniy5.JPG</image>
+    </images>
+  </item>
+  <item>
+    <sku>TM-337-estrello-patagonia/oak</sku>
+    <handle>vetro-keramichnyi-stil-estrello-tm-337</handle>
+    <name>Керамічний стіл Естрелло TM-337</name>
+    <variant_price>29040.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні столи</product_type>
+    <category>Обідні столи</category>
+    <parent_category>Столи</parent_category>
+    <shopify_id>fr-24-4</shopify_id>
+    <tags/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Керамічний стіл Естрелло TM-337 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Керамічний стіл Естрелло TM-337 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-keramichnyi-stil-estrello-tm-337</alias>
+    <description/>
+    <spalne_mistse/>
+    <dovzhyna>180</dovzhyna>
+    <shyryna>90</shyryna>
+    <vysota>76</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"180 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"90 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"76 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"патагонія + дуб"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"овальні"}]},{"type":"list-item","children":[{"type":"text","value":"Вид: ","bold":true},{"type":"text","value":"нерозкладні"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"91,60 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований МДФ"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Глянцева кераміка"}]}]}]}</tab_details>
+    <tabletop_shape>["Овальна"]</tabletop_shape>
+    <rozkladnyi>Ні</rozkladnyi>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>патагонія + дуб</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images>
+      <image>https://vetro.com.ua/storage/33668/6b04355330745_6b0434857f8a4_stil-estrello-tm-337-patagoniya-dub2.JPG</image>
+      <image>https://vetro.com.ua/storage/33668/6b04355330745_6b0434857f8a4_stil-estrello-tm-337-patagoniya-dub2.JPG</image>
+      <image>https://vetro.com.ua/storage/33669/6b0435611f8d6_6b0434857f5f3_stil-estrello-tm-337-patagoniya-dub1.JPG</image>
+      <image>https://vetro.com.ua/storage/33670/6b043576b4ced_6b04348641c86_stil-estrello-tm-337-patagoniya-dub3.JPG</image>
+    </images>
+  </item>
+  <item>
+    <sku>TML-1353-livanti-patagonia/walnut</sku>
+    <handle>vetro-keramichnyi-stil-livanti-tml-1353</handle>
+    <name>Керамічний стіл Ліванті TML-1353</name>
+    <variant_price>44592.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні столи</product_type>
+    <category>Обідні столи</category>
+    <parent_category>Столи</parent_category>
+    <shopify_id>fr-24-4</shopify_id>
+    <tags/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Керамічний стіл Ліванті TML-1353 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Керамічний стіл Ліванті TML-1353 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-keramichnyi-stil-livanti-tml-1353</alias>
+    <description/>
+    <spalne_mistse/>
+    <dovzhyna>160</dovzhyna>
+    <shyryna>90</shyryna>
+    <vysota>76</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"160 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"90 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"76 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"патагонія + горіх"}]},{"type":"list-item","children":[{"type":"text","value":"Довжина у розкладеному вигляді: ","bold":true},{"type":"text","value":"220 см"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"прямокутні"}]},{"type":"list-item","children":[{"type":"text","value":"Вид: ","bold":true},{"type":"text","value":"розкладні"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм розкладки: ","bold":true},{"type":"text","value":"боковий"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"100,85 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований МДФ"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Глянцева кераміка"}]}]}]}</tab_details>
+    <tabletop_shape>["Прямокутна"]</tabletop_shape>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>патагонія + горіх</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images>
+      <image>https://vetro.com.ua/storage/33689/6b043e62ccb08_6b043e4907640_stil-livanti-tml-1353-patagoniya-gorih4.JPG</image>
+      <image>https://vetro.com.ua/storage/33689/6b043e62ccb08_6b043e4907640_stil-livanti-tml-1353-patagoniya-gorih4.JPG</image>
+      <image>https://vetro.com.ua/storage/33682/6b043d62ec793_6b043cf027936_stil-livanti-tml-1353-patagoniya-gorih1.JPG</image>
+      <image>https://vetro.com.ua/storage/33683/6b043d6ee59e9_6b043cf01ffb1_stil-livanti-tml-1353-patagoniya-gorih2.JPG</image>
+      <image>https://vetro.com.ua/storage/33687/6b043dff2b50b_6b043de5c2415_stil-livanti-tml-1353-patagoniya-gorih3.JPG</image>
+      <image>https://vetro.com.ua/storage/33685/6b043db4b86b5_6b043cf16e037_stil-livanti-tml-1353-patagoniya-gorih5.JPG</image>
+    </images>
+  </item>
+  <item>
+    <sku>TML-1353-1-livanti-grey-emperador/oak</sku>
+    <handle>vetro-keramichnyi-stil-livanti-tml-1353-1</handle>
+    <name>Керамічний стіл Ліванті TML-1353-1</name>
+    <variant_price>41520.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні столи</product_type>
+    <category>Обідні столи</category>
+    <parent_category>Столи</parent_category>
+    <shopify_id>fr-24-4</shopify_id>
+    <tags/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Керамічний стіл Ліванті TML-1353-1 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Керамічний стіл Ліванті TML-1353-1 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-keramichnyi-stil-livanti-tml-1353-1</alias>
+    <description/>
+    <spalne_mistse/>
+    <dovzhyna>140</dovzhyna>
+    <shyryna>90</shyryna>
+    <vysota>76</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"140 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"90 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"76 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"грей емперадор + дуб"}]},{"type":"list-item","children":[{"type":"text","value":"Довжина у розкладеному вигляді: ","bold":true},{"type":"text","value":"200 см"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"прямокутні"}]},{"type":"list-item","children":[{"type":"text","value":"Вид: ","bold":true},{"type":"text","value":"розкладні"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм розкладки: ","bold":true},{"type":"text","value":"боковий"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"96,70 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований МДФ"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Матова кераміка (стійка до подряпин)"}]}]}]}</tab_details>
+    <tabletop_shape>["Прямокутна"]</tabletop_shape>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>грей емперадор + дуб</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images>
+      <image>https://vetro.com.ua/storage/33701/6b0441dfb9ff3_6b044187980a5_stil-livanti-tml-1353-1-grey-emperador-dub2.JPG</image>
+      <image>https://vetro.com.ua/storage/33701/6b0441dfb9ff3_6b044187980a5_stil-livanti-tml-1353-1-grey-emperador-dub2.JPG</image>
+      <image>https://vetro.com.ua/storage/33708/6b0443019b621_6b0442d5e93d8_stil-livanti-tml-1353-1-grey-emperador-dub3.JPG</image>
+      <image>https://vetro.com.ua/storage/33709/6b04431b0fe5b_6b0442d5f0732_stil-livanti-tml-1353-1-grey-emperador-dub4.JPG</image>
+      <image>https://vetro.com.ua/storage/33705/6b04425db399e_6b04422b9f0a1_stil-livanti-tml-1353-1-grey-emperador-dub1.JPG</image>
+      <image>https://vetro.com.ua/storage/33710/6b04433a3fbff_stil-livanti-tml-1353-1-grey-emperador-dub5.JPG</image>
+    </images>
+  </item>
+  <item>
+    <sku>TML-1450-white-marble/cream</sku>
+    <handle>vetro-keramichnyi-stil-liora-tml-1450</handle>
+    <name>Керамічний стіл Ліора TML-1450</name>
+    <variant_price>36912.00</variant_price>
+    <vendor>Vetro</vendor>
+    <product_type>Обідні столи</product_type>
+    <category>Обідні столи</category>
+    <parent_category>Столи</parent_category>
+    <shopify_id>fr-24-4</shopify_id>
+    <tags/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
+    <barcode/>
+    <meta_title>Керамічний стіл Ліора TML-1450 | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Керамічний стіл Ліора TML-1450 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords/>
+    <alias>vetro-keramichnyi-stil-liora-tml-1450</alias>
+    <description/>
+    <spalne_mistse/>
+    <dovzhyna>160</dovzhyna>
+    <shyryna>90</shyryna>
+    <vysota>76</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"160 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"90 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"76 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"білий мармур + кремовий"}]},{"type":"list-item","children":[{"type":"text","value":"Довжина у розкладеному вигляді: ","bold":true},{"type":"text","value":"240 см"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"прямокутні"}]},{"type":"list-item","children":[{"type":"text","value":"Вид: ","bold":true},{"type":"text","value":"розкладні"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм розкладки: ","bold":true},{"type":"text","value":"поворотний"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"121 кг"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Глянцева кераміка"}]}]}]}</tab_details>
+    <tabletop_shape>["Прямокутна"]</tabletop_shape>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric/>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size/>
+    <mechanism/>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions/>
+    <tabletop_size/>
+    <height_opt/>
+    <length_opt/>
+    <width_opt/>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Колір</option1_name>
+    <option1_value>білий мармур + кремовий</option1_value>
+    <option2_name/>
+    <option2_value/>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images>
+      <image>https://vetro.com.ua/storage/33717/6b045dd0e337f_6b045db2b6d30_stil-liora-tml-1450-biliy-marmur-kremoviy1.jpg</image>
+      <image>https://vetro.com.ua/storage/33717/6b045dd0e337f_6b045db2b6d30_stil-liora-tml-1450-biliy-marmur-kremoviy1.jpg</image>
+      <image>https://vetro.com.ua/storage/33719/6b045e2525a73_6b045e0d34143_68a57f318e3b7_68a57eb91a9a3_stil-tm-98-biliy-marmur-chorniy6.jpg</image>
     </images>
   </item>
   <item>
@@ -62484,7 +62955,7 @@
     <sku>10004-80-200</sku>
     <handle>comefor-matrats-ekonom-duet-lait</handle>
     <name>Матрац Економ Дует Лайт</name>
-    <variant_price>1440.00</variant_price>
+    <variant_price>1319.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
