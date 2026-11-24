@@ -36925,9 +36925,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець N-41 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець N-41 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -37223,9 +37223,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець N-41 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець N-41 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -39350,7 +39350,7 @@
     <dovzhyna>120</dovzhyna>
     <shyryna>85</shyryna>
     <vysota>76</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"120 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"85 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"76 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"ребекка грей + чорний; вайт клауд + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Довжина у розкладеному вигляді: ","bold":true},{"type":"text","value":"180 см"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"прямокутні"}]},{"type":"list-item","children":[{"type":"text","value":"Вид: ","bold":true},{"type":"text","value":"розкладні"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм розкладки: ","bold":true},{"type":"text","value":"боковий"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"65 кг"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"120 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"85 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"76 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"ребекка грей + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Довжина у розкладеному вигляді: ","bold":true},{"type":"text","value":"180 см"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"прямокутні"}]},{"type":"list-item","children":[{"type":"text","value":"Вид: ","bold":true},{"type":"text","value":"розкладні"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм розкладки: ","bold":true},{"type":"text","value":"боковий"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"65 кг"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Глянцева кераміка"}]}]}]}</tab_details>
@@ -39384,7 +39384,7 @@
     <option2_value/>
     <option3_name/>
     <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/21595/676ad187401b8_676ad154f25bb_88-1rebekka1.jpg</variant_image>
+    <variant_image/>
     <images>
       <image>https://vetro.com.ua/storage/21595/676ad187401b8_676ad154f25bb_88-1rebekka1.jpg</image>
       <image>https://vetro.com.ua/storage/21595/676ad187401b8_676ad154f25bb_88-1rebekka1.jpg</image>
@@ -39394,76 +39394,6 @@
       <image>https://vetro.com.ua/storage/21599/676ad1abdb1f8_676ad0a365461_John（Rebecca-Grey）（120+30+30）-(3).jpg</image>
       <image>https://vetro.com.ua/storage/21600/676ad1b6557d8_676ad1193d13a_John（Rebecca-Grey）（120+30+30）-(2).jpg</image>
       <image>https://vetro.com.ua/storage/17954/66be08417acb9_keramicheskiy-stol-tm-88-1-rebekka-grey-chernyy7.jpg</image>
-    </images>
-  </item>
-  <item>
-    <sku>TM-88-1-white-cloud</sku>
-    <handle>vetro-keramichnyi-stil-tm-88-1</handle>
-    <name>Керамічний стіл TM-88-1</name>
-    <variant_price>19440.00</variant_price>
-    <vendor>Vetro</vendor>
-    <product_type>Обідні столи</product_type>
-    <category>Обідні столи</category>
-    <parent_category>Столи</parent_category>
-    <shopify_id>fr-24-4</shopify_id>
-    <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Керамічний стіл TM-88-1 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Керамічний стіл TM-88-1 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-keramichnyi-stil-tm-88-1</alias>
-    <description>&lt;p&gt;Колір &lt;a href="https://vetro.com.ua/category/obedennye-stoly/stoli-obidni-vajt-klaud/"&gt;Вайт клауд&lt;/a&gt; приносить у ваш інтер'єр елемент легкості та свіжості. Цей відтінок надихнутий яскравістю хмар, надаючи вашому обідньому столу легкість та стиль. Білосніжна краса стане центром уваги у вашій їдальні.&lt;/p&gt;&lt;p&gt;Прямокутна форма столу додає йому строгості та затишної елегантності. Цей дизайн ідеально вписується в різні стилі інтер'єру, створюючи гармонійний простір.&lt;/p&gt;&lt;p&gt;Розкладний стіл із боковим механізмом забезпечує практичність використання. Легкість та простота в розкладці роблять його зручним для адаптації до різних ситуацій, чи то сімейний обід чи зустріч з гостями.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna>120</dovzhyna>
-    <shyryna>85</shyryna>
-    <vysota>76</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"120 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"85 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"76 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"ребекка грей + чорний; вайт клауд + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Довжина у розкладеному вигляді: ","bold":true},{"type":"text","value":"180 см"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"прямокутні"}]},{"type":"list-item","children":[{"type":"text","value":"Вид: ","bold":true},{"type":"text","value":"розкладні"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм розкладки: ","bold":true},{"type":"text","value":"боковий"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"65 кг"}]}]}]}</tab_characteristics>
-    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Глянцева кераміка"}]}]}]}</tab_details>
-    <tabletop_shape>["Прямокутна"]</tabletop_shape>
-    <rozkladnyi>Так</rozkladnyi>
-    <legs_addon/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>вайт клауд + чорний</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/21607/676ad366da5cd_676ad33bc5046_88-1white1.jpg</variant_image>
-    <images>
-      <image>https://vetro.com.ua/storage/21607/676ad366da5cd_676ad33bc5046_88-1white1.jpg</image>
-      <image>https://vetro.com.ua/storage/21607/676ad366da5cd_676ad33bc5046_88-1white1.jpg</image>
-      <image>https://vetro.com.ua/storage/21608/676ad3721e279_676ad289ec913_John（Bentley-white）（120+30+30）-(3).jpg</image>
-      <image>https://vetro.com.ua/storage/21609/676ad37a43441_676ad288c8d08_John（Bentley-white）（120+30+30）-(2).jpg</image>
-      <image>https://vetro.com.ua/storage/21610/676ad38195b6e_676ad288c3bfb_John（Bentley-white）（120+30+30）-(1).jpg</image>
-      <image>https://vetro.com.ua/storage/21611/676ad38857135_676ad2f3bfb5b_John（Bentley-white）（120+30+30）-(5).jpg</image>
-      <image>https://vetro.com.ua/storage/21612/676ad3908b145_676ad3012caff_John（Bentley-white）（120+30+30）-(4).jpg</image>
-      <image>https://vetro.com.ua/storage/23434/67b5e65c31e05_white.jpg</image>
     </images>
   </item>
   <item>
@@ -45356,9 +45286,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл Піно TML-1200-1 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Піно TML-1200-1 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -51836,9 +51766,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець M-79 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець M-79 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -57404,9 +57334,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл Камеліо TML-1360 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Камеліо TML-1360 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -57470,9 +57400,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Монтеро TML-1365 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Монтеро TML-1365 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -57536,9 +57466,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags>Bari</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Барі TM-97 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Барі TM-97 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -57602,9 +57532,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Позітано TML-1255 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Позітано TML-1255 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -57667,9 +57597,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Позітано TML-1255 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Позітано TML-1255 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -57732,9 +57662,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Позітано TML-1255 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Позітано TML-1255 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -60167,9 +60097,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Ліора TML-1450 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Ліора TML-1450 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -62955,7 +62885,7 @@
     <sku>10004-80-200</sku>
     <handle>comefor-matrats-ekonom-duet-lait</handle>
     <name>Матрац Економ Дует Лайт</name>
-    <variant_price>1319.00</variant_price>
+    <variant_price>1440.00</variant_price>
     <vendor>Come-For</vendor>
     <product_type>Безпружинні матраци</product_type>
     <category>Безпружинні матраци</category>
@@ -176307,7 +176237,7 @@
     <sku>17748516421</sku>
     <handle>divan-okey-2</handle>
     <name>Диван Окей 2</name>
-    <variant_price>28382.00</variant_price>
+    <variant_price>28383.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Прямі дивани</product_type>
     <category>Прямі дивани</category>
@@ -304773,7 +304703,7 @@
     <sku>16537266601</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>16831.10</variant_price>
+    <variant_price>21891.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -304895,7 +304825,7 @@
     <sku>16537266609</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>17301.90</variant_price>
+    <variant_price>22734.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -305017,7 +304947,7 @@
     <sku>165372666017</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>17772.70</variant_price>
+    <variant_price>23578.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -305139,7 +305069,7 @@
     <sku>165372666025</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>18243.50</variant_price>
+    <variant_price>24422.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -305261,7 +305191,7 @@
     <sku>165372666033</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>19302.80</variant_price>
+    <variant_price>26530.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -305383,7 +305313,7 @@
     <sku>165372666041</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>20362.10</variant_price>
+    <variant_price>28639.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -305505,7 +305435,7 @@
     <sku>16537266603</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>19185.10</variant_price>
+    <variant_price>23547.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -305627,7 +305557,7 @@
     <sku>165372666011</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>19655.90</variant_price>
+    <variant_price>24414.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -305749,7 +305679,7 @@
     <sku>165372666019</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>20126.70</variant_price>
+    <variant_price>25282.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -305871,7 +305801,7 @@
     <sku>165372666027</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>20597.50</variant_price>
+    <variant_price>26150.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -305993,7 +305923,7 @@
     <sku>165372666035</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>21774.50</variant_price>
+    <variant_price>28320.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -306115,7 +306045,7 @@
     <sku>165372666043</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>22951.50</variant_price>
+    <variant_price>30489.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -306237,7 +306167,7 @@
     <sku>16537266605</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>20362.10</variant_price>
+    <variant_price>25824.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -306359,7 +306289,7 @@
     <sku>165372666013</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>20950.60</variant_price>
+    <variant_price>26716.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -306481,7 +306411,7 @@
     <sku>165372666021</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>21421.40</variant_price>
+    <variant_price>27608.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -306603,7 +306533,7 @@
     <sku>165372666029</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>21892.20</variant_price>
+    <variant_price>28500.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -306725,7 +306655,7 @@
     <sku>165372666037</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>23069.20</variant_price>
+    <variant_price>30731.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -306847,7 +306777,7 @@
     <sku>165372666045</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>24246.20</variant_price>
+    <variant_price>32961.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -306969,7 +306899,7 @@
     <sku>16537266607</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>21539.10</variant_price>
+    <variant_price>26855.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -307091,7 +307021,7 @@
     <sku>165372666015</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>22009.90</variant_price>
+    <variant_price>27771.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -307213,7 +307143,7 @@
     <sku>165372666023</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>22598.40</variant_price>
+    <variant_price>28688.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -307335,7 +307265,7 @@
     <sku>165372666031</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>23069.20</variant_price>
+    <variant_price>29604.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -307457,7 +307387,7 @@
     <sku>165372666039</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>24363.90</variant_price>
+    <variant_price>31895.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -307579,7 +307509,7 @@
     <sku>165372666047</sku>
     <handle>kutove-lizhko-lion</handle>
     <name>Кутове ліжко Ліон</name>
-    <variant_price>25658.60</variant_price>
+    <variant_price>34186.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Кутові ліжка</product_type>
     <category>Кутові ліжка</category>
@@ -317217,7 +317147,7 @@
     <sku>14440561621</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>5868.00</variant_price>
+    <variant_price>7505.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -317278,7 +317208,7 @@
     <sku>14440561622</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>7505.00</variant_price>
+    <variant_price>5868.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -317400,7 +317330,7 @@
     <sku>14440561624</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>6069.00</variant_price>
+    <variant_price>7787.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -317461,7 +317391,7 @@
     <sku>14440561625</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>7787.00</variant_price>
+    <variant_price>6069.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -317583,7 +317513,7 @@
     <sku>14440561627</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>6271.00</variant_price>
+    <variant_price>8069.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -317644,7 +317574,7 @@
     <sku>14440561628</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>8069.00</variant_price>
+    <variant_price>6271.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -317766,7 +317696,7 @@
     <sku>144405616210</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>6472.00</variant_price>
+    <variant_price>8351.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -317827,7 +317757,7 @@
     <sku>144405616211</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>8351.00</variant_price>
+    <variant_price>6472.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -317949,7 +317879,7 @@
     <sku>144405616213</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>6975.00</variant_price>
+    <variant_price>9057.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -318010,7 +317940,7 @@
     <sku>144405616214</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>9057.00</variant_price>
+    <variant_price>6975.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -318132,7 +318062,7 @@
     <sku>144405616216</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>7478.00</variant_price>
+    <variant_price>9763.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -318193,7 +318123,7 @@
     <sku>144405616217</sku>
     <handle>modulnyi-dyvan-lester</handle>
     <name>Модульний диван Лестер</name>
-    <variant_price>9763.00</variant_price>
+    <variant_price>7478.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -320084,7 +320014,7 @@
     <sku>12263430436</sku>
     <handle>modulnyi-dyvan-loft</handle>
     <name>Модульний диван LOFT</name>
-    <variant_price>19378.00</variant_price>
+    <variant_price>19387.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Модульні дивани</product_type>
     <category>Модульні дивани</category>
@@ -340031,7 +339961,7 @@
     <sku>122638000001</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>12846.00</variant_price>
+    <variant_price>16673.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -340153,7 +340083,7 @@
     <sku>122638000002</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>13197.00</variant_price>
+    <variant_price>16978.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -340275,7 +340205,7 @@
     <sku>122638000003</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>13477.00</variant_price>
+    <variant_price>17284.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -340397,7 +340327,7 @@
     <sku>122638000004</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>13759.00</variant_price>
+    <variant_price>17589.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -340519,7 +340449,7 @@
     <sku>122638000005</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>14600.00</variant_price>
+    <variant_price>18354.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -340641,7 +340571,7 @@
     <sku>122638000006</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>15303.00</variant_price>
+    <variant_price>19118.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -340763,7 +340693,7 @@
     <sku>122638000007</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>14812.00</variant_price>
+    <variant_price>18038.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -340885,7 +340815,7 @@
     <sku>122638000008</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>15092.00</variant_price>
+    <variant_price>18355.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -341007,7 +340937,7 @@
     <sku>122638000009</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>15513.00</variant_price>
+    <variant_price>18672.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -341129,7 +341059,7 @@
     <sku>122638000010</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>15794.00</variant_price>
+    <variant_price>18988.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -341251,7 +341181,7 @@
     <sku>122638000011</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>16566.00</variant_price>
+    <variant_price>19780.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -341373,7 +341303,7 @@
     <sku>122638000012</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>17409.00</variant_price>
+    <variant_price>20572.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -341495,7 +341425,7 @@
     <sku>122638000013</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>15303.00</variant_price>
+    <variant_price>19536.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -341617,7 +341547,7 @@
     <sku>122638000014</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>15654.00</variant_price>
+    <variant_price>19881.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -341739,7 +341669,7 @@
     <sku>122638000015</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>16005.00</variant_price>
+    <variant_price>20225.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -341861,7 +341791,7 @@
     <sku>122638000016</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>16356.00</variant_price>
+    <variant_price>20570.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -341983,7 +341913,7 @@
     <sku>122638000017</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>17199.00</variant_price>
+    <variant_price>21431.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -342105,7 +342035,7 @@
     <sku>122638000018</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>18040.00</variant_price>
+    <variant_price>22292.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -342227,7 +342157,7 @@
     <sku>122638000019</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>16215.00</variant_price>
+    <variant_price>20349.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -342349,7 +342279,7 @@
     <sku>122638000020</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>16566.00</variant_price>
+    <variant_price>20705.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -342471,7 +342401,7 @@
     <sku>122638000021</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>16987.00</variant_price>
+    <variant_price>21061.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -342593,7 +342523,7 @@
     <sku>122638000022</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>17338.00</variant_price>
+    <variant_price>21416.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -342715,7 +342645,7 @@
     <sku>122638000023</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>18181.00</variant_price>
+    <variant_price>22305.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -342837,7 +342767,7 @@
     <sku>122638000024</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>19094.00</variant_price>
+    <variant_price>23194.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -342959,7 +342889,7 @@
     <sku>122638000025</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>16848.00</variant_price>
+    <variant_price>21326.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -343081,7 +343011,7 @@
     <sku>122638000026</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>17268.00</variant_price>
+    <variant_price>21699.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -343203,7 +343133,7 @@
     <sku>122638000027</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>17620.00</variant_price>
+    <variant_price>22071.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -343325,7 +343255,7 @@
     <sku>122638000028</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>17971.00</variant_price>
+    <variant_price>22443.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -343447,7 +343377,7 @@
     <sku>122638000029</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>18953.00</variant_price>
+    <variant_price>23374.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -343569,7 +343499,7 @@
     <sku>122638000030</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>19796.00</variant_price>
+    <variant_price>24305.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -343691,7 +343621,7 @@
     <sku>122638000031</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>17549.00</variant_price>
+    <variant_price>22392.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -343813,7 +343743,7 @@
     <sku>122638000032</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>17971.00</variant_price>
+    <variant_price>22792.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -343935,7 +343865,7 @@
     <sku>122638000033</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>18391.00</variant_price>
+    <variant_price>23193.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -344057,7 +343987,7 @@
     <sku>122638000034</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>18743.00</variant_price>
+    <variant_price>23593.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -344179,7 +344109,7 @@
     <sku>122638000035</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>19725.00</variant_price>
+    <variant_price>24593.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -344301,7 +344231,7 @@
     <sku>122638000036</sku>
     <handle>myake-lizhko-lessa</handle>
     <name>М'яке ліжко LESSA</name>
-    <variant_price>20708.00</variant_price>
+    <variant_price>25593.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -418965,7 +418895,7 @@
     <sku>12365860400</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>4869.00</variant_price>
+    <variant_price>6569.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419026,7 +418956,7 @@
     <sku>12365860401</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>4869.00</variant_price>
+    <variant_price>6569.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419087,7 +419017,7 @@
     <sku>12365860402</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>4869.00</variant_price>
+    <variant_price>6569.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419209,7 +419139,7 @@
     <sku>12365860404</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5019.00</variant_price>
+    <variant_price>6723.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419270,7 +419200,7 @@
     <sku>12365860405</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5019.00</variant_price>
+    <variant_price>6723.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419331,7 +419261,7 @@
     <sku>12365860406</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5019.00</variant_price>
+    <variant_price>6723.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419453,7 +419383,7 @@
     <sku>12365860408</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5168.00</variant_price>
+    <variant_price>6878.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419514,7 +419444,7 @@
     <sku>12365860409</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5168.00</variant_price>
+    <variant_price>6878.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419575,7 +419505,7 @@
     <sku>12365860410</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5168.00</variant_price>
+    <variant_price>6878.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419697,7 +419627,7 @@
     <sku>12365860412</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5318.00</variant_price>
+    <variant_price>7032.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419758,7 +419688,7 @@
     <sku>12365860413</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5318.00</variant_price>
+    <variant_price>7032.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419819,7 +419749,7 @@
     <sku>12365860414</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5318.00</variant_price>
+    <variant_price>7032.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -419941,7 +419871,7 @@
     <sku>12365860416</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5691.00</variant_price>
+    <variant_price>7419.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -420002,7 +419932,7 @@
     <sku>12365860417</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5691.00</variant_price>
+    <variant_price>7419.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -420063,7 +419993,7 @@
     <sku>12365860418</sku>
     <handle>krislo-stocholm-s65-3</handle>
     <name>Крісло STOCHOLM S65.3</name>
-    <variant_price>5691.00</variant_price>
+    <variant_price>7419.00</variant_price>
     <vendor>Vinadi</vendor>
     <product_type>Обідні стільці</product_type>
     <category>Обідні стільці</category>
@@ -458249,7 +458179,7 @@
     <sku>14095519407</sku>
     <handle>myake-lizhko-aston-light</handle>
     <name>М'яке ліжко ASTON LIGHT</name>
-    <variant_price>22229.00</variant_price>
+    <variant_price>22222.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -458310,7 +458240,7 @@
     <sku>14095519407-LS</sku>
     <handle>myake-lizhko-aston-light</handle>
     <name>М'яке ліжко ASTON LIGHT</name>
-    <variant_price>19729.00</variant_price>
+    <variant_price>19722.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>М'які ліжка</product_type>
     <category>М'які ліжка</category>
@@ -491067,7 +490997,7 @@
     <sku>23633044389</sku>
     <handle>divan-kvadro</handle>
     <name>Диван Квадро</name>
-    <variant_price>25799.00</variant_price>
+    <variant_price>22753.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Прямі дивани</product_type>
     <category>Прямі дивани</category>
@@ -491128,7 +491058,7 @@
     <sku>23633044389-b</sku>
     <handle>divan-kvadro</handle>
     <name>Диван Квадро</name>
-    <variant_price>26904.00</variant_price>
+    <variant_price>23509.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Прямі дивани</product_type>
     <category>Прямі дивани</category>
@@ -491189,7 +491119,7 @@
     <sku>23633044389-v</sku>
     <handle>divan-kvadro</handle>
     <name>Диван Квадро</name>
-    <variant_price>28008.00</variant_price>
+    <variant_price>24266.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Прямі дивани</product_type>
     <category>Прямі дивани</category>
@@ -491250,7 +491180,7 @@
     <sku>23633044389-h</sku>
     <handle>divan-kvadro</handle>
     <name>Диван Квадро</name>
-    <variant_price>29112.00</variant_price>
+    <variant_price>25022.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Прямі дивани</product_type>
     <category>Прямі дивани</category>
@@ -491311,7 +491241,7 @@
     <sku>23633044389-d</sku>
     <handle>divan-kvadro</handle>
     <name>Диван Квадро</name>
-    <variant_price>31873.00</variant_price>
+    <variant_price>26913.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Прямі дивани</product_type>
     <category>Прямі дивани</category>
@@ -491372,7 +491302,7 @@
     <sku>23633044389-zh</sku>
     <handle>divan-kvadro</handle>
     <name>Диван Квадро</name>
-    <variant_price>34633.00</variant_price>
+    <variant_price>28805.00</variant_price>
     <vendor>ВНД</vendor>
     <product_type>Прямі дивани</product_type>
     <category>Прямі дивани</category>
