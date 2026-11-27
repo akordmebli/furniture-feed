@@ -36040,9 +36040,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець S-118 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець S-118 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -43276,9 +43276,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-1</shopify_id>
     <tags>Круглі столи</tags>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Комплект журнальних столів CT-40 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Комплект журнальних столів CT-40 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -59351,9 +59351,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Стілець M-74 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець M-74 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -489849,12 +489849,12 @@
     <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>divan-bary</alias>
-    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Механізм трансформації — покроковий, пружинний блок Bonnel, є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse>147×192</spalne_mistse>
     <dovzhyna>228</dovzhyna>
     <shyryna>104</shyryna>
     <vysota>75</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details/>
@@ -489884,15 +489884,76 @@
     <storage_niche/>
     <option1_name>Категорія тканини</option1_name>
     <option1_value>А</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Покроковий</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
     <images/>
   </item>
   <item>
-    <sku>81127624063-b</sku>
+    <sku>81127624063-a-ievroknyzhka</sku>
+    <handle>divan-bary</handle>
+    <name>Диван BARY</name>
+    <variant_price>22154.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>Бері, Барі</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Диван BARY | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>divan-bary</alias>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>147×192</spalne_mistse>
+    <dovzhyna>228</dovzhyna>
+    <shyryna>104</shyryna>
+    <vysota>75</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>А</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>147*192</sleep_size>
+    <mechanism>Єврокнижка</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions>228*104*75</dimensions>
+    <tabletop_size/>
+    <height_opt>75</height_opt>
+    <length_opt>228</length_opt>
+    <width_opt>104</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>А</option1_value>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Єврокнижка</option2_value>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>81127624063-b-pokrokovyi</sku>
     <handle>divan-bary</handle>
     <name>Диван BARY</name>
     <variant_price>28778.00</variant_price>
@@ -489910,12 +489971,12 @@
     <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>divan-bary</alias>
-    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Механізм трансформації — покроковий, пружинний блок Bonnel, є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse>147×192</spalne_mistse>
     <dovzhyna>228</dovzhyna>
     <shyryna>104</shyryna>
     <vysota>75</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details/>
@@ -489945,15 +490006,76 @@
     <storage_niche/>
     <option1_name>Категорія тканини</option1_name>
     <option1_value>Б</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Покроковий</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
     <images/>
   </item>
   <item>
-    <sku>81127624063-v</sku>
+    <sku>81127624063-b-ievroknyzhka</sku>
+    <handle>divan-bary</handle>
+    <name>Диван BARY</name>
+    <variant_price>23258.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>Бері, Барі</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Диван BARY | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>divan-bary</alias>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>147×192</spalne_mistse>
+    <dovzhyna>228</dovzhyna>
+    <shyryna>104</shyryna>
+    <vysota>75</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>Б</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>147*192</sleep_size>
+    <mechanism>Єврокнижка</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions>228*104*75</dimensions>
+    <tabletop_size/>
+    <height_opt>75</height_opt>
+    <length_opt>228</length_opt>
+    <width_opt>104</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>Б</option1_value>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Єврокнижка</option2_value>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>81127624063-v-pokrokovyi</sku>
     <handle>divan-bary</handle>
     <name>Диван BARY</name>
     <variant_price>29955.00</variant_price>
@@ -489971,12 +490093,12 @@
     <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>divan-bary</alias>
-    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Механізм трансформації — покроковий, пружинний блок Bonnel, є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse>147×192</spalne_mistse>
     <dovzhyna>228</dovzhyna>
     <shyryna>104</shyryna>
     <vysota>75</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details/>
@@ -490006,15 +490128,76 @@
     <storage_niche/>
     <option1_name>Категорія тканини</option1_name>
     <option1_value>В</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Покроковий</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
     <images/>
   </item>
   <item>
-    <sku>81127624063-h</sku>
+    <sku>81127624063-v-ievroknyzhka</sku>
+    <handle>divan-bary</handle>
+    <name>Диван BARY</name>
+    <variant_price>24362.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>Бері, Барі</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Диван BARY | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>divan-bary</alias>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>147×192</spalne_mistse>
+    <dovzhyna>228</dovzhyna>
+    <shyryna>104</shyryna>
+    <vysota>75</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>В</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>147*192</sleep_size>
+    <mechanism>Єврокнижка</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions>228*104*75</dimensions>
+    <tabletop_size/>
+    <height_opt>75</height_opt>
+    <length_opt>228</length_opt>
+    <width_opt>104</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>В</option1_value>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Єврокнижка</option2_value>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>81127624063-h-pokrokovyi</sku>
     <handle>divan-bary</handle>
     <name>Диван BARY</name>
     <variant_price>30912.00</variant_price>
@@ -490032,12 +490215,12 @@
     <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>divan-bary</alias>
-    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Механізм трансформації — покроковий, пружинний блок Bonnel, є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse>147×192</spalne_mistse>
     <dovzhyna>228</dovzhyna>
     <shyryna>104</shyryna>
     <vysota>75</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details/>
@@ -490067,15 +490250,76 @@
     <storage_niche/>
     <option1_name>Категорія тканини</option1_name>
     <option1_value>Г</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Покроковий</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
     <images/>
   </item>
   <item>
-    <sku>81127624063-d</sku>
+    <sku>81127624063-h-ievroknyzhka</sku>
+    <handle>divan-bary</handle>
+    <name>Диван BARY</name>
+    <variant_price>25466.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>Бері, Барі</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Диван BARY | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>divan-bary</alias>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>147×192</spalne_mistse>
+    <dovzhyna>228</dovzhyna>
+    <shyryna>104</shyryna>
+    <vysota>75</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>Г</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>147*192</sleep_size>
+    <mechanism>Єврокнижка</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions>228*104*75</dimensions>
+    <tabletop_size/>
+    <height_opt>75</height_opt>
+    <length_opt>228</length_opt>
+    <width_opt>104</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>Г</option1_value>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Єврокнижка</option2_value>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>81127624063-d-pokrokovyi</sku>
     <handle>divan-bary</handle>
     <name>Диван BARY</name>
     <variant_price>34150.00</variant_price>
@@ -490093,12 +490337,12 @@
     <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>divan-bary</alias>
-    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Механізм трансформації — покроковий, пружинний блок Bonnel, є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse>147×192</spalne_mistse>
     <dovzhyna>228</dovzhyna>
     <shyryna>104</shyryna>
     <vysota>75</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details/>
@@ -490128,15 +490372,76 @@
     <storage_niche/>
     <option1_name>Категорія тканини</option1_name>
     <option1_value>Д</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Покроковий</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
     <images/>
   </item>
   <item>
-    <sku>81127624063-zh</sku>
+    <sku>81127624063-d-ievroknyzhka</sku>
+    <handle>divan-bary</handle>
+    <name>Диван BARY</name>
+    <variant_price>28189.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>Бері, Барі</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Диван BARY | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>divan-bary</alias>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>147×192</spalne_mistse>
+    <dovzhyna>228</dovzhyna>
+    <shyryna>104</shyryna>
+    <vysota>75</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>Д</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>147*192</sleep_size>
+    <mechanism>Єврокнижка</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions>228*104*75</dimensions>
+    <tabletop_size/>
+    <height_opt>75</height_opt>
+    <length_opt>228</length_opt>
+    <width_opt>104</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>Д</option1_value>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Єврокнижка</option2_value>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>81127624063-zh-pokrokovyi</sku>
     <handle>divan-bary</handle>
     <name>Диван BARY</name>
     <variant_price>37094.00</variant_price>
@@ -490154,12 +490459,12 @@
     <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
     <alias>divan-bary</alias>
-    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Механізм трансформації — покроковий, пружинний блок Bonnel, є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
     <spalne_mistse>147×192</spalne_mistse>
     <dovzhyna>228</dovzhyna>
     <shyryna>104</shyryna>
     <vysota>75</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
     <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
     <tab_3d/>
     <tab_details/>
@@ -490189,8 +490494,69 @@
     <storage_niche/>
     <option1_name>Категорія тканини</option1_name>
     <option1_value>Ж</option1_value>
-    <option2_name/>
-    <option2_value/>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Покроковий</option2_value>
+    <option3_name/>
+    <option3_value/>
+    <variant_image/>
+    <images/>
+  </item>
+  <item>
+    <sku>81127624063-zh-ievroknyzhka</sku>
+    <handle>divan-bary</handle>
+    <name>Диван BARY</name>
+    <variant_price>30986.00</variant_price>
+    <vendor>ВНД</vendor>
+    <product_type>Прямі дивани</product_type>
+    <category>Прямі дивани</category>
+    <parent_category>Дивани</parent_category>
+    <shopify_id>fr-22</shopify_id>
+    <tags>Бері, Барі</tags>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
+    <barcode/>
+    <meta_title>Диван BARY | купити в АКОРД МЕБЛІ</meta_title>
+    <meta_description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_keywords>Диван BARY, дивани, прямі дивани, купити, АКОРД МЕБЛІ, Рівне, меблі</meta_keywords>
+    <alias>divan-bary</alias>
+    <description>Диван BARY — диван від ВНД. Обирайте оббивку під свій інтер'єр. Два варіанти: з покроковим механізмом і пружинним блоком Pocket або єврокнижка з пружинним блоком Bonnel. Є ніша для зберігання. Гарантія 18 місяців. Доставка по Україні, оплата частинами.</description>
+    <spalne_mistse>147×192</spalne_mistse>
+    <dovzhyna>228</dovzhyna>
+    <shyryna>104</shyryna>
+    <vysota>75</vysota>
+    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"228 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"104 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"75 см"}]},{"type":"list-item","children":[{"type":"text","value":"Спальне місце: ","bold":true},{"type":"text","value":"147×192 см"}]},{"type":"list-item","children":[{"type":"text","value":"Механізм: ","bold":true},{"type":"text","value":"покроковий; єврокнижка"}]},{"type":"list-item","children":[{"type":"text","value":"Гарантія: ","bold":true},{"type":"text","value":"18 місяців"}]}]}]}</tab_characteristics>
+    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Регулярно чистіть пилососом або м'якою щіткою."}]},{"type":"list-item","children":[{"type":"text","value":"Плями прибирайте відразу чистою вологою білою тканиною. Не втирайте пляму."}]},{"type":"list-item","children":[{"type":"text","value":"Для чищення використовуйте м'який мильний розчин. Не застосовуйте розчинники, хлор і абразиви."}]},{"type":"list-item","children":[{"type":"text","value":"Не сушіть феном і не ставте біля батарей та на пряме сонце."}]},{"type":"list-item","children":[{"type":"text","value":"Не сідайте на підлокітники і спинку, дотримуйтесь вказаних навантажень."}]}]}]}</tab_materials>
+    <tab_3d/>
+    <tab_details/>
+    <tabletop_shape/>
+    <rozkladnyi>Так</rozkladnyi>
+    <legs_addon/>
+    <fabric>Ж</fabric>
+    <leg_color/>
+    <frame_color/>
+    <sleep_size>147*192</sleep_size>
+    <mechanism>Єврокнижка</mechanism>
+    <pillows/>
+    <back_fabric/>
+    <mattress_included/>
+    <material/>
+    <modules/>
+    <dimensions>228*104*75</dimensions>
+    <tabletop_size/>
+    <height_opt>75</height_opt>
+    <length_opt>228</length_opt>
+    <width_opt>104</width_opt>
+    <corner_side/>
+    <armrests/>
+    <seats/>
+    <tabletop_color/>
+    <boxes/>
+    <storage_niche/>
+    <option1_name>Категорія тканини</option1_name>
+    <option1_value>Ж</option1_value>
+    <option2_name>Механізм</option2_name>
+    <option2_value>Єврокнижка</option2_value>
     <option3_name/>
     <option3_value/>
     <variant_image/>
