@@ -39168,9 +39168,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл TM-85 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл TM-85 від Vetro — купуйте в АКОРД МЕБЛІ. Обідній стіл у кольорі Чорний онікс привнесе стиль та вишуканість у ваш інтер'єр. Доставка по Україні.</meta_description>
@@ -40818,74 +40818,6 @@
       <image>https://vetro.com.ua/storage/23291/67b58d0e58359_tm-89-travertin-dub10.jpg</image>
       <image>https://vetro.com.ua/storage/23293/67b58d0e9b9bb_tm-89-travertin-dub12.jpg</image>
       <image>https://vetro.com.ua/storage/23457/67b88fbcbd710_tm-89-travertin-dub1.jpg</image>
-    </images>
-  </item>
-  <item>
-    <sku>Teo-console-bianko-kararra/black</sku>
-    <handle>vetro-konsol-teo</handle>
-    <name>Консоль "Тео"</name>
-    <variant_price>6192.00</variant_price>
-    <vendor>Vetro</vendor>
-    <product_type>Журнальні столики і консолі</product_type>
-    <category>Журнальні столики і консолі</category>
-    <parent_category>Столи</parent_category>
-    <shopify_id>fr-24-1</shopify_id>
-    <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
-    <barcode/>
-    <meta_title>Консоль "Тео" | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Консоль "Тео" від Vetro — купуйте в АКОРД МЕБЛІ. Консоль - це меблевий предмет, який має різноманітні функції та застосування в інтер'єрному дизайні.</meta_description>
-    <meta_keywords/>
-    <alias>vetro-konsol-teo</alias>
-    <description>&lt;p&gt;Консоль - це меблевий предмет, який має різноманітні функції та застосування в інтер'єрному дизайні.&lt;/p&gt;&lt;p&gt;Консоль може слугувати декоративним елементом в приміщенні, доповнюючи його стиль та атмосферу. Вона може бути прикрашена свічниками, квітами, мистецтвом або іншими декоративними предметами.&lt;/p&gt;&lt;p&gt;Деякі консолі використовуються для розміщення різних предметів, таких як ключі, пошта, книги або дрібні аксесуари.&lt;/p&gt;&lt;p&gt;У відкритих планах консоль може використовуватися для розділення простору між різними функціональними зонами, такими як вітальня і їдальня, без перешкодження потоку світла та візуального сполучення.&lt;/p&gt;</description>
-    <spalne_mistse/>
-    <dovzhyna>130</dovzhyna>
-    <shyryna>45</shyryna>
-    <vysota>76</vysota>
-    <tab_characteristics>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Довжина: ","bold":true},{"type":"text","value":"130 см"}]},{"type":"list-item","children":[{"type":"text","value":"Ширина: ","bold":true},{"type":"text","value":"45 см"}]},{"type":"list-item","children":[{"type":"text","value":"Висота: ","bold":true},{"type":"text","value":"76 см"}]},{"type":"list-item","children":[{"type":"text","value":"Колір: ","bold":true},{"type":"text","value":"б'янко карарра + чорний"}]},{"type":"list-item","children":[{"type":"text","value":"Форма: ","bold":true},{"type":"text","value":"прямокутні"}]},{"type":"list-item","children":[{"type":"text","value":"Складання: ","bold":true},{"type":"text","value":"потрібне"}]},{"type":"list-item","children":[{"type":"text","value":"Вага: ","bold":true},{"type":"text","value":"34,5 кг"}]}]}]}</tab_characteristics>
-    <tab_materials>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Протирайте м'якою злегка вологою тканиною, потім сухою."}]},{"type":"list-item","children":[{"type":"text","value":"Не використовуйте абразивні засоби, розчинники й гарячі предмети без підставки."}]},{"type":"list-item","children":[{"type":"text","value":"Не залишайте на поверхні воду, вона шкодить дереву."}]},{"type":"list-item","children":[{"type":"text","value":"Тримайте меблі подалі від батарей і прямого сонця, вологість у приміщенні 40–60%."}]}]}]}</tab_materials>
-    <tab_3d/>
-    <tab_details>{"type":"root","children":[{"type":"list","listType":"unordered","children":[{"type":"list-item","children":[{"type":"text","value":"Основа: ","bold":true},{"type":"text","value":"Фарбований метал"}]},{"type":"list-item","children":[{"type":"text","value":"Стільниця: ","bold":true},{"type":"text","value":"Глянцева кераміка"}]}]}]}</tab_details>
-    <tabletop_shape>["Прямокутна"]</tabletop_shape>
-    <rozkladnyi/>
-    <legs_addon/>
-    <fabric/>
-    <leg_color/>
-    <frame_color/>
-    <sleep_size/>
-    <mechanism/>
-    <pillows/>
-    <back_fabric/>
-    <mattress_included/>
-    <material/>
-    <modules/>
-    <dimensions/>
-    <tabletop_size/>
-    <height_opt/>
-    <length_opt/>
-    <width_opt/>
-    <corner_side/>
-    <armrests/>
-    <seats/>
-    <tabletop_color/>
-    <boxes/>
-    <storage_niche/>
-    <option1_name>Колір</option1_name>
-    <option1_value>б'янко карарра + чорний</option1_value>
-    <option2_name/>
-    <option2_value/>
-    <option3_name/>
-    <option3_value/>
-    <variant_image/>
-    <images>
-      <image>https://vetro.com.ua/storage/17857/66bb474893b4a_66a8f10090310_66a8f0e01e9f9_GT2202-(2).jpg</image>
-      <image>https://vetro.com.ua/storage/17857/66bb474893b4a_66a8f10090310_66a8f0e01e9f9_GT2202-(2).jpg</image>
-      <image>https://vetro.com.ua/storage/15525/66a8f04e8fdff_66a8f02f25172_GT2202.jpg</image>
-      <image>https://vetro.com.ua/storage/10834/653faf33959cc_set-teo1.jpg</image>
-      <image>https://vetro.com.ua/storage/15526/66a8f05f5609b_66a8f02f353c5_CYP01-CON-+-CYP01-CFE-+-CYP01-STB.jpg</image>
-      <image>https://vetro.com.ua/storage/12069/6557590a4e097_Screenshot_25.png</image>
     </images>
   </item>
   <item>
@@ -44291,9 +44223,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл Еліо TML-990 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Еліо TML-990 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -46018,9 +45950,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл Паріс TML-997 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Паріс TML-997 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -50562,9 +50494,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл Вольтерра TML-1305 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Вольтерра TML-1305 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -51447,9 +51379,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець поворотний R-185 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець поворотний R-185 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -51681,9 +51613,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Керамічний стіл Комо TML-1306 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Комо TML-1306 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -54414,9 +54346,9 @@
     <parent_category>Крісла</parent_category>
     <shopify_id>fr-7-1</shopify_id>
     <tags/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <instock>100</instock>
+    <available>false</available>
+    <quantity>0</quantity>
+    <instock>0</instock>
     <barcode/>
     <meta_title>Безкаркасне крісло "Техас" | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Безкаркасне крісло "Техас" від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -59419,9 +59351,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець M-74 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець M-74 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -59487,9 +59419,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець M-74 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець M-74 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -59555,9 +59487,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags>Обідні крісла</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець M-122 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець M-122 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -59623,9 +59555,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags>Обідні крісла</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець M-122 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець M-122 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -59691,9 +59623,9 @@
     <parent_category>Стільці</parent_category>
     <shopify_id>fr-7-9</shopify_id>
     <tags>Обідні крісла</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Стілець M-122 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Стілець M-122 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -59759,15 +59691,15 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags>Круглі столи</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Елізаро TML-1252 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Керамічний стіл Елізаро TML-1252 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_description>Керамічний стіл Елізаро TML-1252 від Vetro — купуйте в АКОРД МЕБЛІ. Елізаро TML-1252 — стіл із власним характером. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords/>
     <alias>vetro-keramichnyi-stil-elizaro-tml-1252</alias>
-    <description/>
+    <description>&lt;p&gt;&lt;strong&gt;Елізаро TML-1252 — стіл із власним характером.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Містік грей із виразною глибиною відтінку та теплий капучино в основі створюють несподівано вдалий дует. Глянцева кераміка додає стільниці особливої виразності, а круглий силует пом'якшує загальне враження, залишаючи дизайн водночас сміливим і витонченим.&lt;/p&gt;&lt;p&gt;Елізаро не прагне бути непомітним — він стає тією деталлю інтер'єру, навколо якої природно вибудовується весь простір. А завдяки механізму розкладання його естетика легко адаптується до різних приводів і кількості гостей.&lt;/p&gt;</description>
     <spalne_mistse/>
     <dovzhyna>135</dovzhyna>
     <shyryna>100</shyryna>
@@ -59806,9 +59738,12 @@
     <option2_value/>
     <option3_name/>
     <option3_value/>
-    <variant_image>https://vetro.com.ua/storage/33617/6b04297833f35_6b0429132046b_stil-elizaro-tml-1252-mistik-grey-kapuchino2.JPG</variant_image>
+    <variant_image>https://vetro.com.ua/storage/33728/6b08171732526_6b0817023a9c2_stil-elizaro-tml-1252-mistik-grey-kapuchino9.JPG</variant_image>
     <images>
-      <image>https://vetro.com.ua/storage/33617/6b04297833f35_6b0429132046b_stil-elizaro-tml-1252-mistik-grey-kapuchino2.JPG</image>
+      <image>https://vetro.com.ua/storage/33728/6b08171732526_6b0817023a9c2_stil-elizaro-tml-1252-mistik-grey-kapuchino9.JPG</image>
+      <image>https://vetro.com.ua/storage/33728/6b08171732526_6b0817023a9c2_stil-elizaro-tml-1252-mistik-grey-kapuchino9.JPG</image>
+      <image>https://vetro.com.ua/storage/33726/6b0805ca219f5_6b08057cec1ce_stil-elizaro-tml-1252-mistik-grey-kapuchino6.JPG</image>
+      <image>https://vetro.com.ua/storage/33725/6b0805bd45742_6b08057d015a2_stil-elizaro-tml-1252-mistik-grey-kapuchino7.JPG</image>
       <image>https://vetro.com.ua/storage/33617/6b04297833f35_6b0429132046b_stil-elizaro-tml-1252-mistik-grey-kapuchino2.JPG</image>
       <image>https://vetro.com.ua/storage/33618/6b042986bf3ae_6b04291408ec9_stil-elizaro-tml-1252-mistik-grey-kapuchino4.JPG</image>
       <image>https://vetro.com.ua/storage/33630/6b042d1436982_6b042cf3516fa_stil-elizaro-tml-1252-mistik-grey-kapuchino3.JPG</image>
@@ -59827,12 +59762,12 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags>Круглі столи</tags>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Елізаро TML-1252 | купити в АКОРД МЕБЛІ</meta_title>
-    <meta_description>Керамічний стіл Елізаро TML-1252 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
+    <meta_description>Керамічний стіл Елізаро TML-1252 від Vetro — купуйте в АКОРД МЕБЛІ. Елізаро TML-1252 — стіл із власним характером. Доставка по Україні, оплата частинами.</meta_description>
     <meta_keywords/>
     <alias>vetro-keramichnyi-stil-elizaro-tml-1252</alias>
     <description/>
@@ -59895,9 +59830,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Естрелло TM-337 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Естрелло TM-337 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -59961,9 +59896,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Ліванті TML-1353 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Ліванті TML-1353 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
@@ -60029,9 +59964,9 @@
     <parent_category>Столи</parent_category>
     <shopify_id>fr-24-4</shopify_id>
     <tags/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <instock>0</instock>
+    <available>true</available>
+    <quantity>100</quantity>
+    <instock>100</instock>
     <barcode/>
     <meta_title>Керамічний стіл Ліванті TML-1353-1 | купити в АКОРД МЕБЛІ</meta_title>
     <meta_description>Керамічний стіл Ліванті TML-1353-1 від Vetro — купуйте в АКОРД МЕБЛІ. Доставка по Україні, оплата частинами.</meta_description>
